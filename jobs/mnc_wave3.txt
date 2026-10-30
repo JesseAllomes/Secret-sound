@@ -1,0 +1,33 @@
+# Mid North Coast wave 3: wave 2's top match ("Key_Old_Recorder", 0.854) + Sarge on 01/13 Jul ("pushing a mechanical
+# button on a player-type device" very close / "really good words"); his own cassette deck is in storage (15 Jul), so
+# cast across other push-button players and recorders. 1-2 words each.
+recorder key
+recorder button
+old recorder
+tape recorder
+dictaphone
+walkman
+answering machine
+reel to reel
+vcr
+vhs
+video recorder
+camcorder
+dvd player
+cd player
+cd eject
+minidisc
+radio cassette
+stereo button
+hifi button
+amplifier switch
+record player
+turntable
+jukebox
+slide projector
+projector button
+overhead projector
+film projector
+piano key
+organ key
+synth key
