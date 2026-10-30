@@ -1,0 +1,3199 @@
+[
+  {
+    "date": "13 May",
+    "caller": "Ruby",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, it's not a stapler. Good try though.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "13 May",
+    "caller": "Phil",
+    "guess": "the little clicky latch on a public toilet door that you lock yourself in with",
+    "verb": "latch",
+    "part": "latch",
+    "object": "toilet door",
+    "verdict": "unclear",
+    "reaction": "Yeah, that's a good one. Not it, though",
+    "clip_patterns": [
+      [
+        "toilet|cubicle|bathroom|restroom",
+        "latch|lock|bolt"
+      ]
+    ]
+  },
+  {
+    "date": "15 May",
+    "caller": "Lorraine",
+    "guess": "putting a socket on the end of a ratchet",
+    "verb": "put on",
+    "part": "socket",
+    "object": "ratchet",
+    "verdict": "wrong",
+    "reaction": "No it's not. Nice try though",
+    "clip_patterns": [
+      [
+        "ratchet|socket",
+        "socket|ratchet|wrench|spanner"
+      ]
+    ]
+  },
+  {
+    "date": "15 May",
+    "caller": "Darren",
+    "guess": "opening a can of beer",
+    "verb": "open",
+    "part": "can",
+    "object": "beer can",
+    "verdict": "wrong",
+    "reaction": "the guess that we get all the time is not the secret sound",
+    "clip_patterns": [
+      [
+        "beer|soda|(?<![a-z])can(?:s)?(?![a-z])|coke|drink",
+        "(?<![a-z])can(?:s)?(?![a-z])",
+        "open|pop|crack|ring.?pull|(?<![a-z])tab(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "17 May",
+    "caller": "John",
+    "guess": "pushing a stapler down",
+    "verb": "push down",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, no it's not, sorry.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "17 May",
+    "caller": "Cassie",
+    "guess": "an old-fashioned rubbish bin where you put your foot on the pedal, the lid opens and clumps back down",
+    "verb": "open and drop shut",
+    "part": "lid",
+    "object": "pedal rubbish bin",
+    "verdict": "wrong",
+    "reaction": "No, it's not.",
+    "clip_patterns": [
+      [
+        "pedal",
+        "(?<![a-z])bin(?:s)?(?![a-z])|trash|rubbish|garbage",
+        "(?<![a-z])lid(?:s)?(?![a-z])|open|clos|shut"
+      ],
+      [
+        "trash.?can|rubbish.?bin|garbage.?can|dustbin",
+        "(?<![a-z])lid(?:s)?(?![a-z])",
+        "open|clos|shut|slam|drop"
+      ]
+    ]
+  },
+  {
+    "date": "18 May",
+    "caller": "Brad",
+    "guess": "a metal flap of some kind coming down",
+    "verb": "come down",
+    "part": "flap",
+    "object": "metal flap",
+    "verdict": "unclear",
+    "reaction": "we'd have to be a bit more specific",
+    "clip_patterns": [
+      [
+        "flap",
+        "metal",
+        "(?<![a-z])down(?:s)?(?![a-z])|clos|drop|shut|slam"
+      ]
+    ]
+  },
+  {
+    "date": "18 May",
+    "caller": "Tony",
+    "guess": "opening and closing a binder with the little metal bit in the middle (ring binder)",
+    "verb": "open and close",
+    "part": "metal rings",
+    "object": "ring binder",
+    "verdict": "warm",
+    "reaction": "Good guess. Not exactly though Tony.",
+    "clip_patterns": [
+      [
+        "binder|ring.?binder|folder",
+        "open|clos|snap|click|ring"
+      ],
+      [
+        "ring.?binder|binder",
+        "ring|clip|snap|clos|open"
+      ]
+    ]
+  },
+  {
+    "date": "19 May",
+    "caller": "",
+    "guess": "a staple remover, the claws that pull staples out",
+    "verb": "use",
+    "part": "claws",
+    "object": "staple remover",
+    "verdict": "warm",
+    "reaction": "good guess, but not quite it was.",
+    "clip_patterns": [
+      [
+        "staple.?remover|destapler|de-stapler|staple.?puller"
+      ]
+    ]
+  },
+  {
+    "date": "19 May",
+    "caller": "Benno",
+    "guess": "opening a can (punching a hole in a tin)",
+    "verb": "open",
+    "part": "can",
+    "object": "tin can",
+    "verdict": "wrong",
+    "reaction": "No Benno, sorry mate.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])can(?:s)?(?![a-z])|(?<![a-z])tin(?:s)?(?![a-z])",
+        "open|pop|crack|ring.?pull|(?<![a-z])tab(?:s)?(?![a-z])|pull"
+      ]
+    ]
+  },
+  {
+    "date": "20 May",
+    "caller": "Keith",
+    "guess": "a hole punch",
+    "verb": "punch",
+    "part": "",
+    "object": "hole punch",
+    "verdict": "wrong",
+    "reaction": "No. It's not a hole punch. Sorry, mate.",
+    "clip_patterns": [
+      [
+        "hole.?punch|paper.?punch|punch"
+      ]
+    ]
+  },
+  {
+    "date": "20 May",
+    "caller": "Ken",
+    "guess": "opening or closing a microwave door",
+    "verb": "open or close",
+    "part": "door",
+    "object": "microwave",
+    "verdict": "warm",
+    "reaction": "It's not, Ken. Good guess, though.",
+    "clip_patterns": [
+      [
+        "microwave",
+        "door",
+        "open|clos|shut|slam"
+      ]
+    ]
+  },
+  {
+    "date": "22 May",
+    "caller": "Chris",
+    "guess": "a hole punch",
+    "verb": "punch",
+    "part": "",
+    "object": "hole punch",
+    "verdict": "wrong",
+    "reaction": "a hole punch Chris that is not the secret sound",
+    "clip_patterns": [
+      [
+        "hole.?punch|paper.?punch|punch"
+      ]
+    ]
+  },
+  {
+    "date": "22 May",
+    "caller": "Chloe",
+    "guess": "putting a coin in a shopping trolley lock",
+    "verb": "insert",
+    "part": "coin slot",
+    "object": "shopping trolley",
+    "verdict": "wrong",
+    "reaction": "No, Chloe, that's not it",
+    "clip_patterns": [
+      [
+        "trolley|cart",
+        "coin|token|lock|unlock|release"
+      ],
+      [
+        "shopping",
+        "coin|token"
+      ]
+    ]
+  },
+  {
+    "date": "24 May",
+    "caller": "Brad",
+    "guess": "the flap of a letterbox",
+    "verb": "flap",
+    "part": "flap",
+    "object": "letterbox",
+    "verdict": "wrong",
+    "reaction": "No, it's not, Brad.",
+    "clip_patterns": [
+      [
+        "letter.?box|mail.?box|mailbox|letterbox|post.?box",
+        "flap|slot|clap|clos|shut|snap|open"
+      ]
+    ]
+  },
+  {
+    "date": "24 May",
+    "caller": "Cooper",
+    "guess": "opening or closing the pet door",
+    "verb": "open or close",
+    "part": "pet door flap",
+    "object": "pet door",
+    "verdict": "wrong",
+    "reaction": "That's not the secret sound but nice try.",
+    "clip_patterns": [
+      [
+        "pet.?door|cat.?flap|dog.?door|pet.?flap|cat.?door",
+        "open|clos|flap|shut|swing"
+      ]
+    ]
+  },
+  {
+    "date": "25 May",
+    "caller": "Aunty Julia",
+    "guess": "using nail clippers to cut a toenail",
+    "verb": "clip",
+    "part": "",
+    "object": "nail clippers",
+    "verdict": "wrong",
+    "reaction": "I am not, but that'd be a great secret sound for down the track.",
+    "clip_patterns": [
+      [
+        "nail.?clip|toenail|fingernail|clipper",
+        "clip|cut|snip|click|trim"
+      ]
+    ]
+  },
+  {
+    "date": "25 May",
+    "caller": "Rach",
+    "guess": "opening a tin of coffee",
+    "verb": "open",
+    "part": "lid",
+    "object": "coffee tin",
+    "verdict": "warm",
+    "reaction": "Does sound a lot like it. Not it though, sorry Rach.",
+    "clip_patterns": [
+      [
+        "coffee",
+        "(?<![a-z])tin(?:s)?(?![a-z])|(?<![a-z])can(?:s)?(?![a-z])|(?<![a-z])jar(?:s)?(?![a-z])|container|(?<![a-z])lid(?:s)?(?![a-z])",
+        "open|pop|crack|(?<![a-z])lid(?:s)?(?![a-z])|seal"
+      ]
+    ]
+  },
+  {
+    "date": "26 May",
+    "caller": "Lorraine",
+    "guess": "a door latch locking into the door jamb",
+    "verb": "lock",
+    "part": "latch",
+    "object": "door",
+    "verdict": "wrong",
+    "reaction": "No",
+    "clip_patterns": [
+      [
+        "door",
+        "latch|lock|bolt",
+        "clos|click|lock|shut|catch"
+      ]
+    ]
+  },
+  {
+    "date": "26 May",
+    "caller": "Cassie",
+    "guess": "an old-fashioned cassette recorder where you put the cassette in and shut the door",
+    "verb": "close",
+    "part": "cassette door",
+    "object": "cassette recorder",
+    "verdict": "wrong",
+    "reaction": "No sorry.",
+    "clip_patterns": [
+      [
+        "cassette|tape.?(player|deck|recorder)",
+        "door|(?<![a-z])lid(?:s)?(?![a-z])|flap|clos|shut|insert|eject|load"
+      ]
+    ]
+  },
+  {
+    "date": "27 May",
+    "caller": "Brian",
+    "guess": "latching a seatbelt in",
+    "verb": "latch",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "It's not the secret sound, sorry mate.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "28 May",
+    "caller": "Waza",
+    "guess": "pushing down a key on a mechanical keyboard",
+    "verb": "push down",
+    "part": "key",
+    "object": "mechanical keyboard",
+    "verdict": "wrong",
+    "reaction": "No, sorry Wossa. Not it.",
+    "clip_patterns": [
+      [
+        "keyboard|key.?press|keystroke|keypress",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack"
+      ],
+      [
+        "mechanical.?keyboard|keyboard",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack"
+      ]
+    ]
+  },
+  {
+    "date": "28 May",
+    "caller": "Jimbo",
+    "guess": "clicking the top of a pen",
+    "verb": "click",
+    "part": "top",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "No, it's not, Jimbo.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top"
+      ]
+    ]
+  },
+  {
+    "date": "28 May",
+    "caller": "Marjorie",
+    "guess": "closing a latch",
+    "verb": "close",
+    "part": "latch",
+    "object": "latch",
+    "verdict": "wrong",
+    "reaction": "Marjorie, it's not.",
+    "clip_patterns": [
+      [
+        "latch",
+        "clos|shut|click|lock|snap"
+      ]
+    ]
+  },
+  {
+    "date": "31 May",
+    "caller": "Aunty Julia",
+    "guess": "closing the glove box in the ute",
+    "verb": "close",
+    "part": "lid",
+    "object": "glove box",
+    "verdict": "wrong",
+    "reaction": "in my ute it's got a bit more of a boomy, bassier sound, so no, that is not it",
+    "clip_patterns": [
+      [
+        "glove.?(box|compartment)",
+        "clos|shut|slam|latch|click"
+      ]
+    ]
+  },
+  {
+    "date": "31 May",
+    "caller": "Faye",
+    "guess": "the kettle clicking off when it finishes boiling",
+    "verb": "click off",
+    "part": "switch",
+    "object": "kettle",
+    "verdict": "warm",
+    "reaction": "That's a good guess but not it. Sorry Faye.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "switch|click|(?<![a-z])off(?:s)?(?![a-z])|boil|clack|snap"
+      ]
+    ]
+  },
+  {
+    "date": "1 Jun",
+    "caller": "Leonie",
+    "guess": "putting a price tag on something",
+    "verb": "stick on",
+    "part": "price tag",
+    "object": "price tag gun",
+    "verdict": "warm",
+    "reaction": "Sounds like it, but it's not. Sorry, Leonie.",
+    "clip_patterns": [
+      [
+        "price.?(tag|(?<![a-z])gun(?:s)?(?![a-z])|label|sticker)|label.?gun|tag.?gun|labeller|labeler",
+        "(?<![a-z])gun(?:s)?(?![a-z])|(?<![a-z])tag(?:s)?(?![a-z])|label|stamp|click|stick|apply|print"
+      ]
+    ]
+  },
+  {
+    "date": "2 Jun",
+    "caller": "Waza",
+    "guess": "a little handheld tally counter being clicked, counting people through a gate",
+    "verb": "click",
+    "part": "button",
+    "object": "handheld tally counter",
+    "verdict": "warm",
+    "reaction": "Very good guess. Yeah, I know the one. That's not it.",
+    "clip_patterns": [
+      [
+        "tally|counter|clicker|people.?counter|click.?counter",
+        "click|count|press|button|tally"
+      ]
+    ]
+  },
+  {
+    "date": "2 Jun",
+    "caller": "Cassie",
+    "guess": "opening or closing a screen door (a friend's guess)",
+    "verb": "open or close",
+    "part": "door",
+    "object": "screen door",
+    "verdict": "wrong",
+    "reaction": "Oh, your friend's incorrect.",
+    "clip_patterns": [
+      [
+        "screen.?door|fly.?screen|flyscreen|security.?door|door.?screen",
+        "open|clos|slam|shut|bang|squeak|creak"
+      ]
+    ]
+  },
+  {
+    "date": "3 Jun",
+    "caller": "Justin",
+    "guess": "changing the ink cartridge on a photocopier",
+    "verb": "change",
+    "part": "cartridge",
+    "object": "photocopier",
+    "verdict": "warm",
+    "reaction": "Oh, that's a good guess. We haven't had that one before. No, that is not it.",
+    "clip_patterns": [
+      [
+        "photocopier|copier|printer|toner",
+        "cartridge|(?<![a-z])ink(?:s)?(?![a-z])|toner|tray|clip|snap"
+      ],
+      [
+        "cartridge",
+        "(?<![a-z])ink(?:s)?(?![a-z])|toner|printer|insert|snap|click|replace"
+      ]
+    ]
+  },
+  {
+    "date": "3 Jun",
+    "caller": "William",
+    "guess": "a pen clicking",
+    "verb": "click",
+    "part": "top",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "Doesn't sound like it, sorry mate.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top"
+      ]
+    ]
+  },
+  {
+    "date": "5 Jun",
+    "caller": "Larry",
+    "guess": "starting to open something with a can opener",
+    "verb": "open",
+    "part": "can opener",
+    "object": "can opener",
+    "verdict": "wrong",
+    "reaction": "No, sorry, Larry.",
+    "clip_patterns": [
+      [
+        "can.?opener|tin.?opener",
+        "open|turn|crank|cut|pierce|puncture|use"
+      ]
+    ]
+  },
+  {
+    "date": "5 Jun",
+    "caller": "Rach",
+    "guess": "doing up a seatbelt",
+    "verb": "do up",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "that is not the secret sound. Sorry, Rach.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "8 Jun",
+    "caller": "Brad",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, no, no, it's not a stapler, Brad, but thanks for guessing.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "8 Jun",
+    "caller": "Jessica",
+    "guess": "a self-inking stamp, like a date stamp",
+    "verb": "stamp",
+    "part": "stamp",
+    "object": "self-inking stamp",
+    "verdict": "wrong",
+    "reaction": "Yeah, no, that's not it. Sorry, but good try.",
+    "clip_patterns": [
+      [
+        "stamp",
+        "self.?ink|date|rubber|(?<![a-z])ink(?:s)?(?![a-z])|stamp|thud|press|push|(?<![a-z])down(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "9 Jun",
+    "caller": "Waza",
+    "guess": "pushing the door open button on the microwave",
+    "verb": "push",
+    "part": "door open button",
+    "object": "microwave",
+    "verdict": "wrong",
+    "reaction": "Sounds like a very, not to be discriminatory, a very cheap microwave",
+    "clip_patterns": [
+      [
+        "microwave",
+        "button",
+        "push|press|click|open|beep"
+      ]
+    ]
+  },
+  {
+    "date": "9 Jun",
+    "caller": "Jay",
+    "guess": "a hole puncher",
+    "verb": "punch",
+    "part": "",
+    "object": "hole punch",
+    "verdict": "wrong",
+    "reaction": "No, it's not a hole puncher, Jay. Good try, though.",
+    "clip_patterns": [
+      [
+        "hole.?punch|paper.?punch|punch"
+      ]
+    ]
+  },
+  {
+    "date": "10 Jun",
+    "caller": "Aunty Julia",
+    "guess": "the gas lighter you use to light a candle or barbecue",
+    "verb": "click",
+    "part": "trigger",
+    "object": "gas lighter",
+    "verdict": "wrong",
+    "reaction": "No, sorry, Aunty Julia.",
+    "clip_patterns": [
+      [
+        "lighter|gas.?lighter|bbq.?lighter|barbecue.?lighter|igniter|ignition",
+        "click|flick|spark|strike|trigger|press|light"
+      ]
+    ]
+  },
+  {
+    "date": "10 Jun",
+    "caller": "Trish",
+    "guess": "opening tins with a tin opener, something in the kitchen",
+    "verb": "open",
+    "part": "tin opener",
+    "object": "tin opener",
+    "verdict": "unclear",
+    "reaction": "I'm gonna have to have a bit more of a specific guess.",
+    "clip_patterns": [
+      [
+        "can.?opener|tin.?opener",
+        "open|turn|crank|cut|pierce|puncture|use"
+      ]
+    ]
+  },
+  {
+    "date": "11 Jun",
+    "caller": "Doug",
+    "guess": "opening a can of drink",
+    "verb": "open",
+    "part": "can",
+    "object": "drink can",
+    "verdict": "wrong",
+    "reaction": "No. Doug, it is not.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])can(?:s)?(?![a-z])|soda|coke|beer|drink",
+        "(?<![a-z])can(?:s)?(?![a-z])",
+        "open|pop|crack|ring.?pull|(?<![a-z])tab(?:s)?(?![a-z])|fizz"
+      ]
+    ]
+  },
+  {
+    "date": "11 Jun",
+    "caller": "William",
+    "guess": "pushing a key button on a keyboard",
+    "verb": "push",
+    "part": "key",
+    "object": "keyboard",
+    "verdict": "wrong",
+    "reaction": "Yeah, no. Sorry, William.",
+    "clip_patterns": [
+      [
+        "keyboard|key.?press|keystroke|keypress",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack"
+      ]
+    ]
+  },
+  {
+    "date": "14 Jun",
+    "caller": "",
+    "guess": "pushing the power button on a smartphone to switch it off to the lock screen",
+    "verb": "push",
+    "part": "power button",
+    "object": "smartphone",
+    "verdict": "wrong",
+    "reaction": "look we can rule that one out",
+    "clip_patterns": [
+      [
+        "phone|smartphone|iphone|mobile",
+        "power|button|lock|click|press|side"
+      ]
+    ]
+  },
+  {
+    "date": "14 Jun",
+    "caller": "Courtney",
+    "guess": "clicking a pen",
+    "verb": "click",
+    "part": "top",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "No, it's not. Sorry, Courtney.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top"
+      ]
+    ]
+  },
+  {
+    "date": "15 Jun",
+    "caller": "Lucy",
+    "guess": "pushing control alt delete on a keyboard",
+    "verb": "push",
+    "part": "keys",
+    "object": "keyboard",
+    "verdict": "warm",
+    "reaction": "No Lucy, that is not it but that guess has got me grinning like crazy",
+    "clip_patterns": [
+      [
+        "keyboard|key.?press|keystroke|keypress",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack"
+      ]
+    ]
+  },
+  {
+    "date": "15 Jun",
+    "caller": "Jesse",
+    "guess": "opening a rice cooker",
+    "verb": "open",
+    "part": "lid",
+    "object": "rice cooker",
+    "verdict": "wrong",
+    "reaction": "Uh, no. It's not, sorry, mate.",
+    "clip_patterns": [
+      [
+        "rice.?cooker",
+        "open|(?<![a-z])lid(?:s)?(?![a-z])|clos|latch|click|button|lever|pop"
+      ]
+    ]
+  },
+  {
+    "date": "16 Jun",
+    "caller": "Waza",
+    "guess": "clicking the button on a computer mouse",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "No, no, it's not Waza. Thanks for guessing though mate.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "16 Jun",
+    "caller": "Roger",
+    "guess": "pressing the space bar on the computer keyboard",
+    "verb": "press",
+    "part": "space bar",
+    "object": "keyboard",
+    "verdict": "wrong",
+    "reaction": "Roger, no. It's not. Thanks for trying, though.",
+    "clip_patterns": [
+      [
+        "keyboard|key.?press|keystroke|keypress|space.?bar|spacebar",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack|space"
+      ]
+    ]
+  },
+  {
+    "date": "18 Jun",
+    "caller": "Jimbo",
+    "guess": "pushing the button to turn on your microphone on the keyboard",
+    "verb": "push",
+    "part": "button",
+    "object": "keyboard",
+    "verdict": "wrong",
+    "reaction": "Mmm, no. It sounds a bit too cheap and tacky",
+    "clip_patterns": [
+      [
+        "keyboard|microphone|(?<![a-z])mic(?:s)?(?![a-z])",
+        "button|press|click|mute|(?<![a-z])key(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "18 Jun",
+    "caller": "Lee",
+    "guess": "a chocolate wheel",
+    "verb": "spin",
+    "part": "wheel",
+    "object": "chocolate wheel",
+    "verdict": "warm",
+    "reaction": "No. It's not a chocolate wheel but I tell you what, it's a bloody good guess.",
+    "clip_patterns": [
+      [
+        "chocolate.?wheel|raffle.?wheel|prize.?wheel|wheel.?of.?fortune|spinning.?wheel|spinner",
+        "click|spin|tick|ratchet|flapper|clacker"
+      ]
+    ]
+  },
+  {
+    "date": "19 Jun",
+    "caller": "Jeff",
+    "guess": "a switch in the box on your office door",
+    "verb": "click",
+    "part": "switch",
+    "object": "door",
+    "verdict": "wrong",
+    "reaction": "No, it's not, Jeff.",
+    "clip_patterns": [
+      [
+        "door",
+        "switch|button",
+        "click|flick|toggle|press"
+      ]
+    ]
+  },
+  {
+    "date": "19 Jun",
+    "caller": "Dave",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "That is not it mate.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "21 Jun",
+    "caller": "Lorraine",
+    "guess": "a handbag strap with a little magnetic lock that clicks shut",
+    "verb": "snap shut",
+    "part": "magnetic clasp",
+    "object": "handbag",
+    "verdict": "wrong",
+    "reaction": "No, that's not it. Sorry Lorraine",
+    "clip_patterns": [
+      [
+        "handbag|purse|(?<![a-z])bag(?:s)?(?![a-z])",
+        "magnet|clasp|snap|latch|click|buckle|clos"
+      ]
+    ]
+  },
+  {
+    "date": "21 Jun",
+    "caller": "Cassie",
+    "guess": "sliding a chunky battery into a cordless power tool like a drill",
+    "verb": "slide in",
+    "part": "battery",
+    "object": "cordless drill",
+    "verdict": "wrong",
+    "reaction": "Cassie, that is not the secret sound.",
+    "clip_patterns": [
+      [
+        "battery",
+        "drill|power.?tool|cordless|tool",
+        "slide|insert|click|attach|snap|slot|clip|(?<![a-z])in(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "22 Jun",
+    "caller": "Shane",
+    "guess": "opening a can like a can of Coke or Red Bull",
+    "verb": "open",
+    "part": "can",
+    "object": "soft drink can",
+    "verdict": "wrong",
+    "reaction": "No Shane, sorry mate.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])can(?:s)?(?![a-z])|soda|coke|beer|drink",
+        "(?<![a-z])can(?:s)?(?![a-z])",
+        "open|pop|crack|ring.?pull|(?<![a-z])tab(?:s)?(?![a-z])|fizz"
+      ]
+    ]
+  },
+  {
+    "date": "22 Jun",
+    "caller": "Chase",
+    "guess": "a hole puncher",
+    "verb": "punch",
+    "part": "",
+    "object": "hole punch",
+    "verdict": "wrong",
+    "reaction": "Chase, no, it's not a hole puncher.",
+    "clip_patterns": [
+      [
+        "hole.?punch|paper.?punch|punch"
+      ]
+    ]
+  },
+  {
+    "date": "23 Jun",
+    "caller": "Waza",
+    "guess": "a spring-loaded magnetic cabinet latch like on kitchen cupboards",
+    "verb": "latch",
+    "part": "cabinet latch",
+    "object": "cupboard",
+    "verdict": "wrong",
+    "reaction": "we haven't had that guess yet, but it's not the secret sound",
+    "clip_patterns": [
+      [
+        "cupboard|cabinet|drawer",
+        "latch|magnet|catch|click|snap|clos|shut"
+      ]
+    ]
+  },
+  {
+    "date": "23 Jun",
+    "caller": "William",
+    "guess": "a tape recorder in the office",
+    "verb": "press",
+    "part": "button",
+    "object": "tape recorder",
+    "verdict": "wrong",
+    "reaction": "No no it's not",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette|dictaphone|recorder",
+        "recorder|player|deck|dictaphone",
+        "button|play|record|click|press|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "24 Jun",
+    "caller": "Ken",
+    "guess": "clicking the button on top of a pen",
+    "verb": "click",
+    "part": "top",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "No. That's not the case, Ken",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top"
+      ]
+    ]
+  },
+  {
+    "date": "24 Jun",
+    "caller": "Chloe",
+    "guess": "a seatbelt clicking in",
+    "verb": "click in",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Chloe, no. It's not.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jun",
+    "caller": "Pete",
+    "guess": "an electric kettle",
+    "verb": "",
+    "part": "",
+    "object": "electric kettle",
+    "verdict": "wrong",
+    "reaction": "no sorry mate",
+    "clip_patterns": [
+      [
+        "kettle"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jun",
+    "caller": "Taylor",
+    "guess": "the button you press at the crossing for the traffic lights",
+    "verb": "press",
+    "part": "button",
+    "object": "pedestrian crossing",
+    "verdict": "unclear",
+    "reaction": "We haven't had that guess, so that's a good start, but not it.",
+    "clip_patterns": [
+      [
+        "pedestrian|crossing|cross.?walk|traffic.?light|walk.?button|crosswalk",
+        "button|press|push|beep|click"
+      ]
+    ]
+  },
+  {
+    "date": "28 Jun",
+    "caller": "Waza",
+    "guess": "turning a switch on or off on a powerpoint or power board",
+    "verb": "flick",
+    "part": "switch",
+    "object": "power board",
+    "verdict": "warm",
+    "reaction": "it sounds exactly like it, no it's not it though sorry",
+    "clip_patterns": [
+      [
+        "power.?board|power.?strip|powerpoint|power.?point|surge|outlet|socket",
+        "switch|toggle|flick|click|rocker"
+      ]
+    ]
+  },
+  {
+    "date": "28 Jun",
+    "caller": "Nicky",
+    "guess": "pushing play on a vinyl player",
+    "verb": "push",
+    "part": "play button",
+    "object": "vinyl player",
+    "verdict": "warm",
+    "reaction": "Oh, Nicky, no. You said something though in that answer that really excited me.",
+    "clip_patterns": [
+      [
+        "vinyl|record.?player|turntable|gramophone|phonograph",
+        "play|button|start|needle|lever|click|press|push"
+      ]
+    ]
+  },
+  {
+    "date": "29 Jun",
+    "caller": "Lorraine",
+    "guess": "a pair of secateurs pruning the roses or trimming the hedges",
+    "verb": "snip",
+    "part": "blades",
+    "object": "secateurs",
+    "verdict": "unclear",
+    "reaction": "Yes, the second tears (discussing the pronunciation); no verdict given",
+    "clip_patterns": [
+      [
+        "secateur|pruner|pruning|hedge.?(clipper|trimmer|shears)|shears",
+        "snip|cut|clip|squeeze|clos|click"
+      ]
+    ]
+  },
+  {
+    "date": "29 Jun",
+    "caller": "",
+    "guess": "opening the sunglass compartment above your head in a car",
+    "verb": "open",
+    "part": "compartment flap",
+    "object": "car sunglass holder",
+    "verdict": "wrong",
+    "reaction": "Too echo-y, a bit too tinny for my liking",
+    "clip_patterns": [
+      [
+        "sunglass",
+        "compartment|holder|flap|(?<![a-z])car(?:s)?(?![a-z])|overhead|open|clos"
+      ]
+    ]
+  },
+  {
+    "date": "1 Jul",
+    "caller": "",
+    "guess": "pushing the space bar on the keyboard",
+    "verb": "push",
+    "part": "space bar",
+    "object": "keyboard",
+    "verdict": "warm",
+    "reaction": "No, but the last three people have been saying the right words. But not completely right, obviously.",
+    "clip_patterns": [
+      [
+        "keyboard|key.?press|keystroke|keypress|space.?bar|spacebar",
+        "(?<![a-z])key(?:s)?(?![a-z])|click|press|type|push|clack|space"
+      ]
+    ]
+  },
+  {
+    "date": "1 Jul",
+    "caller": "Chloe",
+    "guess": "the lock on a tape measure",
+    "verb": "lock",
+    "part": "lock button",
+    "object": "tape measure",
+    "verdict": "wrong",
+    "reaction": "No, it's not.",
+    "clip_patterns": [
+      [
+        "tape.?measure|measuring.?tape",
+        "lock|button|click|retract|clip"
+      ]
+    ]
+  },
+  {
+    "date": "1 Jul",
+    "caller": "Flash",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, it's not Flash.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "1 Jul",
+    "caller": "Rebecca",
+    "guess": "pushing a jack in on the tape player",
+    "verb": "push in",
+    "part": "jack",
+    "object": "tape player",
+    "verdict": "warm",
+    "reaction": "No, Rebecca. It's not. But did you hear the little shudder in my voice? My heart started racing... you could be very close",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette",
+        "deck|player|recorder|walkman|boombox",
+        "button|play|(?<![a-z])key(?:s)?(?![a-z])|press|click|clunk|jack|plug|insert"
+      ]
+    ]
+  },
+  {
+    "date": "2 Jul",
+    "caller": "Ken",
+    "guess": "pressing play on a cassette player",
+    "verb": "press",
+    "part": "play button",
+    "object": "cassette player",
+    "verdict": "warm",
+    "reaction": "No, Ken, it's not but the past six people have been saying really good things",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette",
+        "deck|player|recorder|walkman|boombox",
+        "button|play|(?<![a-z])key(?:s)?(?![a-z])|press|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "6 Jul",
+    "caller": "Geoff",
+    "guess": "pressing the button on the kettle",
+    "verb": "press",
+    "part": "button",
+    "object": "kettle",
+    "verdict": "wrong",
+    "reaction": "No, it's not.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "button|switch|click|press|push"
+      ]
+    ]
+  },
+  {
+    "date": "6 Jul",
+    "caller": "Jimbo",
+    "guess": "pushing the freshness button on the lid of a preserving jar, like a beetroot tin",
+    "verb": "push down",
+    "part": "freshness button",
+    "object": "preserving jar",
+    "verdict": "warm",
+    "reaction": "We haven't had that guess yet. You said a lot of really good things in there, but it's not the secret sound.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])jar(?:s)?(?![a-z])|preserv|(?<![a-z])lid(?:s)?(?![a-z])",
+        "button|safety|freshness|pop|seal|vacuum|click"
+      ]
+    ]
+  },
+  {
+    "date": "13 Jul",
+    "caller": "Keith",
+    "guess": "pushing the buttons on an old school tape deck",
+    "verb": "push",
+    "part": "buttons",
+    "object": "tape deck",
+    "verdict": "warm",
+    "reaction": "No, mate. But you said some really good words in there that could lead to what the actual secret sound is.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette",
+        "deck|player|recorder|walkman|boombox",
+        "button|play|(?<![a-z])key(?:s)?(?![a-z])|press|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "13 Jul",
+    "caller": "Chloe",
+    "guess": "the latch opening of a toolbox",
+    "verb": "open",
+    "part": "latch",
+    "object": "toolbox",
+    "verdict": "warm",
+    "reaction": "It's a good guess, a nice try but not good enough, sorry Chloe.",
+    "clip_patterns": [
+      [
+        "tool.?box|toolbox",
+        "latch|clasp|clip|snap|open|clos|click"
+      ]
+    ]
+  },
+  {
+    "date": "13 Jul",
+    "caller": "",
+    "guess": "pushing the microwave door shut",
+    "verb": "push shut",
+    "part": "door",
+    "object": "microwave",
+    "verdict": "wrong",
+    "reaction": "It's not, sorry. Keep on trying though please.",
+    "clip_patterns": [
+      [
+        "microwave",
+        "door",
+        "clos|shut|slam"
+      ]
+    ]
+  },
+  {
+    "date": "13 Jul",
+    "caller": "Melissa",
+    "guess": "a stapler going through some pages",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, that's not it. Sorry, Melissa.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "14 Jul",
+    "caller": "Lorraine",
+    "guess": "the push button on a power board (rather than the toggle switch)",
+    "verb": "push",
+    "part": "push button",
+    "object": "power board",
+    "verdict": "wrong",
+    "reaction": "No, it's not Lorraine.",
+    "clip_patterns": [
+      [
+        "power.?board|power.?strip|powerpoint|power.?point|surge|outlet|socket",
+        "button|push|press|click"
+      ]
+    ]
+  },
+  {
+    "date": "14 Jul",
+    "caller": "Michelle",
+    "guess": "a self-inking stamp",
+    "verb": "stamp",
+    "part": "stamp",
+    "object": "self-inking stamp",
+    "verdict": "wrong",
+    "reaction": "A self inking stamp, no. Michelle it's not",
+    "clip_patterns": [
+      [
+        "stamp",
+        "self.?ink|date|rubber|(?<![a-z])ink(?:s)?(?![a-z])|stamp|thud|press|push|(?<![a-z])down(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "15 Jul",
+    "caller": "Waza",
+    "guess": "pushing a plug into a socket like a power point or power board",
+    "verb": "push in",
+    "part": "plug",
+    "object": "power point",
+    "verdict": "wrong",
+    "reaction": "No. ... it's good to rule it out",
+    "clip_patterns": [
+      [
+        "plug",
+        "socket|outlet|power|insert|push|(?<![a-z])in(?:s)?(?![a-z])|point|board"
+      ],
+      [
+        "power.?point|power.?board|outlet|socket",
+        "plug|insert|push|(?<![a-z])in(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "15 Jul",
+    "caller": "Tom",
+    "guess": "closing the door on a cassette deck",
+    "verb": "close",
+    "part": "door",
+    "object": "cassette deck",
+    "verdict": "wrong",
+    "reaction": "sorry, keep on trying though",
+    "clip_patterns": [
+      [
+        "cassette|(?<![a-z])tape(?:s)?(?![a-z])",
+        "deck|player|recorder",
+        "door|(?<![a-z])lid(?:s)?(?![a-z])|flap|clos|shut|insert|eject|load"
+      ]
+    ]
+  },
+  {
+    "date": "16 Jul",
+    "caller": "Chrissie",
+    "guess": "clicking in the buttons on an old radio",
+    "verb": "push in",
+    "part": "buttons",
+    "object": "old radio",
+    "verdict": "wrong",
+    "reaction": "Chrissie, that's naughty. And I'm so sorry.",
+    "clip_patterns": [
+      [
+        "radio",
+        "button|click|push|press|(?<![a-z])key(?:s)?(?![a-z])|tuner|dial"
+      ]
+    ]
+  },
+  {
+    "date": "16 Jul",
+    "caller": "Larry",
+    "guess": "plugging in your microphone",
+    "verb": "plug in",
+    "part": "connector",
+    "object": "microphone",
+    "verdict": "warm",
+    "reaction": "We haven't had that guess, but that's not the secret sound, Larry. Great guess, though. Really good guess. I like that one.",
+    "clip_patterns": [
+      [
+        "microphone|(?<![a-z])mic(?:s)?(?![a-z])|xlr",
+        "plug|insert|connect|click|cable|jack"
+      ]
+    ]
+  },
+  {
+    "date": "19 Jul",
+    "caller": "Waza",
+    "guess": "pushing the power button on the computer",
+    "verb": "push",
+    "part": "power button",
+    "object": "computer",
+    "verdict": "warm",
+    "reaction": "there's a lot of intrigue in what you said. I think we're sort of hovering around the right area.",
+    "clip_patterns": [
+      [
+        "computer|(?<![a-z])pc(?:s)?(?![a-z])|monitor|screen|laptop",
+        "power|button|switch|click|press"
+      ]
+    ]
+  },
+  {
+    "date": "19 Jul",
+    "caller": "Jessica",
+    "guess": "pushing the button on a computer mouse",
+    "verb": "push",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "No, it's not. Sorry, Jessica.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "20 Jul",
+    "caller": "",
+    "guess": "flicking the switch onto your black microphone when you enter the studio (a switch on a switchboard)",
+    "verb": "flick",
+    "part": "switch",
+    "object": "microphone switchboard",
+    "verdict": "wrong",
+    "reaction": "And no, not it, sorry.",
+    "clip_patterns": [
+      [
+        "microphone|(?<![a-z])mic(?:s)?(?![a-z])|switchboard|switch.?board",
+        "switch|click|toggle|flick|button"
+      ]
+    ]
+  },
+  {
+    "date": "20 Jul",
+    "caller": "Benno",
+    "guess": "punching a hole in an aluminium tin, like a Milo or coffee tin",
+    "verb": "punch",
+    "part": "lid",
+    "object": "aluminium tin",
+    "verdict": "wrong",
+    "reaction": "We haven't had that guess. That's not it. Sorry, Benno",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tin(?:s)?(?![a-z])|(?<![a-z])can(?:s)?(?![a-z])",
+        "hole|punch|pierce|puncture|pop|milo"
+      ]
+    ]
+  },
+  {
+    "date": "21 Jul",
+    "caller": "Daniel",
+    "guess": "plugging your seatbelt in in your car",
+    "verb": "plug in",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "I do that every single day, but no, that's not it.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "21 Jul",
+    "caller": "Oliver",
+    "guess": "clicking a can, crushing it",
+    "verb": "click / crush",
+    "part": "can",
+    "object": "can",
+    "verdict": "unclear",
+    "reaction": "Mmm, not crushing it fully but just like a little bit Oliver.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])can(?:s)?(?![a-z])",
+        "crush|click|dent|squash|crunch|pop"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jul",
+    "caller": "Karen",
+    "guess": "turning on your computer screen with the button underneath it",
+    "verb": "press",
+    "part": "power button",
+    "object": "computer monitor",
+    "verdict": "wrong",
+    "reaction": "That's never been a secret sound on this show. We haven't had that guess yet. Karen, that's not it.",
+    "clip_patterns": [
+      [
+        "monitor|screen|computer",
+        "button|power|switch|click|press"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jul",
+    "caller": "Jessica",
+    "guess": "plugging the XLR cable into your microphone",
+    "verb": "plug in",
+    "part": "XLR connector",
+    "object": "microphone",
+    "verdict": "warm",
+    "reaction": "No, it's not Jessica. Did I get your heart racing, Jessica?",
+    "clip_patterns": [
+      [
+        "xlr|microphone|(?<![a-z])mic(?:s)?(?![a-z])",
+        "cable|plug|insert|connect|click|jack"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jul",
+    "caller": "Mark",
+    "guess": "a computer mouse click",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "warm",
+    "reaction": "bloody sounds like it Mark but it's not.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "26 Jul",
+    "caller": "Trish",
+    "guess": "putting your seatbelt on",
+    "verb": "do up",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Trish that is not the secret sound",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "27 Jul",
+    "caller": "Katie",
+    "guess": "pushing your seatbelt in so it clicks",
+    "verb": "push in",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Katie that's not it sorry.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "27 Jul",
+    "caller": "Benno",
+    "guess": "something on a computer mouse with a little swinging part",
+    "verb": "swing",
+    "part": "",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "I hear where you're coming from. That's not the secret sound.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press|swing"
+      ]
+    ]
+  },
+  {
+    "date": "28 Jul",
+    "caller": "Keith",
+    "guess": "ejecting a cassette on an old tape player",
+    "verb": "eject",
+    "part": "cassette door",
+    "object": "cassette player",
+    "verdict": "wrong",
+    "reaction": "No, no, it's not that, because we have plenty of people say putting it in, but not the ejecting part.",
+    "clip_patterns": [
+      [
+        "cassette|(?<![a-z])tape(?:s)?(?![a-z])",
+        "deck|player|recorder",
+        "eject|open|pop|release"
+      ]
+    ]
+  },
+  {
+    "date": "28 Jul",
+    "caller": "Waza",
+    "guess": "the little switch on the bottom of a coffee cup hot plate",
+    "verb": "flick",
+    "part": "switch",
+    "object": "coffee cup warmer",
+    "verdict": "wrong",
+    "reaction": "the best left of centre guess we've had in a while... it's not it.",
+    "clip_patterns": [
+      [
+        "coffee|(?<![a-z])mug(?:s)?(?![a-z])|(?<![a-z])cup(?:s)?(?![a-z])",
+        "warmer|hot.?plate|heater|switch|click"
+      ]
+    ]
+  },
+  {
+    "date": "29 Jul",
+    "caller": "Rebecca",
+    "guess": "pushing down the button on the toaster",
+    "verb": "push down",
+    "part": "button",
+    "object": "toaster",
+    "verdict": "warm",
+    "reaction": "No, that is not it but... it was very close.",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "lever|push|press|(?<![a-z])down(?:s)?(?![a-z])|plunge|depress|lower|button|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "29 Jul",
+    "caller": "Larry",
+    "guess": "plugging in a coffee machine",
+    "verb": "plug in",
+    "part": "plug",
+    "object": "coffee machine",
+    "verdict": "wrong",
+    "reaction": "No, it's not it though. Sorry, Larry.",
+    "clip_patterns": [
+      [
+        "coffee.?(machine|maker)|espresso",
+        "plug|insert|switch|button|click|press|power"
+      ]
+    ]
+  },
+  {
+    "date": "30 Jul",
+    "caller": "Lucy",
+    "guess": "pushing the automatic window up button in a car",
+    "verb": "push",
+    "part": "window button",
+    "object": "car window",
+    "verdict": "warm",
+    "reaction": "Mm-hm. Yeah, it does (sound similar)... Lucy, that's not the Secret Sound, though.",
+    "clip_patterns": [
+      [
+        "window",
+        "(?<![a-z])car(?:s)?(?![a-z])|power|electric|automatic|(?<![a-z])up(?:s)?(?![a-z])|button|motor|winder|switch"
+      ]
+    ]
+  },
+  {
+    "date": "30 Jul",
+    "caller": "Ken",
+    "guess": "clicking the button on a mouse",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "No Ken it is not.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "19 Aug",
+    "caller": "Eddie",
+    "guess": "pressing the button to release your seatbelt",
+    "verb": "press",
+    "part": "release button",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Eddie it is not.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "release|unbuckle|unclip|unfasten|button"
+      ]
+    ]
+  },
+  {
+    "date": "19 Aug",
+    "caller": "Benno",
+    "guess": "the electric kettle boiling and the button clicking on and off",
+    "verb": "click",
+    "part": "switch",
+    "object": "electric kettle",
+    "verdict": "wrong",
+    "reaction": "not the secret sound, sorry, mate.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "switch|click|(?<![a-z])off(?:s)?(?![a-z])|boil|clack|snap|button"
+      ]
+    ]
+  },
+  {
+    "date": "19 Aug",
+    "caller": "Lorraine",
+    "guess": "an old metal clicker toy shaped like a beetle or a frog",
+    "verb": "click",
+    "part": "",
+    "object": "metal clicker toy",
+    "verdict": "wrong",
+    "reaction": "Lorraine, that is not the secret sound. I'm so sorry.",
+    "clip_patterns": [
+      [
+        "clicker|cricket|frog",
+        "click|toy|(?<![a-z])tin(?:s)?(?![a-z])|metal|clack"
+      ],
+      [
+        "tin.?toy|metal.?toy|toy",
+        "clicker|click|(?<![a-z])tin(?:s)?(?![a-z])|metal"
+      ]
+    ]
+  },
+  {
+    "date": "19 Aug",
+    "caller": "Kerry",
+    "guess": "opening or closing a microwave",
+    "verb": "open or close",
+    "part": "door",
+    "object": "microwave",
+    "verdict": "wrong",
+    "reaction": "No, it is not, Kerry. Sorry.",
+    "clip_patterns": [
+      [
+        "microwave",
+        "door",
+        "open|clos|shut|slam"
+      ]
+    ]
+  },
+  {
+    "date": "20 Aug",
+    "caller": "Brian",
+    "guess": "locking or unlocking a deadbolt on the back of your door",
+    "verb": "lock / unlock",
+    "part": "deadbolt",
+    "object": "door deadbolt",
+    "verdict": "wrong",
+    "reaction": "Brian, it's not...",
+    "clip_patterns": [
+      [
+        "dead.?bolt|bolt",
+        "lock|unlock|door|click|clunk|slide|turn"
+      ]
+    ]
+  },
+  {
+    "date": "20 Aug",
+    "caller": "Jesse",
+    "guess": "putting the portafilter in or out of a coffee machine",
+    "verb": "insert / remove",
+    "part": "portafilter",
+    "object": "coffee machine",
+    "verdict": "warm",
+    "reaction": "it's not, but I will say that the action that you are speaking of is similar to what the actual secret sound is.",
+    "clip_patterns": [
+      [
+        "portafilter|porta.?filter|coffee.?(machine|group)|espresso",
+        "portafilter|filter|handle|lock|insert|twist|clunk|click|lever"
+      ]
+    ]
+  },
+  {
+    "date": "23 Aug",
+    "caller": "Chrissy",
+    "guess": "switching on a gas stove (the newer gas plate sounds different)",
+    "verb": "turn on",
+    "part": "knob",
+    "object": "gas stove",
+    "verdict": "wrong",
+    "reaction": "we can cross that one off the list",
+    "clip_patterns": [
+      [
+        "gas.?(stove|cooktop|hob|burner|plate|cooker)|stove|cooktop",
+        "click|ignit|turn|light|(?<![a-z])on(?:s)?(?![a-z])|knob|switch|tick"
+      ]
+    ]
+  },
+  {
+    "date": "23 Aug",
+    "caller": "Cole",
+    "guess": "twisting a plastic bag and pushing it through the little machine that puts a band around the top",
+    "verb": "band",
+    "part": "bag",
+    "object": "bag sealing machine",
+    "verdict": "wrong",
+    "reaction": "That is not the secret sound, though, but we haven't had that guess yet, which is good progression.",
+    "clip_patterns": [
+      [
+        "bag.?(tie|sealer|clip|closer|band)|twist.?tie|bread.?tie|bag.?sealer|band"
+      ]
+    ]
+  },
+  {
+    "date": "24 Aug",
+    "caller": "Waza",
+    "guess": "pushing a switch or a button on a vacuum cleaner",
+    "verb": "push",
+    "part": "switch",
+    "object": "vacuum cleaner",
+    "verdict": "wrong",
+    "reaction": "No, it's not Waza. Scratch that off the list.",
+    "clip_patterns": [
+      [
+        "vacuum|hoover",
+        "switch|button|click|press|power|(?<![a-z])on(?:s)?(?![a-z])|(?<![a-z])off(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "24 Aug",
+    "caller": "Shane",
+    "guess": "clicking down the button on the kettle that pops back up when it is ready",
+    "verb": "click down",
+    "part": "button",
+    "object": "kettle",
+    "verdict": "wrong",
+    "reaction": "Shane that's not it, we can cross that one off the list.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "button|switch|click|(?<![a-z])off(?:s)?(?![a-z])|pop|clack|snap"
+      ]
+    ]
+  },
+  {
+    "date": "25 Aug",
+    "caller": "Jeff",
+    "guess": "putting the coffee pot in the machine and pulling the little lever down on it",
+    "verb": "pull down",
+    "part": "lever",
+    "object": "coffee machine",
+    "verdict": "wrong",
+    "reaction": "Jeff that's not it",
+    "clip_patterns": [
+      [
+        "coffee|espresso",
+        "portafilter|(?<![a-z])pot(?:s)?(?![a-z])|lever|machine",
+        "lever|pull|(?<![a-z])down(?:s)?(?![a-z])|lock|clunk|click"
+      ]
+    ]
+  },
+  {
+    "date": "25 Aug",
+    "caller": "Marnie",
+    "guess": "putting toast in a toaster and pushing the toast down",
+    "verb": "push down",
+    "part": "lever",
+    "object": "toaster",
+    "verdict": "warm",
+    "reaction": "no, it's not. But you made my heart race a little bit... your answer had words that would be in the actual correct answer",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "lever|push|press|(?<![a-z])down(?:s)?(?![a-z])|plunge|depress|lower|button|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "27 Aug",
+    "caller": "Andrew",
+    "guess": "pushing the button to open a microwave door",
+    "verb": "push",
+    "part": "open button",
+    "object": "microwave",
+    "verdict": "warm",
+    "reaction": "It is not mate. But the first half of that answer is almost correct.",
+    "clip_patterns": [
+      [
+        "microwave",
+        "button",
+        "open|press|push|click|release"
+      ]
+    ]
+  },
+  {
+    "date": "27 Aug",
+    "caller": "Trish",
+    "guess": "a clip on the lid, clipping something shut",
+    "verb": "clip shut",
+    "part": "clip",
+    "object": "lid",
+    "verdict": "wrong",
+    "reaction": "Trish thanks for guessing that's not it though.",
+    "clip_patterns": [
+      [
+        "clip|clasp|latch",
+        "(?<![a-z])lid(?:s)?(?![a-z])|box|container|tub",
+        "clos|shut|clip|snap|click|latch|lock"
+      ]
+    ]
+  },
+  {
+    "date": "27 Aug",
+    "caller": "Aaron",
+    "guess": "a pricing gun",
+    "verb": "stick on",
+    "part": "price gun",
+    "object": "price tag gun",
+    "verdict": "wrong",
+    "reaction": "It is not a pricing gun, sorry sir.",
+    "clip_patterns": [
+      [
+        "price.?(tag|(?<![a-z])gun(?:s)?(?![a-z])|label|sticker)|label.?gun|tag.?gun|labeller|labeler",
+        "(?<![a-z])gun(?:s)?(?![a-z])|(?<![a-z])tag(?:s)?(?![a-z])|label|stamp|click|stick|apply|print"
+      ]
+    ]
+  },
+  {
+    "date": "27 Aug",
+    "caller": "Shane",
+    "guess": "clicking the mouse on the computer",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "No, it's not.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "30 Aug",
+    "caller": "Shazza",
+    "guess": "closing a door inside the house when the striker makes that sound",
+    "verb": "close",
+    "part": "door latch",
+    "object": "interior door",
+    "verdict": "wrong",
+    "reaction": "we can cross it off because that is incorrect, Shazza.",
+    "clip_patterns": [
+      [
+        "door",
+        "latch|strike|catch|lock",
+        "clos|shut|click|latch|catch"
+      ]
+    ]
+  },
+  {
+    "date": "30 Aug",
+    "caller": "Faye",
+    "guess": "clicking a Dymo label machine, clicking the number on",
+    "verb": "click",
+    "part": "dial",
+    "object": "Dymo label maker",
+    "verdict": "wrong",
+    "reaction": "It is not.",
+    "clip_patterns": [
+      [
+        "dymo|label.?maker|label.?printer|labeller|embosser",
+        "click|press|emboss|dial|wheel|punch|type|print"
+      ]
+    ]
+  },
+  {
+    "date": "31 Aug",
+    "caller": "Phil",
+    "guess": "opening the fridge door",
+    "verb": "open",
+    "part": "door",
+    "object": "fridge",
+    "verdict": "wrong",
+    "reaction": "Phil from Baker's Creek, that is not it.",
+    "clip_patterns": [
+      [
+        "fridge|refrigerator|freezer",
+        "door",
+        "open|clos|shut|slam|seal|suction"
+      ]
+    ]
+  },
+  {
+    "date": "31 Aug",
+    "caller": "Julie",
+    "guess": "opening or closing the lid on your kettle",
+    "verb": "open or close",
+    "part": "lid",
+    "object": "kettle",
+    "verdict": "warm",
+    "reaction": "No it's not Julie but your guesses are usually really good.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "(?<![a-z])lid(?:s)?(?![a-z])",
+        "open|clos|shut|snap|click|pop"
+      ]
+    ]
+  },
+  {
+    "date": "1 Sep",
+    "caller": "Cheryl",
+    "guess": "pushing the top down on your takeaway coffee, pushing the lid down to secure it",
+    "verb": "push down",
+    "part": "lid",
+    "object": "takeaway coffee cup",
+    "verdict": "wrong",
+    "reaction": "Cheryl I'm not. Never mind.",
+    "clip_patterns": [
+      [
+        "coffee|takeaway|(?<![a-z])cup(?:s)?(?![a-z])",
+        "(?<![a-z])lid(?:s)?(?![a-z])",
+        "push|press|snap|click|clos|seal|pop|(?<![a-z])on(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "1 Sep",
+    "caller": "Abby",
+    "guess": "opening a can",
+    "verb": "open",
+    "part": "can",
+    "object": "can",
+    "verdict": "wrong",
+    "reaction": "Abby, that is not the secret sound. Incorrect.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])can(?:s)?(?![a-z])|soda|coke|beer|drink",
+        "(?<![a-z])can(?:s)?(?![a-z])",
+        "open|pop|crack|ring.?pull|(?<![a-z])tab(?:s)?(?![a-z])|fizz"
+      ]
+    ]
+  },
+  {
+    "date": "3 Sep",
+    "caller": "Lorraine",
+    "guess": "clicking the temperature probe into the socket of an electric skillet",
+    "verb": "plug in",
+    "part": "probe socket",
+    "object": "electric skillet",
+    "verdict": "wrong",
+    "reaction": "No. Absolutely not. That's not it.",
+    "clip_patterns": [
+      [
+        "skillet|frypan|fry.?pan|electric.?pan",
+        "probe|plug|temperature|thermostat|socket|insert|click"
+      ]
+    ]
+  },
+  {
+    "date": "3 Sep",
+    "caller": "Courtney",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "Courtney, it's not a stapler. So sorry.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "3 Sep",
+    "caller": "Michelle",
+    "guess": "the old-style pricing gun",
+    "verb": "stick on",
+    "part": "price gun",
+    "object": "price tag gun",
+    "verdict": "wrong",
+    "reaction": "that's not it sorry",
+    "clip_patterns": [
+      [
+        "price.?(tag|(?<![a-z])gun(?:s)?(?![a-z])|label|sticker)|label.?gun|tag.?gun|labeller|labeler",
+        "(?<![a-z])gun(?:s)?(?![a-z])|(?<![a-z])tag(?:s)?(?![a-z])|label|stamp|click|stick|apply|print"
+      ]
+    ]
+  },
+  {
+    "date": "3 Sep",
+    "caller": "Tori",
+    "guess": "clicking the crumb tray in or out at the bottom of the toaster",
+    "verb": "click in / out",
+    "part": "crumb tray",
+    "object": "toaster",
+    "verdict": "wrong",
+    "reaction": "Absolutely not.",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "crumb|tray|slide|drawer"
+      ]
+    ]
+  },
+  {
+    "date": "6 Sep",
+    "caller": "Carlo",
+    "guess": "closing the little plastic door inside your dishwasher where the tablet goes",
+    "verb": "close",
+    "part": "tablet door",
+    "object": "dishwasher",
+    "verdict": "unclear",
+    "reaction": "we haven't had that guess yet, so that's a good start. But that's not it.",
+    "clip_patterns": [
+      [
+        "dishwasher",
+        "door|tablet|dispenser|detergent|flap|(?<![a-z])lid(?:s)?(?![a-z])",
+        "clos|shut|click|snap|latch"
+      ]
+    ]
+  },
+  {
+    "date": "6 Sep",
+    "caller": "D",
+    "guess": "the sound a kettle makes when it has finished boiling and kicks off",
+    "verb": "click off",
+    "part": "switch",
+    "object": "kettle",
+    "verdict": "wrong",
+    "reaction": "No that's not the secret sound. Sorry.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "switch|click|(?<![a-z])off(?:s)?(?![a-z])|boil|clack|snap|button"
+      ]
+    ]
+  },
+  {
+    "date": "7 Sep",
+    "caller": "PUD",
+    "guess": "pressing the sunglass holder above the rear-vision mirror to open it",
+    "verb": "press to open",
+    "part": "sunglass holder",
+    "object": "car sunglass holder",
+    "verdict": "unclear",
+    "reaction": "I like that guess because we haven't had it yet... absolutely not.",
+    "clip_patterns": [
+      [
+        "sunglass",
+        "compartment|holder|flap|(?<![a-z])car(?:s)?(?![a-z])|overhead|open|clos"
+      ]
+    ]
+  },
+  {
+    "date": "7 Sep",
+    "caller": "Mel",
+    "guess": "pushing the cancel button on a toaster",
+    "verb": "push",
+    "part": "cancel button",
+    "object": "toaster",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. It's not the secret sound.",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "cancel|stop|button"
+      ]
+    ]
+  },
+  {
+    "date": "8 Sep",
+    "caller": "Chrissy",
+    "guess": "pushing a coffee pod into the machine, like George Clooney in the Nescafe ad",
+    "verb": "push in",
+    "part": "pod",
+    "object": "coffee pod machine",
+    "verdict": "wrong",
+    "reaction": "Absolutely not.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pod(?:s)?(?![a-z])|capsule|nespresso",
+        "coffee|machine|lever|insert|push|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "8 Sep",
+    "caller": "Ruby",
+    "guess": "a push button in a caravan to open the cupboards and drawers",
+    "verb": "push",
+    "part": "push button",
+    "object": "caravan cupboard",
+    "verdict": "warm",
+    "reaction": "Oh, that's a great guess. Absolutely not. Sorry about that, but good try.",
+    "clip_patterns": [
+      [
+        "push.?(button|latch|catch)|push.?to.?open|touch.?latch",
+        "cupboard|cabinet|drawer|caravan|door|click|open"
+      ]
+    ]
+  },
+  {
+    "date": "9 Sep",
+    "caller": "Wayne",
+    "guess": "an old-school tape deck, the type you set into the holder",
+    "verb": "insert",
+    "part": "cassette",
+    "object": "tape deck",
+    "verdict": "wrong",
+    "reaction": "not, sorry",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette",
+        "deck|player|recorder|walkman|boombox",
+        "door|(?<![a-z])lid(?:s)?(?![a-z])|insert|eject|clos|shut|load|holder"
+      ]
+    ]
+  },
+  {
+    "date": "9 Sep",
+    "caller": "Rach",
+    "guess": "pushing the lock down on a briefcase or cash case (her husband's guess)",
+    "verb": "push down",
+    "part": "lock",
+    "object": "briefcase",
+    "verdict": "unclear",
+    "reaction": "Absolutely not. ... all I can say though is when you started saying your answer,",
+    "clip_patterns": [
+      [
+        "briefcase|suitcase|attache|cash.?box|cashbox|case",
+        "lock|latch|clasp|clip|snap|click|catch"
+      ]
+    ]
+  },
+  {
+    "date": "10 Sep",
+    "caller": "Jeff",
+    "guess": "pressing one of the buttons on a sound board, like turning on the phone lines",
+    "verb": "press",
+    "part": "button",
+    "object": "sound board",
+    "verdict": "unclear",
+    "reaction": "(no verdict given in the segment)",
+    "clip_patterns": [
+      [
+        "sound.?board|mixing.?desk|mixer|switch.?board|console",
+        "button|press|click|switch|fader|push"
+      ]
+    ]
+  },
+  {
+    "date": "10 Sep",
+    "caller": "Waza",
+    "guess": "the push catch on a cupboard, where you push it and it clicks closed and push again it clicks open",
+    "verb": "push",
+    "part": "push catch",
+    "object": "cupboard",
+    "verdict": "wrong",
+    "reaction": "Absolutely not! That's not the secret sound.",
+    "clip_patterns": [
+      [
+        "push.?(catch|latch|to.?open)|touch.?latch|cupboard|cabinet",
+        "catch|latch|push|click|magnet"
+      ]
+    ]
+  },
+  {
+    "date": "13 Sep",
+    "caller": "Lorraine",
+    "guess": "plugging a plug into an electrical socket",
+    "verb": "plug in",
+    "part": "plug",
+    "object": "power socket",
+    "verdict": "wrong",
+    "reaction": "Absolutely not.",
+    "clip_patterns": [
+      [
+        "plug",
+        "socket|outlet|power|insert|push|(?<![a-z])in(?:s)?(?![a-z])|point|board"
+      ],
+      [
+        "power.?point|power.?board|outlet|socket",
+        "plug|insert|push|(?<![a-z])in(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "13 Sep",
+    "caller": "Vince",
+    "guess": "putting a coffee pod in a pod coffee machine and pulling the lever down",
+    "verb": "pull down",
+    "part": "lever",
+    "object": "pod coffee machine",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. That is not the secret sound.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pod(?:s)?(?![a-z])|capsule|nespresso",
+        "coffee|machine|lever|insert|push|click|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "14 Sep",
+    "caller": "Glenn",
+    "guess": "closing magnetic latch cupboard doors",
+    "verb": "close",
+    "part": "door",
+    "object": "cupboard",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. It's not the secret sound, sorry, Glenn.",
+    "clip_patterns": [
+      [
+        "cupboard|cabinet",
+        "magnet|latch|catch|clos|click|snap|door"
+      ]
+    ]
+  },
+  {
+    "date": "14 Sep",
+    "caller": "Steve",
+    "guess": "a stapler",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "It's not, Steve.",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "15 Sep",
+    "caller": "",
+    "guess": "pushing a battery pack into the charging station (like a drill battery)",
+    "verb": "push in",
+    "part": "battery",
+    "object": "battery charger",
+    "verdict": "unclear",
+    "reaction": "Can you please explain that guess a little bit more?",
+    "clip_patterns": [
+      [
+        "battery",
+        "charger|charging|dock|station|slide|click|insert|snap|clip|drill|tool"
+      ]
+    ]
+  },
+  {
+    "date": "15 Sep",
+    "caller": "Marnie",
+    "guess": "the toast popping up in the toaster",
+    "verb": "pop up",
+    "part": "toast",
+    "object": "toaster",
+    "verdict": "wrong",
+    "reaction": "Absolutely not!",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "pop|(?<![a-z])up(?:s)?(?![a-z])|eject"
+      ]
+    ]
+  },
+  {
+    "date": "16 Sep",
+    "caller": "Aunty Julia",
+    "guess": "putting a battery pack back into a device like a drill or a KitchenAid stick mixer",
+    "verb": "push in",
+    "part": "battery pack",
+    "object": "cordless drill / stick mixer",
+    "verdict": "warm",
+    "reaction": "Absolutely not! But I gotta say, it's a wonderful guess, Aunty Julia.",
+    "clip_patterns": [
+      [
+        "battery",
+        "drill|mixer|tool|power.?tool|cordless|slide|insert|click|attach|snap|clip|pack"
+      ]
+    ]
+  },
+  {
+    "date": "16 Sep",
+    "caller": "Maddie",
+    "guess": "pushing the lid or a button on a CD player",
+    "verb": "push",
+    "part": "lid or button",
+    "object": "CD player",
+    "verdict": "wrong",
+    "reaction": "Oh, Maddie, no. Absolutely not.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])cd(?:s)?(?![a-z])|compact.?disc",
+        "player|(?<![a-z])lid(?:s)?(?![a-z])|door|button|tray|clos|click|push"
+      ]
+    ]
+  },
+  {
+    "date": "17 Sep",
+    "caller": "Paula",
+    "guess": "a digital watch being attached to its magnetic charger",
+    "verb": "attach",
+    "part": "magnetic charger",
+    "object": "digital watch",
+    "verdict": "wrong",
+    "reaction": "I know exactly what you're talking about. Absolutely not.",
+    "clip_patterns": [
+      [
+        "watch",
+        "charger|magnet|snap|click|attach"
+      ],
+      [
+        "magnet",
+        "charger|snap|click|attach|watch"
+      ]
+    ]
+  },
+  {
+    "date": "17 Sep",
+    "caller": "Cheryl",
+    "guess": "pushing a battery into a battery-operated clock",
+    "verb": "push in",
+    "part": "battery",
+    "object": "battery clock",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. Sorry, Cheryl.",
+    "clip_patterns": [
+      [
+        "battery",
+        "clock|insert|pop|snap|click|compartment|cover|slot"
+      ]
+    ]
+  },
+  {
+    "date": "21 Sep",
+    "caller": "Corinna",
+    "guess": "popping batteries into a compartment, like in a computer mouse, when you replace the batteries",
+    "verb": "pop in",
+    "part": "battery compartment",
+    "object": "computer mouse",
+    "verdict": "warm",
+    "reaction": "Absolutely not. Corinna, you're hot. Like, you're hot. Close.",
+    "clip_patterns": [
+      [
+        "batter(y|ies)",
+        "compartment|cover|insert|pop|snap|click|slot|door|(?<![a-z])lid(?:s)?(?![a-z])|load|replace|put"
+      ]
+    ]
+  },
+  {
+    "date": "21 Sep",
+    "caller": "Mel",
+    "guess": "the toast popping up when it is cooked",
+    "verb": "pop up",
+    "part": "toast",
+    "object": "toaster",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. Sorry, Mel.",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "pop|(?<![a-z])up(?:s)?(?![a-z])|eject"
+      ]
+    ]
+  },
+  {
+    "date": "22 Sep",
+    "caller": "Michael",
+    "guess": "pushing the battery into a stick vacuum cleaner",
+    "verb": "push in",
+    "part": "battery",
+    "object": "stick vacuum cleaner",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. That's not the secret sound.",
+    "clip_patterns": [
+      [
+        "vacuum|stick.?vac",
+        "batter"
+      ]
+    ]
+  },
+  {
+    "date": "22 Sep",
+    "caller": "Charlie",
+    "guess": "the left indicator clicker of an Isuzu",
+    "verb": "click",
+    "part": "indicator stalk",
+    "object": "car indicator",
+    "verdict": "wrong",
+    "reaction": "Oh, very specific. I like that. Absolutely not.",
+    "clip_patterns": [
+      [
+        "indicator|blinker|turn.?signal|ticker",
+        "click|tick|stalk|left|(?<![a-z])car(?:s)?(?![a-z])|flick"
+      ]
+    ]
+  },
+  {
+    "date": "23 Sep",
+    "caller": "David",
+    "guess": "clicking a pen, a Triple M pen",
+    "verb": "click",
+    "part": "top",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. That's not the secret sound.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top"
+      ]
+    ]
+  },
+  {
+    "date": "23 Sep",
+    "caller": "Rebecca",
+    "guess": "pushing the air fryer drawer closed",
+    "verb": "push shut",
+    "part": "drawer",
+    "object": "air fryer",
+    "verdict": "warm",
+    "reaction": "Absolutely not! ... I thought you had it there for a second, too. Yeah, it is pushing something.",
+    "clip_patterns": [
+      [
+        "air.?fryer|airfryer|fryer",
+        "drawer|basket|slide|clos|shut|push|click|open"
+      ]
+    ]
+  },
+  {
+    "date": "24 Sep",
+    "caller": "Chris",
+    "guess": "pushing a battery into its dock on a battery charger plugged into the wall",
+    "verb": "push in",
+    "part": "battery",
+    "object": "battery charger dock",
+    "verdict": "wrong",
+    "reaction": "Absolutely not.",
+    "clip_patterns": [
+      [
+        "batter(y|ies)",
+        "charger|charging|dock|station|click|slide|insert|snap|clip"
+      ]
+    ]
+  },
+  {
+    "date": "24 Sep",
+    "caller": "Mark",
+    "guess": "putting in your seat belt",
+    "verb": "do up",
+    "part": "buckle",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. That is not the secret sound.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "latch|buckle|click|clip|fasten|lock|insert"
+      ]
+    ]
+  },
+  {
+    "date": "27 Sep",
+    "caller": "Brian",
+    "guess": "pushing a button on your torch",
+    "verb": "push",
+    "part": "button",
+    "object": "torch",
+    "verdict": "warm",
+    "reaction": "Oh it really does sound like that but. Absolutely not.",
+    "clip_patterns": [
+      [
+        "torch|flashlight",
+        "button|switch|click|press|push|(?<![a-z])on(?:s)?(?![a-z])|(?<![a-z])off(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "27 Sep",
+    "caller": "Siobhan",
+    "guess": "closing a tape deck",
+    "verb": "close",
+    "part": "door",
+    "object": "tape deck",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. Thanks for trying though.",
+    "clip_patterns": [
+      [
+        "cassette|(?<![a-z])tape(?:s)?(?![a-z])",
+        "deck|player|recorder",
+        "door|(?<![a-z])lid(?:s)?(?![a-z])|clos|shut|insert|load|flap"
+      ]
+    ]
+  },
+  {
+    "date": "29 Sep",
+    "caller": "Ruby",
+    "guess": "unclipping a seatbelt in a car by pressing the button",
+    "verb": "press",
+    "part": "release button",
+    "object": "seatbelt",
+    "verdict": "wrong",
+    "reaction": "Ruby. Absolutely not! It's not, I'm so sorry.",
+    "clip_patterns": [
+      [
+        "seat.?belt",
+        "release|unbuckle|unclip|unfasten|button"
+      ]
+    ]
+  },
+  {
+    "date": "5 Oct",
+    "caller": "Daniel",
+    "guess": "clicking a mouse",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "Absolutely not, sorry mate.",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "5 Oct",
+    "caller": "Ken",
+    "guess": "pushing the cover back onto a remote control",
+    "verb": "push on",
+    "part": "battery cover",
+    "object": "remote control",
+    "verdict": "warm",
+    "reaction": "Absolutely not. Good guess though Ken.",
+    "clip_patterns": [
+      [
+        "remote",
+        "cover|battery|(?<![a-z])lid(?:s)?(?![a-z])|back|snap|click|slide|clos"
+      ]
+    ]
+  },
+  {
+    "date": "6 Oct",
+    "caller": "Shelley",
+    "guess": "closing the top of an old-school CD player",
+    "verb": "close",
+    "part": "lid",
+    "object": "CD player",
+    "verdict": "wrong",
+    "reaction": "No, absolutely not. That is not the secret sound.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])cd(?:s)?(?![a-z])|compact.?disc",
+        "player|(?<![a-z])lid(?:s)?(?![a-z])|door|button|tray|clos|click|push"
+      ]
+    ]
+  },
+  {
+    "date": "6 Oct",
+    "caller": "Rach",
+    "guess": "pushing down the button to take my call (a click of a mouse)",
+    "verb": "push down",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "we've had that guess... absolutely not. Sorry Rach",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "7 Oct",
+    "caller": "John",
+    "guess": "clicking a computer mouse",
+    "verb": "click",
+    "part": "button",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "absolutely not it's not the secret sound",
+    "clip_patterns": [
+      [
+        "mouse",
+        "click|button|press"
+      ]
+    ]
+  },
+  {
+    "date": "7 Oct",
+    "caller": "Trish",
+    "guess": "a clip, like a hair clip",
+    "verb": "clip",
+    "part": "clip",
+    "object": "hair clip",
+    "verdict": "wrong",
+    "reaction": "Trish, as promo Sally would say. Absolutely not.",
+    "clip_patterns": [
+      [
+        "hair",
+        "clip|grip|barrette|slide|snap|click"
+      ]
+    ]
+  },
+  {
+    "date": "8 Oct",
+    "caller": "Lucy",
+    "guess": "the special switch you use to mute quickly when you cough",
+    "verb": "flick",
+    "part": "switch",
+    "object": "studio cough switch",
+    "verdict": "wrong",
+    "reaction": "we haven't had that guess yet... Absolutely not. It's not the secret sound, sorry.",
+    "clip_patterns": [
+      [
+        "mute|cough",
+        "switch|button|click|microphone|(?<![a-z])mic(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "8 Oct",
+    "caller": "Julie",
+    "guess": "plugging your stick vacuum into the charging bracket on the wall",
+    "verb": "plug in",
+    "part": "charging bracket",
+    "object": "stick vacuum cleaner",
+    "verdict": "wrong",
+    "reaction": "I do own that said item Julie. Absolutely not.",
+    "clip_patterns": [
+      [
+        "vacuum|stick.?vac",
+        "charg|bracket|dock|plug|wall|click|clip|insert"
+      ]
+    ]
+  },
+  {
+    "date": "11 Oct",
+    "caller": "Aunty Julia",
+    "guess": "pushing the cover back over the battery compartment of a milk frother",
+    "verb": "push on",
+    "part": "battery cover",
+    "object": "milk frother",
+    "verdict": "wrong",
+    "reaction": "Oh, I like how specific that is... that is absolutely not.",
+    "clip_patterns": [
+      [
+        "milk.?frother|frother",
+        "batter|cover|(?<![a-z])lid(?:s)?(?![a-z])|click|snap|clos|compartment"
+      ],
+      [
+        "batter(y|ies)",
+        "cover|compartment|(?<![a-z])lid(?:s)?(?![a-z])|door",
+        "clos|click|snap|push|slide|(?<![a-z])on(?:s)?(?![a-z])|replace|insert"
+      ]
+    ]
+  },
+  {
+    "date": "11 Oct",
+    "caller": "Vince",
+    "guess": "clicking down a sandwich maker and locking it in",
+    "verb": "click down",
+    "part": "lid latch",
+    "object": "sandwich maker",
+    "verdict": "wrong",
+    "reaction": "I do know what you're talking about but is it the secret sound? Absolutely not!",
+    "clip_patterns": [
+      [
+        "sandwich.?(maker|press|toaster)|toastie|toasted.?sandwich|jaffle",
+        "clos|lock|click|latch|clamp|(?<![a-z])down(?:s)?(?![a-z])|snap|shut|(?<![a-z])lid(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "12 Oct",
+    "caller": "Ken",
+    "guess": "one of those self-inking rubber stamps that you push",
+    "verb": "push",
+    "part": "stamp",
+    "object": "self-inking stamp",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. You've had a few guesses and one of them was remarkably close, but I'm not going to tell you which one.",
+    "clip_patterns": [
+      [
+        "stamp",
+        "self.?ink|date|rubber|(?<![a-z])ink(?:s)?(?![a-z])|stamp|thud|press|push|(?<![a-z])down(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "12 Oct",
+    "caller": "Marion",
+    "guess": "pressing the plastic dome on the game Trouble to pop the dice",
+    "verb": "press",
+    "part": "plastic dome",
+    "object": "Trouble board game",
+    "verdict": "wrong",
+    "reaction": "I know exactly what you're talking about Marion, but as promo Sally would say... Sorry Marion.",
+    "clip_patterns": [
+      [
+        "trouble|pop.?o.?matic|(?<![a-z])dice(?:s)?(?![a-z])",
+        "dome|pop|press|click|board|game|bubble"
+      ]
+    ]
+  },
+  {
+    "date": "13 Oct",
+    "caller": "Rachel",
+    "guess": "pushing in the handle of a suitcase",
+    "verb": "push in",
+    "part": "telescopic handle",
+    "object": "suitcase",
+    "verdict": "unclear",
+    "reaction": "We haven't had that guess yet which is a great start Rachel... Absolutely not.",
+    "clip_patterns": [
+      [
+        "suitcase|luggage|trolley.?case|travel.?bag",
+        "handle|push|pull|telescop|retract|extend|click|lock"
+      ]
+    ]
+  },
+  {
+    "date": "13 Oct",
+    "caller": "Jackie",
+    "guess": "closing the back of a remote after changing the battery",
+    "verb": "close",
+    "part": "battery cover",
+    "object": "remote control",
+    "verdict": "wrong",
+    "reaction": "Jackie that is not the secret sound.",
+    "clip_patterns": [
+      [
+        "remote",
+        "cover|battery|(?<![a-z])lid(?:s)?(?![a-z])|back|snap|click|slide|clos"
+      ]
+    ]
+  },
+  {
+    "date": "14 Oct",
+    "caller": "Leanne",
+    "guess": "one of the old staplers",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "Promo Sally? Absolutely not!",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "14 Oct",
+    "caller": "Beno",
+    "guess": "pulling the ring-pull tab off a tin (garbled in transcript)",
+    "verb": "pull",
+    "part": "ring-pull tab",
+    "object": "tin",
+    "verdict": "warm",
+    "reaction": "Yeah, it does sound like that. But promo Sally... Absolutely not.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tin(?:s)?(?![a-z])|(?<![a-z])can(?:s)?(?![a-z])",
+        "ring.?pull|pull.?tab|(?<![a-z])tab(?:s)?(?![a-z])|pull|peel|open|(?<![a-z])lid(?:s)?(?![a-z])|tuna"
+      ]
+    ]
+  },
+  {
+    "date": "15 Oct",
+    "caller": "Chrissy",
+    "guess": "clicking the lighter to light a candle or a fire",
+    "verb": "click",
+    "part": "trigger",
+    "object": "lighter",
+    "verdict": "wrong",
+    "reaction": "I'm not going to light up your life. It's not the secret sound, sorry.",
+    "clip_patterns": [
+      [
+        "lighter|zippo",
+        "click|flick|spark|strike|trigger|press|light|flint|spin|wheel"
+      ]
+    ]
+  },
+  {
+    "date": "15 Oct",
+    "caller": "Ruth",
+    "guess": "a cordless jug being taken off or put back on its base plate",
+    "verb": "put on",
+    "part": "base plate",
+    "object": "cordless jug",
+    "verdict": "wrong",
+    "reaction": "Ruth, that is not the secret sound. I'm so sorry.",
+    "clip_patterns": [
+      [
+        "jug|kettle",
+        "base|plate|put|lift|place|(?<![a-z])off(?:s)?(?![a-z])|(?<![a-z])on(?:s)?(?![a-z])|cordless|click"
+      ]
+    ]
+  },
+  {
+    "date": "18 Oct",
+    "caller": "Ken",
+    "guess": "putting a low battery into a charging station",
+    "verb": "put in",
+    "part": "battery",
+    "object": "battery charging station",
+    "verdict": "wrong",
+    "reaction": "Ken, that is not the secret sound.",
+    "clip_patterns": [
+      [
+        "batter(y|ies)",
+        "charger|charging|dock|station|click|slide|insert|snap|clip"
+      ]
+    ]
+  },
+  {
+    "date": "18 Oct",
+    "caller": "Debbie",
+    "guess": "clicking in and pressing down a toasted sandwich maker to lock it in",
+    "verb": "click in",
+    "part": "lid latch",
+    "object": "toasted sandwich maker",
+    "verdict": "wrong",
+    "reaction": "Debbie, that's not the secret sound, I'm sorry.",
+    "clip_patterns": [
+      [
+        "sandwich.?(maker|press|toaster)|toastie|toasted.?sandwich|jaffle",
+        "clos|lock|click|latch|clamp|(?<![a-z])down(?:s)?(?![a-z])|snap|shut|(?<![a-z])lid(?:s)?(?![a-z])"
+      ]
+    ]
+  },
+  {
+    "date": "19 Oct",
+    "caller": "Lorraine",
+    "guess": "plugging in your radio to listen to Sarge for breakfast",
+    "verb": "plug in",
+    "part": "plug",
+    "object": "radio",
+    "verdict": "wrong",
+    "reaction": "Lorraine, let me bring promo Sally in. Absolutely not!",
+    "clip_patterns": [
+      [
+        "radio",
+        "plug|power|cord|socket|insert"
+      ]
+    ]
+  },
+  {
+    "date": "19 Oct",
+    "caller": "Aunty Julia",
+    "guess": "pushing the switch on a wireless mouse to turn it back on after changing the batteries",
+    "verb": "push",
+    "part": "on/off switch",
+    "object": "wireless computer mouse",
+    "verdict": "warm",
+    "reaction": "No. It's around that area, isn't it? I mean judging by my reaction you'd think that yes. (Later: She had a tremendous guess. It was very very close.)",
+    "clip_patterns": [
+      [
+        "mouse",
+        "switch|slider|toggle|power|on.?off"
+      ]
+    ]
+  },
+  {
+    "date": "19 Oct",
+    "caller": "Adam Roberts (Mayor)",
+    "guess": "a stapler stapling a couple of pieces of paper together",
+    "verb": "staple",
+    "part": "stapler",
+    "object": "stapler",
+    "verdict": "wrong",
+    "reaction": "No, that's not",
+    "clip_patterns": [
+      [
+        "stapler|stapling"
+      ]
+    ]
+  },
+  {
+    "date": "20 Oct",
+    "caller": "Ian",
+    "guess": "pressing the snooze button on an old-school alarm clock",
+    "verb": "press",
+    "part": "snooze button",
+    "object": "alarm clock",
+    "verdict": "wrong",
+    "reaction": "Ian, I've got to bring promo Sally in. Absolutely not.",
+    "clip_patterns": [
+      [
+        "alarm.?clock|alarm",
+        "snooze|button|press|click|slap|push"
+      ],
+      [
+        "snooze"
+      ]
+    ]
+  },
+  {
+    "date": "20 Oct",
+    "caller": "DD",
+    "guess": "opening and closing a briefcase with the clicks",
+    "verb": "open and close",
+    "part": "latches",
+    "object": "briefcase",
+    "verdict": "wrong",
+    "reaction": "DD it is not, I'm sorry.",
+    "clip_patterns": [
+      [
+        "briefcase|suitcase|attache|case",
+        "open|clos|click|latch|clasp|snap|lock"
+      ]
+    ]
+  },
+  {
+    "date": "21 Oct",
+    "caller": "",
+    "guess": "putting the batteries in the bottom of a computer mouse and clicking the cover back on",
+    "verb": "click on",
+    "part": "battery cover",
+    "object": "computer mouse",
+    "verdict": "wrong",
+    "reaction": "Promo Sally... That's not the secret sound",
+    "clip_patterns": [
+      [
+        "batter(y|ies)",
+        "mouse|cover|compartment|door|(?<![a-z])lid(?:s)?(?![a-z])",
+        "clos|click|snap|push|slide|(?<![a-z])on(?:s)?(?![a-z])|insert|replace"
+      ]
+    ]
+  },
+  {
+    "date": "21 Oct",
+    "caller": "Justin",
+    "guess": "putting a tool battery into a charging dock",
+    "verb": "put in",
+    "part": "battery",
+    "object": "tool battery charging dock",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. That's not it.",
+    "clip_patterns": [
+      [
+        "batter(y|ies)",
+        "charger|charging|dock|station|click|slide|insert|snap|clip"
+      ]
+    ]
+  },
+  {
+    "date": "22 Oct",
+    "caller": "Joe",
+    "guess": "a magnetic door catch that you push to engage and push to release",
+    "verb": "push",
+    "part": "catch",
+    "object": "magnetic door catch",
+    "verdict": "wrong",
+    "reaction": "Joe, I've got to bring in promo Sally. Absolutely not.",
+    "clip_patterns": [
+      [
+        "cupboard|cabinet|door",
+        "magnet|latch|catch|push|click|snap|release"
+      ]
+    ]
+  },
+  {
+    "date": "22 Oct",
+    "caller": "Jamie",
+    "guess": "a button you press on glass sliding doors to enter the studio",
+    "verb": "press",
+    "part": "button",
+    "object": "glass sliding door",
+    "verdict": "wrong",
+    "reaction": "Jamie. Absolutely not. Sorry mate.",
+    "clip_patterns": [
+      [
+        "sliding.?door|automatic.?door",
+        "button|press|push|open|click|beep"
+      ]
+    ]
+  },
+  {
+    "date": "25 Oct",
+    "caller": "",
+    "guess": "a camera shutter on an old Box Brownie camera",
+    "verb": "click",
+    "part": "shutter",
+    "object": "old box camera",
+    "verdict": "wrong",
+    "reaction": "I gotta bring in promo Sally. Not it, sorry, mate.",
+    "clip_patterns": [
+      [
+        "camera|brownie|box.?camera",
+        "shutter|click|snap|clunk|release"
+      ]
+    ]
+  },
+  {
+    "date": "25 Oct",
+    "caller": "Sue",
+    "guess": "putting the capsule in the coffee machine and pulling down the handle so it breaks the capsule",
+    "verb": "pull down",
+    "part": "handle",
+    "object": "capsule coffee machine",
+    "verdict": "wrong",
+    "reaction": "Sue, I have to bring in promo Sally. Absolutely not.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pod(?:s)?(?![a-z])|capsule|nespresso",
+        "coffee|machine|lever|insert|push|click|clunk|handle"
+      ]
+    ]
+  },
+  {
+    "date": "26 Oct",
+    "caller": "Julie",
+    "guess": "changing the head on your razor",
+    "verb": "change",
+    "part": "razor head",
+    "object": "razor",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. Sorry, no",
+    "clip_patterns": [
+      [
+        "razor|shaver",
+        "head|blade|cartridge|click|snap|change|replace|attach"
+      ]
+    ]
+  },
+  {
+    "date": "26 Oct",
+    "caller": "Jeff",
+    "guess": "pushing in the cabinet door, the little magnetic button in the top corner of the cabinet",
+    "verb": "push in",
+    "part": "magnetic button",
+    "object": "cabinet door",
+    "verdict": "warm",
+    "reaction": "Absolutely not. But my heart skipped a beat when you started saying your answer",
+    "clip_patterns": [
+      [
+        "cupboard|cabinet",
+        "magnet|latch|catch|button|push|click|snap|release|touch"
+      ]
+    ]
+  },
+  {
+    "date": "27 Oct",
+    "caller": "Karen",
+    "guess": "pushing in the button on the toaster to reject something that is burning",
+    "verb": "push in",
+    "part": "eject button",
+    "object": "toaster",
+    "verdict": "unclear",
+    "reaction": "Haven't had that guess yet, which is a good start. But Karen, Primo Sally's here. Absolutely not!",
+    "clip_patterns": [
+      [
+        "toast(er)?",
+        "cancel|stop|button|eject"
+      ]
+    ]
+  },
+  {
+    "date": "27 Oct",
+    "caller": "Rebecca",
+    "guess": "pushing the lid of the kettle closed",
+    "verb": "push shut",
+    "part": "lid",
+    "object": "kettle",
+    "verdict": "wrong",
+    "reaction": "Promo Sally? Absolutely not. Sorry, Rebecca.",
+    "clip_patterns": [
+      [
+        "kettle",
+        "(?<![a-z])lid(?:s)?(?![a-z])",
+        "open|clos|shut|snap|click|pop"
+      ]
+    ]
+  },
+  {
+    "date": "28 Oct",
+    "caller": "",
+    "guess": "a tape recorder",
+    "verb": "",
+    "part": "",
+    "object": "tape recorder",
+    "verdict": "wrong",
+    "reaction": "No, that's not the Secret Sound. Absolutely not. Sorry mate.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])tape(?:s)?(?![a-z])|cassette|dictaphone|recorder",
+        "recorder|player|deck|dictaphone",
+        "button|play|record|click|press|clunk"
+      ]
+    ]
+  },
+  {
+    "date": "28 Oct",
+    "caller": "Vera",
+    "guess": "a hole puncher punching a hole in paperwork",
+    "verb": "punch",
+    "part": "",
+    "object": "hole punch",
+    "verdict": "wrong",
+    "reaction": "Vera, I have to bring Primo Sally in, absolutely not. It's not it.",
+    "clip_patterns": [
+      [
+        "hole.?punch|paper.?punch|punch"
+      ]
+    ]
+  },
+  {
+    "date": "29 Oct",
+    "caller": "Jen",
+    "guess": "pushing a button on the microwave to pop the door open",
+    "verb": "push",
+    "part": "open button",
+    "object": "microwave",
+    "verdict": "wrong",
+    "reaction": "Jen, promo Sally's here unfortunately. Absolutely not.",
+    "clip_patterns": [
+      [
+        "microwave",
+        "button",
+        "open|press|push|click|release"
+      ]
+    ]
+  },
+  {
+    "date": "29 Oct",
+    "caller": "Phil",
+    "guess": "the clip on your pen",
+    "verb": "click",
+    "part": "clip",
+    "object": "pen",
+    "verdict": "wrong",
+    "reaction": "Absolutely not. Not the secret sound, sorry. $2,800 not yours.",
+    "clip_patterns": [
+      [
+        "(?<![a-z])pen(?:s)?(?![a-z])|ballpoint|biro",
+        "click|clic|button|retract|plunger|top|clip"
+      ]
+    ]
+  }
+]
