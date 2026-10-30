@@ -7,8 +7,11 @@ measured (analysis/analysis.md) instead of the waveform:
   gap     two strokes about 137 ms apart (B then C), with a timing tolerance
   crunch  B is a multi-impact crunch, C a single clean snap
   thump   a low-frequency (40-120 Hz) thump lagging each stroke by 15-45 ms
-  ring    a narrow, long-T60 ring at 500-1200 Hz after C, weaker after B
+  ring    a narrow ring near 790 Hz with T60 near 0.33 s after C, weaker after B (a sustained
+          musical note rings for seconds and scores low)
   dry     no reverb: the sound falls 40 dB within about 150 ms of C
+  iso     the event stands alone: quiet before the pre-click and after the ring (the clue is a
+          single sound effect; busy recordings otherwise offer dozens of click pairs to pick from)
 
 Every candidate stroke pair in every file is scored; the best pair is reported with its gap.
 
@@ -34,16 +37,23 @@ from scipy import signal
 
 SR = 48000
 AUDIO_EXT = {".wav", ".mp3", ".flac", ".ogg", ".aif", ".aiff", ".m4a"}
-WEIGHTS = {"gap": 0.20, "pre": 0.10, "crunch": 0.20, "thump": 0.15, "ring": 0.25, "dry": 0.10}
+WEIGHTS = {"gap": 0.15, "pre": 0.05, "crunch": 0.15, "thump": 0.15, "ring": 0.25, "dry": 0.05, "iso": 0.20}
+RING_HZ = 790      # measured on the clue (analysis/analysis.md and the broadcast copy)
+RING_T60 = 0.33
 TARGET_GAP = 0.137
 GAP_TOL = 0.040
 
 
+def smooth(x, n):
+    """Centred moving average of n samples (cumulative sum: O(len) whatever n is)."""
+    n = max(1, int(n))
+    c = np.cumsum(np.concatenate([np.zeros(n - n // 2), x, np.zeros(n // 2)]))
+    return (c[n:] - c[:-n]) / n
+
+
 def band_env(y, lo, hi, smooth_ms):
     sos = signal.butter(4, [lo, hi], btype="band", fs=SR, output="sos")
-    e = np.abs(signal.sosfiltfilt(sos, y))
-    n = max(1, int(smooth_ms * SR / 1000))
-    return np.convolve(e, np.ones(n) / n, mode="same")
+    return smooth(np.abs(signal.sosfiltfilt(sos, y)), smooth_ms * SR / 1000)
 
 
 def db(x):
@@ -51,26 +61,30 @@ def db(x):
 
 
 def strokes(y):
-    """Clusters of high-frequency impacts. Returns [(start_s, level, impacts)], level in linear HF envelope."""
+    """Clusters of high-frequency impacts. Returns [(time_s, level, impacts)], level in linear HF envelope.
+
+    A stroke's time is its first impact within 6 dB of the stroke's loudest one, so low-level noise
+    just before an impact doesn't pull the time earlier (radio and library recordings both have it).
+    Impacts are counted within 10 dB of the loudest: on the clue that gives 5 for the crunch, 3 for the snap.
+    """
     hf = band_env(y, 2000, 10000, 0.5)
     peak = hf.max()
     if peak <= 0:
         return []
-    idx, _ = signal.find_peaks(hf, height=peak * 10 ** (-36 / 20), distance=int(0.004 * SR),
-                               prominence=peak * 10 ** (-40 / 20))
+    idx, _ = signal.find_peaks(hf, height=peak * 10 ** (-26 / 20), distance=int(0.004 * SR),
+                               prominence=peak * 10 ** (-30 / 20))
     out = []
     for i in idx:
         t = i / SR
-        if out and t - out[-1]["last"] <= 0.020 and t - out[-1]["start"] <= 0.060:
-            s = out[-1]
-            s["last"] = t
-            s["peaks"].append(hf[i])
+        if out and t - out[-1][-1][0] <= 0.015 and t - out[-1][0][0] <= 0.050:
+            out[-1].append((t, hf[i]))
         else:
-            out.append({"start": t, "last": t, "peaks": [hf[i]]})
+            out.append([(t, hf[i])])
     res = []
     for s in out:
-        lv = max(s["peaks"])
-        res.append((s["start"], lv, sum(p >= lv * 10 ** (-20 / 20) for p in s["peaks"])))
+        lv = max(p for _, p in s)
+        t = next(t for t, p in s if p >= lv * 10 ** (-6 / 20))
+        res.append((t, lv, sum(p >= lv * 10 ** (-10 / 20) for _, p in s)))
     return res
 
 
@@ -99,7 +113,7 @@ def ring_stats(y, t0, t1):
     # T60 from the decay slope of the mode's envelope after its peak
     sos = signal.butter(2, [f0 * 0.95, f0 * 1.05], btype="band", fs=SR, output="sos")
     env = db(np.abs(signal.hilbert(signal.sosfiltfilt(sos, seg))))
-    env = np.convolve(env, np.ones(int(0.005 * SR)) / int(0.005 * SR), mode="same")
+    env = smooth(env, 0.005 * SR)
     j = int(np.argmax(env))
     tail = env[j:]
     t60 = 0.0
@@ -112,8 +126,23 @@ def ring_stats(y, t0, t1):
     return float(f0), float(q), float(prom), t60, float(db(pk / len(seg)))
 
 
+def mode_level(y, f0, t0, dur=0.100, end=None):
+    """RMS level (dB) of the f0 mode over `dur` seconds from t0 (stopping at `end`)."""
+    if f0 <= 0:
+        return -180.0
+    t1 = t0 + dur if end is None else min(t0 + dur, end)
+    seg = y[int(t0 * SR):int(t1 * SR)]
+    if len(seg) < int(0.01 * SR):
+        return -180.0
+    sos = signal.butter(2, [f0 * 0.97, f0 * 1.03], btype="band", fs=SR, output="sos")
+    return float(db(np.sqrt(np.mean(signal.sosfilt(sos, seg) ** 2))))
+
+
 def thump_score(lf, t):
-    """1 when an LF peak lands 15-45 ms after the stroke and stands >= 6 dB over the LF just before it."""
+    """1 when an LF peak lands 15-50 ms after the stroke and stands >= 6 dB over the LF just before it.
+
+    The clue's thumps peak 30-45 ms after each stroke (measured on the broadcast copy).
+    """
     a, b = int((t + 0.005) * SR), int((t + 0.080) * SR)
     pre = lf[max(0, int((t - 0.020) * SR)):max(1, int(t * SR))]
     if b > len(lf) or not len(pre):
@@ -121,13 +150,13 @@ def thump_score(lf, t):
     j = int(np.argmax(lf[a:b]))
     lag = (a + j) / SR - t
     rise = db(lf[a + j]) - db(np.mean(pre) + 1e-9)
-    lag_ok = 1.0 if 0.015 <= lag <= 0.045 else max(0.0, 1 - min(abs(lag - 0.015), abs(lag - 0.045)) / 0.03)
+    lag_ok = 1.0 if 0.015 <= lag <= 0.050 else max(0.0, 1 - min(abs(lag - 0.015), abs(lag - 0.050)) / 0.03)
     return lag_ok * float(np.clip(rise / 6, 0, 1)), lag
 
 
-def decay_time(y, t, floor_db):
-    """Seconds after t for the broadband envelope to fall 40 dB (or to the noise floor + 3 dB)."""
-    env = db(np.convolve(np.abs(y), np.ones(int(0.005 * SR)) / int(0.005 * SR), mode="same"))
+def decay_time(env_db, t, floor_db):
+    """Seconds after t for the broadband envelope (dB) to fall 40 dB (or to the noise floor + 3 dB)."""
+    env = env_db
     a = int(t * SR)
     seg = env[a:a + int(0.6 * SR)]
     if not len(seg):
@@ -138,7 +167,26 @@ def decay_time(y, t, floor_db):
     return below[0] / SR if len(below) else 0.6
 
 
-def score_pair(y, st, i, k, lf, floor_db):
+def isolation(env_db, st, tb, tc):
+    """How far the event stands out from what is just before it and just after its ring.
+
+    Before: 250 ms ending 15 ms before the earliest pre-click (or 60 ms before B) must sit 18+ dB
+    under B's peak. After: 350-700 ms after C must sit 25+ dB under C's peak. Windows that fall off
+    the ends of the recording count as quiet.
+    """
+    pre = [s[0] for s in st if tb - 0.090 <= s[0] <= tb - 0.025]
+    ta = min(pre) if pre else tb - 0.060
+    pk_b = env_db[int(tb * SR):int((tb + 0.03) * SR)].max(initial=-180)
+    pk_c = env_db[int(tc * SR):int((tc + 0.03) * SR)].max(initial=-180)
+    a0, a1 = max(0, int((ta - 0.265) * SR)), max(0, int((ta - 0.015) * SR))
+    before = pk_b - (env_db[a0:a1].max() if a1 - a0 > int(0.02 * SR) else -180)
+    b0, b1 = int((tc + 0.35) * SR), int((tc + 0.70) * SR)
+    after = pk_c - (env_db[b0:b1].max() if b1 - b0 > int(0.02 * SR) and b0 < len(env_db) else -180)
+    score = min(np.clip((before - 6) / 12, 0, 1), np.clip((after - 10) / 15, 0, 1))
+    return float(score), round(float(min(before, 99)), 1), round(float(min(after, 99)), 1)
+
+
+def score_pair(y, st, i, k, lf, env_db, floor_db):
     tb, lb, nb = st[i]
     tc, lc, nc = st[k]
     gap = tc - tb
@@ -147,25 +195,27 @@ def score_pair(y, st, i, k, lf, floor_db):
     pre = [s for s in st if tb - 0.090 <= s[0] <= tb - 0.025]
     if pre:
         rel = db(max(s[1] for s in pre)) - db(lb)
-        f["pre"] = 1.0 if -24 <= rel <= -3 else 0.4
+        f["pre"] = 1.0 if -24 <= rel <= 0 else 0.4      # the clue's pre-click is as sharp as B up high
     else:
         f["pre"] = 0.0
     crunch_b = float(np.clip((nb - 1) / 3, 0, 1))
-    snap_c = 1.0 if nc <= 2 else (0.5 if nc == 3 else 0.0)
+    snap_c = 1.0 if nc <= 3 else (0.5 if nc == 4 else 0.0)
     f["crunch"] = (crunch_b + snap_c) / 2
     th_b, lag_b = thump_score(lf, tb)
     th_c, lag_c = thump_score(lf, tc)
     f["thump"] = (th_b + th_c) / 2
     f["thump_lag_ms"] = round((lag_b + lag_c) / 2 * 1000, 1)
-    f0, q, prom, t60, lev_c = ring_stats(y, tc + 0.030, tc + 0.330)
-    *_, lev_b = ring_stats(y, tb + 0.030, min(tc, tb + 0.130))
-    ratio = lev_c - lev_b
+    f0, q, prom, t60, _ = ring_stats(y, tc + 0.030, tc + 0.330)
+    ratio = mode_level(y, f0, tc + 0.030) - mode_level(y, f0, tb + 0.030, end=tc)
     f.update(ring_hz=round(f0), ring_q=round(q), ring_t60=round(t60, 3), ring_c_vs_b_db=round(ratio, 1))
-    f["ring"] = float(np.mean([min(1, t60 / 0.25), min(1, q / 60), np.clip(prom / 20, 0, 1),
+    near_t60 = np.exp(-0.5 * (np.log(max(t60, 1e-3) / RING_T60) / 0.6) ** 2)
+    near_hz = np.exp(-0.5 * (np.log2(max(f0, 1.0) / RING_HZ) / 0.35) ** 2)
+    f["ring"] = float(np.mean([near_t60, near_hz, min(1, q / 60), np.clip(prom / 20, 0, 1),
                                np.clip(ratio / 10, 0, 1)]))
-    d = decay_time(y, tc, floor_db)
+    d = decay_time(env_db, tc, floor_db)
     f["decay_ms"] = round(d * 1000)
     f["dry"] = float(np.clip((0.5 - d) / 0.35, 0, 1))
+    f["iso"], f["iso_before_db"], f["iso_after_db"] = isolation(env_db, st, tb, tc)
     f["score"] = sum(WEIGHTS[n] * f[n] for n in WEIGHTS)
     f["t_b"] = round(tb, 3)
     return f
@@ -177,15 +227,15 @@ def score_signal(y):
     if len(st) < 2:
         return None
     lf = band_env(y, 40, 120, 5)
-    env = np.convolve(np.abs(y), np.ones(int(0.005 * SR)) / int(0.005 * SR), mode="same")
-    floor_db = float(np.percentile(db(env), 10))
+    env_db = db(smooth(np.abs(y), 0.005 * SR))     # once per file: every pair's decay reads it
+    floor_db = float(np.percentile(env_db, 10))
     top = max(s[1] for s in st)
     loud = [j for j, s in enumerate(st) if s[1] >= top * 10 ** (-20 / 20)]
     best = None
     for i in loud:
         for k in loud:
             if 0.060 <= st[k][0] - st[i][0] <= 0.260:
-                f = score_pair(y, st, i, k, lf, floor_db)
+                f = score_pair(y, st, i, k, lf, env_db, floor_db)
                 if best is None or f["score"] > best["score"]:
                     best = f
     return best
