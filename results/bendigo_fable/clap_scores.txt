@@ -1,0 +1,82 @@
+on-air filter: 0 clips match a wrong guess and are left out of the A/B files
+0.807 clap 0.791 mel 0.844  27149 @4.19s  [clock winding] Grandfather Clock Winding.mp3
+0.805 clap 0.773 mel 0.878  805328 @2.87s  [clock winding] CLOCKMech-Samsung Galaxy Smartphone, CU_Grandfather Clock Wi
+0.804 clap 0.775 mel 0.873  494326 @3.53s  [bike spokes] spokes.wav
+0.800 clap 0.770 mel 0.870  556481 @0.86s  [rotary dial] Rotary Dial 4
+0.795 clap 0.767 mel 0.860  556469 @1.99s  [rotary dial] Rotary Dial 5 (W/Pause)
+0.794 clap 0.758 mel 0.877  556475 @0.30s  [rotary dial] Rotary Dial 0
+0.792 clap 0.769 mel 0.846  149908 @1.71s  [bike spokes] aro-2
+0.787 clap 0.753 mel 0.867  326335 @4.38s  [bike spokes] Bicycle Cycling.wav
+0.785 clap 0.746 mel 0.875  235903 @1.36s  [bottle cap] Bottle cap fall.wav
+0.781 clap 0.749 mel 0.858  188035 @0.64s  [bike spokes] Bicycle Spokes
+0.780 clap 0.756 mel 0.836  337079 @0.17s  [bike spokes] Bicycle spokes.aif
+0.775 clap 0.743 mel 0.850  366930 @2.59s  [coin spin] Coin spinning.wav
+0.773 clap 0.729 mel 0.875  811011 @5.30s  [wind-up] TOYMech-Samsung Galaxy Smartphone, MCU_Wind Up Toy Clacking_
+0.772 clap 0.738 mel 0.851  556480 @1.23s  [rotary dial] Rotary Dial 5
+0.772 clap 0.751 mel 0.821  556467 @0.38s  [rotary dial] Rotary Dial 7 (W/Pause)
+0.772 clap 0.732 mel 0.864  466205 @0.00s  [fishing reel] FishingReel.wav
+0.771 clap 0.730 mel 0.866  556465 @0.38s  [rotary dial] Rotary Dial 9 (W/Pause)
+0.770 clap 0.743 mel 0.834  493537 @0.72s  [ratchet click] Ball bearing click 2.wav
+0.767 clap 0.730 mel 0.856  46061 @10.07s  [lid spin] tin_cap_rolling.wav
+0.765 clap 0.745 mel 0.813  494327 @0.98s  [bike spokes] spokes more clicky.wav
+0.765 clap 0.730 mel 0.847  447461 @2.19s  [cash register] flipping many coins
+0.764 clap 0.721 mel 0.866  244951 @4.01s  [bike spokes] Fingerpads on Bike Spokes
+0.763 clap 0.730 mel 0.839  192178 @2.66s  [cash register] Cash Register
+0.761 clap 0.719 mel 0.859  556468 @1.90s  [rotary dial] Rotary Dial 6 (W/Pause)
+0.761 clap 0.725 mel 0.845  77168 @1.25s  [spoons] spoons_along_radiator.aif
+0.761 clap 0.741 mel 0.805  819304 @3.86s  [alarm clock] CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nichola
+0.760 clap 0.716 mel 0.861  20808 @6.35s  [lid spin] crash13 pot lid.wav
+0.759 clap 0.708 mel 0.880  69150 @0.38s  [coin spin] 00936 spinning coin 3.wav
+0.759 clap 0.756 mel 0.766  96147 @0.26s  [clock winding] MultiWind1.wav
+0.757 clap 0.725 mel 0.833  62036 @5.11s  [cash register] Ticker till.wav
+0.757 clap 0.714 mel 0.859  466716 @1.89s  [socket wrench] 1 Inch Impact Gun.wav
+0.757 clap 0.711 mel 0.864  868291 @0.03s  [typewriter bell] typewriter_bell.wav
+0.756 clap 0.717 mel 0.848  817823 @3.02s  [wind-up] MECHRtch-Blue Snowball Microphone, CU_Jewelry Box, Music, Wi
+0.756 clap 0.711 mel 0.862  556478 @1.56s  [rotary dial] Rotary Dial 7
+0.756 clap 0.712 mel 0.858  556477 @1.37s  [rotary dial] Rotary Dial 8
+0.755 clap 0.707 mel 0.867  735661 @0.65s  [rotary dial] COMTelph-LANDLINE PHONE_Rotary Dial Number 04_KVV AUDIO_VEF 
+0.755 clap 0.738 mel 0.794  591756 @2.20s  [stir tea] Stirring Coffee or Tea.wav
+0.754 clap 0.704 mel 0.871  734182 @1.63s  [bike bell] Bike Bell During Ride
+0.754 clap 0.737 mel 0.793  327055 @11.69s  [egg beater] Chains Being Rolled Up.wav
+0.754 clap 0.708 mel 0.861  707632 @0.34s  [metal tray] Unstable spinner on metal plate 4
+0.753 clap 0.727 mel 0.815  494324 @7.29s  [ratchet click] backpedal.wav
+0.753 clap 0.705 mel 0.866  329032 @2.38s  [coin spin] Coin Rolling 2
+0.753 clap 0.695 mel 0.888  794903 @0.44s  [cash register] Cash Register (imitation with toaster and bells)
+0.752 clap 0.704 mel 0.866  494325 @0.33s  [bike spokes] spokes2.wav
+0.750 clap 0.710 mel 0.843  556482 @1.41s  [rotary dial] Rotary Dial 3
+0.749 clap 0.701 mel 0.860  347856 @0.00s  [rotary dial] Rotary Phone Winding Up
+0.749 clap 0.704 mel 0.852  707634 @2.05s  [metal tray] Unstable spinner on metal plate 6
+0.747 clap 0.703 mel 0.851  788790 @1.55s  [telephone dial] TELEPHONE HANG OFF, DIAL, HUNG UP
+0.747 clap 0.694 mel 0.871  538709 @0.32s  [coin spin] Spinning coin OBJCoin.wav
+0.747 clap 0.702 mel 0.853  556466 @2.00s  [rotary dial] Rotary Dial 8 (W/Pause)
+0.746 clap 0.726 mel 0.793  243610 @13.14s  [clock winding] CLOCK_WINDING.aiff
+0.746 clap 0.733 mel 0.775  420460 @13.96s  [bike spokes] funky spokes.wav
+0.746 clap 0.706 mel 0.838  79068 @0.41s  [cash register] Coho - Shutting Cash Register.wav
+0.746 clap 0.695 mel 0.864  853144 @0.41s  [coin tin] OBJCoin-Blue Snowball Microphone, CU_Bank, Tin, Coin, Insert
+0.745 clap 0.694 mel 0.866  556476 @1.56s  [rotary dial] Rotary Dial 9
+0.743 clap 0.709 mel 0.824  403518 @1.69s  [clock winding] Egg-Timer_Spring_Wind-up.wav
+0.743 clap 0.691 mel 0.864  556471 @1.88s  [rotary dial] Rotary Dial 4 (W/Pause)
+0.743 clap 0.706 mel 0.827  34968 @3.35s  [fishing reel] F.S. 1  fishing reel.aif
+0.743 clap 0.681 mel 0.886  20807 @5.36s  [lid spin] crash12 pot lid.wav
+0.742 clap 0.699 mel 0.844  533191 @4.71s  [coin spin] Coin Spin.wav
+results/bendigo_fable/ab_clap/AB_bendigo_clap1_clock-winding_27149.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap2_clock-winding_805328.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap3_bike-spokes_494326.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap4_rotary-dial_556481.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap5_rotary-dial_556469.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap6_rotary-dial_556475.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap7_bike-spokes_149908.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap8_bike-spokes_326335.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap9_bottle-cap_235903.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap10_bike-spokes_188035.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap11_bike-spokes_337079.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap12_coin-spin_366930.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap13_wind-up_811011.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap14_rotary-dial_556480.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap15_rotary-dial_556467.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap16_fishing-reel_466205.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap17_rotary-dial_556465.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap18_ratchet-click_493537.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap19_lid-spin_46061.mp3
+results/bendigo_fable/ab_clap/AB_bendigo_clap20_bike-spokes_494327.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
