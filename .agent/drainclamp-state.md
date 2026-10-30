@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=15 -->
+<!-- drainclamp-build: state; schema=1; generation=16 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -33,6 +33,8 @@
 - dc state -> commit and push .agent/ (state, project json, resume, log archive) to GitHub after every DrainClamp write, always (user, 30 Oct)
 - stacking -> align every broadcast play and stack (median/mean) for a cleaner clue and to test whether the recording runs past our crop (user, 30 Oct)
 - wrong guesses -> drop clips matching an exact on-air WRONG guess, by action not object (pushing the microwave button != closing the microwave door); warm/unclear matches kept and marked; searches stay object-level (tools/wrong_filter.py + analysis/mnc/onair_guesses.json) (user, 30 Oct)
+- mnc ear (31 Oct) -> only "Key_Old_Recorder" sounds close: not it, but the button mechanism is close (piano-key latching button); keyboards, disk tray, others "way off"; tape decks/recorders/CD players/old radio buttons already guessed wrong on air (user)
+- bendigo ear (31 Oct) -> grandfather-clock winding "almost identical but for the pitch"; clue ring ~2.57 kHz vs that clip ~3.3 kHz, so a lower-pitched (bigger/heavier) winder; lever, vending, rotary dial, bike wheel way off (user)
 <!-- /DC:DECISIONS -->
 
 <!-- DC:ROADMAP -->
