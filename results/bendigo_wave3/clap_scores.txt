@@ -1,0 +1,82 @@
+on-air filter: 0 clips match a wrong guess and are left out of the A/B files
+0.855 clap 0.851 mel 0.864  167048 @0.12s  [lever pull] Old Lever Pull
+0.854 clap 0.853 mel 0.857  84713 @5.53s  [vending machine] vending.wav
+0.834 clap 0.816 mel 0.876  232549 @2.32s  [vending machine] Introduce Coin Coffe Machine.wav
+0.831 clap 0.833 mel 0.825  215935 @5.77s  [vending machine] Vending machine
+0.828 clap 0.811 mel 0.868  29643 @0.24s  [coin slot] Coin into Slot.wav
+0.819 clap 0.805 mel 0.854  84872 @15.60s  [vending machine] Vending Machine.wav
+0.812 clap 0.786 mel 0.873  153090 @0.78s  [vending machine] Introduce_Coin_Vending_Machine.wav
+0.811 clap 0.790 mel 0.859  257494 @2.82s  [vending machine] 20141119_money-back_H2nextXY.wav
+0.810 clap 0.780 mel 0.879  233011 @0.32s  [vending machine] Coin Falling.mp3
+0.808 clap 0.793 mel 0.843  250195 @5.10s  [vending machine] vendingmachine
+0.807 clap 0.773 mel 0.886  233013 @1.92s  [vending machine] Insert Coin.mp3
+0.804 clap 0.783 mel 0.851  531502 @0.92s  [slot machine] Casino Ambience Without Voices.mp3
+0.796 clap 0.767 mel 0.863  232550 @2.23s  [vending machine] Insert Coin Drink Vending.wav
+0.793 clap 0.763 mel 0.864  84710 @4.43s  [vending machine] Soda Machine.wav
+0.790 clap 0.788 mel 0.796  119558 @15.49s  [vending machine] Office_vending machine_coin return.aif
+0.782 clap 0.769 mel 0.813  696745 @0.04s  [vending machine] vending_machine_coin_insert.wav
+0.782 clap 0.759 mel 0.834  752067 @0.00s  [crank lever] Mechanism Activation Sequence
+0.770 clap 0.737 mel 0.849  29648 @0.15s  [coin slot] Picking Coins Out of Return Slot.wav
+0.767 clap 0.730 mel 0.853  161216 @3.37s  [vending machine] Coffee Vending Machine.wav
+0.766 clap 0.713 mel 0.892  753804 @1.64s  [crank lever] Hand cranked water pump 2024 09 07
+0.766 clap 0.725 mel 0.862  534287 @22.91s  [water pump] Dripping Water and Sump Pump.wav
+0.765 clap 0.730 mel 0.847  447461 @2.19s  [cash register] flipping many coins
+0.763 clap 0.730 mel 0.839  192178 @2.66s  [cash register] Cash Register
+0.761 clap 0.743 mel 0.803  237743 @6.24s  [water pump] STE-030_drainage_pump.wav
+0.759 clap 0.738 mel 0.809  396965 @6.71s  [water pump] 170624_01 village pump.WAV
+0.759 clap 0.710 mel 0.874  646999 @0.86s  [vending machine] maquina dispensando.wav
+0.757 clap 0.725 mel 0.833  62036 @5.11s  [cash register] Ticker till.wav
+0.756 clap 0.714 mel 0.856  384700 @0.43s  [coin slot] Quarter Inserted, falls into coin return
+0.753 clap 0.695 mel 0.888  794903 @0.44s  [cash register] Cash Register (imitation with toaster and bells)
+0.751 clap 0.708 mel 0.851  361346 @0.61s  [jackpot] slot machine payout.wav
+0.749 clap 0.710 mel 0.839  261129 @15.67s  [vending machine] Vending Machines - Food Machine Distant 2.wav
+0.749 clap 0.688 mel 0.891  261127 @6.72s  [vending machine] Vending Machines - Drinks Machine Coin Return Button.wav
+0.748 clap 0.700 mel 0.859  737249 @1.63s  [one armed] 8M Stanley measuring-tape 5 Close
+0.746 clap 0.706 mel 0.838  79068 @0.41s  [cash register] Coho - Shutting Cash Register.wav
+0.745 clap 0.692 mel 0.869  845611 @10.20s  [lever ratchet] VEHEngi-HYUNDAI KONA_Engine Static Idle Exterior 01_KVV AUDI
+0.744 clap 0.692 mel 0.867  257492 @0.42s  [vending machine] 20141119_vending machine_H2nextXY.wav
+0.741 clap 0.740 mel 0.744  83189 @19.91s  [vending machine] vending refund 1.wav
+0.739 clap 0.682 mel 0.870  59669 @10.85s  [vending machine] sodacanmachine.mp3
+0.739 clap 0.673 mel 0.892  69716 @0.15s  [slot machine] start_0.wav
+0.737 clap 0.700 mel 0.825  845606 @6.59s  [lever ratchet] VEHEngi-HYUNDAI KONA_Engine Start Stop Exterior 03_KVV AUDIO
+0.736 clap 0.681 mel 0.864  250962 @3.99s  [vending machine] Vending Machine.wav
+0.736 clap 0.713 mel 0.789  515292 @10.00s  [water pump] Old cemetery water pump
+0.736 clap 0.677 mel 0.873  365756 @7.14s  [slot machine] chinece slot 1.mp3
+0.734 clap 0.689 mel 0.839  69695 @0.00s  [slot machine] coinsl3.wav
+0.734 clap 0.695 mel 0.825  366510 @2.11s  [fruit machine] Blending Fruit: Machine On-Off Soft Fruit .wav
+0.732 clap 0.686 mel 0.839  807843 @0.38s  [one armed] Complex Mechanism Medium
+0.729 clap 0.667 mel 0.874  832466 @0.74s  [hand pump] Handcar Pump 3 (In 2)
+0.729 clap 0.677 mel 0.851  87315 @3.76s  [hand lever] Bus Money FS.wav
+0.729 clap 0.706 mel 0.781  232560 @1.91s  [vending machine] Coin Drink Vending.wav
+0.729 clap 0.679 mel 0.845  845603 @6.91s  [lever ratchet] VEHEngi-HYUNDAI KONA_Engine Start Stop Exterior 01_KVV AUDIO
+0.728 clap 0.669 mel 0.865  180894 @0.72s  [cash register] Cash register opening.wav
+0.728 clap 0.688 mel 0.821  429205 @0.34s  [lever pull] 06 - Mecanismo sube.wav
+0.728 clap 0.679 mel 0.840  29649 @0.48s  [coin slot] Single Coin Return.wav
+0.727 clap 0.685 mel 0.823  448673 @18.08s  [slot machine] Soda Machine Bottle Drop (Binaural).wav
+0.727 clap 0.670 mel 0.859  636514 @4.41s  [signal lever] Turn Signal on 1990 Volvo 240 Sedan
+0.727 clap 0.665 mel 0.869  128442 @2.68s  [water pump] MANUAL WATER PUMP.wav
+0.727 clap 0.674 mel 0.848  29642 @1.32s  [coin slot] Coin Return.wav
+0.726 clap 0.664 mel 0.871  832470 @0.81s  [hand pump] Handcar Pump 5 (In 3)
+0.725 clap 0.671 mel 0.851  720091 @7.30s  [hand pump] 2024.01.21 Hand Water Pump 3
+0.723 clap 0.701 mel 0.773  324241 @0.17s  [vending machine] Coin Drop
+results/bendigo_wave3/ab_clap/AB_bendigo_clap1_lever-pull_167048.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap2_vending-machine_84713.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap3_vending-machine_232549.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap4_vending-machine_215935.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap5_coin-slot_29643.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap6_vending-machine_84872.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap7_vending-machine_153090.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap8_vending-machine_257494.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap9_vending-machine_233011.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap10_vending-machine_250195.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap11_vending-machine_233013.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap12_slot-machine_531502.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap13_vending-machine_232550.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap14_vending-machine_84710.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap15_vending-machine_119558.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap16_vending-machine_696745.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap17_crank-lever_752067.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap18_coin-slot_29648.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap19_vending-machine_161216.mp3
+results/bendigo_wave3/ab_clap/AB_bendigo_clap20_crank-lever_753804.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
