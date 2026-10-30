@@ -1,0 +1,32 @@
+
+13 files with a stroke pair. Top 40 by score:
+  1  0.870  gap 139.2 ms  ring  920 Hz T60 0.31  [gap 1.00 pre 0.00 crunch 1.00 thump 0.87 ring 0.89 dry 0.65 iso 0.92]  3holepunch1.wav
+  2  0.779  gap 158.9 ms  ring  633 Hz T60 0.50  [gap 0.86 pre 0.40 crunch 0.50 thump 0.80 ring 0.76 dry 0.91 iso 1.00]  CalendarPage_Tear_V02
+  3  0.774  gap 133.0 ms  ring  755 Hz T60 0.79  [gap 0.99 pre 0.00 crunch 1.00 thump 1.00 ring 0.66 dry 1.00 iso 0.55]  Office noise.mp3
+  4  0.710  gap 128.6 ms  ring  952 Hz T60 2.79  [gap 0.98 pre 1.00 crunch 1.00 thump 0.96 ring 0.69 dry 0.95 iso 0.00]  Hole puncher 2
+  5  0.692  gap 168.1 ms  ring  566 Hz T60 0.22  [gap 0.74 pre 0.00 crunch 0.83 thump 0.59 ring 0.47 dry 1.00 iso 1.00]  Hole-punch / puncher
+  6  0.686  gap 259.6 ms  ring 1093 Hz T60 5.00  [gap 0.01 pre 1.00 crunch 0.58 thump 1.00 ring 0.59 dry 1.00 iso 1.00]  hole puncher
+  7  0.629  gap 143.3 ms  ring  890 Hz T60 5.00  [gap 0.99 pre 1.00 crunch 1.00 thump 0.51 ring 0.62 dry 1.00 iso 0.00]  Sounds of a printing workplace machine
+  8  0.612  gap 128.5 ms  ring  634 Hz T60 3.20  [gap 0.98 pre 1.00 crunch 0.50 thump 1.00 ring 0.56 dry 1.00 iso 0.00]  keyboarding_in_the_afternoon.aif
+  9  0.576  gap 159.3 ms  ring 1126 Hz T60 5.00  [gap 0.86 pre 0.00 crunch 0.50 thump 0.38 ring 0.26 dry 1.00 iso 1.00]  Stapler usage
+ 10  0.554  gap 158.9 ms  ring 1200 Hz T60 1.17  [gap 0.86 pre 1.00 crunch 1.00 thump 0.88 ring 0.37 dry 0.00 iso 0.00]  sound of a perforator
+ 11  0.499  gap 143.8 ms  ring  854 Hz T60 1.25  [gap 0.99 pre 0.40 crunch 0.50 thump 0.84 ring 0.52 dry 0.00 iso 0.00]  custom_tmnt_2012_or_fate_inspired_punch_with_whip_crack_sound_heavy_03_07112025
+ 12  0.495  gap 117.1 ms  ring 1171 Hz T60 1.75  [gap 0.88 pre 0.40 crunch 0.83 thump 0.47 ring 0.40 dry 0.92 iso 0.00]  custom_heavy_punch_kick_thud_impact_sound_10022025
+ 13  0.472  gap 118.8 ms  ring  519 Hz T60 5.00  [gap 0.90 pre 0.00 crunch 0.50 thump 0.72 ring 0.42 dry 1.00 iso 0.00]  Hole puncher
+
+Evidence per mechanism (search query):
+  spiral binding                   n=   1 best 0.779 median-top5 0.779  matches gap,thump,ring,dry,iso  never -
+  office punch                     n=   9 best 0.870 median-top5 0.710  matches gap,crunch,thump,ring,dry,iso  never -
+  book binding machine             n=   1 best 0.629 median-top5 0.629  matches gap,pre,crunch,ring,dry  never iso
+  paper punch heavy                n=   2 best 0.499 median-top5 0.497  matches gap,crunch,thump  never iso
+A/B: results/mnc_binding/ab/AB_steel1_office-punch_273453.mp3
+A/B: results/mnc_binding/ab/AB_steel2_spiral-binding_840723.mp3
+A/B: results/mnc_binding/ab/AB_steel3_office-punch_244191.mp3
+A/B: results/mnc_binding/ab/AB_steel4_office-punch_360477.mp3
+A/B: results/mnc_binding/ab/AB_steel5_office-punch_447927.mp3
+A/B: results/mnc_binding/ab/AB_steel6_office-punch_388946.mp3
+A/B: results/mnc_binding/ab/AB_steel7_book-binding-machine_843324.mp3
+A/B: results/mnc_binding/ab/AB_steel8_office-punch_19552.mp3
+A/B: results/mnc_binding/ab/AB_steel9_office-punch_235505.mp3
+A/B: results/mnc_binding/ab/AB_steel10_office-punch_447155.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
