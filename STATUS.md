@@ -13,10 +13,10 @@ Owner rules: see CLAUDE.md (scripts for data collection, never start Fable unles
   12 Oct Ken "one of your guesses was remarkably close"; 19 Oct Auntie Julia "very very close".
 - Rejected by owner's ear: staplers, door handles/latches, hole punches, light switches, BBC ticket machine, SLR shutter,
   binding/office machines, battery/cartridge/SD clips (A/B zips sent). steel_score.py: clue 0.99, best real 0.83-0.90.
-- Podcast harvest (scripts in scratchpad `pods/`: harvest.py running → harvest.jsonl, transcripts/; extract_guesses.py;
-  build_package.py → pods/package/mnc_evidence.md). Sound first seen 26 Jul so far; jackpot $1,225 on 27 Jul → round
-  likely started mid-July. Waiting for harvest to reach the start (opening cryptic clues).
-- **Next (owner agreed to wait):** when the harvest stops, run build_package.py, then ASK the owner before starting a
+- Podcast harvest (harvest/mnc/; running from the scratchpad copy, synced with tools/sync_scratch.sh). Reached 21 Jun
+  with plays still present; jackpot $700 on 22 Jun (+$25/weekday) → round started early-mid June. stack_plays.py aligns
+  and stacks every play (stack/clue_stacked_*.wav, report.txt: does the recording run past our crop?).
+- **Next (owner approved):** when the harvest stops, rerun build_package.py and stack_plays.py, then start the
   fresh, no-context Fable in two steps (1: clue audio only; 2: + mnc_evidence.md and the rejected-by-ear list). NO past winners
   (owner: they anchor a category). No prior theories, no focus hints.
 - Freesound: this cloud session's IP is blocked. Use GitHub Actions `.github/workflows/pull-and-score.yml`
