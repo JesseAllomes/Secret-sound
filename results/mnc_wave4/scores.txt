@@ -1,0 +1,91 @@
+
+677 files with a stroke pair. Top 40 by score:
+  1  0.902  gap 158.3 ms  ring 1116 Hz T60 0.50  [gap 0.87 pre 1.00 crunch 1.00 thump 0.96 ring 0.78 dry 0.65 iso 1.00]  Soda Can Open.aif
+  2  0.866  gap 121.0 ms  ring 1166 Hz T60 0.29  [gap 0.92 pre 1.00 crunch 0.83 thump 1.00 ring 0.61 dry 1.00 iso 1.00]  click.wav
+  3  0.861  gap 149.6 ms  ring 1144 Hz T60 0.21  [gap 0.95 pre 0.00 crunch 1.00 thump 0.85 ring 0.76 dry 1.00 iso 1.00]  beer_soda_crack_open_can_fizz_1
+  4  0.853  gap 121.4 ms  ring  537 Hz T60 1.78  [gap 0.93 pre 1.00 crunch 1.00 thump 0.85 ring 0.58 dry 0.84 iso 1.00]  Page Turn 01
+  5  0.851  gap 157.0 ms  ring  712 Hz T60 0.64  [gap 0.88 pre 1.00 crunch 0.50 thump 0.93 ring 0.82 dry 1.00 iso 1.00]  ZipSmall.ogg
+  6  0.838  gap 148.4 ms  ring  727 Hz T60 1.83  [gap 0.96 pre 0.00 crunch 1.00 thump 1.00 ring 0.57 dry 1.00 iso 1.00]  Vintage Kodak Camera Shutter.wav
+  7  0.836  gap 141.4 ms  ring  799 Hz T60 1.32  [gap 0.99 pre 0.00 crunch 1.00 thump 0.99 ring 0.61 dry 0.71 iso 1.00]  Minolta Camera Shutter.wav
+  8  0.819  gap 137.1 ms  ring  643 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.67 thump 0.89 ring 0.74 dry 1.00 iso 1.00]  cd-dvd_drive_sounds.wav
+  9  0.819  gap 108.6 ms  ring 1057 Hz T60 0.39  [gap 0.78 pre 0.00 crunch 1.00 thump 0.74 ring 0.78 dry 0.94 iso 1.00]  Opening a soft drink can
+ 10  0.814  gap 127.9 ms  ring  553 Hz T60 0.35  [gap 0.97 pre 0.00 crunch 0.83 thump 0.79 ring 0.77 dry 0.64 iso 1.00]  Jewellery Box.wav
+ 11  0.804  gap 156.5 ms  ring  942 Hz T60 2.06  [gap 0.89 pre 0.40 crunch 0.50 thump 0.97 ring 0.72 dry 1.00 iso 1.00]  Old Camera Wind up and Click
+ 12  0.804  gap 145.6 ms  ring  854 Hz T60 2.07  [gap 0.98 pre 0.40 crunch 1.00 thump 0.83 ring 0.55 dry 0.47 iso 1.00]  mySound_GWECH_DPhotographyClass_classroom door
+ 13  0.801  gap 133.4 ms  ring  667 Hz T60 0.63  [gap 1.00 pre 1.00 crunch 0.50 thump 0.90 ring 0.64 dry 0.62 iso 1.00]  Sketch Write.wav
+ 14  0.797  gap 103.5 ms  ring 1032 Hz T60 0.96  [gap 0.70 pre 1.00 crunch 1.00 thump 0.86 ring 0.45 dry 1.00 iso 1.00]  Old Camera ZENIT.wav
+ 15  0.795  gap 105.1 ms  ring  896 Hz T60 1.77  [gap 0.73 pre 1.00 crunch 1.00 thump 0.61 ring 0.58 dry 1.00 iso 1.00]  ConfirmMachine.wav
+ 16  0.793  gap 160.1 ms  ring 1012 Hz T60 5.00  [gap 0.85 pre 1.00 crunch 1.00 thump 0.76 ring 0.44 dry 0.86 iso 1.00]  Clinking Coins 6
+ 17  0.789  gap 116.4 ms  ring  518 Hz T60 0.45  [gap 0.88 pre 0.00 crunch 0.50 thump 0.99 ring 0.78 dry 0.80 iso 1.00]  zipper arrangement
+ 18  0.786  gap 139.9 ms  ring  554 Hz T60 1.76  [gap 1.00 pre 1.00 crunch 0.83 thump 0.70 ring 0.43 dry 1.00 iso 1.00]  TapeDoorCloseFX_01
+ 19  0.784  gap 170.6 ms  ring  521 Hz T60 0.70  [gap 0.70 pre 0.00 crunch 1.00 thump 0.77 ring 0.71 dry 0.70 iso 1.00]  Door 3.wav
+ 20  0.783  gap 171.7 ms  ring  877 Hz T60 5.00  [gap 0.69 pre 0.40 crunch 1.00 thump 0.81 ring 0.56 dry 1.00 iso 1.00]  Clinking Coins 3
+ 21  0.783  gap 157.9 ms  ring 1144 Hz T60 0.53  [gap 0.87 pre 0.00 crunch 1.00 thump 0.73 ring 0.57 dry 1.00 iso 1.00]  7-bit Simple Wide Click Select Device Button BBM - Nova Sound.wav
+ 22  0.781  gap 123.0 ms  ring  704 Hz T60 5.00  [gap 0.94 pre 1.00 crunch 0.50 thump 1.00 ring 0.46 dry 1.00 iso 1.00]  squeak_11.aif
+ 23  0.780  gap 138.3 ms  ring  807 Hz T60 0.00  [gap 1.00 pre 0.40 crunch 0.83 thump 0.92 ring 0.58 dry 0.32 iso 0.93]  Opening Wine Bottle.mp3
+ 24  0.773  gap 193.0 ms  ring  760 Hz T60 0.39  [gap 0.38 pre 0.00 crunch 0.83 thump 0.95 ring 0.88 dry 0.62 iso 1.00]  Foley_Opening & Closing Bedroom Door.mp3
+ 25  0.773  gap 182.9 ms  ring 1118 Hz T60 0.72  [gap 0.52 pre 0.00 crunch 0.83 thump 0.94 ring 0.75 dry 0.83 iso 1.00]  pop can
+ 26  0.770  gap 119.6 ms  ring  740 Hz T60 0.72  [gap 0.91 pre 0.00 crunch 1.00 thump 0.87 ring 0.63 dry 0.80 iso 0.77]  GameBoy cartridge being inserted.wav
+ 27  0.770  gap  99.0 ms  ring  704 Hz T60 1.29  [gap 0.64 pre 0.00 crunch 0.67 thump 0.88 ring 0.77 dry 1.00 iso 1.00]  Casio AS-51R Cassette Player Play Button
+ 28  0.767  gap 170.5 ms  ring  920 Hz T60 0.98  [gap 0.70 pre 0.00 crunch 0.67 thump 0.92 ring 0.70 dry 1.00 iso 1.00]  mouse click.m4a
+ 29  0.765  gap 130.6 ms  ring  977 Hz T60 0.08  [gap 0.99 pre 1.00 crunch 0.83 thump 0.96 ring 0.57 dry 1.00 iso 0.53]  Opening+Closing 35mm film camera back
+ 30  0.764  gap 124.5 ms  ring  589 Hz T60 0.82  [gap 0.95 pre 1.00 crunch 0.75 thump 1.00 ring 0.69 dry 0.00 iso 0.68]  Wooden door opens and closes at the Colégio de São Bento
+ 31  0.761  gap 136.5 ms  ring  520 Hz T60 0.28  [gap 1.00 pre 0.40 crunch 0.67 thump 0.89 ring 0.43 dry 1.00 iso 1.00]  bd1hrd.wav
+ 32  0.761  gap 139.6 ms  ring  527 Hz T60 2.08  [gap 1.00 pre 1.00 crunch 0.75 thump 0.93 ring 0.30 dry 1.00 iso 0.92]  School Case with Pencils 01
+ 33  0.760  gap 132.4 ms  ring  782 Hz T60 1.40  [gap 0.99 pre 0.00 crunch 0.67 thump 0.87 ring 0.52 dry 1.00 iso 1.00]  Doors, cabinet, door, wood, open, close, magnet, shut 01.wav
+ 34  0.757  gap 135.0 ms  ring  502 Hz T60 2.06  [gap 1.00 pre 0.00 crunch 1.00 thump 0.73 ring 0.44 dry 0.78 iso 1.00]  pill bottle pop open pills rattle dull +click snap lid close plastic.flac
+ 35  0.757  gap 138.6 ms  ring 1151 Hz T60 3.85  [gap 1.00 pre 0.00 crunch 0.50 thump 1.00 ring 0.53 dry 1.00 iso 1.00]  Can opening pop.wav
+ 36  0.757  gap 179.6 ms  ring 1040 Hz T60 1.40  [gap 0.57 pre 1.00 crunch 0.50 thump 0.78 ring 0.72 dry 1.00 iso 1.00]  FLASK OPEN CLOSE.wav
+ 37  0.756  gap 114.0 ms  ring 1165 Hz T60 3.37  [gap 0.85 pre 0.00 crunch 1.00 thump 0.88 ring 0.38 dry 1.00 iso 1.00]  loading film camera.wav
+ 38  0.755  gap  93.5 ms  ring  516 Hz T60 0.93  [gap 0.55 pre 0.00 crunch 0.83 thump 0.89 ring 0.65 dry 1.00 iso 1.00]  Mechanical switch (latch) 03
+ 39  0.755  gap 160.4 ms  ring  731 Hz T60 0.00  [gap 0.84 pre 0.00 crunch 0.50 thump 1.00 ring 0.62 dry 1.00 iso 1.00]  Press Button.wav
+ 40  0.755  gap 101.1 ms  ring  858 Hz T60 0.73  [gap 0.67 pre 1.00 crunch 0.50 thump 0.90 ring 0.66 dry 0.56 iso 1.00]  clplong.wav
+
+Evidence per mechanism (search query):
+  pop open                         n=  59 best 0.902 median-top5 0.819  matches gap,crunch,thump,ring,dry,iso  never -
+  release button                   n=  44 best 0.838 median-top5 0.795  matches gap,crunch,thump,ring,dry,iso  never -
+  camera back                      n=  31 best 0.804 median-top5 0.781  matches gap,pre,crunch,thump,dry,iso  never -
+  pencil case                      n=  39 best 0.851 median-top5 0.761  matches gap,pre,thump,dry,iso  never -
+  film door                        n=  54 best 0.784 median-top5 0.760  matches gap,pre,crunch,thump,ring,iso  never -
+  button open                      n=  53 best 0.866 median-top5 0.757  matches gap,crunch,thump,ring,dry,iso  never -
+  camera door                      n=  30 best 0.804 median-top5 0.756  matches gap,crunch,thump,ring,dry,iso  never -
+  nintendo ds                      n=  47 best 0.789 median-top5 0.755  matches gap,crunch,thump,ring,dry,iso  never -
+  coin purse                       n=  37 best 0.793 median-top5 0.744  matches gap,crunch,thump,dry,iso  never -
+  flip open                        n=  38 best 0.853 median-top5 0.738  matches gap,crunch,thump,ring,dry,iso  never -
+  snap lid                         n=  14 best 0.754 median-top5 0.731  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  eject button                     n=  11 best 0.819 median-top5 0.728  matches gap,crunch,thump,ring,dry,iso  never -
+  gameboy                          n=  69 best 0.770 median-top5 0.719  matches gap,crunch,thump,ring,dry,iso  never -
+  cassette door                    n=  13 best 0.752 median-top5 0.713  matches gap,crunch,thump,ring,dry,iso  never pre
+  case button                      n=  18 best 0.767 median-top5 0.708  matches gap,crunch,thump,ring,dry,iso  never pre
+  spring lid                       n=   3 best 0.744 median-top5 0.697  matches gap,pre,crunch,thump,ring,dry  never -
+  glasses case                     n=  25 best 0.721 median-top5 0.685  matches gap,crunch,thump,ring,dry  never -
+  case snap                        n=  25 best 0.700 median-top5 0.678  matches crunch,thump,dry,iso  never pre
+  jewellery box                    n=   4 best 0.814 median-top5 0.675  matches gap,crunch,thump,ring,dry,iso  never -
+  tape door                        n=  31 best 0.786 median-top5 0.672  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  hinged lid                       n=   5 best 0.733 median-top5 0.664  matches gap,crunch,thump,iso  never -
+  flip phone                       n=  18 best 0.754 median-top5 0.644  matches gap,pre,crunch,thump,dry  never -
+  cd lid                           n=   3 best 0.646 median-top5 0.624  matches crunch,thump,ring,dry  never -
+  cd walkman                       n=   2 best 0.631 median-top5 0.603  matches gap,crunch,dry  never -
+  portable cd                      n=   3 best 0.664 median-top5 0.583  matches gap,pre,crunch,thump,ring,dry  never iso
+  compact mirror                   n=   1 best 0.531 median-top5 0.531  matches gap,pre,crunch,thump  never dry,iso
+A/B: results/mnc_wave4/ab/AB_steel1_pop-open_144031.mp3
+A/B: results/mnc_wave4/ab/AB_steel2_button-open_87023.mp3
+A/B: results/mnc_wave4/ab/AB_steel3_pop-open_759585.mp3
+A/B: results/mnc_wave4/ab/AB_steel4_flip-open_397548.mp3
+A/B: results/mnc_wave4/ab/AB_steel5_pencil-case_267521.mp3
+A/B: results/mnc_wave4/ab/AB_steel6_release-button_467185.mp3
+A/B: results/mnc_wave4/ab/AB_steel7_release-button_467186.mp3
+A/B: results/mnc_wave4/ab/AB_steel8_eject-button_651291.mp3
+A/B: results/mnc_wave4/ab/AB_steel9_pop-open_530855.mp3
+A/B: results/mnc_wave4/ab/AB_steel10_jewellery-box_325739.mp3
+A/B: results/mnc_wave4/ab/AB_steel11_camera-back_714951.mp3
+A/B: results/mnc_wave4/ab/AB_steel12_camera-door_254954.mp3
+A/B: results/mnc_wave4/ab/AB_steel13_pencil-case_396758.mp3
+A/B: results/mnc_wave4/ab/AB_steel14_camera-back_569223.mp3
+A/B: results/mnc_wave4/ab/AB_steel15_release-button_411679.mp3
+A/B: results/mnc_wave4/ab/AB_steel16_coin-purse_853711.mp3
+A/B: results/mnc_wave4/ab/AB_steel17_nintendo-ds_504659.mp3
+A/B: results/mnc_wave4/ab/AB_steel18_tape-door_782191.mp3
+A/B: results/mnc_wave4/ab/AB_steel19_film-door_416883.mp3
+A/B: results/mnc_wave4/ab/AB_steel20_coin-purse_853708.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav

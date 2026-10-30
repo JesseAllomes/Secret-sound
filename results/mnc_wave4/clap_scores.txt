@@ -1,0 +1,82 @@
+on-air filter: 30 clips match a wrong guess and are left out of the A/B files
+0.766 clap 0.740 mel 0.827  835523 @0.00s  [case button] 20251126_Click - Case close
+0.753 clap 0.745 mel 0.772  423512 @1.41s  [release button] Light Switch Click On and Off
+0.752 clap 0.717 mel 0.833  795444 @3.39s  [jewellery box] Wooden jewellery box
+0.744 clap 0.711 mel 0.822  735705 @3.53s  [glasses case] (OS) Glasses Case Closing
+0.740 clap 0.715 mel 0.797  265634 @1.72s  [case snap] Plastic CD case opening and closing
+0.738 clap 0.711 mel 0.801  98329 @0.19s  [cassette door] cassette tape action 2.wav
+0.733 clap 0.678 mel 0.859  622060 @0.00s  [button open] button click
+0.723 clap 0.679 mel 0.826  89557 @13.89s  [camera door] Foley_Kodak K500 taking pictures & forwarding film w. flash.
+0.719 clap 0.675 mel 0.822  651291 @15.67s  [eject button] cd-dvd_drive_sounds.wav
+0.716 clap 0.663 mel 0.840  829131 @7.82s  [flip phone] paper turning
+0.716 clap 0.661 mel 0.844  367852 @0.00s  [release button] Button Pressed
+0.712 clap 0.652 mel 0.851  611962 @0.00s  [button open] Press Button.wav
+0.710 clap 0.651 mel 0.848  815491 @2.32s  [button open] Mechanical switch (latch) 03
+0.708 clap 0.631 mel 0.886  815493 @0.00s  [button open] Mechanical switch (latch) 02
+0.706 clap 0.655 mel 0.827  714212 @6.09s  [snap lid] Bottle Cap Snap 2
+0.706 clap 0.647 mel 0.843  714211 @2.99s  [snap lid] Bottle Cap Snap 1
+0.704 clap 0.706 mel 0.701  391510 @15.32s  [button open] clicktrack.wav (series of switches or buttons)
+0.703 clap 0.682 mel 0.753  678613 @1.01s  [film door] Porta CIGOLIO.wav
+0.703 clap 0.646 mel 0.835  92616 @3.08s  [camera back] camera servo.wav
+0.702 clap 0.624 mel 0.882  714951 @2.42s  [camera back] Old Camera Wind up and Click
+0.700 clap 0.624 mel 0.879  815492 @0.13s  [button open] Mechanical switch (latch) 01
+0.699 clap 0.674 mel 0.759  538507 @2.17s  [cd lid] GameCube Disc Drive Open and Close
+0.698 clap 0.650 mel 0.810  101479 @2.13s  [lid catch] Opening Bin Lid.wav
+0.698 clap 0.653 mel 0.802  819602 @1.50s  [flip phone] Nikon D750 Shutter Sound
+0.697 clap 0.637 mel 0.837  401183 @1.07s  [flip open] OldSwitches.wav
+0.695 clap 0.632 mel 0.843  467185 @1.78s  [release button] Vintage Kodak Camera Shutter.wav
+0.695 clap 0.645 mel 0.812  89562 @0.13s  [camera door] Foley_Opening & Closing Bedroom Door.mp3
+0.689 clap 0.641 mel 0.801  584850 @15.23s  [film door] Doors, Wood,  Creaky, Door Knob turns Several Times.wav
+0.688 clap 0.636 mel 0.808  873727 @0.19s  [case button] Apple iMac G3 Button Presses
+0.687 clap 0.642 mel 0.793  845461 @22.20s  [eject button] S-VHS VTR tape insert & eject
+0.687 clap 0.620 mel 0.843  624637 @10.97s  [release button] Casio AS-51R Cassette Player Play Button
+0.687 clap 0.615 mel 0.853  186430 @0.64s  [release button] button lift.wav
+0.686 clap 0.629 mel 0.820  853385 @16.80s  [portable cd] Portable DVD Player Disc Start & Stop
+0.686 clap 0.611 mel 0.861  187779 @0.04s  [release button] Button Click 03
+0.683 clap 0.613 mel 0.849  425068 @3.45s  [pencil case] Open and Close the Casa
+0.683 clap 0.641 mel 0.781  831909 @1.54s  [flip phone] Light switch turning on and off
+0.682 clap 0.614 mel 0.842  62664 @6.36s  [case snap] zoom case open close.wav
+0.679 clap 0.610 mel 0.842  418329 @3.18s  [flip open] detonator switching
+0.678 clap 0.667 mel 0.704  344536 @1.06s  [cd walkman] open-cd-player-play-close.wav  << on air wrong: 6 Oct: closing the top of an old-school CD player
+0.678 clap 0.606 mel 0.846  187778 @0.00s  [release button] Button Click 04
+0.677 clap 0.622 mel 0.807  751058 @2.84s  [button open] Digital smart lock Samsung door mechanical unlock and lock
+0.676 clap 0.642 mel 0.756  456505 @0.15s  [release button] Chunky Plastic Button being Pressed
+0.676 clap 0.652 mel 0.733  33463 @2.79s  [button open] elevator_button_door.wav
+0.675 clap 0.614 mel 0.818  221878 @0.89s  [pop open] open_soda.ogg
+0.674 clap 0.586 mel 0.878  199679 @0.42s  [case snap] R05_0364.mp3
+0.671 clap 0.615 mel 0.802  585478 @9.40s  [camera back] Opening+Closing 35mm film camera back
+0.671 clap 0.625 mel 0.778  803427 @9.11s  [eject button] U-Matic recorder insert & eject
+0.670 clap 0.606 mel 0.820  513787 @2.36s  [button open] opening laptop and putting it on.wav
+0.669 clap 0.610 mel 0.808  721727 @2.34s  [release button] Power button (SoundAction 045)
+0.668 clap 0.630 mel 0.757  736182 @1.52s  [case button] PC case buttons
+0.668 clap 0.621 mel 0.777  366719 @7.47s  [gameboy] GameBoy cartridge being inserted.wav
+0.667 clap 0.651 mel 0.705  721713 @2.20s  [release button] Synth button (SoundAction 031)
+0.667 clap 0.574 mel 0.883  187784 @0.00s  [release button] Button Click 06
+0.667 clap 0.602 mel 0.819  105210 @14.53s  [camera back] super8-back.aif
+0.666 clap 0.643 mel 0.721  69493 @13.60s  [case snap] DVD Cases.wav
+0.666 clap 0.632 mel 0.745  721712 @1.45s  [glasses case] Glasses case (SoundAction 030)
+0.665 clap 0.589 mel 0.843  187783 @0.00s  [release button] Button Click 07
+0.665 clap 0.632 mel 0.741  396090 @1.16s  [camera back] Nikon FM Shutter 125 Crank and Shot 2
+0.664 clap 0.627 mel 0.751  83667 @2.89s  [pop open] Opening Can Slow.wav  << on air wrong: 1 Sep: opening a can
+0.662 clap 0.587 mel 0.838  800110 @0.00s  [tape door] close tape deck door.wav  << on air wrong: 27 Sep: closing a tape deck
+results/mnc_wave4/ab_clap/AB_mnc_clap1_case-button_835523.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap2_release-button_423512.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap3_jewellery-box_795444.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap4_glasses-case_735705.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap5_case-snap_265634.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap6_cassette-door_98329.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap7_button-open_622060.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap8_camera-door_89557.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap9_eject-button_651291.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap10_flip-phone_829131.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap11_release-button_367852.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap12_button-open_611962.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap13_button-open_815491.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap14_button-open_815493.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap15_snap-lid_714212.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap16_snap-lid_714211.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap17_button-open_391510.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap18_film-door_678613.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap19_camera-back_92616.mp3
+results/mnc_wave4/ab_clap/AB_mnc_clap20_camera-back_714951.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
