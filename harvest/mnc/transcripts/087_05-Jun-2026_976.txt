@@ -1,0 +1,64 @@
+BEST BITS: Chicken Burger
+Fri, 05 Jun 2026 00:09:07 +0000
+plays: [{'t': np.float64(1051.32), 'ncc': 0.809}, {'t': np.float64(1058.62), 'ncc': 0.859}]
+
+[  976.3] It's the early bird edition of The Secret Sound.
+[  980.1] Thanks to 40 Winx Port Macquarie.
+[  983.0] Come in and see the team at Port Home Zone.
+[  985.1] 40 Winx, serious about sleep.
+[  987.3] Yeah, let's cross live right now to Larry from Lake Caddie.
+[  991.0] How are you, mate?
+[  992.3] I'm good, how are you?
+[  993.3] Yes, I'm going fantastic.
+[  995.3] How's it all going where you are right now?
+[  997.6] Have you managed to catch this ripper sunrise today?
+[ 1002.4] Yeah, I'm actually out working right now.
+[ 1003.9] So I'm getting to see it come up right now.
+[ 1006.4] Working or walking, did you say?
+[ 1008.4] Working.
+[ 1009.1] Working.
+[ 1009.8] Remind me what you do again, Larry?
+[ 1011.6] I do door dash.
+[ 1013.4] That is incredible.
+[ 1014.9] That is incredible.
+[ 1016.3] Wow, what have you been dashing to people's doors this morning?
+[ 1020.5] Oh, it's been all McDonald's so far this morning.
+[ 1025.3] Wow, I love that.
+[ 1027.1] That's incredible.
+[ 1028.5] OK, well, gee, maybe you could door dash some stuff
+[ 1031.7] to the station, to the radio station one day.
+[ 1034.3] I go by there quite often.
+[ 1035.6] All right, OK.
+[ 1036.8] Well, I've got your number.
+[ 1038.4] You've got mine.
+[ 1039.0] We can hook something up.
+[ 1040.4] There we go.
+[ 1041.1] Well, mate, you know what would be a great perk?
+[ 1045.2] Be a good tip, $425 we've got here.
+[ 1048.5] Larry, all you've got to do is tell me
+[ 1050.1] what this secret sound is.
+[ 1052.3] And then I'll give it to you.
+[ 1054.5] Are you starting to open something with a can opener?
+[ 1060.7] No, sorry, Larry.
+[ 1062.0] Oh, well.
+[ 1062.8] Mate, have a wonderful Friday.
+[ 1064.2] Have you got a busy weekend door dashing as well,
+[ 1066.6] this long weekend?
+[ 1068.0] We're doing the art walk tonight.
+[ 1070.6] Oh, yeah.
+[ 1071.7] So me and the wife are going to go there.
+[ 1073.5] And then, yeah, Saturday, Sunday are busy days.
+[ 1075.4] So go to work.
+[ 1076.7] Good on you, Larry.
+[ 1078.0] You call the show anytime, mate.
+[ 1080.0] Oh, thank you.
+[ 1080.7] See you, legend.
+[ 1081.3] Bye bye.
+[ 1082.2] Secret sound.
+[ 1083.1] It is back at 8 o'clock, 1-333-53 worth $425.
+[ 1089.7] All the incorrect guesses we've had so far for the secret sound,
+[ 1093.3] by the way.
+[ 1094.1] Go on the podcast at least, and just search up Sarge for breakfast.
+[ 1098.1] Let's do Locals Guard next, top three things going on in our backyard
+[ 1101.1] and beyond when it comes to events.
+[ 1102.7] 18 away from Sarge.

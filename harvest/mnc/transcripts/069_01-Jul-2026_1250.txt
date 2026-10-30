@@ -1,0 +1,52 @@
+BEST BITS: Twas The Night Before Sarge's 25th
+Wed, 01 Jul 2026 23:18:31 +0000
+plays: [{'t': np.float64(1325.89), 'ncc': 0.736}, {'t': np.float64(1334.04), 'ncc': 0.921}]
+
+[ 1250.9] Recommendations for names, still some time to get them in before 9 o'clock.
+[ 1255.2] The show ends today at 1-3-3-5-3 or you can text in 0468040 MMM.
+[ 1261.2] We are creating our very own MMM Mid-North Coast.
+[ 1265.6] Sarge for breakfast show beer with Black Duck Brewery. Unbelievable.
+[ 1270.3] Sarge for breakfast. MMM.
+[ 1273.5] It's MMM's secret sound.
+[ 1276.1] Thanks to 40 Winks Port Macquarie.
+[ 1278.1] So go in and see the team at Court Home Zone.
+[ 1280.2] 40 Winks. Serious about sleep.
+[ 1282.3] Mummate, Rebecca, how are you doing?
+[ 1284.5] I'm good, Sarge. How are you?
+[ 1286.1] Yeah, good. Do you get Beck?
+[ 1289.1] Yeah, all the time.
+[ 1290.3] Do you get Becker?
+[ 1292.7] No, no.
+[ 1294.1] So you just do you get anything else outside of Rebecca or Beck?
+[ 1298.1] No, that's it.
+[ 1299.3] Yeah, sort of hard to do anything else, isn't it?
+[ 1302.6] How's life? How's things been going?
+[ 1304.6] It's been a little while since we've had a little chinwag.
+[ 1306.9] Yeah, good, good. Working hard.
+[ 1309.2] Good. Here we go.
+[ 1310.7] Let's give you some cash. $875.
+[ 1313.7] I mean, if you do get it, what's the mind go to first as far as spending?
+[ 1319.0] Oh, it's nearly school holidays.
+[ 1321.8] So maybe something fun for the kids.
+[ 1323.5] Come in very handy.
+[ 1325.1] All right, here we go.
+[ 1326.5] There it is.
+[ 1327.6] What do you think?
+[ 1329.1] I reckon it's pushing a jacked on the tape player.
+[ 1335.7] No, Rebecca.
+[ 1337.5] It's not. But did you hear the little shutter in my voice just then?
+[ 1341.0] I did.
+[ 1342.4] Hmm.
+[ 1344.4] Yeah, I got I don't think I got butterflies.
+[ 1347.2] Something happened.
+[ 1348.0] My heart started racing. It was weird.
+[ 1351.9] I had two guesses, but yeah,
+[ 1355.1] I know you could be very close, Rebecca.
+[ 1358.3] Anyway, have a good one. We'll talk soon.
+[ 1360.6] Thank you.
+[ 1361.3] See you by Secret Sound.
+[ 1363.6] It is back tomorrow morning after six thirty and eight o'clock on one trip
+[ 1367.0] with three five three now worth a whopping nine hundred dollars.
+[ 1370.0] All the incorrect guesses for it so far.
+[ 1371.5] Go on the Sarge for breakfast podcast listener.
+[ 1374.7] Let's catch up with Maroon from Triple M and I rel and the rush hour next.

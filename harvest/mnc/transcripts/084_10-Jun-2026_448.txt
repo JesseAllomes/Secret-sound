@@ -1,0 +1,114 @@
+BEST BITS: It's Corn!
+Wed, 10 Jun 2026 22:51:09 +0000
+plays: [{'t': np.float64(523.0), 'ncc': 0.915}, {'t': np.float64(635.82), 'ncc': 0.786}, {'t': np.float64(650.64), 'ncc': 0.872}]
+
+[  448.0] Sarge here for breakfast.
+[  450.0] We are 6.24 currently 13 degrees in Kamsi,
+[  453.4] heading for 22 there today.
+[  455.5] Showers increasing.
+[  457.5] Just a little heads up,
+[  458.6] cause I got a message saying,
+[  460.6] Sarge I heard that you're broadcasting live somewhere
+[  463.8] this weekend, but when and where?
+[  466.7] And then I got concerned that there was an ad running around
+[  469.8] not saying when and where,
+[  471.1] but I believe that is not the case.
+[  474.1] Thank goodness.
+[  475.4] Cause I'd be in trouble naughty boy.
+[  477.9] I'll be broadcasting from Beatty's Quality Furniture
+[  480.7] in Port Macquarie this Sunday.
+[  483.9] Yeah.
+[  484.8] 9 a.m. till mid day for their flash sale.
+[  489.2] We'll have a free sausage sizzle.
+[  490.8] Plus we'll have the triple M prize wheel there
+[  492.9] with your chance to have a spin.
+[  494.8] Don't miss the flash sale at Beatty's Quality Furniture
+[  497.9] in Port Macquarie this Sunday.
+[  499.5] Come and say hello.
+[  501.0] Michael and the team are fantastic.
+[  504.2] We love them and they love us.
+[  507.6] It's mutual.
+[  508.8] How good's that?
+[  510.0] All right.
+[  510.8] 1-333-53 is the number to call right now
+[  513.7] if you would like to score yourself $500
+[  518.1] with a secret sound.
+[  519.6] All you gotta do is correctly identify what this sound is.
+[  524.4] Yeah.
+[  525.2] And if you're right $500,
+[  526.2] gone straight into your bank account.
+[  527.6] Pretty good, hey?
+[  528.4] The secret sound.
+[  529.3] Thanks to 40 Wings Port Macquarie,
+[  531.3] it is just around the corner.
+[  532.4] Good luck.
+[  536.2] It's the early bird edition of the secret sound.
+[  540.4] Thanks to 40 Wings Port Macquarie,
+[  542.4] come in and see the team at Port Home Zone.
+[  544.7] 40 Wings, serious about sleep.
+[  546.8] Well, it's a very good morning to you, Aunty Julia.
+[  550.1] How are you?
+[  552.3] Thank you.
+[  553.2] I'm watching the sunrise trying to peek out
+[  554.7] underneath the clouds.
+[  556.0] Oh my goodness me, can you please?
+[  558.3] Oh, hang on a second, Aunty Julia.
+[  559.9] I'm looking outside my studio window right now
+[  562.7] and it's looking lovely and pastel.
+[  564.6] You know that pastel-y pink?
+[  566.5] Yeah.
+[  567.4] Is that what you're getting?
+[  568.7] No, mine's going a little bit orange.
+[  570.8] Oh.
+[  572.3] What time does it fully rise around your joint,
+[  575.3] your neck of the woods?
+[  578.0] Maybe in about another 15 minutes.
+[  579.7] Yeah.
+[  580.7] It's annoying because where the sun is now,
+[  585.9] if I stay in bed too long,
+[  587.4] it actually shines straight into my face.
+[  589.8] Oh, that's not ideal.
+[  591.7] How rude of the sun, you know what I mean?
+[  595.4] Well, it's us because the earth moves
+[  597.4] and you don't realise how quickly it actually moves.
+[  600.1] You're right.
+[  601.0] Is there anything better than watching a sunrise
+[  602.7] or a sunset, Aunty Julia?
+[  605.1] No, I think it's probably the most beautiful thing we have.
+[  608.3] It is so special.
+[  610.3] All right, we can talk about this forever.
+[  613.0] Hey, how did your trip go?
+[  614.2] How did the trip go down in Sydney?
+[  616.7] Really good.
+[  617.6] My grandson, he doesn't actually turn 21,
+[  621.6] he'll be on the 16th and he'll be in Amsterdam when he does.
+[  624.4] Yes.
+[  625.2] But not with good, thank you.
+[  626.1] A good 21st, wonderful.
+[  627.1] Okay, well, it's always good to get that money back
+[  630.1] after a big weekend away, spending $500.
+[  634.7] Okay, so what do you think that secret sound is, Julia?
+[  638.7] I'm hoping that it's the gas lighter you use
+[  641.4] to light a candle or barbecue or something like that.
+[  644.8] Oh yeah, okay.
+[  645.7] I mean, we're trying to give away a barbecue at the moment.
+[  648.0] So potentially, would it be in that realm?
+[  652.1] No, sorry, Aunty Julia.
+[  653.9] Okay, thank you.
+[  655.3] You look after yourself, enjoy that sunrise.
+[  657.8] It's, you know what, it does go very quickly.
+[  659.8] It's almost up from where I can see right now.
+[  662.6] Yeah, it is.
+[  663.4] Yeah.
+[  664.3] Okay, thank God.
+[  665.1] See ya by, okay, secret sound.
+[  666.5] It is back at eight o'clock.
+[  667.4] One triple three, five, three worth $500.
+[  671.1] We put all of the incorrect guesses too, by the way.
+[  673.4] On Massage for Breakfast podcast at listener.
+[  676.4] Oh, that's right.
+[  677.6] I was gonna play this for Aunty Julia
+[  679.8] because when Lorraine, have you ever seen
+[  682.8] Lorraine comes on?
+[  683.8] We do the, have you ever seen the rain song from Credence?
+[  687.2] The Beatles have a song called Julia too.

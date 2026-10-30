@@ -1,0 +1,52 @@
+BEST BITS: It's Corn!
+Wed, 10 Jun 2026 22:51:09 +0000
+plays: [{'t': np.float64(1714.79), 'ncc': 0.88}, {'t': np.float64(1716.34), 'ncc': 0.875}]
+
+[ 1639.8] I'm gonna see the team at court home zone.
+[ 1641.8] 40 weeks, serious about sleep.
+[ 1643.8] Oh, hello Trish from South Kempe.
+[ 1646.8] Yeah, um, West Kempe I am, but I work for South.
+[ 1651.8] Oh, you're... sorry, you reside in West Kempe, but you work in the South.
+[ 1656.8] Mclay options.
+[ 1657.8] Yep, that's it. Under Mclay options with Sean and that.
+[ 1660.8] Mm-hmm. Sean, great man.
+[ 1662.8] Variety?
+[ 1663.8] Yeah.
+[ 1664.8] Wonderful too.
+[ 1665.8] Okay, I've got $500 to give away here Trish.
+[ 1669.8] What do you want to do with the cash if you win it?
+[ 1671.8] I'll put it into something decent.
+[ 1674.8] Decent? Good.
+[ 1676.8] Hey, I heard you...
+[ 1677.8] Yeah, well...
+[ 1678.8] Yeah, go, go.
+[ 1679.8] Um, what were you gonna say?
+[ 1681.8] Well, I was gonna say, I heard you saying off the air that it's cold.
+[ 1686.8] It is, it's cold if you don't cover yourself over with a nice blanket.
+[ 1690.8] Mm-hmm.
+[ 1691.8] Do you have a nice...
+[ 1692.8] That's why I'm just sitting on the lounge, that's why.
+[ 1694.8] So you've got a nice warm blanket. Do you have a, you know, a heater or an aircon or something, Trish?
+[ 1700.8] Aircon with the heater on it.
+[ 1702.8] Oh, good. Very good. Okay, I was gonna say you could maybe, you know, put the $500 towards some warming... some warming devices, you know?
+[ 1710.8] Yeah.
+[ 1711.8] All right, here we go. Here is the secret sound, Trish.
+[ 1714.8] I'll play it once again.
+[ 1716.8] But good luck. What do you think it is? For $500, Trish from West Kempe.
+[ 1721.8] Is it something for in the kitchen or something?
+[ 1724.8] Is it something in the kitchen?
+[ 1726.8] Yeah, it's used in the kitchen.
+[ 1728.8] Well, I'm gonna have to have a bit more of a specific guess.
+[ 1732.8] Name something in the kitchen that it could be.
+[ 1738.7] Yeah.
+[ 1739.7] Yeah.
+[ 1740.7] You know when you open your tins and...
+[ 1743.7] Uh-huh.
+[ 1744.7] Open your tins with the, um...
+[ 1746.7] You put the thing on the end and that new arm lock when the, um...
+[ 1750.7] You don't open them.
+[ 1751.7] Can't open them? Tin opener?
+[ 1753.7] Yeah, tin opener.
+[ 1754.7] Okay. No, it's not. Sorry, Trish.
+[ 1757.7] Hey, Trish. Good hearing your voice, eh?
+[ 1759.7] Yeah.

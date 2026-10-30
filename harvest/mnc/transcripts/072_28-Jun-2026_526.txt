@@ -1,0 +1,26 @@
+BEST BITS: Shall We Brew Our Very Own Triple M Beer?
+Sun, 28 Jun 2026 22:58:43 +0000
+plays: [{'t': np.float64(601.16), 'ncc': 0.863}, {'t': np.float64(613.93), 'ncc': 0.873}]
+
+[  526.2] this week to explain just how insufferable I get around birthdays but I call it the festival
+[  531.7] of George. It's a week long festival celebrating all things George, all things Sarge. It's
+[  540.7] great, it's a really wonderful time, I'm looking forward to it. Now there was another
+[  545.4] thing was I wanted to talk to you about, I had a listener come to an outside broadcast
+[  552.6] on Saturday just gone at War Hope Mitre 10 and his name's Carl, he's a big fan of the show,
+[  559.4] he came and got me a coffee but he said that that was a bloke, sounds like a top bloke and
+[  565.7] I want to catch up with him soon and I said well you know what, he's moving to Kempsey
+[  570.4] in a couple of weeks time. Yes, although it'll be good, we'll be able to catch up with
+[  575.2] everybody. Yeah, well I think we need to do some 6 o'clock club breakfast club meet up,
+[  581.1] you know, get everyone together. Oh I reckon that would be great, yeah we can get Aunty
+[  584.7] Julia in and we can get Chris and... Lorraine. Yes Lorraine, young Cooper, yeah. The traffic
+[  592.1] controller man, we've got an army don't we? We certainly have. Mate, let's get you some
+[  597.7] cash $800, all you've got to do is tell me what this sound is, what do you think? Could
+[  604.3] it be turning a switch on or off on a powerpoint or a power board? Have a listen again.
+[  613.6] Oh mate, it sounds exactly like it, no it's not it though sorry. It was safe travels on
+[  621.6] the roads, always good hearing your voice. No worries, catch up soon. See ya legend bye.
+[  626.2] Secrets down, back at 8 o'clock 1.353 is the number two call to get involved there,
+[  632.4] Port Macquarie and also incorrect guesses for the Secrets Down go on the Sarge Breakfast
+[  637.6] Podcast at least, so check them out to get closer to the cash. Up next we're going to
+[  642.5] talk about winning the ultimate origin experience at home just for texting the show. Standby.
+[  650.7] Ronan Keating, 20 away from 7. Welcome to the 6 o'clock club, this is triple M at Mid
+[  658.0] North Coast.

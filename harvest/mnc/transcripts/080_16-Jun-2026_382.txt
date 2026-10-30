@@ -1,0 +1,45 @@
+BEST BITS: Wasabi Wednesday
+Tue, 16 Jun 2026 22:57:08 +0000
+plays: [{'t': np.float64(457.15), 'ncc': 0.907}]
+
+[  383.2] Happy hump day mate, how's life?
+[  386.2] Oh mate, living the dream.
+[  388.2] Yeah, living the dream.
+[  390.2] Talk to me about the dream mate, what's the dream look like for you?
+[  395.2] Mate, at the moment everything's going sweet, yeah.
+[  398.2] We're getting there, yeah, we're getting there.
+[  401.2] That's good.
+[  402.2] And we're not too far away from your big move to the MNC?
+[  407.2] No, no, about 24, 25 days.
+[  411.2] That's good.
+[  412.2] Mate, we're getting closer, yeah.
+[  414.2] Yeah.
+[  415.2] Well, you know, with big moves and new opportunities and houses and this and that, it's always good to have a bit of extra cash, isn't it?
+[  423.2] Yeah, good to catch up last week with the coffee there mate, I hope you enjoyed it.
+[  427.2] Oh mate, yes, absolutely, that was such a good coffee.
+[  431.2] Yeah.
+[  432.2] I've got my order down pat down there at the hill, you just go, hey, you know, Sarge wants a coffee and they know what to get.
+[  439.2] Exactly, yeah, it's getting like that now.
+[  441.2] Yeah, yeah, exactly.
+[  443.2] No, I really appreciate that mate, it was good.
+[  445.2] And we did a FaceTime with your family.
+[  448.2] Yes, lovely, yeah, good catch up.
+[  450.2] Very good catch up, little family reunion.
+[  452.2] Okay, mate, 600 bucks, I'll give it to you if you can correctly identify what this sound is.
+[  457.2] What are we thinking this morning?
+[  460.2] Well, would it be as simple as clicking the button on a mouse for the computer?
+[  466.2] No, no, it's not Waza.
+[  469.2] Thanks for guessing though mate.
+[  471.2] Thank you for the door report.
+[  472.2] That's right, have a wonderful Wednesday Waza.
+[  475.2] You too, catch up.
+[  476.2] See ya legend, good on ya.
+[  477.2] Secret Sound, it is back at 8 o'clock on 13353, as I said, worth $600 and all of the incorrect guesses so far for it.
+[  485.2] Go on the Sarge for breakfast podcast at listener.
+[  489.2] More on the other side of this, at the M's.
+[  491.2] Good morning.
+[  492.2] Come on, yeah.
+[  493.2] This is the Mid-North Coast, triple M.
+[  496.2] It is Sarge here for breakfast.
+[  498.2] We are live on your radio and the listener app.
+[  501.2] Nineteen minutes.

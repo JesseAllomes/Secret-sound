@@ -1,0 +1,61 @@
+BEST BITS: Music Makes You Feel Things
+Tue, 14 Jul 2026 22:56:10 +0000
+plays: [{'t': np.float64(550.86), 'ncc': 0.909}, {'t': np.float64(570.89), 'ncc': 0.877}]
+
+[  475.9] G'day, how you going mate?
+[  477.3] I'm very well thank you.
+[  478.8] What's been going on in your wonderful world in Port Macquarie?
+[  482.3] Oh, nothing exciting, really nothing much.
+[  486.1] Now I know for a fact that you are going to infamous this Friday.
+[  491.7] I know and I'm going to miss out on the launch, damn.
+[  495.3] You're going to miss out on the launch of the triple-A and beer but that's okay.
+[  499.3] I know.
+[  500.0] Lorraine, do you have, are you going with anybody?
+[  502.6] Are you going with your sister or?
+[  504.5] No, I'm going with my neighbour actually.
+[  506.5] He wants to go, so I'll go in.
+[  508.8] Okay, great.
+[  510.1] Because Lorraine, I've got another double pass to infamous to give to you right now
+[  516.2] because you called up for the secret sound.
+[  517.8] Why not?
+[  518.2] Do you have another two friends you want to take?
+[  520.5] Yeah, I was an organiser.
+[  522.7] Very good.
+[  523.7] Port Macquarie, get ready for infamous cabaret circus, adults only circus.
+[  528.1] Cabaret and comedy under the Spiegel big top from July 10.
+[  531.9] Book at infamous.net.au.
+[  534.5] One of the stars of the infamous show will be on this program at 10 past 8.
+[  540.3] Looking forward to catching up with him.
+[  542.5] Oh, yeah.
+[  543.2] Yeah, that'll be good.
+[  544.2] Lorraine, let's do this.
+[  546.1] Here is the secret sound.
+[  549.2] Just go once again for good luck.
+[  551.3] What do you think?
+[  551.9] I'll give you $1,000 if you're correct.
+[  556.2] There's a power board out.
+[  557.3] I have a power board and sometimes you do a little toggle switch on the power board.
+[  561.9] The latest one that I've bought now is the push button.
+[  564.8] Oh, yeah.
+[  565.8] And you push the button and it goes click, click.
+[  567.9] So rather than the switch, it's the button on the power board.
+[  571.5] Mm.
+[  572.2] There you go.
+[  573.4] And it's kind of got that plasticy kind of...
+[  575.4] Yeah, you're right, Lorraine.
+[  577.0] No, it's not.
+[  578.0] It's not Lorraine.
+[  578.9] Hey, enjoy infamous with your extra two friends coming along now.
+[  584.1] Good on you.
+[  584.8] David is here.
+[  587.6] There she is, Lorraine.
+[  590.9] Lorraine.
+[  593.0] And the secret sound, it is back at 8 o'clock on 1 triple 353.
+[  597.9] Still worth $1,000.
+[  599.7] And all of the incorrect guesses so far for the secret sound
+[  603.6] go on the Sarge for Breakfast podcast at Listener.
+[  605.9] So get along to that to get close up to the catch.
+[  609.3] Good luck.
+[  610.1] Triple M, Sarge for Breakfast.
+[  613.0] Have you seen the music video for this one?
+[  614.9] Robbie Williams and Kyle...

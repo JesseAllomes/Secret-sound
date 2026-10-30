@@ -1,0 +1,57 @@
+BEST BITS: Twas The Night Before Sarge's 25th
+Wed, 01 Jul 2026 23:18:31 +0000
+plays: [{'t': np.float64(555.68), 'ncc': 0.849}, {'t': np.float64(561.05), 'ncc': 0.9}]
+
+[  480.7] I invented it.
+[  481.7] Did you?
+[  482.7] I was the first one to do it.
+[  484.7] That's what I was wondering.
+[  486.7] Why?
+[  487.7] Because I've had Old Maid on the show from Daddy Cool and I vaguely remember asking him
+[  492.6] but I feel like he was also a bit hazy on it.
+[  494.6] So how did it start?
+[  496.6] It was down in Sydney at the DY Hotel out in the back of the DY Hotel.
+[  501.4] It was called The Venue for lack of a better word.
+[  503.7] It was just a big hall and all the bands used to play there.
+[  508.4] He was on, they were on up on stage and he said,
+[  511.4] who wants to sing Daddy Cool?
+[  513.4] And about five of us jumped up there.
+[  515.4] He said, oh, you can't all be up here.
+[  517.4] He said, the first one to salute the crowd with your buxom arched cheeks gets to sing it.
+[  524.4] So I dropped them, dropped the pack, shown everybody my better face.
+[  529.4] And as I looked to my right, nobody else did it.
+[  533.4] You all stitched up.
+[  534.4] So I got to sing the song.
+[  537.4] This actually sounds legit.
+[  540.4] Are you pulling my leg or are you being serious?
+[  544.4] I'm being serious.
+[  545.4] I never lie about things like that.
+[  548.4] Well, thank you for the insight, Flash.
+[  550.4] Yeah, it doesn't surprise me at all, actually.
+[  553.4] 875 bucks, mate.
+[  554.4] Let's give it to you.
+[  555.4] What do you think that sound is?
+[  558.4] Did you play it?
+[  559.4] Yeah, here.
+[  560.4] I know, stapler.
+[  568.0] No, it's not Flash.
+[  569.0] Hey, nice talking to you, man.
+[  571.0] Nice for you to talk to me again.
+[  573.0] Don't be a stranger.
+[  574.0] See you, aliens are watching.
+[  576.0] See you, Flash.
+[  577.0] Right here.
+[  578.0] Thank you.
+[  579.0] Bye.
+[  580.0] There you go.
+[  581.0] Wow.
+[  582.0] Secret Town, back at 8 o'clock.
+[  583.0] 1, triple 353 is the number to get involved there.
+[  585.0] We do put all the incorrect guesses to for it, by the way,
+[  588.0] on the Sarge for Breakfast podcast at listener.
+[  591.0] Alrighty, if you want to win the Ultimate Origin Experience at home,
+[  594.0] stand by.
+[  595.0] More details are next on The Enz.
+[  599.0] Backstreet Boys.
+[  601.0] For your greatest hits this morning,
+[  603.0] triple A, mid-north coast Sarge here for breakfast.

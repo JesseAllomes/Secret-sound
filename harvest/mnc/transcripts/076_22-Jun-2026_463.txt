@@ -1,0 +1,71 @@
+BEST BITS: I Was Nowhere Near A Mic On Saturday
+Mon, 22 Jun 2026 22:58:53 +0000
+plays: [{'t': np.float64(538.75), 'ncc': 0.791}, {'t': np.float64(550.51), 'ncc': 0.933}, {'t': np.float64(565.92), 'ncc': 0.772}]
+
+[  463.8] You can't go wrong with them can you?
+[  465.3] Well you can actually, you can actually stuff up a sausage sizzle.
+[  467.9] They won't though.
+[  469.2] It's a great chance to check out their youth hub and connect with the local community.
+[  473.5] Oh, that's what it's all about.
+[  475.0] It's a locals guide, top three things going on in our backyard and beyond when it comes to events.
+[  479.4] An edition of The Secret Sound.
+[  486.1] Mmmhmm.
+[  486.9] Thanks to 40 Winks Port Macquarie.
+[  488.9] Come in and see the team at Port Home Zone.
+[  491.2] 40 Winks, serious about sleep.
+[  493.5] Shane, good morning, welcome to the 6 o'clock club.
+[  496.4] How are you mate?
+[  497.4] Very good thank you.
+[  498.3] Whereabouts in this beautiful part of the Mid North Coast are you?
+[  501.8] Port Macquarie mate, it's heading to work.
+[  503.8] Yeah fantastic.
+[  504.6] What do you do for a crush Shane?
+[  506.6] Tree lopper mate.
+[  508.0] Go again?
+[  509.1] I'm a tree lopper.
+[  510.6] Oh fantastic.
+[  511.5] Hey that's a very important job.
+[  514.4] It is, it's very different.
+[  516.1] Yeah, very, what do you say, dangerous too?
+[  519.0] Yeah it is pretty dangerous.
+[  520.5] Crikey, look at you go.
+[  522.5] $700 mate, if I just flung that into your bank account right about now,
+[  526.5] what do you reckon you'd do with it?
+[  528.1] Oh I'll probably pay some bills mate.
+[  529.8] Yeah good stuff.
+[  530.5] Just that peace of mind.
+[  531.9] A couple of tons to be a two.
+[  534.0] Yeah sure, sure.
+[  535.8] Okay here we go mate, here it is.
+[  537.2] Here's The Secret Sound.
+[  539.5] It's driving everybody crazy.
+[  541.0] What do you think Shane?
+[  542.5] I think it's opening a can like a can of Coke or Red Bull or something like that.
+[  547.3] Yeah, let's have a listen again Shane.
+[  551.3] Mmmhmm.
+[  552.6] No Shane, sorry mate.
+[  555.0] No worries, thanks mate.
+[  556.1] Thanks having a crack.
+[  557.2] All the best today, see you.
+[  559.0] Hey mate.
+[  559.5] Take a sound.
+[  560.1] Back at 8 o'clock 1, triple 3, 5, 3 is the number to get involved.
+[  563.6] No it's not opening a can of Coke.
+[  569.0] Incorrect guesses for this thing go, and all of them by the way,
+[  572.2] go on the Sarge for Breakfast podcast at a listener.
+[  575.1] So have a listen to them to get closer to the cash.
+[  578.1] This is AAA Mid-North Coast Sarge here for Breakfast, Happy Tuesday.
+[  581.6] More on the other side of this.
+[  583.1] 10 to 7, welcome to the 6 o'clock club.
+[  585.5] What happens in the club?
+[  586.4] Stage in the club?
+[  587.3] It's AAA Mid-North Coast Sarge here for Breakfast.
+[  590.0] Then on 1 triple 3, 5, 3 a dear friend of mine Trish from Kemp's scene.
+[  594.7] Hello sir.
+[  595.9] How the devil are you?
+[  597.9] All fine.
+[  599.0] What are you calling for Trish?
+[  600.3] How can I help you?
+[  602.4] For the 6 o'clock um, lock when you do the early bird.
+[  606.1] The 6 o'clock rock when I do the early bird?
+[  608.7] What do you, what do you mean?

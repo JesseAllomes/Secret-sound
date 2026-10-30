@@ -1,0 +1,75 @@
+BEST BITS: Happy Birthday Huddo!
+Sun, 14 Jun 2026 23:23:21 +0000
+plays: [{'t': np.float64(1600.45), 'ncc': 0.91}, {'t': np.float64(1602.94), 'ncc': 0.914}, {'t': np.float64(1609.73), 'ncc': 0.82}]
+
+[ 1525.5] Court Home Zone, 40 weeks, serious about sleep.
+[ 1528.6] Shh.
+[ 1530.5] Hello, wonderful human being.
+[ 1532.6] Hello.
+[ 1533.4] How are you?
+[ 1534.5] Good, thank you.
+[ 1535.5] Who have I got here?
+[ 1537.1] Courtney.
+[ 1537.9] Courtney.
+[ 1539.4] Courtney, how's your Monday morning been going so far?
+[ 1542.7] Yeah, it's been pretty good,
+[ 1544.0] just getting the kids ready for school.
+[ 1545.9] Oh, fantastic.
+[ 1547.0] What year are they in?
+[ 1550.2] They're in preschool at the moment.
+[ 1552.6] Yeah, right.
+[ 1553.4] So not in school yet,
+[ 1554.7] but next year.
+[ 1556.1] How exciting, how exciting.
+[ 1557.2] Yeah.
+[ 1558.1] Now, Courtney, we've got 550 bucks up for grabs here.
+[ 1561.3] In 2026, on Monday, the 15th of June,
+[ 1565.7] in this current climate,
+[ 1568.0] what would you do with that cash, do you reckon?
+[ 1570.8] Oh, I'd go on a bit of shopping spree.
+[ 1572.9] Oh, would you just?
+[ 1573.7] I'd treat myself.
+[ 1574.5] Yeah, okay, very good.
+[ 1576.0] I like that, Courtney.
+[ 1577.6] Like a bit of retail therapy.
+[ 1579.5] Yeah, that's it.
+[ 1580.6] You know what?
+[ 1581.9] I went and bought myself a jumper the other day.
+[ 1586.6] Probably shouldn't have,
+[ 1588.2] because I didn't really have that saved up,
+[ 1590.9] but you know what?
+[ 1591.8] I felt good afterwards.
+[ 1593.5] Yeah, sometimes you just got to treat yourself
+[ 1596.3] every now and then.
+[ 1597.2] You do, Courtney.
+[ 1598.1] All right, here we go.
+[ 1599.0] Here's the secret sound.
+[ 1601.2] I'll play it for you once again.
+[ 1603.4] What are you thinking?
+[ 1605.0] It's not clicking a pen.
+[ 1612.0] No, it's not.
+[ 1612.8] Sorry, Courtney.
+[ 1614.8] All the best with the school drop off
+[ 1617.0] and keep on trying, okay?
+[ 1618.4] Thank you.
+[ 1619.2] Lovely talking to you.
+[ 1620.0] Have a great week.
+[ 1620.9] Bye.
+[ 1621.7] You too, guys.
+[ 1622.5] Yeah, there you go.
+[ 1623.4] That's the secret sound.
+[ 1624.2] It is back tomorrow morning
+[ 1625.4] after 6.30 and eight o'clock on 1.35.35.
+[ 1628.5] And a little reminder,
+[ 1629.4] we put all of the incorrect guesses so far
+[ 1631.7] for the secret sound
+[ 1633.0] on the Sarge for Breakfast podcast at listener.
+[ 1636.2] All right, all this week,
+[ 1637.3] we are doing a little thing called Make Sarge Laugh.
+[ 1640.5] Who doesn't love a good chuckle?
+[ 1643.2] A bit of a belly laugh.
+[ 1645.8] So let's do that next.
+[ 1647.5] We've got a huge prize up for grabs there
+[ 1649.5] with Make Sarge Laugh here on the Mid-North Coast.
+[ 1651.7] It's triple M.
+[ 1652.7] Sarge here for breakfast.

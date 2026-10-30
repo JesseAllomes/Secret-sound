@@ -1,0 +1,22 @@
+BEST BITS: Carrot Top
+Mon, 08 Jun 2026 23:23:01 +0000
+plays: [{'t': np.float64(1319.14), 'ncc': 0.82}, {'t': np.float64(1335.11), 'ncc': 0.803}]
+
+[ 1244.1] face pains and all. It's all over the socials at the moment, the big breeze.
+[ 1251.8] What a great thing, hey. This is Triple A Mid-North Coast and the Sarge for Breakfast show.
+[ 1255.9] Well, do the secrets now, Ned. $450 up for grabs on 1-333-53. Happy Tuesday.
+[ 1267.2] Thanks to 40 Winks Port Macquarie. So go get it and see the team at Court Home Zone.
+[ 1270.9] 40 Winks, serious about sleep. Oh my goodness me, this is quite the pleasant surprise.
+[ 1276.1] Good morning, Jessica. Hello. Jessica, explain who you are related to on the Sarge for Breakfast show.
+[ 1285.1] Unfortunately, it is a woman. So was is your dad? Yes, it is. And Shaz is your mum.
+[ 1294.1] Oh, that's incredible. Hey, are you looking forward to moving to the Mid-North Coast?
+[ 1299.1] A little bit. Still sad though. Like it's bittersweet in a way. Bittersweet, yeah. For sure.
+[ 1305.1] Sarge, that's what my dad said. What did it say in the background? I literally saw.
+[ 1310.1] Well, I'm looking forward to catching up with all of you in person and hopefully, look, right now, giving you $450. That's what's up for grabs.
+[ 1318.1] What is that sound? Well, I was going to joke and say a stapler, but I'm not going to be that mean to you. Thank you. Thank you. I appreciate that.
+[ 1328.1] I think it is like a self-inking step, maybe like a date step. Oh, yes. Let's have a listen once more. Yeah, no, that's not it. Sorry, but good try. Good try.
+[ 1341.1] What's on the cards for today? Well, just traveling up north with dad at the moment while it doesn't work. Brilliant.
+[ 1349.1] Well, you give that man a big hug for me and we'll catch up soon, Jessica. All right. See you. See you, legends.
+[ 1355.1] Secret sound. It is back tomorrow morning after 6.30 and eight o'clock at 1.333.53 worth $475. Clues and incorrect guesses.
+[ 1364.1] All gone massage for breakfast podcast. That listener. All righty. Let's catch up with Port Macquarie Hastings Council, Mayor Adam Roberts next on the M.
+[ 1372.1] It is 10 minutes after eight. Bon Jovi. For your greatest hits here at Triple M, Mid-North Coast.

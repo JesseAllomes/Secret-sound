@@ -1,0 +1,31 @@
+BEST BITS: Poppy The Puppy
+Wed, 03 Jun 2026 23:14:15 +0000
+plays: [{'t': np.float64(915.96), 'ncc': 0.769}, {'t': np.float64(924.04), 'ncc': 0.946}]
+
+[  841.0] Very interesting situation, we'll see how that all unfolds.
+[  847.0] Today's National Day is...
+[  853.6] A National Donut Day!
+[  856.6] It kicked off in 1938, it was first celebrated in Chicago to honour Salvation Army volunteers who served donuts to soldiers during World War I.
+[  866.6] The volunteers became known as the Donut Lassie.
+[  871.6] The event also helped raise money for people experiencing hardship during the Great Depression.
+[  876.6] There you go, now you know, that's on this day for the 4th of June. Get a donut in.
+[  890.2] Hey, very good morning to you William, how are you mate?
+[  893.2] I'm alright, how are you guys?
+[  895.2] Yes, going good, thank you sir. What's on the agenda for today? It's a nice...it looks like a nice day.
+[  901.2] Yeah, I'm just going to school today.
+[  903.2] Oh, that's right. What year are you in William?
+[  906.2] Year 10.
+[  907.2] Oh, good on you mate. That was a good year.
+[  909.2] Um, okay here we go, let's give you $400 then. What is this sound?
+[  916.2] Alright, it's a pen clicking.
+[  921.4] Pen clicking William.
+[  923.4] Doesn't sound like it, it's not the...sorry mate.
+[  929.3] That's right, have a good one guys.
+[  931.3] Yeah, you too legend, talk to you soon.
+[  933.3] Secret sound, it is back tomorrow morning after 6.30 and 8 o'clock on 1.333.53.
+[  939.3] Now worth $425 and yes, a reminder, we put all of the incorrect guesses for the secret sound on this Sarge for Breakfast Podcast at Listener to get you closer to the cash.
+[  949.3] Anthony Maroon from the Rush Hour and Triple M NRL is on the show next.
+[  953.3] We'll get his tipping technique for this weekend's round of the NRL.
+[  957.3] Ten past eight, we are live on your radio and the Listener app.
+[  960.3] This is Triple M in North Coast in the Sarge for Breakfast show.
+[  963.3] 13 degrees at Hardy's Plains, heading for 21 there today, mostly sunny.

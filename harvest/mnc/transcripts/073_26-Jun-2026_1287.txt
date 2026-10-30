@@ -1,0 +1,37 @@
+BEST BITS: A Song For Sarge's Show Anniversary
+Fri, 26 Jun 2026 00:03:57 +0000
+plays: [{'t': np.float64(1362.51), 'ncc': 0.836}, {'t': np.float64(1386.93), 'ncc': 0.816}]
+
+[ 1287.5] by the way. 1999 this national day came into play, take your dog to work day.
+[ 1298.8] It's created by Pet Sitters International. The annual event encourages people to celebrate
+[ 1304.1] their furry friends and promote pet adoption. Giving dogs a chance to enjoy a day on the job,
+[ 1312.1] there you go. It's on this day for the 26th of June. Thanks to 40 Winx Port Macquarie.
+[ 1322.0] So come in and see the team at Court Home Zone. 40 Winx, serious about sleep.
+[ 1326.3] Okey dokey, we've got Taylor on 13353. Good morning.
+[ 1331.8] Hi, how are you going?
+[ 1333.0] I am going really well, thank you. How are you? What's going on? Where abouts are you calling from?
+[ 1338.9] Port Macquarie.
+[ 1341.0] And are you off to work today or what are you doing? I can hear you're in the car at the moment.
+[ 1345.3] Yeah, no, I've got all the kids in the car with me and we're just doing school drop off.
+[ 1351.1] Um, hi kids. Hello kids.
+[ 1354.3] Hello.
+[ 1355.1] Hey, cool house, I love it. Okay, so you've all been putting your heads together to try and figure
+[ 1359.4] out what this secret sound is. Here it is. If you're right in correctly identifying what it is,
+[ 1366.2] I'll give you $775. Taylor, what do you think?
+[ 1370.0] Yeah, that sounds good. Hopefully, hopefully it's not, but we'll see.
+[ 1375.0] What do you think it is?
+[ 1376.8] I am thinking it is the button that you press at the crossing for the traffic lights.
+[ 1384.1] Oh yeah, okay, let's have a listen again.
+[ 1389.3] We haven't had that guess, so that's a good start, but not it. Sorry,
+[ 1392.5] Taylor, back to the drawing board.
+[ 1395.1] Thank you.
+[ 1395.9] Enjoy school kids, bye.
+[ 1398.2] Say bye.
+[ 1399.2] There you go. Secret sound. It is back on Monday up to 638 o'clock at 1 triple 3 5 3.
+[ 1406.0] All of the incorrect guesses so far for it. Go on the Sarge for Breakfast podcast at a listener.
+[ 1412.0] Happy Friday, this is triple A Mid-North Coast. Sarge here for breakfast.
+[ 1415.2] More on the other side of this.
+[ 1417.7] Ten minutes after 8. Good morning.
+[ 1420.2] This is triple A Mid-North Coast. Sarge here for breakfast.
+[ 1424.9] It is 12 degrees at Warhol, but right now as we speak,
+[ 1427.6] heading for 18 there today, a shower or two.

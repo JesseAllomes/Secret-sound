@@ -1,0 +1,67 @@
+BEST BITS: What's Your Beer Flavour?
+Wed, 01 Jul 2026 00:52:35 +0000
+plays: [{'t': np.float64(1490.43), 'ncc': 0.904}, {'t': np.float64(1498.49), 'ncc': 0.789}]
+
+[ 1415.4] Reggae Day.
+[ 1417.0] Celebrating the music culture and global influence of Reggae,
+[ 1419.4] the day honors legendary artists like Bob Marley,
+[ 1422.6] whose music continues to inspire millions around the world.
+[ 1425.4] Did you have the opportunity to go to Phineas a couple of months
+[ 1429.9] ago when the Wailers performed?
+[ 1432.1] You know, Bob Marley and the Wailers, like the actual Wailers?
+[ 1434.8] One of the greatest nights of my life.
+[ 1437.0] So much love in the room.
+[ 1439.3] Incredible.
+[ 1440.1] Good music.
+[ 1441.6] My brother, who's a sheep shearer, he and the shearer
+[ 1443.8] is listening to Reggae in the sharing chairs.
+[ 1446.3] So there you go.
+[ 1447.7] International Reggae Day.
+[ 1449.0] That's on this day for the first of July.
+[ 1454.1] Thanks to 40 Winx Port Macquarie.
+[ 1456.0] So no minute to see the team at court home zone.
+[ 1458.1] 40 Winx, serious about sleep.
+[ 1461.6] Hey, good morning, Chloe.
+[ 1463.4] Morning.
+[ 1464.0] Isn't it an exceptional day?
+[ 1466.7] Yeah, it's really nice out today.
+[ 1468.2] What are you going to do?
+[ 1470.0] Not much, really.
+[ 1471.0] I've just got the kids off daycare and stuff,
+[ 1472.9] but they're sick at the moment.
+[ 1474.2] So yeah.
+[ 1475.5] Just tune.
+[ 1476.3] You're doing well.
+[ 1477.5] Yeah, we have been for a while.
+[ 1479.6] Deary me, well, maybe $850 could perk up the spirits
+[ 1484.0] and we can celebrate when we're feeling a bit better.
+[ 1486.6] That would be good.
+[ 1487.5] Yeah, all right.
+[ 1488.5] Here is the secret sound.
+[ 1491.0] What do you think it is this morning?
+[ 1493.2] Is it the lock on a tape measure?
+[ 1496.1] Oh, yeah, OK.
+[ 1499.9] Yeah, when you lock it so it can stay erect.
+[ 1504.2] Yeah.
+[ 1505.8] No, it's not.
+[ 1507.1] No, that's all right.
+[ 1508.5] I'll keep trying.
+[ 1509.2] Keep on trying.
+[ 1509.9] Thank you.
+[ 1510.8] Hope the kids get better.
+[ 1511.8] Bye.
+[ 1512.3] Thank you.
+[ 1512.8] Bye.
+[ 1513.3] Secret Sound back at 6.30, 9 o'clock tomorrow morning
+[ 1516.6] on 1 triple 353.
+[ 1518.9] It's now worth $875.
+[ 1522.7] And a reminder, all the incorrect guesses
+[ 1524.1] so far for the Secret Sound.
+[ 1525.2] Go on the Sarge for Breakfast podcast at listener.
+[ 1528.1] All righty, let's do Sarge's Angels next.
+[ 1531.5] Get the producers of the show, My Angels, into the studio
+[ 1535.2] and discuss something controversial.
+[ 1538.2] Split opinion right across the mid-north coast.
+[ 1540.2] Stand by.
+[ 1540.9] It's coming up at triple A.
+[ 1541.9] Hello, Sarge.

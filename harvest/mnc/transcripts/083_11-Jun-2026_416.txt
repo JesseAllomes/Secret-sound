@@ -1,0 +1,82 @@
+BEST BITS: Moooooo
+Thu, 11 Jun 2026 23:01:48 +0000
+plays: [{'t': np.float64(491.84), 'ncc': 0.933}, {'t': np.float64(510.53), 'ncc': 0.907}, {'t': np.float64(563.19), 'ncc': 0.839}]
+
+[  416.8] Sarge here for breakfast, the Friday fire up.
+[  419.7] Moo.
+[  426.6] You wanna make it?
+[  427.6] Can the traffic control man on multiple 353.
+[  430.4] Hello mates.
+[  431.4] Mate, a quick run for you, you ready?
+[  433.4] Yep.
+[  434.4] Wanna hear my personation of a cow?
+[  437.7] Of course I do Ken.
+[  439.0] You ready?
+[  440.0] Yeah, I'm ready.
+[  441.0] How was that?
+[  445.9] It didn't pick up.
+[  446.9] Is that the impression?
+[  447.9] Yeah, it's a dead cow mate.
+[  448.9] Have a good day.
+[  449.9] Medium rare?
+[  450.9] Oh, I'm gonna be on fire.
+[  453.9] See ya mate.
+[  456.9] See ya mate.
+[  459.9] Coming up on the Sarge for Breakfast show.
+[  466.9] It's Feral Friday, triple M in North Coast.
+[  470.9] Alright, coming up to 630 so we'll do the latest in your local news, sport and weather,
+[  475.9] plus a beach and surf update from Huddo.
+[  478.2] Then we'll play the secret sound, alright?
+[  480.2] I got $525 to give away.
+[  482.2] If you'd like it right now, all you gotta do is dial 123-53 and correctly identify what
+[  489.8] this sound is.
+[  492.2] Okay.
+[  493.8] Now the other thing too, if you don't win the $525 but you are a good time on the
+[  499.4] blower as you're in a bit of fun, we could give you a $200 fuel voucher.
+[  504.4] How good's that?
+[  505.4] Heading into your weekend adventures.
+[  507.4] So,
+[  510.2] 4353, what is this sound?
+[  512.2] Be right next and that $525 cold hard cash is all yours.
+[  516.2] Thanks to 40 Winks Port Macquarie.
+[  518.2] Happy Friday.
+[  522.4] It's the early bird edition of the Secret Sound.
+[  525.4] Thanks to 40 Winks Port Macquarie.
+[  527.4] Come in and see the team at Port Home Zone.
+[  530.4] 40 Winks, serious about sleep.
+[  532.4] An icon of triple M mid-north coast.
+[  535.4] Doug the night owl.
+[  537.4] Hello.
+[  539.2] Hello, Sarge.
+[  540.2] How are you, mate?
+[  541.2] Mate, I'm very well.
+[  542.2] Thank you.
+[  543.2] What's going on?
+[  544.2] Oh, nothing much.
+[  545.2] I'm having a rough try as I told you.
+[  547.2] No one to talk over the phone too much about it.
+[  549.2] How about we try and fix some things though with a little bit of cash, right?
+[  554.2] Oh, I love that.
+[  555.2] Yeah.
+[  556.2] I got $525 up for grabs here.
+[  560.2] Dougie, all you gotta do is tell me what this sound is.
+[  564.2] What do you think?
+[  565.2] Is it over in a can of drink?
+[  567.2] No.
+[  569.7] Doug, it is not.
+[  571.5] I tell you what, mate.
+[  573.5] Am I going to see you this Sunday at Beatty's Furniture in Port Macquarie?
+[  578.5] Sunday or Saturday?
+[  579.5] Sunday.
+[  580.5] No, I can't go Sunday.
+[  582.5] I got a pinch.
+[  583.5] I got a choice.
+[  584.5] Well, you're a good man for doing that.
+[  587.5] Anyway, look, we'll catch up soon, great man.
+[  589.5] And you keep on trying for that Secret Sound.
+[  591.5] Take care.
+[  592.5] Okay, mate.
+[  593.5] Bye.
+[  594.5] It's back at 8 o'clock on 1-333-53 with $525.
+[  598.5] And all the incorrect guesses for the Secret Sound so far go on the Sarge for Breakfast Podcast at listener.
+[  604.3] Okay, you want to win the Ultimate Origin Experience at home?

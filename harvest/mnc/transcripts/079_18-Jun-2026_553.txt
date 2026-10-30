@@ -1,0 +1,76 @@
+BEST BITS: Dad, I Dug A...
+Thu, 18 Jun 2026 00:28:34 +0000
+plays: [{'t': np.float64(628.56), 'ncc': 0.855}, {'t': np.float64(639.07), 'ncc': 0.827}]
+
+[  553.6] See the team at Port Home Zone.
+[  555.2] 40 Winx, serious amount sleep.
+[  557.4] Hey there Jimbo.
+[  558.8] Hey mate, how you going?
+[  559.7] Mate, very good.
+[  561.2] I'd like to get your opinion on this.
+[  563.9] I've met a lot of Jimbo's in my life
+[  567.6] and none of them have been a terrible bloke.
+[  569.6] Is that a similar thing in your experience?
+[  572.0] Yeah, that's our guy, mate.
+[  573.0] Exactly.
+[  573.8] Comes with the territory of the name, you know?
+[  576.2] Mate, we're all good.
+[  577.0] Yeah, what do you do for a living Jimbo?
+[  579.2] Chippy.
+[  580.1] Chippy, of course you are.
+[  581.7] Alright, $625.
+[  584.6] If you win it, what would you do with it first of all,
+[  586.9] do you reckon?
+[  588.6] Definitely not giving any to Cooper.
+[  590.2] Cooper.
+[  591.0] He thinks he's gonna get half,
+[  592.4] but he's not getting any of it.
+[  594.8] Oi, you realise that Cooper is one of the biggest
+[  597.6] celebs in town at the moment?
+[  599.9] Yeah, I do.
+[  600.7] Yeah, I did an outside broadcast on Sunday
+[  604.0] and there was a lady in the store
+[  605.8] who specifically came to the outside broadcast
+[  609.3] to figure out,
+[  611.0] because she's not on the socials
+[  612.7] and the podcasting and stuff,
+[  613.8] she's just the traditional radio
+[  615.4] and she wanted to know specifically
+[  617.7] if Cooper won the Secret Sound.
+[  620.1] Oh, well that's good.
+[  621.0] Yeah, I know.
+[  621.9] Was she happy when she found out that he won?
+[  623.4] Very bloody happy, very bloody happy.
+[  625.5] A lot of people were.
+[  626.7] Alright, here we go, mate.
+[  627.5] Here's the Secret Sound.
+[  629.4] What do you think?
+[  632.0] We think it might be pushing the button
+[  634.0] to turn on your microphone on the keyboard.
+[  636.7] Uh-huh.
+[  638.0] Let me listen again.
+[  639.9] Mmm, no.
+[  642.2] No, it sounds a bit too cheap and tacky, to be honest.
+[  645.0] It's a little bit high tech around here.
+[  647.9] Too high tech for my liking.
+[  649.0] Anyway, Jimbo, have a good one, man.
+[  650.9] Thank you.
+[  651.7] Thanks, mate, back to the drawing board.
+[  652.6] Have a good day.
+[  653.4] Back to the drawing board.
+[  654.2] See ya, mate.
+[  655.1] Secret Sound, back at eight o'clock,
+[  655.9] one triple three, five three is the number
+[  656.9] to get involved there.
+[  658.5] It is worth 625 bucks
+[  660.8] and we put all the incorrect guesses for it so far
+[  663.8] on the Sarge for Breakfast podcast listener.
+[  667.2] More to come after this.
+[  668.5] Triple M, good morning.
+[  670.1] Cutting crew on Triple M,
+[  671.8] Mid-North Coast, it is Sarge here for breakfast.
+[  674.2] We're 16 minutes away from seven.
+[  676.6] Welcome to the six o'clock club.
+[  678.2] What happens in the club stays in the club.
+[  680.0] You can get involved with your show
+[  681.1] anytime you want the number to call is 123-5.

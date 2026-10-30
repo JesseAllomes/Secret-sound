@@ -1,0 +1,65 @@
+BEST BITS: I'll Do Him Next
+Mon, 15 Jun 2026 22:57:38 +0000
+plays: [{'t': np.float64(1408.32), 'ncc': 0.944}, {'t': np.float64(1414.1), 'ncc': 0.894}, {'t': np.float64(1443.4), 'ncc': 0.794}]
+
+[ 1333.3] What is the difference though?
+[ 1337.1] Kinky, you use a feather,
+[ 1338.2] but Birdie, you use the whole chook.
+[ 1340.0] That's a wild night right there, Tanya.
+[ 1343.9] You're in the draw. Congratulations.
+[ 1345.6] Thank you, mate.
+[ 1347.4] Cheers, have a good day.
+[ 1350.6] Oh, there you go.
+[ 1351.9] That makes Sarge laugh.
+[ 1353.0] It'll be back again this time tomorrow.
+[ 1356.1] On the Mid-North Coast, triple M.
+[ 1358.5] It is Sarge here for breakfast.
+[ 1360.5] Of course, all those calls and all those jokes
+[ 1362.6] are from 1-3-3-5-3.
+[ 1364.0] Go into the draw for a great prize.
+[ 1366.1] One night's accommodation at McQuar
+[ 1375.8] Bird Rock Bar & Grill.
+[ 1377.7] Stay, dine and laugh with McQuar
+[ 1380.6] and Bird Rock Bar & Grill.
+[ 1382.3] It's triple M's secret sound.
+[ 1384.8] Thanks to 40 Winks Port McQuarrie.
+[ 1387.5] So come in and see the team at Court Home Zone.
+[ 1389.7] 40 Winks, serious about sleep.
+[ 1391.8] Well, it looks like we just lost Chloe
+[ 1394.2] who is going to play the secret sound with me this morning
+[ 1397.1] on 1-3-3-5-3.
+[ 1399.0] Sorry about that, Chloe.
+[ 1400.7] But that means there is a chance for you to swoop in right now
+[ 1403.7] on 1-3-3-5-3 and tell me what this sound is.
+[ 1409.9] And if you correctly identify what that sound is,
+[ 1415.1] I will give you $575,
+[ 1418.8] or thanks to 40 Winks Port McQuarrie,
+[ 1421.6] the number to get involved with the secret sound.
+[ 1424.6] It is 1-3-3-5-3.
+[ 1429.2] I think we might have somebody here.
+[ 1432.5] Hello, you're alive on the air.
+[ 1436.1] Hello, I'm calling about secret sound.
+[ 1437.9] G'day there, mate.
+[ 1438.7] Who have I got here?
+[ 1440.2] Jesse. Jesse.
+[ 1441.4] All right, here we go, legend.
+[ 1442.3] Here is the secret sound.
+[ 1443.8] What do you think for 575 bucks?
+[ 1446.9] I reckon that is opening a rice cooker.
+[ 1450.9] Uh, no.
+[ 1452.5] It's not, sorry, mate.
+[ 1453.6] Hey, have a good day.
+[ 1455.4] Thanks, mate.
+[ 1456.0] Cheers for calling.
+[ 1456.6] Keep on trying.
+[ 1457.8] Secret sound back tomorrow morning up at 6.30
+[ 1459.8] and 8 o'clock on 1-3-3-5-3.
+[ 1461.7] And a reminder, we put all of the incorrect guesses for it
+[ 1464.6] so far on the Sarge for Breakfast podcast at listener.
+[ 1468.3] Check out those clues to get closer to the cash.
+[ 1470.9] Let's do a little chinwag with Port McQuarrie Hastings'
+[ 1476.4] councilman, Adam Roberts.
+[ 1477.8] I can see him in the kitchen.
+[ 1480.2] Looking very keen to get into Studio One.
+[ 1483.7] We'll do him after Rick Astley.
+[ 1486.5] Triple A. Sarge here for breakfast.

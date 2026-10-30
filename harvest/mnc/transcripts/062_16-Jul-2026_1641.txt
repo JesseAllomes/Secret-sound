@@ -1,0 +1,42 @@
+BEST BITS: Come On Baby
+Thu, 16 Jul 2026 23:25:31 +0000
+plays: [{'t': np.float64(1716.7), 'ncc': 0.922}, {'t': np.float64(1727.96), 'ncc': 0.851}]
+
+[ 1641.7] kind of pinch me. I'm dreaming kind of stuff. Could have their own beer. What?
+[ 1646.7] It's Triple M's secret sound. Thanks to 40 Winx Port Macquarie.
+[ 1651.7] So come in and see the team at Court Home Zone. 40 Winx, serious about sleep.
+[ 1656.7] Oh, I haven't got the greatest memory, but is this Larry from Lake Caddi?
+[ 1660.7] Yes, it is.
+[ 1661.7] Hey, it is. I remember the accent.
+[ 1664.7] Yes, he tried to have me do an Australian one. It didn't go too well.
+[ 1668.7] Do you do the, you do like Deliveroo or Uber driving or something?
+[ 1672.7] Yeah, I do DoorDash.
+[ 1674.7] DoorDash. A lot of Maccas deliveries this morning?
+[ 1678.7] A lot of them, yes.
+[ 1679.7] Yeah, right. Are you doing the DoorDashing right now?
+[ 1682.7] I am.
+[ 1683.7] Well, $1,050, what would you do with that cash if you wanted? You could probably have a bit of time off from the Deliveroo, wouldn't you?
+[ 1691.7] DoorDash?
+[ 1692.7] No, I had another thought. I thought maybe I would give it to that group that has been helping you and the other people with the mental health.
+[ 1699.7] Oh, self-seen.
+[ 1701.7] Yep.
+[ 1702.7] Are you part of self-seen, Larry?
+[ 1704.7] I am not, no.
+[ 1705.7] Well, it's a wonderful thing to be a part of. If you're interested, let me know, mate.
+[ 1709.7] Yeah, that's beautiful, mate. I really love to hear that. Let's do this. Here is the secret sound, Larry. Right there. What do you think?
+[ 1719.7] Are you plugging in your microphone?
+[ 1721.7] Oh, am I plugging in my golden, sorry, I mean, matte black microphone?
+[ 1726.7] We haven't had that guess, but that's not the secret sound, Larry. Great guess, though. Really good guess. I like that one.
+[ 1736.8] Okay.
+[ 1737.8] Take care of yourself. Have a great weekend.
+[ 1739.8] I'll see you tonight.
+[ 1741.8] Oh, you're... Larry, are you coming to the beer launch?
+[ 1744.8] Yes.
+[ 1745.8] Ah, get out of... get out of here.
+[ 1747.8] Me and the wife will be there.
+[ 1748.8] Stop it, Larry. Mate, I'm looking forward to having a thirst trap with you.
+[ 1751.8] Okay.
+[ 1752.8] See you, mate.
+[ 1754.8] Secret sound. It is back on Monday, up to 6.30am and 8 o'clock at 1.333. It's now worth a thousand and seventy-five bucks.
+[ 1761.8] And all the incorrect guesses so far for it going to the Sarge for Breakfast podcast at listener.
+[ 1766.8] Mate, I am so excited. The Wolf brothers, I can see them out there in reception in the...

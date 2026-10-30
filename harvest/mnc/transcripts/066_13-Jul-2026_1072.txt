@@ -1,0 +1,40 @@
+BEST BITS: Dad Jokes That Don't Land
+Mon, 13 Jul 2026 19:17:42 +0000
+plays: [{'t': np.float64(1147.82), 'ncc': 0.897}, {'t': np.float64(1156.24), 'ncc': 0.858}, {'t': np.float64(1161.69), 'ncc': 0.843}]
+
+[ 1072.8] know what identity they want to be and now the dogs look like they'll be
+[ 1077.5] rebuilding into next year. There's the headline, doggy's done. That's what
+[ 1080.7] Sowie says thanks to Flower Hotels. Never miss a game at their local pubs.
+[ 1085.7] Enjoy Queensland as much as you possibly can and we'll catch up again next week
+[ 1090.6] great man. Sarge I haven't eaten for 72 hours because I'm going to Wet N Wild today and I want to look to it.
+[ 1097.5] Looking forward to the post.
+[ 1103.7] Thanks to 40 Winks Port Macquarie.
+[ 1106.3] So come in and see the team at Court Home Zone. 40 Winks, serious about sleep.
+[ 1110.6] Oh good morning to you Chloe how you doing?
+[ 1113.6] Yeah not too bad how are you?
+[ 1115.0] Yeah I'm pretty good how was the weekend?
+[ 1117.2] Yeah not too bad just went on like the mini trains that they had at the Yip and Crete Railway. Took my kids on there.
+[ 1123.2] The kids love them don't they?
+[ 1125.4] Yeah we've been like the last three times.
+[ 1127.8] Such a simple idea but brings so much joy.
+[ 1130.6] Yeah.
+[ 1132.2] $950 Chloe what are we going to do with that Cash? Should we win it?
+[ 1135.6] Oh sorry you could hit in the background again.
+[ 1138.8] Just yeah still want to go to Bluey's World so that's the plan hopefully I can run some for that.
+[ 1143.2] Yes let's get you to Bluey's World. Okay here is the secret sound Chloe.
+[ 1148.4] What do you think?
+[ 1150.4] Is it like the latch opening of a toolbox?
+[ 1154.9] Okay.
+[ 1156.6] I've been doing a lot of work on the ute lately and I do have a toolbox that would make a similar sound to that.
+[ 1162.8] It's a good guess, a nice try but not good enough sorry Chloe.
+[ 1167.0] No that's alright I'll try again.
+[ 1168.6] Good, good stuff talk to you. Bye.
+[ 1170.6] Thanks to you.
+[ 1171.4] Have a great week. Secret sound it is back tomorrow morning after 6.30 and 8 o'clock on 1.333.53.
+[ 1178.2] All the incorrect guesses for this too by the way go on the Sarge for Breakfast podcast at listener.
+[ 1183.4] So have a listen to them to get closer to that cash.
+[ 1187.4] We're going to talk about our very own beer.
+[ 1190.6] The first trap which we are launching this Friday.
+[ 1194.6] We're going to speak to the entertainment that will be there.
+[ 1197.8] So we'll announce who is on the lineup for this launch event.
+[ 1201.8] But also most importantly figure out if we can get a jingle done.

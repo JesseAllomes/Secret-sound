@@ -1,0 +1,26 @@
+BEST BITS: I Milk Cows
+Mon, 13 Jul 2026 22:56:20 +0000
+plays: [{'t': np.float64(501.16), 'ncc': 0.899}, {'t': np.float64(512.25), 'ncc': 0.626}]
+
+[  433.4] secret sound. Thanks to 40 Winx Port Macquarie. Come in and see the team at Port Home Zone.
+[  439.4] 40 Winx, serious about sleep. Well well well, it isn't my good old mate Brian.
+[  445.6] How are you sir? Good mate, they killed me this morning.
+[  449.7] Oh tell you what, I was thinking of you. No thank you very much, yes you're cool.
+[  459.2] Very freezing. I mean I'm looking at the temperature gauge here at the moment.
+[  464.2] Just outside our studios in Thrumster. It's saying 4 degrees but feels close to zero.
+[  470.2] I reckon the front and the back here too mate. Yeah crikey.
+[  473.2] Should be a pretty nice sunny day today though. It's saying here maybe a top of 20 so gosh.
+[  480.2] That should be nice. Bring that sun out hey? Yeah.
+[  484.2] Oh man, alright. 975 bucks, where are you putting that cash if you win it?
+[  489.2] I'm going to put it towards the outside area for 2 seconds, got TV.
+[  494.2] Beautiful mate. I like the sound of that. Here we go, let's make it happen.
+[  499.2] Here is the secret sound. What do you think?
+[  503.2] I reckon you're pushing the door, the door that microwave door when you push it, pull your clothes.
+[  511.2] It's not sorry. Keep on trying though please. Keep on trying.
+[  519.8] Oh will mate. Semi-love to our dear friend Chrissy. Oh sure will mate. Good man.
+[  524.8] Talk to you soon. How you doing mate, check out with you later. Sounds good.
+[  528.8] Sounds good, stay warm. Alright, secret sound. It is back at 8 o'clock 1 triple 3 5 3.
+[  534.8] Those numbs are getting involved. All the incorrect guesses for you to go on the Sarge for Breakfast podcast at least.
+[  540.8] So have a listen to them to get closer to the cash.
+[  544.8] Alright, I'm going to invite you to the launch of our very own beer, the thirst trap in conjunction with Black Duck Brewery next.
+[  553.8] So have the text line ready 04680.

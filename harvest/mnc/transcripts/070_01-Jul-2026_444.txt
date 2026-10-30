@@ -1,0 +1,78 @@
+BEST BITS: What's Your Beer Flavour?
+Wed, 01 Jul 2026 00:52:35 +0000
+plays: [{'t': np.float64(519.68), 'ncc': 0.904}, {'t': np.float64(527.21), 'ncc': 0.824}]
+
+[  444.7] the early bird edition of The Secret Sound.
+[  447.5] Mm-hmm.
+[  448.3] Thanks to 40 Winks Port Macquarie.
+[  450.2] Come in and see the team at Port Home Zone.
+[  452.4] 40 Winks, serious about sleep.
+[  454.7] Steve, welcome to the six o'clock club.
+[  456.6] How are you, mate?
+[  457.7] Good, mate, yourself?
+[  458.6] Yeah, really good, thank you.
+[  459.8] What's been going on for you this morning?
+[  461.1] What time did you get up and what have you done so far?
+[  464.4] 4.45, up and start work at 5.45.
+[  467.4] And what do you do?
+[  468.9] Drive trucks.
+[  469.8] Fantastic, mate.
+[  470.6] When do you knock off?
+[  472.3] Two o'clock.
+[  473.6] It's a good day.
+[  474.7] I sort of do a similar thing, not truck driving.
+[  478.6] But that sort of early finish in the day,
+[  481.2] it's good to have your afternoons.
+[  483.2] It is, especially when the weather's good
+[  484.7] and you go to the beach.
+[  485.6] Oh, stop it.
+[  486.4] What's your go-to beach?
+[  488.8] Town beach.
+[  489.6] Town, yeah, OK.
+[  491.7] I dabble.
+[  493.2] I dabble here and there.
+[  494.3] I'm a Flynn's guy.
+[  495.4] Anyway.
+[  496.2] Absolutely, yeah.
+[  497.1] Yeah, yeah, yeah.
+[  497.9] Mate, here we go.
+[  498.8] 850 bucks.
+[  499.6] I mean, what would you do with that cash if you wanted?
+[  502.4] Probably spend some money on your son's go-kart.
+[  504.3] He likes the go-kart race.
+[  505.4] So that's always expensive.
+[  507.3] Yeah, it is.
+[  509.4] Fun thing to be a part of, though.
+[  510.8] It's a good community, the go-karting, isn't it?
+[  512.8] It is.
+[  513.2] It's very good.
+[  513.7] Yeah, yeah, yeah.
+[  514.2] Great.
+[  514.6] All right, here we go.
+[  515.3] Well, let's do that.
+[  516.2] That sounds great.
+[  517.4] That's a secret sound.
+[  518.6] I'll just go once again.
+[  520.2] What do you think, mate?
+[  521.7] Is it pushing the space button, the space bar on the keyboard?
+[  529.1] No, but, mate, I think the last three people who have caught
+[  534.1] up for the secret sound have been saying the right words.
+[  537.9] We'll just put it that way.
+[  539.9] But not completely right, obviously.
+[  543.0] Yeah, OK, guess.
+[  544.4] Good man.
+[  545.4] Have a good one.
+[  546.2] See you, legend.
+[  547.0] Bye.
+[  547.6] The secret sound, it is back at 8 o'clock.
+[  549.9] 1, triple 353 is the number to get involved with that.
+[  552.9] We do put all the incorrect guesses for it, too, by the way,
+[  555.2] on the Sarge for Breakfast podcast at listener.
+[  557.9] So check that out to get closer to the cash.
+[  560.5] All right, details on winning the ultimate origin
+[  563.3] experience at home is next.
+[  566.5] Stand by.
+[  567.3] You're on triple M.
+[  568.0] Good morning, Bransford and Nand.
+[  570.5] Big race here.
+[  571.1] It's triple M in North Coast.

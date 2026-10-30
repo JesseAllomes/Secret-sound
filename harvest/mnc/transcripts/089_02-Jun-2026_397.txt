@@ -1,0 +1,28 @@
+BEST BITS: We're All Just Trying Our Hardest
+Tue, 02 Jun 2026 23:23:23 +0000
+plays: [{'t': np.float64(472.63), 'ncc': 0.757}, {'t': np.float64(475.36), 'ncc': 0.687}, {'t': np.float64(492.73), 'ncc': 0.822}]
+
+[  397.6] Good morning Sarge. Happy hump day. Happy hump day. Hey you obviously don't mind the phrase hump day.
+[  407.0] Mate, it's the middle of the week. It's the top of the hill. Yes. Of course it's got to be the hump.
+[  412.3] It is. It is the hump. Some people though, I think in 2026 in this world the way it can sometimes
+[  418.9] feel like it's going. There's some people out there who don't like the terminology of hump day.
+[  424.8] So I think it'd be a good subject for the Sarge's Angels at some point. It would be. Yes, yes. It's
+[  430.9] the top of the hill mate. We're halfway there. He's just the little nudge over the other side.
+[  435.7] That's it. Two down, two to go. Who doesn't mind a little hump in the middle, you know? That's it.
+[  441.6] Uh, was uh, I've got 375 dollars to give away here and just quickly how about the debacle with
+[  448.8] my mathematics last week. Oh, at least the wife was onto it mate. Sarge was onto it. Mate,
+[  455.9] we have to get her on the payroll. Producer Shaza, hey? I reckon, yeah, when we get up there you'll be
+[  461.6] right. Yeah. You'll be tapped on you. Absolutely, no issues with the jackpot. That's for sure.
+[  467.4] Uh, okay, so I'll give you 375 bucks mate. If you can correctly identify what this sound is,
+[  473.2] I'll go once more for the listeners. I know you've heard it a million times. What are you
+[  477.0] thinking was I? I'm wondering if it may be one of those little handheld counters where you're
+[  483.1] clicking it, counting people coming into like a gate entry to an event or something like that.
+[  489.1] Just clicking them over. Very good guess. Yeah, I know the one. That's not it. Sorry, was I?
+[  495.9] Nah, all right. I keep thinking. Enjoy your hump day, hey? No worries mate. We're getting
+[  500.8] closer. 37 days to go before we get the keys. 37 days. Okay, well, we'll make sure that we've
+[  506.8] got the big party ready by then, hey? We're getting there, yeah. So exciting mate. It'll be good to
+[  512.6] have you back on the Mid-North Coast. Hey, I'll talk to you soon. No worries. Was it Wednesday?
+[  518.2] What a man. Uh, this is the Mid-North Coast's Triple M Sarge here for breakfast. More on the
+[  523.9] other side of this. Oh, and by the way, the Secret Town's back at eight o'clock, still worth
+[  527.5] $375 and we put all the incorrect guesses so far for it on the podcast at listener. Just search up
+[  534.8] Sarge for breakfast. It's Triple M, Lincoln Park for you.

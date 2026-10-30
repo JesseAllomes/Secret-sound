@@ -1,0 +1,72 @@
+BEST BITS: Dad, I Dug A...
+Thu, 18 Jun 2026 00:28:34 +0000
+plays: [{'t': np.float64(1455.91), 'ncc': 0.823}, {'t': np.float64(1460.34), 'ncc': 0.861}, {'t': np.float64(1547.37), 'ncc': 0.863}, {'t': np.float64(1551.09), 'ncc': 0.865}]
+
+[ 1381.3] Alright, um, why don't chickens wear pants?
+[ 1386.3] Why don't chickens wear pants? I don't know Matt, why don't they wear pants?
+[ 1390.3] Because their peck is on their head.
+[ 1392.3] The peck is on their head.
+[ 1396.3] So that would make them what, a cock head?
+[ 1400.3] That would do it.
+[ 1402.3] It's a double up joke. That's good mate.
+[ 1404.3] Well you're in the draw, congratulations.
+[ 1406.3] Yes, thank you.
+[ 1407.3] That's how Make Sarge Life works. Stay dine and laugh with Mercur Centro and Bird Rock Bar and Grill.
+[ 1413.3] We'll get amongst it tomorrow morning from 6am.
+[ 1417.3] Last chances to make me laugh and then we will draw the winner tomorrow.
+[ 1422.3] Triple Emmied North Coast Sarge here for breakfast.
+[ 1424.3] Oh brother. Always gets in the fields, hey.
+[ 1427.3] Youth group Forever Young, the greatest here.
+[ 1429.3] It's Triple Emmied North Coast. It is the Sarge for Breakfast show.
+[ 1432.3] We are live on your radio and the listener app currently 11 degrees at long flight.
+[ 1436.3] Good morning to the crew listening there.
+[ 1438.3] Heading for top of 22 and mostly sunny.
+[ 1441.3] I want to give you some cash man.
+[ 1443.3] I got $625 to give away. So if you'd like it, just give me a bell.
+[ 1448.3] 1-333-53.
+[ 1451.3] Just tell me correctly what this sound is.
+[ 1455.3] Once again for good luck.
+[ 1460.9] Call 1-333-53 and just simply tell me what you think that sound is.
+[ 1463.9] You might surprise yourself. You might win.
+[ 1465.9] And then we'll transfer $625 into your bank account.
+[ 1469.9] It's the secret sound of thanks to 40 Winks Port Macquarie.
+[ 1472.9] Coming up, Triple Emmied North Coast Sarge here for breakfast.
+[ 1476.9] Here's the Culture Club now.
+[ 1479.9] And Karma Chameleon.
+[ 1480.9] We've got a story about the Culture Club.
+[ 1483.9] I don't have time to tell it because the Vogue was around the head.
+[ 1486.9] I'll get to it soon though.
+[ 1488.9] Thanks to 40 Winks Port Macquarie.
+[ 1494.4] So come in and see the team at Court Home Zone.
+[ 1496.4] 40 Winks, serious about sleep.
+[ 1498.4] Hey, good morning Lee.
+[ 1500.4] Good morning.
+[ 1501.4] How you doing good man?
+[ 1503.4] Um...
+[ 1504.4] Oh, oh, oh, no, no, no, Lee, Lee. You just broke up. Say that again. Say that again.
+[ 1508.4] I can hear it in your voice. What's going on in your life, Lee?
+[ 1514.0] Take my little boy back home and then off to work for the day.
+[ 1518.3] Ah, that's amazing. It's just...
+[ 1520.3] I've been saying this a lot lately, Lee. It's the little things in life.
+[ 1524.3] Absolutely.
+[ 1526.3] Yeah, alright, mate. Here we go.
+[ 1528.3] I've got $625 to give away.
+[ 1530.3] What would you do with that money if you wanted, Lee?
+[ 1533.3] Ah, mate, I've treat the wife to the... something nice for the weekend.
+[ 1538.3] Okay, well that sounds wonderful. Wonderful husband material right there.
+[ 1543.3] Here we go. I hope it works out for you. Here you go, Lee.
+[ 1546.3] That's a secret. See, I'm going once again for good luck because you're a good guy.
+[ 1550.3] What do you think?
+[ 1552.3] Is it a chocolate wheel?
+[ 1554.3] No. It's not a chocolate wheel but I tell you what, it's a bloody good guess.
+[ 1559.3] I like it. It is worth a try.
+[ 1561.3] Lee, have a wonderful day, good man.
+[ 1563.3] You too, buddy. Thank you.
+[ 1565.3] Call anytime. Secret Sound is back tomorrow morning after 6.30pm at 1.333.5.3. Lee.
+[ 1572.3] Ah, worth 650 buckaroonies, okay?
+[ 1575.3] And all of the incorrect guesses for this thing so far.
+[ 1578.3] Go on the Sarge for breakfast podcast at listener.
+[ 1581.3] Speaking of a good time, Anthony Maroon from The Rush Hour and Triple M NRL
+[ 1585.3] is on the show next with his tipping technique for this week's round of the NRL.
+[ 1589.3] What a tune for your Thursday morning.
+[ 1591.3] This is Triple M, Mid-North K, Sarge here for breakfast 11 minutes after 8 and 11.

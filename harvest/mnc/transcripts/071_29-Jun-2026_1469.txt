@@ -1,0 +1,68 @@
+BEST BITS: It's Official, We're Brewing
+Mon, 29 Jun 2026 23:28:50 +0000
+plays: [{'t': np.float64(1544.95), 'ncc': 0.881}, {'t': np.float64(1551.82), 'ncc': 0.79}]
+
+[ 1474.6] Thanks to 40 winks Port Macquarie
+[ 1476.6] So go in and see the team at Court Home Zone
+[ 1478.6] 40 Winks, serious about sleep
+[ 1480.6] Yes, thank you 40 Winks for sponsoring one of the most fun but also frustrating games
+[ 1487.6] Who have we got here on Line 1?
+[ 1489.6] Hudson McCarran
+[ 1490.6] Hello Hudson, how are you mate?
+[ 1492.6] Good mate, how are you?
+[ 1493.6] Yeah really good, living the dream
+[ 1495.6] Um, $825, how would that help you?
+[ 1499.6] Yeah, give me a good weekend
+[ 1502.6] Yeah, absolutely
+[ 1503.6] Certainly
+[ 1504.6] Um, where's your calling from?
+[ 1506.6] I've got my plumbing gear with it
+[ 1507.6] Port Macquarie
+[ 1508.6] Port Macquarie, alright
+[ 1509.6] And what do you say?
+[ 1511.6] Buy some what?
+[ 1512.6] Plumbing gear
+[ 1513.6] Plumbing gear
+[ 1514.6] Plumbing gear
+[ 1515.6] Yeah, I'm a plumber
+[ 1516.6] Oh, good stuff
+[ 1517.6] Actually have you worked on my pipes?
+[ 1521.6] Haha, no comment, no
+[ 1525.6] Have you called the show before?
+[ 1527.6] Uh, yeah I have
+[ 1528.6] Ok, right, I've got a lot of plumbers who call the show, that's all
+[ 1532.6] No, no, it was ages ago
+[ 1534.6] Oh right, yeah, cause I've had a lot of plumbers who have come to the house
+[ 1537.6] Anyway, mate, we're getting off track
+[ 1539.6] Let's do this
+[ 1540.6] $825, I'll give it to you right now
+[ 1542.6] If you correctly identify what this out is
+[ 1544.6] What do you think?
+[ 1545.6] Mate, opening the sunglass compartment above your head in a car
+[ 1549.6] Ooh
+[ 1550.6] Too echo-y
+[ 1556.7] Yeah, a bit too tinny for my liking
+[ 1558.7] Unless it's a really, like, crap car
+[ 1561.7] That's got that
+[ 1562.7] Yeah
+[ 1563.7] Not a shame, crap cars
+[ 1564.7] Anyway mate, have a good one
+[ 1565.7] Cheers, Harch
+[ 1566.7] Good on ya
+[ 1567.7] Ok, secret sound
+[ 1568.7] It is back
+[ 1569.7] Tomorrow morning, 6.30, 8 o'clock
+[ 1571.7] 1, triple 3, 5, 3
+[ 1572.7] The numbers are getting involved
+[ 1573.7] It's now worth 850 bucks
+[ 1575.7] All the incorrect guesses for this thing so far
+[ 1577.7] Got on the Sarge for breakfast podcast at Lister
+[ 1580.7] Ok, let's catch up with our techspert, Mr Trevor Long
+[ 1583.7] On the M's
+[ 1584.7] Standby
+[ 1585.7] Tina Turner
+[ 1586.7] Triple M, Mid-North Coast Sarge here for breakfast
+[ 1588.7] That one goes out to Trish and Kempezy
+[ 1590.7] Morning
+[ 1591.7] Hey, it is 11 minutes after
+[ 1593.7] 8 currently 9 degrees in Kempezy

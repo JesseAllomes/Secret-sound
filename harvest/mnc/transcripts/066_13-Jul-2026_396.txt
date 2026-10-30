@@ -1,0 +1,54 @@
+BEST BITS: Dad Jokes That Don't Land
+Mon, 13 Jul 2026 19:17:42 +0000
+plays: [{'t': np.float64(471.48), 'ncc': 0.821}, {'t': np.float64(479.16), 'ncc': 0.806}]
+
+[  396.5] Coming up at 6.30, get amongst it on 1-333-53, $950 to give away this morning
+[  403.0] up a first, more greatest hits, just around the corner with Santana and Rob Thomas.
+[  407.9] It's the early bird edition of The Secret Sound.
+[  414.9] Thanks to 40 Winx Port Macquarie, come in and see the team at Port Home Zone.
+[  419.9] 40 Winx, serious about sleep.
+[  422.1] Hey, good morning, Keith.
+[  423.5] How you going?
+[  424.3] Mate, very well, thank you. How was your weekend?
+[  427.3] Yeah, not too bad. Relaxing. Yeah.
+[  430.1] Good stuff.
+[  431.1] Keith, have you heard of the song called Keith?
+[  434.1] I have. I don't think you can play it, but...
+[  436.1] No.
+[  437.9] Well, I'm glad you've heard it, because if you haven't, I was about to share with you
+[  441.3] a pretty sensational tune.
+[  443.9] Yeah.
+[  446.5] What a song.
+[  447.5] Anyway, here we go, mate. Let's give you $950.
+[  450.3] I mean, what would you do with that cash if you wanted, Keith?
+[  452.9] Well, I'd probably buy a slab and then I'd probably give the rest of the Minister for War
+[  457.8] and Foreign Answer, let him play some tunes.
+[  460.7] Could you put it towards a trailer?
+[  462.5] Yeah, yeah.
+[  464.5] That's Stonepark in more spots.
+[  465.9] No.
+[  466.9] That's right.
+[  467.9] Good stuff, Keith.
+[  469.1] Here we go.
+[  470.1] Here's The Secret Sound.
+[  471.7] What do you think, mate?
+[  473.5] Is it pushing the buttons on an old school type deck?
+[  477.7] Let's have a listen again.
+[  479.7] No, mate.
+[  480.7] But you said some really, yeah, good words in there that could lead to what the actual
+[  486.1] Secret Sound is.
+[  487.7] Yep, not a problem.
+[  488.9] Get on you, Keith.
+[  490.1] All right, thanks, Sarge.
+[  491.1] See you, legend. Bye.
+[  492.1] Secret Sound back at 8 o'clock, lunch with 353s and I'm to get involved there.
+[  496.7] We do put all of the incorrect guesses too, by the way, for this thing on the Sarge
+[  500.9] for Breakfast podcast at least.
+[  502.3] So check that out to get closer to the cash.
+[  505.1] Up next, we're going to talk about the official launch of our MMM beer.
+[  510.9] The first trap as we teamed up with Black Duck Brewery.
+[  514.1] It's happening this Friday.
+[  515.9] The official launch, the official event and your invite is just around the corner.
+[  520.3] Oh, top loader.
+[  522.3] Be greatest here.
+[  523.3] It's AAA Midnoth.

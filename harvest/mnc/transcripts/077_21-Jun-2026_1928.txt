@@ -1,0 +1,75 @@
+BEST BITS: Woody
+Sun, 21 Jun 2026 22:58:46 +0000
+plays: [{'t': np.float64(2003.45), 'ncc': 0.865}, {'t': np.float64(2034.15), 'ncc': 0.876}]
+
+[ 1928.5] Well, well, well, my wonderful friend Cassie is on 13353.
+[ 1933.7] Good morning.
+[ 1934.7] Good morning, my sweet.
+[ 1936.0] Isn't it beautiful weather?
+[ 1937.3] Oh, it's lovely.
+[ 1938.5] It's stunning.
+[ 1939.5] In fact, yesterday, I reckon it was one of my favourite days so far.
+[ 1943.1] Like it was just right, you know?
+[ 1945.9] Well, even my sunflowers are filled.
+[ 1948.3] They're out in bloom.
+[ 1949.3] Have you got a sunflower field, Cassie?
+[ 1952.7] Not a field, but I've got...
+[ 1953.7] Oh, no, there's probably about 20 out there.
+[ 1955.7] A cluster.
+[ 1956.7] And they're all big and yes.
+[ 1958.2] And they're all big and glorious.
+[ 1959.5] They don't know what to do.
+[ 1960.5] Oh, that's so beautiful.
+[ 1962.5] Now, do you give them to people?
+[ 1963.9] Do you keep them for yourself?
+[ 1965.1] What's the guy?
+[ 1966.1] I did it both.
+[ 1967.1] Keep them.
+[ 1968.1] Keep the bigger heads for myself for the seeds.
+[ 1969.7] But, yeah, share them around.
+[ 1971.4] How lovely.
+[ 1972.4] Cassie, we've got $675 up for grabs here.
+[ 1975.7] Now, what would you do with that cash if you wanted?
+[ 1979.6] I honestly don't know.
+[ 1982.1] Maybe put some lino in the kitchen because that could really do with that instead of
+[ 1985.4] a concrete floor.
+[ 1986.7] Very ugly.
+[ 1988.5] Tell you what, the lino looks really good.
+[ 1989.9] Like, it looks realistic these days.
+[ 1991.3] But you get...
+[ 1992.3] Oh, it's incredible.
+[ 1993.3] Yes.
+[ 1994.3] The timber flooring lino and all that sort of stuff.
+[ 1996.7] Yeah, there's some beautiful, beautiful patterns out there well and truly.
+[ 2000.6] Oh, let's give you some lino.
+[ 2002.2] Here we go.
+[ 2003.2] Here's a sacred sound.
+[ 2004.2] What do you think, Cassie?
+[ 2005.2] To me, it's sliding a battery onto her skin.
+[ 2007.7] It's like a drill or an angled grinder or a drop saw or something like that.
+[ 2014.6] That's what it sounds like, sliding that battery up into the skin of the appliance.
+[ 2019.9] Is it like one of those big thick ones?
+[ 2022.9] The chunky...
+[ 2024.9] The chunky sort of boxy rectangular battery.
+[ 2027.9] That's correct.
+[ 2028.9] What you use on your cordless drill and all your other outdoor tools.
+[ 2032.8] Oh, okay.
+[ 2035.9] Cassie, that is not the sacred sound.
+[ 2038.5] Okay.
+[ 2039.5] May I just say something?
+[ 2040.7] Of course.
+[ 2041.7] Years ago...
+[ 2042.7] Yeah.
+[ 2043.7] I won on your radio, a competition anyway.
+[ 2047.5] It was being stupid outside sort of thing.
+[ 2050.5] And I won and I bought a Makita drill and I love my drill.
+[ 2056.3] I use it at least once a week.
+[ 2058.6] Yeah, you still got it, eh?
+[ 2060.3] Oh, I love it.
+[ 2061.3] Before that, I had a little handyman drill and I played with hardwood.
+[ 2065.3] So I'd drill one, maybe two holes and the battery would die on because the timber was
+[ 2069.3] too tough.
+[ 2070.5] And then you got the real good gear, eh?
+[ 2073.0] Because the radio station, I love the really, really good gear and it's made my life so
+[ 2078.2] easy.
+[ 2079.2] And I...
