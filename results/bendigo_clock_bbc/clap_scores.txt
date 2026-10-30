@@ -1,0 +1,77 @@
+on-air filter: 1 clips match a wrong guess and are left out of the A/B files
+0.743 clap 0.682 mel 0.886  07071095 @5.95s  [clock key] Auto key punch, 1966.
+0.740 clap 0.677 mel 0.887  07006009 @6.08s  [clock key] One auto-key punch operating, occasional pause.
+0.732 clap 0.690 mel 0.832  07010146 @4.84s  [eight day] Eight inch gun fires.
+0.730 clap 0.674 mel 0.859  07039141 @20.57s  [clock winding] Hand-Operated Sewing Machine, winding cotton on to shuttle.
+0.725 clap 0.669 mel 0.856  07022100 @1.23s  [clock mechanism] Domestic clock striking one o'clock. (Domestic clock with he
+0.719 clap 0.660 mel 0.856  07070157 @6.25s  [clock winding] English Walnut clock (1700) - wound up
+0.716 clap 0.675 mel 0.811  07022173 @0.42s  [grandfather clock] Grandfather clock striking quarter past the hour. (Bell type
+0.715 clap 0.659 mel 0.844  07010183 @27.25s  [clock ratchet] Jack plane boring hole in 3" soft wood with 1" twist bit in 
+0.714 clap 0.665 mel 0.827  07022079 @3.46s  [clock key] Domestic clock striking four o'clock. (Domestic clock with h
+0.713 clap 0.643 mel 0.874  07054032 @5.01s  [clock winding] Cage opened and loaded, winding gear operated at slow speed 
+0.708 clap 0.631 mel 0.889  07016340 @56.99s  [clock winding] Winding up yarn after spinning. (Old textile machinery.)
+0.707 clap 0.646 mel 0.849  07002137 @42.17s  [chiming clock] Sound of Big Ben chiming and striking 12 o'clock, recorded p
+0.703 clap 0.651 mel 0.825  07042224 @32.51s  [pendulum clock] Pendulum torture machine. (Horror Spot Effect.)
+0.702 clap 0.662 mel 0.797  07022129 @16.82s  [clock winding] Domestic clock striking three o'clock. (English domestic clo
+0.702 clap 0.656 mel 0.810  07036204 @1.68s  [clock winding] Grandfather Clock with St Michael's chimes, winding by chain
+0.700 clap 0.622 mel 0.883  07033162 @7.42s  [clock ratchet] Local Train, ratchet-type window blind raised & lowered.
+0.700 clap 0.643 mel 0.832  07022249 @15.51s  [clock key] Lantern clock striking ten o'clock. (Domestic lantern clock,
+0.696 clap 0.617 mel 0.882  07022511 @2.80s  [wall clock] Demolition: Wall collapse.
+0.695 clap 0.614 mel 0.884  07065136 @3.03s  [wall clock] Wall collapsing (5C3)
+0.691 clap 0.602 mel 0.897  07054031 @1.46s  [clock winding] Pit winding gear in operation (Ellistoun Colliery, Leics.)
+0.687 clap 0.673 mel 0.719  07054169 @27.11s  [clock winding] Winding engine drivers cabin - lift taken up then down.
+0.685 clap 0.605 mel 0.871  07016341 @39.86s  [clock winding] Improved spinning jenny, drawing back, spinning & winding up
+0.678 clap 0.644 mel 0.757  0009052 @3.25s  [wall clock] seaside - harbour wall with gulls
+0.668 clap 0.594 mel 0.842  07059088 @5.16s  [clock winding] Winding cotton on to shuttle (hand-operated sewing machine).
+0.660 clap 0.603 mel 0.794  07039128 @10.08s  [clock winding] Treadle Sewing Machine, fitting & winding bobbin. (Machine c
+0.659 clap 0.613 mel 0.768  07076003 @10.59s  [clock key] Morse key, transmitting end. (c.1839)
+0.658 clap 0.600 mel 0.795  07022135 @23.53s  [clock winding] Domestic clock striking nine o'clock. (English domestic cloc
+0.658 clap 0.604 mel 0.783  07022134 @21.30s  [clock winding] Domestic clock striking eight o'clock. (English domestic clo
+0.655 clap 0.566 mel 0.863  07022043 @5.41s  [longcase clock] Domestic clock striking four o'clock. (Domestic clock with b
+0.655 clap 0.563 mel 0.869  07004215 @35.68s  [clock winding] Animated home movie viewer/editor, winding film in reverse.
+0.655 clap 0.562 mel 0.871  NHU05017048 @16.96s  [chiming clock] Numerous bells ringing to produce chiming sounds. Dogs barki
+0.652 clap 0.601 mel 0.773  07022147 @1.88s  [longcase clock] Domestic clock striking four o'clock. (Nineteenth century do
+0.652 clap 0.608 mel 0.755  07070150 @1.37s  [chiming clock] Bracket with St.Michael's chimes - 1/4 hour
+0.650 clap 0.562 mel 0.858  07071096 @14.94s  [clock key] Two key punches, 1966.
+0.650 clap 0.550 mel 0.883  07006010 @19.00s  [clock key] Two auto-key punches operating, occasional pause
+0.649 clap 0.584 mel 0.802  0009051 @9.07s  [wall clock] seaside - harbour wall at night
+0.646 clap 0.585 mel 0.789  07055122 @9.72s  [clock winding] Fitting and winding bobbin (Treadle machine c.1920).
+0.643 clap 0.550 mel 0.861  NHU05015022 @2.50s  [eight day] Feeding calls from eight day old chick.
+0.643 clap 0.550 mel 0.859  07070146 @3.00s  [grandfather clock] Grandfather clock (1850) - strikes 12 (rapid)
+0.642 clap 0.594 mel 0.755  07011079 @6.04s  [clock key] A door lock with key.
+0.638 clap 0.578 mel 0.777  07070152 @1.98s  [chiming clock] Bracket with St.Michael's chimes - 3/4 hour
+0.637 clap 0.561 mel 0.814  07022172 @3.46s  [clock winding] Winding alarm clock.
+0.636 clap 0.567 mel 0.798  NHU05069133 @41.14s  [chiming clock] With house sparrows, swifts, house martins, spotless starlin
+0.634 clap 0.572 mel 0.779  07070144 @10.05s  [grandfather clock] Grandfather clock (1710) - strikes 12
+0.630 clap 0.564 mel 0.786  07059061 @0.70s  [mantle clock] Match struck - gas mantle lit & burns.
+0.630 clap 0.549 mel 0.818  07022421 @1.73s  [wall clock] American Telephone: 1910 wall set receiver lifted, handle cr
+0.630 clap 0.549 mel 0.818  07039169 @0.82s  [bracket clock] Bracket clock striking one o'clock.
+0.629 clap 0.560 mel 0.789  07070151 @1.61s  [chiming clock] Bracket with St.Michael's chimes - 1/2 hour
+0.625 clap 0.516 mel 0.880  07024040 @12.13s  [clock winding] Factory Machines: Blanket Manufacture, Holt winding frame c.
+0.624 clap 0.603 mel 0.673  07042233 @0.31s  [chiming clock] Domestic chiming clock striking quarter to the hour.
+0.623 clap 0.509 mel 0.889  07065137 @1.98s  [wall clock] Wall collapsing (5C3)
+0.622 clap 0.532 mel 0.834  07004214 @36.67s  [clock winding] Animated home movie viewer/editor, winding film forwards.
+0.622 clap 0.552 mel 0.785  07061033 @16.56s  [wind clock] Aerial wind - constantly buffeting wind from birds eye view.
+0.620 clap 0.605 mel 0.655  07042231 @0.41s  [chiming clock] Domestic chiming clock striking quarter past the hour.
+0.620 clap 0.575 mel 0.726  07070147 @17.53s  [grandfather clock] Grandfather clock (1680) - ticking
+0.620 clap 0.559 mel 0.760  07076002 @11.64s  [clock key] Sounder used with morse key, receiving end. (c.1839)
+0.619 clap 0.520 mel 0.849  07022182 @11.00s  [grandfather clock] Grandfather clock striking four o'clock. (Bell type Grandfat
+0.616 clap 0.503 mel 0.877  07058156 @2.10s  [clock key] Key in lock, door opens and closes (reverberent corridor)
+0.615 clap 0.577 mel 0.705  07022136 @12.41s  [longcase clock] Domestic clock ticking. (English domestic clock, manufacture
+0.615 clap 0.497 mel 0.890  07022512 @2.22s  [wall clock] Demolition: Wall collapse.
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap1_clock-key_07071095.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap2_clock-key_07006009.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap3_eight-day_07010146.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap4_clock-winding_07039141.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap5_clock-mechanism_07022100.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap6_clock-winding_07070157.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap7_grandfather-clock_07022173.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap8_clock-ratchet_07010183.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap9_clock-key_07022079.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap10_clock-winding_07054032.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap11_clock-winding_07016340.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap12_chiming-clock_07002137.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap13_pendulum-clock_07042224.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap14_clock-winding_07022129.mp3
+results/bendigo_clock_bbc/ab_clap/AB_bendigo_clap15_clock-winding_07036204.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
