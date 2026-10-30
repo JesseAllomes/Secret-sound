@@ -80,3 +80,17 @@ def test_query_skips_unindexed_folder(tmp_path):
     msgs = []
     assert ci.query(clip(tone_hit(790), 0.05, 0.32), [d], Spectral(), log=msgs.append) == []
     assert "no index" in msgs[0]
+
+
+def test_shards_merge_to_the_same_index(tmp_path):
+    d = make_folder(tmp_path)
+    for i in range(2):
+        ci.build(d, Spectral(), win=0.32, shard=(i, 2), log=lambda *_: None)
+    parts = ci.merge(d, 0.32, log=lambda *_: None)
+    assert len(parts) == 2
+    idx = ci.load_index(d, 0.32)
+    assert sorted(set(idx["file"].tolist())) == ["high.wav", "low.wav", "match.wav"]
+    ci.merge(d, 0.32, log=lambda *_: None)
+    assert len(ci.load_index(d, 0.32)["file"]) == len(idx["file"])
+    rows = ci.query(clip(tone_hit(790), at=0.05, length=0.32), [d], Spectral(), log=lambda *_: None)
+    assert rows[0]["id"] == "match"

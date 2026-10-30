@@ -37,10 +37,26 @@
           "STATUS.md"
         ]
       }
+    ],
+    "m3": [
+      {
+        "done": false,
+        "done_at": null,
+        "est_min": 25,
+        "goal": "work zip: fetched (8421 mp3 + 979 OneDrive error notes), manifest; GitHub workflow clap-index.yml indexes it on 16 runners; local index for 1972 extra Freesound + 286 BBC clips",
+        "id": "c1",
+        "note": "",
+        "targets": [
+          "tools/fetch_zip.py",
+          ".github/workflows/clap-index.yml",
+          "tools/fs_names.py",
+          "clap_index.py"
+        ]
+      }
     ]
   },
   "errors": [],
-  "rev": 5,
+  "rev": 6,
   "schema": 1,
   "time": [
     {

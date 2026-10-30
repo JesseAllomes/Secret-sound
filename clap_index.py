@@ -5,7 +5,8 @@ sfx_match.py re-embeds the whole folder for every clue. This keeps the embedding
 The index is clue-free, so the same folder serves Mid North Coast and Bendigo; the clue and the --tag name
 keep their rankings and A/B files apart.
 
-    python clap_index.py build <folder> [<folder> ...] [--win 0.64] [--max-events 24]
+    python clap_index.py build <folder> [<folder> ...] [--win 0.64] [--max-events 6] [--shard 0/8]
+    python clap_index.py merge <folder> [--win 0.64]        (joins the shard parts into the folder's index)
     python clap_index.py query <clue> <folder> [<folder> ...] --tag mnc [--top 40] [--csv out.csv] [--ab 10 --out dir]
 
 The window should be about the clue's length (MNC 0.631 s -> 0.64; Bendigo 0.273 s -> 0.28). query uses the
@@ -30,12 +31,13 @@ from sfx_match import SR, events, load_clue, mel_env
 AUDIO = (".mp3", ".wav", ".ogg", ".flac", ".m4a", ".aif", ".aiff")
 
 
-def index_path(folder, win):
-    return Path(folder) / f".clap_{int(round(win * 1000))}.npz"
+def index_path(folder, win, shard=None):
+    part = f".part{shard[0]}of{shard[1]}" if shard and shard[1] > 1 else ""
+    return Path(folder) / f".clap_{int(round(win * 1000))}{part}.npz"
 
 
-def load_index(folder, win):
-    p = index_path(folder, win)
+def load_index(folder, win, shard=None):
+    p = index_path(folder, win, shard)
     if not p.exists():
         return {"file": np.array([], str), "at": np.zeros(0), "emb": np.zeros((0, 0), np.float32)}
     z = np.load(p, allow_pickle=False)
@@ -54,12 +56,16 @@ def strongest(ev, k):
     return [ev[i] for i in keep]
 
 
-def build(folder, embedder, win=0.64, max_events=24, batch=16, save_every=200, log=print):
-    """Embed every audio file in folder not yet in its index. Returns the number of files added."""
+def build(folder, embedder, win=0.64, max_events=6, batch=16, save_every=50, shard=None, log=print):
+    """Embed every audio file in folder not yet in its index. Returns the number of files added.
+    shard=(i, n) takes every n-th file starting at i and writes a part file, so n machines can share a folder."""
     folder = Path(folder)
-    idx = load_index(folder, win)
+    idx = load_index(folder, win, shard)
     done = set(idx["file"].tolist())
-    todo = [f for f in audio_files(folder) if str(f.relative_to(folder)) not in done]
+    files_all = audio_files(folder)
+    if shard and shard[1] > 1:
+        files_all = files_all[shard[0]::shard[1]]
+    todo = [f for f in files_all if str(f.relative_to(folder)) not in done]
     n = int(round(win * SR))
     files, ats, embs = list(idx["file"]), list(idx["at"]), [idx["emb"]] if len(idx["emb"]) else []
     pend_f, pend_a, pend_w = [], [], []
@@ -71,7 +77,7 @@ def build(folder, embedder, win=0.64, max_events=24, batch=16, save_every=200, l
             ats.extend(pend_a)
             pend_f.clear(), pend_a.clear(), pend_w.clear()
         if embs:
-            np.savez(index_path(folder, win), path=np.array(files, str), at=np.array(ats, float),
+            np.savez(index_path(folder, win, shard), path=np.array(files, str), at=np.array(ats, float),
                      emb=np.concatenate(embs).astype(np.float32))
 
     for i, f in enumerate(todo, 1):
@@ -88,8 +94,29 @@ def build(folder, embedder, win=0.64, max_events=24, batch=16, save_every=200, l
             flush()
             log(f"{folder.name}: {i}/{len(todo)} new files embedded")
     flush()
-    log(f"{folder.name}: {len(todo)} new, {len(set(files))} files, {len(files)} events in {index_path(folder, win).name}")
+    log(f"{folder.name}: {len(todo)} new, {len(set(files))} files, {len(files)} events in {index_path(folder, win, shard).name}")
     return len(todo)
+
+
+def merge(folder, win=0.64, log=print):
+    """Join the folder's shard parts (and any existing index) into one index; files already present are kept once."""
+    folder = Path(folder)
+    parts = sorted(folder.glob(f".clap_{int(round(win * 1000))}.part*of*.npz"))
+    idx = load_index(folder, win)
+    seen = set(idx["file"].tolist())
+    files, ats, embs = list(idx["file"]), list(idx["at"]), [idx["emb"]] if len(idx["emb"]) else []
+    for p in parts:
+        z = np.load(p, allow_pickle=False)
+        keep = np.array([f not in seen for f in z["path"]], bool)
+        files += z["path"][keep].tolist()
+        ats += z["at"][keep].tolist()
+        embs.append(z["emb"][keep])
+        seen |= set(z["path"].tolist())
+    if embs:
+        np.savez(index_path(folder, win), path=np.array(files, str), at=np.array(ats, float),
+                 emb=np.concatenate(embs).astype(np.float32))
+    log(f"{folder.name}: merged {len(parts)} part(s): {len(set(files))} files, {len(files)} events")
+    return parts
 
 
 def nearest_win(folder, length):
@@ -179,7 +206,11 @@ def main():
     b = sub.add_parser("build")
     b.add_argument("folders", nargs="+")
     b.add_argument("--win", type=float, default=0.64)
-    b.add_argument("--max-events", type=int, default=24)
+    b.add_argument("--max-events", type=int, default=6)
+    b.add_argument("--shard", help="i/n: this machine's share of each folder, e.g. 0/8")
+    m = sub.add_parser("merge")
+    m.add_argument("folders", nargs="+")
+    m.add_argument("--win", type=float, default=0.64)
     q = sub.add_parser("query")
     q.add_argument("clue")
     q.add_argument("folders", nargs="+")
@@ -190,11 +221,16 @@ def main():
     q.add_argument("--ab", type=int, default=0)
     q.add_argument("--out", default="ab_clap")
     args = ap.parse_args()
+    if args.cmd == "merge":
+        for f in args.folders:
+            merge(f, args.win)
+        return
     from sfx_match import Clap
     clap = Clap()
     if args.cmd == "build":
         for f in args.folders:
-            build(f, clap, args.win, args.max_events)
+            shard = tuple(map(int, args.shard.split("/"))) if args.shard else None
+            build(f, clap, args.win, args.max_events, shard=shard)
         return
     clue = load_clue(args.clue)
     rows = query(clue, args.folders, clap, args.rerank)
