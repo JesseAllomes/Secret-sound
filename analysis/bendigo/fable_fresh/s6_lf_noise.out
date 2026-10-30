@@ -1,0 +1,72 @@
+40-120 Hz: peak env 0.0337 at 0.0 ms; prominent bursts at [np.float64(21.9)]
+120-300 Hz: peak env 0.0324 at 0.0 ms; prominent bursts at [np.float64(11.8), np.float64(26.4), np.float64(47.0)]
+300-700 Hz: peak env 0.0270 at 11.6 ms; prominent bursts at [np.float64(1.5), np.float64(11.6), np.float64(22.5), np.float64(36.9), np.float64(46.1), np.float64(56.0), np.float64(127.2), np.float64(177.8), np.float64(253.9)]
+700-1500 Hz: peak env 0.0121 at 18.3 ms; prominent bursts at [np.float64(0.5), np.float64(18.3), np.float64(32.1), np.float64(40.8), np.float64(48.9), np.float64(59.9), np.float64(84.4), np.float64(96.2), np.float64(109.2), np.float64(118.0), np.float64(137.3), np.float64(148.0), np.float64(160.2), np.float64(169.6), np.float64(201.4), np.float64(216.3), np.float64(225.8), np.float64(247.7), np.float64(260.5), np.float64(271.0)]
+1500-3000 Hz: peak env 0.0588 at 99.0 ms; prominent bursts at [np.float64(16.8), np.float64(28.4), np.float64(38.3), np.float64(49.5), np.float64(66.6), np.float64(99.0), np.float64(113.1), np.float64(124.2), np.float64(148.2), np.float64(157.8), np.float64(217.6), np.float64(264.4)]
+LF positive zero crossings ms: [ 5.  23.4 39.8] periods [18.5 16.4]
+frame ms, flatness, centroid Hz (every 3rd frame):
+   0.0 0.010    687
+   4.4 0.001    981
+   8.7 0.004   2380
+  13.1 0.003   2446
+  17.4 0.002   3115
+  21.8 0.002   2107
+  26.1 0.003   2032
+  30.5 0.006   3174
+  34.8 0.004   3196
+  39.2 0.003   2635
+  43.5 0.003   1867
+  47.9 0.002   1586
+  52.2 0.002   1858
+  56.6 0.002   1605
+  61.0 0.001    937
+  65.3 0.002   1477
+  69.7 0.003   1583
+  74.0 0.002    856
+  78.4 0.004   1565
+  82.7 0.004   1477
+  87.1 0.005   2173
+  91.4 0.003   1928
+  95.8 0.002   3111
+ 100.1 0.001   2641
+ 104.5 0.004   2723
+ 108.8 0.003   2696
+ 113.2 0.001   2687
+ 117.6 0.001   1866
+ 121.9 0.002   1872
+ 126.3 0.002   2126
+ 130.6 0.002   1227
+ 135.0 0.005   2397
+ 139.3 0.002   1242
+ 143.7 0.002   1025
+ 148.0 0.002   3177
+ 152.4 0.002   3687
+ 156.7 0.002   3186
+ 161.1 0.001   2745
+ 165.4 0.003   2756
+ 169.8 0.003   1168
+ 174.1 0.004   1763
+ 178.5 0.002   1358
+ 182.9 0.004   2650
+ 187.2 0.003   1255
+ 191.6 0.003   1758
+ 195.9 0.002    765
+ 200.3 0.002    884
+ 204.6 0.005   2604
+ 209.0 0.001    493
+ 213.3 0.004   2769
+ 217.7 0.002   2852
+ 222.0 0.003   3184
+ 226.4 0.003   2926
+ 230.7 0.002    950
+ 235.1 0.002   1738
+ 239.5 0.002   1416
+ 243.8 0.003   2324
+ 248.2 0.001   1217
+ 252.5 0.001    733
+ 256.9 0.005   1417
+ 261.2 0.004   3049
+ 265.6 0.001   2751
+ 269.9 0.004   2470
+8-15.5k band peaks ms/dB: [(np.float64(0.4), np.float64(-47.8)), (np.float64(4.7), np.float64(-48.3)), (np.float64(13.0), np.float64(-40.3)), (np.float64(29.9), np.float64(-39.3)), (np.float64(36.8), np.float64(-43.0)), (np.float64(49.4), np.float64(-52.3)), (np.float64(55.3), np.float64(-55.1)), (np.float64(67.4), np.float64(-50.4)), (np.float64(79.3), np.float64(-55.3)), (np.float64(87.0), np.float64(-57.8)), (np.float64(97.4), np.float64(-46.1)), (np.float64(104.3), np.float64(-49.7)), (np.float64(109.3), np.float64(-51.3)), (np.float64(113.5), np.float64(-54.9)), (np.float64(118.5), np.float64(-58.4)), (np.float64(129.0), np.float64(-56.7)), (np.float64(140.6), np.float64(-60.8)), (np.float64(146.1), np.float64(-43.5)), (np.float64(150.5), np.float64(-45.8)), (np.float64(163.2), np.float64(-54.1)), (np.float64(175.8), np.float64(-58.4)), (np.float64(184.3), np.float64(-60.9)), (np.float64(193.6), np.float64(-63.8)), (np.float64(213.9), np.float64(-47.2)), (np.float64(225.2), np.float64(-57.2)), (np.float64(233.3), np.float64(-56.7)), (np.float64(245.3), np.float64(-67.5)), (np.float64(258.7), np.float64(-45.0))]
+8-15.5k band median dB -60.1 min -83.6
