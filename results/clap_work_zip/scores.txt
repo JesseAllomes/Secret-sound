@@ -1,0 +1,81 @@
+0.802 clap 0.765 mel 0.887  515810 @0.34s  [work zip] Pressing spacebar on computer mechanical keyboard.wav
+0.772 clap 0.737 mel 0.856  525017 @0.00s  [work zip] plug getting connected to wall socket
+0.763 clap 0.731 mel 0.838  158446 @11.03s  [work zip] sfx-misc-1.wav
+0.751 clap 0.706 mel 0.856  462271 @8.66s  [work zip] Small door latch (Contact mic)
+0.747 clap 0.697 mel 0.864  462289 @0.00s  [work zip] Button effects pedal 2 (Contact mic)
+0.735 clap 0.718 mel 0.774  199073 @2.82s  [work zip] ClickerGroove_120bpm04_LoopCache_AbstractPercussion.wav
+0.728 clap 0.683 mel 0.835  442999 @0.14s  [work zip] Fridge Door Close
+0.724 clap 0.671 mel 0.849  585473 @11.67s  [work zip] 35mm film camera winding + NORMAL shutter click
+0.724 clap 0.669 mel 0.850  172868 @4.54s  [work zip] Hydraulic Suction-Sound of a Train-Toilet
+0.723 clap 0.671 mel 0.844  465696 @0.02s  [work zip] Breaker Switch
+0.720 clap 0.721 mel 0.718  165007 @4.10s  [work zip] remix #2 of 157396__snapper4298__clickers-120-fx.wav
+0.718 clap 0.665 mel 0.843  455288 @0.00s  [work zip] Can opening
+0.717 clap 0.653 mel 0.867  347548 @0.00s  [work zip] Swoosh sound 4
+0.716 clap 0.654 mel 0.860  516261 @0.00s  [work zip] Key2.wav
+0.715 clap 0.659 mel 0.844  144196 @0.00s  [work zip] toaster up.wav
+0.711 clap 0.684 mel 0.773  540940 @12.54s  [work zip] Metal Toolbox being opened
+0.710 clap 0.669 mel 0.806  219293 @10.35s  [work zip] Clicking Pen
+0.710 clap 0.702 mel 0.729  490694 @2.01s  [work zip] seatbelt fasten and click.mp3
+0.710 clap 0.669 mel 0.806  131310 @0.16s  [work zip] Window Close.wav
+0.710 clap 0.640 mel 0.875  148970 @0.15s  [work zip] Twang_5.wav
+0.709 clap 0.680 mel 0.777  199072 @0.74s  [work zip] ClickerGroove_120bpm03_LoopCache_AbstractPercussion.wav
+0.709 clap 0.624 mel 0.905  108333 @0.00s  [work zip] whip-click.wav
+0.708 clap 0.676 mel 0.782  23299 @5.08s  [work zip] Tea Stirring.mp3
+0.706 clap 0.638 mel 0.864  434454 @0.00s  [work zip] Water Bottle Open
+0.706 clap 0.647 mel 0.843  577863 @0.42s  [work zip] beefed-up Dell touchpad buttons.wav
+0.705 clap 0.647 mel 0.841  28134 @0.04s  [work zip] Grendel.wav
+0.704 clap 0.628 mel 0.883  196589 @1.13s  [work zip] tape measure delay fx
+0.704 clap 0.651 mel 0.827  113087 @0.00s  [work zip] Click2.wav
+0.704 clap 0.648 mel 0.833  381854 @0.00s  [work zip] suitcase_click_open_sqeeeek.wav
+0.703 clap 0.661 mel 0.801  577082 @2.67s  [work zip] Door_Open_Close.wav
+0.701 clap 0.647 mel 0.828  417140 @7.47s  [work zip] 4 digit number lock entrance storm door.mp3
+0.701 clap 0.627 mel 0.871  577785 @0.03s  [work zip] pop bubbles.wav
+0.700 clap 0.637 mel 0.846  448910 @12.84s  [work zip] Pen Writing
+0.699 clap 0.706 mel 0.683  365484 @1.10s  [work zip] Clothes & hangers moving in a wardrobe.mp3
+0.697 clap 0.609 mel 0.903  132286 @1.55s  [work zip] Toaster Toast.mp3
+0.695 clap 0.622 mel 0.864  466049 @7.33s  [work zip] Some sweet spacebar clicks
+0.694 clap 0.629 mel 0.845  386424 @4.02s  [work zip] Toggle_Switch.wav
+0.694 clap 0.627 mel 0.849  233643 @0.00s  [work zip] LEGO Brick Fall 5
+0.692 clap 0.655 mel 0.779  174826 @1.52s  [work zip] MITSUBISHI IMIEV electric car HATCHBACK lever int.wav
+0.692 clap 0.622 mel 0.854  366731 @2.74s  [work zip] Snipping Popsicle Stick With Scissor
+0.691 clap 0.610 mel 0.880  585475 @12.00s  [work zip] 35mm film camera winding + FAST shutter click
+0.690 clap 0.677 mel 0.719  161236 @9.97s  [work zip] LoopSet_02.04-Door_Bubbles_Buzz.wav
+0.690 clap 0.606 mel 0.884  474173 @0.21s  [work zip] opening closing jewelry box
+0.690 clap 0.641 mel 0.802  411216 @4.01s  [work zip] Open A Guiness Can
+0.690 clap 0.611 mel 0.874  148978 @0.15s  [work zip] Twang_1.wav
+0.686 clap 0.623 mel 0.832  42942 @0.00s  [work zip] Lrg push butten switch_1.L.wav
+0.686 clap 0.615 mel 0.852  172179 @6.73s  [work zip] mouse_click.wav
+0.686 clap 0.614 mel 0.853  202230 @0.00s  [work zip] Pop sound
+0.686 clap 0.683 mel 0.691  507631 @0.44s  [work zip] Wood loops 120bpm - variation 3
+0.685 clap 0.627 mel 0.821  481940 @1.52s  [work zip] R30-41-Pull Corks Out of Bottle.wav
+0.684 clap 0.615 mel 0.846  48293 @1.62s  [work zip] Key in car.aiff
+0.683 clap 0.614 mel 0.846  496328 @0.00s  [work zip] Mechanical Switch
+0.683 clap 0.604 mel 0.867  264146 @0.00s  [work zip] glitch or velcro.wav
+0.683 clap 0.614 mel 0.843  423512 @1.93s  [work zip] Light Switch Click On and Off
+0.682 clap 0.607 mel 0.859  194796 @0.00s  [work zip] Vintage Keyboard 2
+0.682 clap 0.605 mel 0.862  348240 @0.00s  [work zip] CASHIER-REGISTER-KEYBOARD-BEEP-CALC.wav
+0.681 clap 0.621 mel 0.822  514690 @3.04s  [work zip] MOUTH POPPING SOUNDS.wav
+0.681 clap 0.617 mel 0.831  424031 @0.00s  [work zip] Car Door Slam
+0.680 clap 0.640 mel 0.774  346560 @0.00s  [work zip] switch-3.wav
+0.679 clap 0.620 mel 0.816  492450 @5.26s  [work zip] SFX parkingbreak.wav
+results/clap_work_zip/ab/AB_mnc_clap1_work-zip_515810.mp3
+results/clap_work_zip/ab/AB_mnc_clap2_work-zip_525017.mp3
+results/clap_work_zip/ab/AB_mnc_clap3_work-zip_158446.mp3
+results/clap_work_zip/ab/AB_mnc_clap4_work-zip_462271.mp3
+results/clap_work_zip/ab/AB_mnc_clap5_work-zip_462289.mp3
+results/clap_work_zip/ab/AB_mnc_clap6_work-zip_199073.mp3
+results/clap_work_zip/ab/AB_mnc_clap7_work-zip_442999.mp3
+results/clap_work_zip/ab/AB_mnc_clap8_work-zip_585473.mp3
+results/clap_work_zip/ab/AB_mnc_clap9_work-zip_172868.mp3
+results/clap_work_zip/ab/AB_mnc_clap10_work-zip_465696.mp3
+results/clap_work_zip/ab/AB_mnc_clap11_work-zip_165007.mp3
+results/clap_work_zip/ab/AB_mnc_clap12_work-zip_455288.mp3
+results/clap_work_zip/ab/AB_mnc_clap13_work-zip_347548.mp3
+results/clap_work_zip/ab/AB_mnc_clap14_work-zip_516261.mp3
+results/clap_work_zip/ab/AB_mnc_clap15_work-zip_144196.mp3
+results/clap_work_zip/ab/AB_mnc_clap16_work-zip_540940.mp3
+results/clap_work_zip/ab/AB_mnc_clap17_work-zip_219293.mp3
+results/clap_work_zip/ab/AB_mnc_clap18_work-zip_490694.mp3
+results/clap_work_zip/ab/AB_mnc_clap19_work-zip_131310.mp3
+results/clap_work_zip/ab/AB_mnc_clap20_work-zip_148970.mp3
+clap_index.py, window 0.64 s, max 6 events per clip; clue clues/mnc/clue_v6b.wav
