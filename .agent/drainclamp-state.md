@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=9 -->
+<!-- drainclamp-build: state; schema=1; generation=11 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -37,10 +37,10 @@
 <!-- DC:ROADMAP -->
 | id | goal | files | status | deps |
 |---|---|---|---|---|
-| m1 | MNC harvest reaches round start; rebuild evidence package; sync into repo | harvest/mnc/harvest.jsonl;harvest/mnc/package/mnc_evidence.md;STATUS.md | active | |
-| m2 | CLAP sound-matching index: embed clip folders once, cache, rank against a clue (MNC and Bendigo separately) | clap_index.py;tests/test_clap_index.py;requirements.txt;README.md | pending | |
+| m1 | MNC harvest reaches round start; rebuild evidence package; sync into repo | harvest/mnc/harvest.jsonl;harvest/mnc/package/mnc_evidence.md;STATUS.md | done | |
+| m2 | CLAP sound-matching index: embed clip folders once, cache, rank against a clue (MNC and Bendigo separately) | clap_index.py;tests/test_clap_index.py;requirements.txt;README.md | active | |
 | m3 | import the ~1 GB work zip: fetch from share link, manifest with checksums, index it with m2 | tools/fetch_zip.sh;data_manifests/work_zip.tsv | pending | m2 |
-| m4 | fresh no-context Fable on MNC evidence (only if owner approves) | analysis/mnc/fable_fresh.md | pending | m1 |
+| m4 | fresh no-context Fable on MNC evidence (only if owner approves) | analysis/mnc/fable_fresh.md | active | m1 |
 | m5 | next refined Freesound/BBC run from m2/m4 leads, A/B for owner | jobs/mnc_next.txt | pending | m2 |
 <!-- /DC:ROADMAP -->
 
@@ -53,4 +53,5 @@
 <!-- /DC:VERIFY -->
 
 <!-- DC:LOG -->
+- 2026-10-30T13:43:35+00:00 d3338524 m1 done: harvest back to round start 13 May ($25), 423 plays saved, stack of 415, evidence package rebuilt; Fable step 1 running
 <!-- /DC:LOG -->
