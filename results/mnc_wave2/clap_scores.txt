@@ -1,0 +1,82 @@
+on-air filter: 11 clips match a wrong guess and are left out of the A/B files
+0.854 clap 0.856 mel 0.851  641862 @7.17s  [key press] Key_Old_Recorder.wav
+0.805 clap 0.791 mel 0.837  872598 @0.13s  [pen button] Toggle Pen Button
+0.797 clap 0.769 mel 0.864  266153 @0.00s  [click release] cfdown.wav
+0.796 clap 0.776 mel 0.843  534603 @7.21s  [enter key] stock-keyboard-entry-00.flac
+0.795 clap 0.787 mel 0.813  442353 @6.04s  [torch button] dolphin torch locking push button.wav  << on air warm: 27 Sep: pushing a button on your torch
+0.794 clap 0.776 mel 0.835  391310 @0.00s  [enter key] Hitting the enter key on a keyboard
+0.792 clap 0.766 mel 0.851  577863 @0.42s  [laptop key] beefed-up Dell touchpad buttons.wav
+0.788 clap 0.776 mel 0.817  113089 @16.97s  [joystick] Clicks.wav
+0.787 clap 0.762 mel 0.845  766629 @0.00s  [keyboard tactile] Keyboard_Tactile_13
+0.786 clap 0.763 mel 0.839  531396 @0.00s  [flashlight button] switch 9.wav
+0.785 clap 0.756 mel 0.852  497115 @0.00s  [joystick] Xbox 360 Button Click
+0.784 clap 0.760 mel 0.841  330258 @0.54s  [phone button] Phone button 4.wav
+0.783 clap 0.751 mel 0.859  194795 @0.00s  [keystroke] Vintage Keyboard 1
+0.777 clap 0.757 mel 0.823  466049 @2.60s  [laptop key] Some sweet spacebar clicks
+0.776 clap 0.787 mel 0.751  559894 @1.40s  [enter key] keyboard exe 2.wav
+0.775 clap 0.746 mel 0.843  516261 @0.00s  [keystroke] Key2.wav
+0.773 clap 0.742 mel 0.846  819491 @0.12s  [mouse button] Double Mouse Click  << on air warm: 26 Jul: a computer mouse click
+0.772 clap 0.742 mel 0.843  194796 @0.00s  [keystroke] Vintage Keyboard 2
+0.770 clap 0.737 mel 0.846  766625 @0.00s  [keyboard tactile] Keyboard_Tactile_1
+0.769 clap 0.737 mel 0.844  67131 @3.25s  [elevator button] button press .wav
+0.769 clap 0.740 mel 0.835  411006 @12.54s  [laptop keyboard] keyboard typing.mp3
+0.768 clap 0.776 mel 0.747  611108 @10.38s  [game controller] gamepad controller buttons triggers bumpers joysticks.wav
+0.768 clap 0.718 mel 0.884  677661 @0.00s  [enter key] enter key.mp3
+0.767 clap 0.744 mel 0.821  559904 @1.04s  [keystroke] keyboard typing code 4.wav
+0.766 clap 0.744 mel 0.818  752080 @5.57s  [game controller] videogame_controllers_micking_scifi_weapon_movment_sounds
+0.766 clap 0.740 mel 0.827  835523 @0.00s  [click release] 20251126_Click - Case close
+0.764 clap 0.761 mel 0.770  706311 @0.08s  [mouse button] mouse click  << on air warm: 26 Jul: a computer mouse click
+0.762 clap 0.745 mel 0.801  348239 @0.00s  [keystroke] MECH-KEYBOARD-01.wav
+0.761 clap 0.730 mel 0.836  194798 @0.00s  [keystroke] Vintage Keyboard 4
+0.759 clap 0.732 mel 0.822  714952 @11.70s  [phone button] Old Telephone Handset Buttons
+0.759 clap 0.723 mel 0.844  531407 @0.00s  [game controller] switch 19.wav
+0.757 clap 0.749 mel 0.778  636224 @4.44s  [laptop keyboard] Keyboard.wav
+0.756 clap 0.708 mel 0.866  516262 @0.00s  [keystroke] Key1.wav
+0.755 clap 0.728 mel 0.821  561100 @10.67s  [laptop keyboard] laptop touchpanel x click - internet research 2.wav
+0.754 clap 0.742 mel 0.784  131306 @0.16s  [microswitch] Big-Mack-Click.flac
+0.754 clap 0.718 mel 0.837  766639 @0.00s  [keyboard tactile] Keyboard_Tactile_8
+0.753 clap 0.745 mel 0.772  423512 @1.41s  [button release] Light Switch Click On and Off
+0.752 clap 0.726 mel 0.814  456356 @13.90s  [game controller] Gamepad 2
+0.752 clap 0.707 mel 0.858  442649 @0.75s  [enter key] Keyboard Click.mp3
+0.752 clap 0.716 mel 0.834  624632 @14.75s  [snap switch] Casio AS-51R Cassette Player FM/AM Switch
+0.751 clap 0.717 mel 0.831  820348 @0.00s  [typewriter key] Typewriter Key Press 01
+0.750 clap 0.709 mel 0.848  194797 @0.00s  [keystroke] Vintage Keyboard 3
+0.750 clap 0.734 mel 0.788  625278 @9.40s  [laptop key] Typing (old Lenovo laptop)
+0.749 clap 0.743 mel 0.763  62594 @4.19s  [laptop keyboard] Keyboard.wav
+0.749 clap 0.711 mel 0.837  444683 @3.05s  [phone button] Smart Phone Click
+0.749 clap 0.706 mel 0.848  612040 @0.00s  [flashlight button] flashlightclick.mp3
+0.749 clap 0.696 mel 0.872  799116 @0.00s  [enter key] FUJITSU Computers Keyboard - Enter key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.749 clap 0.711 mel 0.836  766633 @0.00s  [keyboard tactile] Keyboard_Tactile_3
+0.748 clap 0.705 mel 0.849  766635 @0.00s  [keyboard tactile] Keyboard_Tactile_5
+0.748 clap 0.715 mel 0.825  559895 @3.14s  [enter key] keyboard exe 1.wav
+0.747 clap 0.713 mel 0.827  256515 @0.00s  [space bar] Spacebar
+0.747 clap 0.697 mel 0.863  166691 @0.00s  [space bar] Keyboard
+0.746 clap 0.721 mel 0.806  559905 @1.39s  [keystroke] keyboard typing code 8.wav
+0.746 clap 0.712 mel 0.826  265766 @0.00s  [camera button] camera-video-button-press.wav
+0.746 clap 0.709 mel 0.833  766634 @0.00s  [keyboard tactile] Keyboard_Tactile_4
+0.745 clap 0.711 mel 0.824  134712 @0.00s  [snap switch] push_button_switch_04.wav
+0.745 clap 0.702 mel 0.844  194799 @0.00s  [keystroke] keyboard5.wav
+0.744 clap 0.731 mel 0.776  341832 @1.45s  [keystroke] keyboard_4.wav
+0.743 clap 0.698 mel 0.847  567266 @2.91s  [keystroke] Computer Keyboard
+0.742 clap 0.694 mel 0.852  210309 @1.81s  [mouse button] 20131209_mouse clicks_OlympusLS10_xy.wav  << on air warm: 26 Jul: a computer mouse click
+results/mnc_wave2/ab_clap/AB_mnc_clap1_key-press_641862.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap2_pen-button_872598.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap3_click-release_266153.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap4_enter-key_534603.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap5_torch-button_442353.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap6_enter-key_391310.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap7_laptop-key_577863.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap8_joystick_113089.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap9_keyboard-tactile_766629.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap10_flashlight-button_531396.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap11_joystick_497115.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap12_phone-button_330258.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap13_keystroke_194795.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap14_laptop-key_466049.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap15_enter-key_559894.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap16_keystroke_516261.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap17_mouse-button_819491.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap18_keystroke_194796.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap19_keyboard-tactile_766625.mp3
+results/mnc_wave2/ab_clap/AB_mnc_clap20_elevator-button_67131.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav

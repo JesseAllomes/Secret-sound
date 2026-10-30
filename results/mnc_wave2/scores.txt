@@ -1,0 +1,111 @@
+
+1165 files with a stroke pair. Top 40 by score:
+  1  0.894  gap 136.7 ms  ring  857 Hz T60 0.31  [gap 1.00 pre 0.00 crunch 1.00 thump 0.93 ring 0.84 dry 0.89 iso 1.00]  camera click_NIKON.wav
+  2  0.884  gap 147.5 ms  ring  851 Hz T60 0.74  [gap 0.97 pre 0.00 crunch 1.00 thump 0.93 ring 0.79 dry 1.00 iso 1.00]  Loading CD in disk tray.wav
+  3  0.864  gap 139.7 ms  ring  667 Hz T60 0.00  [gap 1.00 pre 1.00 crunch 1.00 thump 0.83 ring 0.56 dry 1.00 iso 1.00]  Old SLR film camera - Quick series of shutter cocking and pressing
+  4  0.851  gap 104.7 ms  ring  987 Hz T60 0.47  [gap 0.72 pre 0.00 crunch 1.00 thump 1.00 ring 0.78 dry 0.95 iso 1.00]  Keyboard_Clicky_5
+  5  0.851  gap 119.8 ms  ring  858 Hz T60 0.49  [gap 0.91 pre 1.00 crunch 0.75 thump 0.60 ring 0.92 dry 0.66 iso 1.00]  Door Unlock
+  6  0.847  gap 132.3 ms  ring  705 Hz T60 0.45  [gap 0.99 pre 0.00 crunch 0.50 thump 0.95 ring 0.92 dry 1.00 iso 1.00]  Cordless Telephone (Beeping) [F5 Note]
+  7  0.844  gap 128.4 ms  ring  797 Hz T60 0.73  [gap 0.98 pre 1.00 crunch 0.75 thump 0.75 ring 0.83 dry 0.30 iso 1.00]  User Interface Buttons
+  8  0.838  gap 111.8 ms  ring  879 Hz T60 0.22  [gap 0.82 pre 0.00 crunch 1.00 thump 0.61 ring 0.94 dry 0.77 iso 1.00]  Starwars_the_clone_wars_inspired_seperatist_button_sounds_01272023
+  9  0.838  gap 148.4 ms  ring  727 Hz T60 1.83  [gap 0.96 pre 0.00 crunch 1.00 thump 1.00 ring 0.57 dry 1.00 iso 1.00]  Vintage Kodak Camera Shutter.wav
+ 10  0.837  gap 139.0 ms  ring  958 Hz T60 0.50  [gap 1.00 pre 0.00 crunch 0.83 thump 0.91 ring 0.70 dry 1.00 iso 1.00]  Vintage Keyboard 4
+ 11  0.836  gap 141.4 ms  ring  799 Hz T60 1.32  [gap 0.99 pre 0.00 crunch 1.00 thump 0.99 ring 0.61 dry 0.71 iso 1.00]  Minolta Camera Shutter.wav
+ 12  0.828  gap 105.8 ms  ring  659 Hz T60 0.79  [gap 0.74 pre 1.00 crunch 1.00 thump 0.61 ring 0.82 dry 0.42 iso 1.00]  UI_4-2 Atmosphere & glitch 4lrs(Sytrus,arpegio,multiprocessing,rsmpl).wav
+ 13  0.827  gap 106.7 ms  ring  804 Hz T60 0.36  [gap 0.75 pre 1.00 crunch 1.00 thump 0.52 ring 0.80 dry 0.76 iso 1.00]  cat_like2a.mp3
+ 14  0.826  gap 130.6 ms  ring  605 Hz T60 0.18  [gap 0.99 pre 0.00 crunch 0.83 thump 1.00 ring 0.61 dry 1.00 iso 1.00]  Keyboard_Tactile_5
+ 15  0.826  gap 137.9 ms  ring  689 Hz T60 0.72  [gap 1.00 pre 0.00 crunch 1.00 thump 0.75 ring 0.71 dry 0.70 iso 1.00]  Elevator: Button 1 (Compilation)
+ 16  0.825  gap 154.6 ms  ring  535 Hz T60 5.00  [gap 0.91 pre 1.00 crunch 1.00 thump 0.83 ring 0.46 dry 1.00 iso 1.00]  battery_click.wav
+ 17  0.824  gap 157.3 ms  ring 1196 Hz T60 0.59  [gap 0.88 pre 1.00 crunch 0.50 thump 1.00 ring 0.77 dry 0.49 iso 1.00]  Game FX #5
+ 18  0.823  gap 139.5 ms  ring  695 Hz T60 1.15  [gap 1.00 pre 0.40 crunch 1.00 thump 0.72 ring 0.60 dry 0.90 iso 1.00]  Stomach Gurgle 7
+ 19  0.822  gap 176.2 ms  ring  660 Hz T60 0.00  [gap 0.62 pre 1.00 crunch 1.00 thump 1.00 ring 0.52 dry 1.00 iso 1.00]  Click_Electronic_08.wav
+ 20  0.820  gap 118.1 ms  ring  675 Hz T60 1.38  [gap 0.89 pre 0.00 crunch 0.83 thump 1.00 ring 0.64 dry 1.00 iso 1.00]  FUJITSU Computers Keyboard - Enter key Press Mono
+ 21  0.814  gap 100.6 ms  ring  953 Hz T60 0.81  [gap 0.66 pre 0.00 crunch 0.83 thump 0.93 ring 0.81 dry 0.95 iso 1.00]  Silver Typewriter (Keystroke)
+ 22  0.814  gap 149.6 ms  ring  812 Hz T60 5.00  [gap 0.95 pre 0.00 crunch 0.67 thump 0.85 ring 0.78 dry 1.00 iso 1.00]  Vintage Keyboard 3
+ 23  0.812  gap 136.7 ms  ring  737 Hz T60 0.00  [gap 1.00 pre 0.40 crunch 0.83 thump 1.00 ring 0.47 dry 1.00 iso 1.00]  kitchen timer.wav
+ 24  0.808  gap 123.3 ms  ring  680 Hz T60 0.00  [gap 0.94 pre 0.00 crunch 1.00 thump 0.96 ring 0.49 dry 1.00 iso 1.00]  Some sweet spacebar clicks
+ 25  0.807  gap 151.0 ms  ring  570 Hz T60 5.00  [gap 0.94 pre 1.00 crunch 1.00 thump 0.99 ring 0.41 dry 0.30 iso 1.00]  Elevator: Button Beep (Compilation)
+ 26  0.807  gap 122.2 ms  ring 1133 Hz T60 0.00  [gap 0.93 pre 1.00 crunch 1.00 thump 0.85 ring 0.36 dry 1.00 iso 1.00]  Remix of 113679__CGEffex__Breaking_large_ice.wav
+ 27  0.806  gap 138.7 ms  ring  839 Hz T60 0.33  [gap 1.00 pre 0.00 crunch 0.50 thump 0.89 ring 0.79 dry 1.00 iso 1.00]  jp_aliensiren3.ogg
+ 28  0.802  gap 136.2 ms  ring  618 Hz T60 0.00  [gap 1.00 pre 0.00 crunch 1.00 thump 1.00 ring 0.41 dry 1.00 iso 1.00]  Click_Electronic_13.wav
+ 29  0.798  gap 119.6 ms  ring 1163 Hz T60 0.30  [gap 0.91 pre 0.00 crunch 0.83 thump 0.82 ring 0.65 dry 1.00 iso 1.00]  Keyboard_Clicky_1
+ 30  0.797  gap 153.8 ms  ring  604 Hz T60 0.49  [gap 0.92 pre 0.00 crunch 0.50 thump 0.85 ring 0.82 dry 1.00 iso 1.00]  DellMouseClick.wav
+ 31  0.796  gap 151.3 ms  ring  714 Hz T60 5.00  [gap 0.94 pre 0.00 crunch 0.50 thump 0.93 ring 0.77 dry 1.00 iso 1.00]  Small Flashlight button clicks
+ 32  0.795  gap 105.1 ms  ring  896 Hz T60 1.77  [gap 0.73 pre 1.00 crunch 1.00 thump 0.61 ring 0.58 dry 1.00 iso 1.00]  ConfirmMachine.wav
+ 33  0.792  gap 125.1 ms  ring  558 Hz T60 0.18  [gap 0.96 pre 0.00 crunch 0.83 thump 1.00 ring 0.49 dry 1.00 iso 1.00]  Typewriter - single key - type 2.wav
+ 34  0.791  gap 146.1 ms  ring  666 Hz T60 0.88  [gap 0.97 pre 0.40 crunch 1.00 thump 0.83 ring 0.40 dry 1.00 iso 1.00]  Toy Electronic Typewriter Key Press 3
+ 35  0.791  gap 155.4 ms  ring  724 Hz T60 0.00  [gap 0.90 pre 1.00 crunch 1.00 thump 0.68 ring 0.45 dry 0.82 iso 1.00]  Click_Electronic_06.wav
+ 36  0.790  gap 170.7 ms  ring  809 Hz T60 5.00  [gap 0.70 pre 1.00 crunch 1.00 thump 0.71 ring 0.53 dry 0.91 iso 1.00]  Ratchet turn
+ 37  0.790  gap 138.5 ms  ring 1065 Hz T60 0.34  [gap 1.00 pre 0.00 crunch 0.67 thump 0.72 ring 0.73 dry 1.00 iso 1.00]  phone_button_push.mp3
+ 38  0.789  gap 160.1 ms  ring  685 Hz T60 0.00  [gap 0.85 pre 1.00 crunch 0.50 thump 0.98 ring 0.57 dry 0.96 iso 1.00]  pickingchain.ogg
+ 39  0.787  gap 152.3 ms  ring  520 Hz T60 0.69  [gap 0.93 pre 1.00 crunch 0.50 thump 1.00 ring 0.54 dry 0.77 iso 1.00]  Foley_Object_Typewriter_Keys_&_Return_Mono_NTG4.wav
+ 40  0.785  gap 107.6 ms  ring 1193 Hz T60 0.59  [gap 0.76 pre 0.40 crunch 0.83 thump 0.89 ring 0.60 dry 0.83 iso 1.00]  Keyboard_Clicky_3
+
+Evidence per mechanism (search query):
+  arcade button                    n=  44 best 0.844 median-top5 0.824  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  keystroke                        n=  50 best 0.837 median-top5 0.814  matches gap,crunch,thump,ring,dry,iso  never -
+  elevator button                  n=  44 best 0.826 median-top5 0.806  matches gap,crunch,thump,ring,dry,iso  never -
+  button release                   n=  41 best 0.838 median-top5 0.795  matches gap,crunch,thump,ring,dry,iso  never -
+  click release                    n=  19 best 0.894 median-top5 0.790  matches gap,crunch,thump,ring,dry,iso  never -
+  clicky keyboard                  n=  21 best 0.851 median-top5 0.785  matches gap,crunch,thump,ring,dry,iso  never pre
+  typewriter key                   n=  37 best 0.792 median-top5 0.779  matches gap,crunch,thump,dry,iso  never -
+  camera button                    n=  32 best 0.864 median-top5 0.776  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  mouse button                     n=  42 best 0.807 median-top5 0.770  matches gap,crunch,thump,dry,iso  never -
+  torch button                     n=  10 best 0.772 median-top5 0.764  matches gap,thump,ring,dry,iso  never -
+  kitchen timer                    n=  38 best 0.812 median-top5 0.753  matches gap,crunch,thump,dry,iso  never -
+  flashlight button                n=  29 best 0.796 median-top5 0.751  matches gap,crunch,thump,dry,iso  never -
+  laptop key                       n=  55 best 0.808 median-top5 0.744  matches gap,crunch,thump,dry,iso  never -
+  enter key                        n=  41 best 0.820 median-top5 0.741  matches gap,crunch,thump,ring,dry,iso  never -
+  clicker                          n=  54 best 0.823 median-top5 0.733  matches gap,crunch,thump,dry,iso  never -
+  phone button                     n=  48 best 0.847 median-top5 0.730  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  dvd tray                         n=  14 best 0.884 median-top5 0.728  matches gap,crunch,thump,ring,dry,iso  never -
+  cash register                    n=  57 best 0.744 median-top5 0.727  matches gap,crunch,thump,dry  never -
+  laptop keyboard                  n=  38 best 0.748 median-top5 0.723  matches gap,crunch,thump,dry,iso  never -
+  monitor button                   n=  25 best 0.757 median-top5 0.722  matches gap,crunch,thump,dry,iso  never -
+  joystick                         n=  53 best 0.779 median-top5 0.714  matches gap,pre,crunch,thump,ring,dry  never -
+  pen button                       n=  22 best 0.730 median-top5 0.713  matches gap,thump,dry,iso  never -
+  game controller                  n=  59 best 0.733 median-top5 0.712  matches gap,crunch,thump,dry,iso  never -
+  key press                        n=  31 best 0.752 median-top5 0.705  matches gap,crunch,thump,dry,iso  never pre
+  eject button                     n=   8 best 0.751 median-top5 0.703  matches gap,crunch,thump,dry,iso  never -
+  key release                      n=  20 best 0.851 median-top5 0.685  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  piano key                        n=  30 best 0.694 median-top5 0.677  matches gap,crunch,thump,iso  never -
+  keycap                           n=   1 best 0.675 median-top5 0.675  matches gap,pre,crunch,thump,ring,dry  never iso
+  space bar                        n=  57 best 0.733 median-top5 0.672  matches gap,crunch,thump,ring,dry  never -
+  telephone key                    n=  15 best 0.790 median-top5 0.670  matches gap,crunch,dry,iso  never -
+  intercom button                  n=   5 best 0.681 median-top5 0.656  matches gap,pre,crunch,ring,dry  never -
+  snap switch                      n=  11 best 0.731 median-top5 0.654  matches gap,crunch,thump,dry,iso  never -
+  stopwatch                        n=  10 best 0.717 median-top5 0.653  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  keyboard tactile                 n=   8 best 0.826 median-top5 0.651  matches gap,crunch,thump,dry,iso  never -
+  doorbell button                  n=   5 best 0.653 median-top5 0.646  matches gap,pre,crunch,thump,ring,dry  never iso
+  egg timer                        n=  20 best 0.766 median-top5 0.645  matches gap,pre,crunch,thump,ring,dry  never -
+  cherry mx                        n=   7 best 0.714 median-top5 0.645  matches gap,pre,crunch,thump,dry  never -
+  pc power                         n=  33 best 0.710 median-top5 0.640  matches gap,crunch,thump,ring,dry  never -
+  trackpad click                   n=   4 best 0.715 median-top5 0.638  matches gap,crunch,thump,ring,dry  never -
+  tactile switch                   n=   2 best 0.774 median-top5 0.636  matches gap,thump,dry  never pre
+  printer button                   n=  12 best 0.717 median-top5 0.632  matches gap,crunch,thump,ring,dry  never -
+  numpad                           n=   1 best 0.618 median-top5 0.618  matches gap,crunch,thump,dry  never pre,iso
+  laptop lid                       n=   5 best 0.741 median-top5 0.597  matches gap,crunch,thump,ring,dry  never -
+  calculator button                n=   5 best 0.635 median-top5 0.571  matches gap,crunch,thump,dry  never iso
+  reset button                     n=   1 best 0.552 median-top5 0.552  matches thump,dry,iso  never gap,pre
+  scale button                     n=   1 best 0.433 median-top5 0.433  matches iso  never gap,pre,thump,dry
+A/B: results/mnc_wave2/ab/AB_steel1_click-release_178186.mp3
+A/B: results/mnc_wave2/ab/AB_steel2_dvd-tray_391506.mp3
+A/B: results/mnc_wave2/ab/AB_steel3_camera-button_516484.mp3
+A/B: results/mnc_wave2/ab/AB_steel4_clicky-keyboard_766620.mp3
+A/B: results/mnc_wave2/ab/AB_steel5_key-release_830814.mp3
+A/B: results/mnc_wave2/ab/AB_steel6_phone-button_729277.mp3
+A/B: results/mnc_wave2/ab/AB_steel7_arcade-button_860967.mp3
+A/B: results/mnc_wave2/ab/AB_steel8_camera-button_751295.mp3
+A/B: results/mnc_wave2/ab/AB_steel9_button-release_467185.mp3
+A/B: results/mnc_wave2/ab/AB_steel10_keystroke_194798.mp3
+A/B: results/mnc_wave2/ab/AB_steel11_button-release_467186.mp3
+A/B: results/mnc_wave2/ab/AB_steel12_keystroke_515833.mp3
+A/B: results/mnc_wave2/ab/AB_steel13_arcade-button_211767.mp3
+A/B: results/mnc_wave2/ab/AB_steel14_keyboard-tactile_766635.mp3
+A/B: results/mnc_wave2/ab/AB_steel15_elevator-button_475226.mp3
+A/B: results/mnc_wave2/ab/AB_steel16_click-release_71850.mp3
+A/B: results/mnc_wave2/ab/AB_steel17_arcade-button_517756.mp3
+A/B: results/mnc_wave2/ab/AB_steel18_clicker_720818.mp3
+A/B: results/mnc_wave2/ab/AB_steel19_arcade-button_288958.mp3
+A/B: results/mnc_wave2/ab/AB_steel20_enter-key_799116.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
