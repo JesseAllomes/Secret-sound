@@ -1,0 +1,53 @@
+# Mid North Coast wave 2 (overnight): built from what ranked best against the stacked clue in the work zip and the
+# 100 Fable searches (keyboard keys, spacebar, push buttons, mouse clicks, torch locking button) plus Sarge's warm
+# reactions ("space bar", "control alt delete", "computer power button", "mouse switch"). 1-2 words each.
+key press
+key release
+keystroke
+keycap
+keyboard tactile
+cherry mx
+clicky keyboard
+laptop key
+laptop keyboard
+enter key
+space bar
+numpad
+typewriter key
+calculator button
+cash register
+piano key
+button release
+click release
+tactile switch
+microswitch
+momentary switch
+snap switch
+pen button
+clicker
+tally counter
+torch button
+flashlight button
+camera button
+shutter button
+game controller
+arcade button
+joystick
+mouse button
+trackpad click
+laptop lid
+phone button
+telephone key
+intercom button
+elevator button
+doorbell button
+stopwatch
+kitchen timer
+egg timer
+scale button
+monitor button
+pc power
+reset button
+eject button
+dvd tray
+printer button
