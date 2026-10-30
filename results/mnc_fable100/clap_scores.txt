@@ -1,25 +1,26 @@
+on-air filter: 70 clips match a wrong guess and are left out of the A/B files
 0.835 clap 0.799 mel 0.918  119134 @0.00s  [keyboard key] Keyboard Key.wav
 0.819 clap 0.801 mel 0.862  331428 @13.70s  [mechanical keyboard] Mechanical-Keyboard: Typing
-0.818 clap 0.810 mel 0.837  799118 @0.00s  [keyboard key] FUJITSU Computers Keyboard - T key Press Mono
-0.807 clap 0.788 mel 0.851  799117 @0.00s  [keyboard key] FUJITSU Computers Keyboard - P key Press Mono
-0.800 clap 0.787 mel 0.831  515810 @1.63s  [spacebar] Pressing spacebar on computer mechanical keyboard.wav
-0.795 clap 0.787 mel 0.813  442353 @6.04s  [torch switch] dolphin torch locking push button.wav
+0.818 clap 0.810 mel 0.837  799118 @0.00s  [keyboard key] FUJITSU Computers Keyboard - T key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.807 clap 0.788 mel 0.851  799117 @0.00s  [keyboard key] FUJITSU Computers Keyboard - P key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.800 clap 0.787 mel 0.831  515810 @1.63s  [spacebar] Pressing spacebar on computer mechanical keyboard.wav  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.795 clap 0.787 mel 0.813  442353 @6.04s  [torch switch] dolphin torch locking push button.wav  << on air warm: 27 Sep: pushing a button on your torch
 0.794 clap 0.783 mel 0.821  83004 @0.00s  [push button] 01340 button 1.wav
-0.794 clap 0.764 mel 0.863  799123 @0.00s  [spacebar] FUJITSU Computers Keyboard - spacebar Press Mono 2
+0.794 clap 0.764 mel 0.863  799123 @0.00s  [spacebar] FUJITSU Computers Keyboard - spacebar Press Mono 2  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.792 clap 0.763 mel 0.861  66730 @0.00s  [radio button] SB_down_4.aiff
 0.792 clap 0.766 mel 0.851  577863 @0.42s  [keyboard switch] beefed-up Dell touchpad buttons.wav
 0.787 clap 0.762 mel 0.845  766629 @0.00s  [keyboard key] Keyboard_Tactile_13
-0.781 clap 0.771 mel 0.804  828774 @3.63s  [glovebox] Glove Box Open-Close
+0.781 clap 0.771 mel 0.804  828774 @3.63s  [glovebox] Glove Box Open-Close  << on air wrong: 31 May: closing the glove box in the ute
 0.777 clap 0.757 mel 0.823  466049 @2.60s  [spacebar] Some sweet spacebar clicks
 0.777 clap 0.751 mel 0.836  799112 @3.31s  [spacebar] MBA Space-bar Multi-take MS
 0.776 clap 0.752 mel 0.832  702569 @7.04s  [spacebar] Keyboard Clacks 2.m4a
 0.776 clap 0.730 mel 0.882  419956 @0.00s  [spacebar] Computer Spacebar.WAV
-0.776 clap 0.767 mel 0.796  676577 @2.64s  [keyboard switch] Keyboard button press
+0.776 clap 0.767 mel 0.796  676577 @2.64s  [keyboard switch] Keyboard button press  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.775 clap 0.746 mel 0.843  516261 @0.00s  [keyboard key] Key2.wav
 0.773 clap 0.728 mel 0.877  66727 @0.00s  [radio button] SB_down_1.aiff
-0.770 clap 0.735 mel 0.852  799122 @9.72s  [keyboard key] FUJITSU Computers Keyboard - key Press Mono Multi-take
+0.770 clap 0.735 mel 0.852  799122 @9.72s  [keyboard key] FUJITSU Computers Keyboard - key Press Mono Multi-take  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.770 clap 0.737 mel 0.846  766625 @0.00s  [mechanical keyboard] Keyboard_Tactile_1
-0.768 clap 0.743 mel 0.828  799114 @0.00s  [keyboard key] FUJITSU Computers Keyboard - A key Press Mono
+0.768 clap 0.743 mel 0.828  799114 @0.00s  [keyboard key] FUJITSU Computers Keyboard - A key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.766 clap 0.744 mel 0.818  752080 @5.57s  [remote control] videogame_controllers_micking_scifi_weapon_movment_sounds
 0.766 clap 0.740 mel 0.827  835523 @0.00s  [latching button] 20251126_Click - Case close
 0.764 clap 0.753 mel 0.788  452903 @7.64s  [tape deck] cassette tape deck rewind slow +start, stop clicks.flac
@@ -27,7 +28,7 @@
 0.762 clap 0.745 mel 0.803  637663 @9.82s  [push switch] light switch push1.flac
 0.760 clap 0.703 mel 0.895  66734 @0.00s  [radio button] SB_up_4.aiff
 0.760 clap 0.723 mel 0.846  575808 @5.09s  [power button] Guitar Amp Power Switch On & Off
-0.759 clap 0.712 mel 0.869  799115 @0.00s  [keyboard key] FUJITSU Computers Keyboard - Delete key Press Mono
+0.759 clap 0.712 mel 0.869  799115 @0.00s  [keyboard key] FUJITSU Computers Keyboard - Delete key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.759 clap 0.762 mel 0.752  330900 @6.07s  [mechanical keyboard] Mechanical Keyboard Typing.mp3
 0.757 clap 0.774 mel 0.716  845640 @1.88s  [tape deck] Cassette Out of Tape Deck 1
 0.756 clap 0.708 mel 0.866  516262 @0.00s  [keyboard key] Key1.wav
@@ -36,13 +37,13 @@
 0.753 clap 0.711 mel 0.852  386424 @4.02s  [toggle switch] Toggle_Switch.wav
 0.752 clap 0.722 mel 0.822  246327 @0.15s  [spacebar] Computer_Keyboard_Spacebar.wav
 0.751 clap 0.694 mel 0.886  562420 @7.34s  [keyboard switch] keyboardstrokes.wav
-0.750 clap 0.725 mel 0.806  840877 @1.88s  [kettle button] Kettle Button Pressing
-0.749 clap 0.696 mel 0.872  799116 @0.00s  [keyboard key] FUJITSU Computers Keyboard - Enter key Press Mono
+0.750 clap 0.725 mel 0.806  840877 @1.88s  [kettle button] Kettle Button Pressing  << on air wrong: 6 Jul: pressing the button on the kettle
+0.749 clap 0.696 mel 0.872  799116 @0.00s  [keyboard key] FUJITSU Computers Keyboard - Enter key Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.749 clap 0.711 mel 0.836  766633 @0.00s  [mechanical keyboard] Keyboard_Tactile_3
-0.748 clap 0.701 mel 0.858  799124 @0.00s  [spacebar] FUJITSU Computers Keyboard - spacebar Press Mono
+0.748 clap 0.701 mel 0.858  799124 @0.00s  [spacebar] FUJITSU Computers Keyboard - spacebar Press Mono  << on air warm: 15 Jun: pushing control alt delete on a keyboard
 0.748 clap 0.728 mel 0.795  580732 @7.13s  [cd tray] HP laptop fan and CD drive.wav
 0.748 clap 0.705 mel 0.849  766635 @0.00s  [mechanical keyboard] Keyboard_Tactile_5
-0.748 clap 0.712 mel 0.830  383793 @6.90s  [wireless mouse] Mouse Click Apple Wireless
+0.748 clap 0.712 mel 0.830  383793 @6.90s  [wireless mouse] Mouse Click Apple Wireless  << on air warm: 26 Jul: a computer mouse click
 0.747 clap 0.713 mel 0.827  256515 @0.00s  [spacebar] Spacebar
 0.746 clap 0.709 mel 0.833  766634 @0.00s  [keyboard key] Keyboard_Tactile_4
 0.745 clap 0.743 mel 0.752  827343 @4.41s  [push latch] gearselect.wav
@@ -54,7 +55,7 @@
 0.742 clap 0.672 mel 0.905  66729 @0.00s  [radio button] SB_down_3.aiff
 0.742 clap 0.724 mel 0.783  124986 @0.19s  [latch click] newport-hotel-door-lock.aif
 0.742 clap 0.697 mel 0.846  867921 @2.53s  [keyboard switch] Button Press
-0.742 clap 0.685 mel 0.874  629301 @5.47s  [radio button] Press radio knob.wav
+0.742 clap 0.685 mel 0.874  629301 @5.47s  [radio button] Press radio knob.wav  << on air wrong: 16 Jul: clicking in the buttons on an old radio
 0.741 clap 0.715 mel 0.800  452905 @19.11s  [tape deck] cassette tape deck start, stop +play, clicks.flac
 0.741 clap 0.698 mel 0.840  452901 @11.82s  [tape deck] cassette tape deck rewind +start, stop clicks.flac
 0.739 clap 0.694 mel 0.845  474584 @1.75s  [batteries] putting in batteries.mp3
@@ -69,13 +70,13 @@ results/mnc_fable100/ab_clap/AB_mnc_clap8_spacebar_799123.mp3
 results/mnc_fable100/ab_clap/AB_mnc_clap9_radio-button_66730.mp3
 results/mnc_fable100/ab_clap/AB_mnc_clap10_keyboard-switch_577863.mp3
 results/mnc_fable100/ab_clap/AB_mnc_clap11_keyboard-key_766629.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap12_glovebox_828774.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap13_spacebar_466049.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap14_spacebar_799112.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap15_spacebar_702569.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap16_spacebar_419956.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap17_keyboard-switch_676577.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap18_keyboard-key_516261.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap19_radio-button_66727.mp3
-results/mnc_fable100/ab_clap/AB_mnc_clap20_keyboard-key_799122.mp3
-clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
+results/mnc_fable100/ab_clap/AB_mnc_clap12_spacebar_466049.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap13_spacebar_799112.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap14_spacebar_702569.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap15_spacebar_419956.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap16_keyboard-switch_676577.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap17_keyboard-key_516261.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap18_radio-button_66727.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap19_keyboard-key_799122.mp3
+results/mnc_fable100/ab_clap/AB_mnc_clap20_mechanical-keyboard_766625.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
