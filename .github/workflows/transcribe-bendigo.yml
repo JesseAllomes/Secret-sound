@@ -1,0 +1,100 @@
+name: Transcribe Bendigo podcast
+
+# Bendigo only. Lists every episode of the Cogho & Jules podcast feed, transcribes them in parallel (one runner per
+# block of episodes) and commits the transcripts plus every line mentioning the Secret Sound to
+# results/bendigo_transcripts/ on the `results` branch.
+on:
+  workflow_dispatch:
+    inputs:
+      per_job:
+        description: "Episodes per runner"
+        default: "8"
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      blocks: ${{ steps.p.outputs.blocks }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        run: |
+          python3 harvest/bendigo/transcribe_eps.py feed --out eps.json
+          echo "blocks=$(python3 -c "import json;n=len(json.load(open('eps.json')));k=int('${{ inputs.per_job }}');print(json.dumps([[i,min(i+k-1,n-1)] for i in range(0,n,k)]))")" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bendigo-eps
+          path: eps.json
+
+  transcribe:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        block: ${{ fromJSON(needs.plan.outputs.blocks) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-whisper-small-en
+      - uses: actions/download-artifact@v4
+        with:
+          name: bendigo-eps
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q numpy faster-whisper
+      - name: Transcribe episodes ${{ matrix.block[0] }}-${{ matrix.block[1] }}
+        run: python harvest/bendigo/transcribe_eps.py run eps.json ${{ matrix.block[0] }} ${{ matrix.block[1] }} --out out
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bendigo-tx-${{ matrix.block[0] }}
+          path: out
+          retention-days: 7
+
+  merge:
+    needs: transcribe
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: bendigo-tx-*
+          path: parts
+          merge-multiple: true
+      - uses: actions/download-artifact@v4
+        with:
+          name: bendigo-eps
+          path: parts
+      - name: Summarise and commit
+        run: |
+          python3 - <<'PY'
+          import json, pathlib
+          p = pathlib.Path("parts")
+          hits = sorted((json.loads(f.read_text()) for f in p.glob("hits_*.json")), key=lambda h: h["n"])
+          lines = [f"# Bendigo podcast: lines mentioning the Secret Sound ({len(hits)} episodes transcribed)", ""]
+          for h in hits:
+              if h["hits"]:
+                  lines += [f"## {h['date'][5:16]} - {h['title']}", ""] + [f"    {x}" for x in h["hits"]] + [""]
+          (p / "HITS.md").write_text("\n".join(lines) + "\n")
+          print(sum(bool(h["hits"]) for h in hits), "episodes with hits of", len(hits))
+          PY
+          git config user.name "secret-sound bot"
+          git config user.email "actions@users.noreply.github.com"
+          git fetch origin results
+          git checkout -B results origin/results
+          d=results/bendigo_transcripts; rm -rf "$d" && mkdir -p "$d"
+          cp -r parts/transcripts "$d/" && cp parts/HITS.md parts/eps.json "$d/"
+          git add -f "$d"
+          git commit -qm "results: bendigo transcripts" && git push -q origin results
