@@ -3,7 +3,7 @@ name: Pull and score
 # Mid North Coast only. Runs a Freesound pull for one jobs/*.txt list, scores every clip with steel_score.py (whose
 # fingerprint is calibrated on the Mid North Coast clue; not valid for Bendigo), builds A/B files
 # for the best matches, and commits the results to the `results` branch (results/<name>/). The downloaded clips
-# are kept as a workflow artifact. Needs the repository secret FREESOUND_KEY.
+# are kept as workflow artifacts. Needs the repository secret FREESOUND_KEY; FREESOUND_KEY_2 (optional) adds a second bot.
 on:
   workflow_dispatch:
     inputs:
@@ -27,9 +27,49 @@ permissions:
   contents: write
 
 jobs:
-  run:
+  pull:
+    # One bot per key: bot 1 uses FREESOUND_KEY; bot 2 runs only if FREESOUND_KEY_2 exists. The searches are split
+    # between the bots that have a key (each key keeps its own 60/minute limit; downloads are not limited).
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    strategy:
+      matrix:
+        bot: [1, 2]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Key
+        id: key
+        env:
+          K1: ${{ secrets.FREESOUND_KEY }}
+          K2: ${{ secrets.FREESOUND_KEY_2 }}
+        run: |
+          test -n "$K1" || { echo "Add the repository secret FREESOUND_KEY first"; exit 1; }
+          bots=1; [ -n "$K2" ] && bots=2
+          echo "bots=$bots" >> "$GITHUB_OUTPUT"
+          if [ "${{ matrix.bot }}" -gt "$bots" ]; then echo "skip=1" >> "$GITHUB_OUTPUT"; exit 0; fi
+          key="$K1"; [ "${{ matrix.bot }}" = 2 ] && key="$K2"
+          mkdir -p ~/.secret-song && umask 077 && printf '%s' "$key" > ~/.secret-song/freesound.key
+      - name: Pull this bot's share of the searches
+        if: steps.key.outputs.skip != '1'
+        run: |
+          grep -v '^#' "${{ inputs.queries }}" | sed '/^\s*$/d' | awk -v n="${{ steps.key.outputs.bots }}" -v b="${{ matrix.bot }}" '(NR-1)%n==b-1' > my_queries.txt
+          echo "bot ${{ matrix.bot }} of ${{ steps.key.outputs.bots }}: $(wc -l < my_queries.txt) searches"
+          python pull_queries.py "data/${{ inputs.name }}" my_queries.txt --per-query "${{ inputs.per_query }}"
+      - name: Upload this bot's clips
+        if: steps.key.outputs.skip != '1'
+        uses: actions/upload-artifact@v4
+        with:
+          name: clips-${{ inputs.name }}-bot${{ matrix.bot }}
+          path: data/${{ inputs.name }}
+          retention-days: 30
+
+  score:
+    needs: pull
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,14 +79,26 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install -q numpy scipy librosa soundfile
-      - name: Key
-        env:
-          FREESOUND_KEY: ${{ secrets.FREESOUND_KEY }}
+      - name: Collect every bot's clips
+        uses: actions/download-artifact@v4
+        with:
+          pattern: clips-${{ inputs.name }}-bot*
+          path: parts
+      - name: Merge
         run: |
-          test -n "$FREESOUND_KEY" || { echo "Add the repository secret FREESOUND_KEY first"; exit 1; }
-          mkdir -p ~/.secret-song && umask 077 && printf '%s' "$FREESOUND_KEY" > ~/.secret-song/freesound.key
-      - name: Pull
-        run: python pull_queries.py "data/${{ inputs.name }}" "${{ inputs.queries }}" --per-query "${{ inputs.per_query }}"
+          mkdir -p "data/${{ inputs.name }}"
+          python - <<'PY'
+          import json, shutil, pathlib
+          out = pathlib.Path("data/${{ inputs.name }}"); meta = {}
+          for part in sorted(pathlib.Path("parts").iterdir()):
+              m = part / "meta.json"
+              if m.exists():
+                  meta.update(json.loads(m.read_text(encoding="utf-8")))
+              for f in part.glob("*.mp3"):
+                  shutil.copy(f, out / f.name)
+          (out / "meta.json").write_text(json.dumps(meta), encoding="utf-8")
+          print(len(meta), "clips from", len(list(pathlib.Path("parts").iterdir())), "bot(s)")
+          PY
       - name: Score and A/B
         run: |
           out="results/${{ inputs.name }}"
@@ -56,12 +108,6 @@ jobs:
             | tee "$out/scores.txt"
           cp "data/${{ inputs.name }}/meta.json" "$out/meta.json"
           echo "scored with steel_score.py (Mid North Coast fingerprint); A/B clue: ${{ inputs.ab_clue }}" >> "$out/scores.txt"
-      - name: Keep the clips
-        uses: actions/upload-artifact@v4
-        with:
-          name: clips-${{ inputs.name }}
-          path: data/${{ inputs.name }}
-          retention-days: 30
       - name: Commit results to the results branch
         run: |
           git config user.name "secret-sound bot"
