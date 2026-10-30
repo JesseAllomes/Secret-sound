@@ -1,0 +1,21 @@
+Mid North Coast: stacked clue, then candidate, x4. 100 Freesound searches from Fable's step 2. Wrong on-air actions left out.
+
+ 1. 0.835  Keyboard Key.wav  [keyboard key]  (freesound.org/s/119134)
+ 2. 0.819  Mechanical-Keyboard: Typing  [mechanical keyboard]  (freesound.org/s/331428)
+ 3. 0.818  FUJITSU Computers Keyboard - T key Press Mono  [keyboard key]  (freesound.org/s/799118)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 4. 0.807  FUJITSU Computers Keyboard - P key Press Mono  [keyboard key]  (freesound.org/s/799117)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 5. 0.800  Pressing spacebar on computer mechanical keyboard.wav  [spacebar]  (freesound.org/s/515810)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 6. 0.795  dolphin torch locking push button.wav  [torch switch]  (freesound.org/s/442353)   [on air warm: 27 Sep: pushing a button on your torch]
+ 7. 0.794  01340 button 1.wav  [push button]  (freesound.org/s/83004)
+ 8. 0.794  FUJITSU Computers Keyboard - spacebar Press Mono 2  [spacebar]  (freesound.org/s/799123)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 9. 0.792  SB_down_4.aiff  [radio button]  (freesound.org/s/66730)
+10. 0.792  beefed-up Dell touchpad buttons.wav  [keyboard switch]  (freesound.org/s/577863)
+11. 0.787  Keyboard_Tactile_13  [keyboard key]  (freesound.org/s/766629)
+12. 0.777  Some sweet spacebar clicks  [spacebar]  (freesound.org/s/466049)
+13. 0.777  MBA Space-bar Multi-take MS  [spacebar]  (freesound.org/s/799112)
+14. 0.776  Keyboard Clacks 2.m4a  [spacebar]  (freesound.org/s/702569)
+15. 0.776  Computer Spacebar.WAV  [spacebar]  (freesound.org/s/419956)
+16. 0.776  Keyboard button press  [keyboard switch]  (freesound.org/s/676577)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+17. 0.775  Key2.wav  [keyboard key]  (freesound.org/s/516261)
+18. 0.773  SB_down_1.aiff  [radio button]  (freesound.org/s/66727)
+19. 0.770  FUJITSU Computers Keyboard - key Press Mono Multi-take  [keyboard key]  (freesound.org/s/799122)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
