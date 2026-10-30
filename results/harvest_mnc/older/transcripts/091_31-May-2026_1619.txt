@@ -1,0 +1,30 @@
+BEST BITS: Sarge's Ute Broke Down... AGAIN
+Sun, 31 May 2026 23:08:52 +0000
+plays: [{'t': np.float64(1694.62), 'ncc': 0.861}, {'t': np.float64(1709.34), 'ncc': 0.876}]
+
+[ 1619.7] serious about sleep. Oh good morning Faye how you doing? I'm doing well mate how are
+[ 1626.0] you? I'll tell you what there's some people who you just talked to that make
+[ 1629.5] you smile and you were one of them Faye. Oh heck how could you say that? Well I'm
+[ 1636.7] a redhead just like you remember. That's what it is yes I remember that. What's
+[ 1641.0] been going on in your world Faye? Well I haven't been playing any golf it's been
+[ 1645.8] too wet. Way too wet. Hmm but I did go to the place the other night to see Georgia
+[ 1651.7] Girl which was very good. I was gonna say it would have been sensational how good
+[ 1655.8] the music of The Seekers. Oh great I love it. Yeah you know my first ever
+[ 1660.7] celebrity interview that I did this is years and years and years ago was with
+[ 1666.2] Keith Potka from The Seekers. Oh okay. Yeah and he actually came along to the
+[ 1672.5] Georgia Girl production here in Port Macquarie about a week ago. Oh really?
+[ 1677.5] That would have been stressful for the guy playing Keith Potka to know that the
+[ 1682.1] actual Keith Potka is in the audience you know. It would have been yeah. No he did a
+[ 1687.3] very good job. Hey let's get you some money Faye I've got $325 up for grabs
+[ 1691.9] here. What do you think this sound is? Well I'm not sure but it sounds like
+[ 1698.8] when the kettle boils and the catch it turns off. Yeah so when it's
+[ 1704.6] finished boiling it then makes that little clicking sound like it's ready to
+[ 1708.0] go. Mmm. That's a good guess but naughty it. Sorry Faye. It's okay. You have a
+[ 1714.9] wonderful week and we'll catch up soon okay? You too Sarge. Thank you. Bye bye. Lovely hearing from you.
+[ 1720.2] Secret sound it is back tomorrow morning up to 6 30 and 8 o'clock on
+[ 1724.7] 1 triple 353. Okie dokie let's catch up with Benny Cardmore next from
+[ 1729.8] Self Seen and Unstoppable Community. We'll do our monthly mental health catch up.
+[ 1734.2] I'm gonna talk all things burnout on the end. Triple M in North Coast it is the
+[ 1739.5] Sarge for Breakfast show. Awesome friend of the show is in studio one right now.
+[ 1744.4] It is Benny Cardmore from Self Seen and Unstoppable Community. Hello mate. Good to
+[ 1750.3] be back Sarge. Hello everybody. Good to see ya. This is our monthly catch up.

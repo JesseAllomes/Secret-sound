@@ -1,0 +1,35 @@
+BEST BITS: Thanks God It's NOT Monday
+Fri, 15 May 2026 01:33:48 +0000
+plays: [{'t': np.float64(546.41), 'ncc': 0.867}, {'t': np.float64(565.8), 'ncc': 0.829}]
+
+[  471.4] sound. Thanks to 40 Winx Port Macquarie. Come in and see the team at Port Home Zone.
+[  477.0] 40 Winx, serious about sleep.
+[  479.1] Oh well, a very good morning to you lovely Lorraine. How are ya?
+[  486.5] Good today too, are you well?
+[  488.9] Let's try that again. The phone line's a bit dodgy. What's going on Lorraine?
+[  493.4] Oh, I hope you can hear me now.
+[  495.5] I've got you loud and clear.
+[  497.2] Hey long time no speak, what's been going on in your world?
+[  500.8] Oh, a bit of this and a bit of that and whatever nothing.
+[  505.4] Bit of this, a bit of that and whatever nothing.
+[  510.2] What would you do with $50 these days Lorraine?
+[  514.4] Well, I could eat. Just go to dinner I think.
+[  520.5] My time, yeah it'd be nice.
+[  522.4] What kind of meal are you craving at the moment?
+[  527.2] Well a schnitty'd be nice.
+[  529.1] A schnitty, very true. Actually I forgot to let you know that so you're not going to get
+[  534.4] one schnitty today but you also get two.
+[  539.0] I recall the guess now, two schnitties, that's right.
+[  543.2] Okay let's get into this. All you got to do is tell me what this secret sound is.
+[  547.2] If you're right, I'll give you $50. What do you think Lorraine?
+[  551.2] Well, I'm glad that, I'm glad that this steeper thing got out of the 80s the other day,
+[  555.2] someone gets that but I think it now is putting a socket on the end of a ratchet.
+[  561.1] Putting a socket on the end of a ratchet?
+[  563.6] Yeah.
+[  564.1] Okay, let's have a listen again.
+[  569.2] No it's not.
+[  570.8] No.
+[  571.2] Nice try though, right?
+[  574.0] Hey, it's meant to be showering a lot today, tomorrow and Sunday.
+[  584.1] Lorraine-ing a lot.
+[  585.1] So when it's Lorraine-ing, we do this don't we?

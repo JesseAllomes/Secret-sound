@@ -1,0 +1,66 @@
+BEST BITS: Big Love To The Arrow's
+Wed, 20 May 2026 23:03:07 +0000
+plays: [{'t': np.float64(1886.8), 'ncc': 0.807}, {'t': np.float64(1893.51), 'ncc': 0.899}]
+
+[ 1811.8] Well played, lab now.
+[ 1812.8] Hey, lovely meeting you.
+[ 1814.4] I really appreciate your time this morning.
+[ 1816.1] Thank you.
+[ 1816.7] Sarge, likewise.
+[ 1817.7] You've got Juventus shorts on.
+[ 1819.3] I don't know where that came from, but...
+[ 1821.6] But anyway, ladies and gentlemen, Sarge wears Juventus shorts.
+[ 1826.0] Black and white stripes.
+[ 1827.2] They're shockers.
+[ 1833.0] Thanks to 40 Winx Port Macquarie.
+[ 1834.9] So come in and see the team at Court Home Zone.
+[ 1837.0] 40 Winx, serious about sleep.
+[ 1839.7] Hey, Ken, the traffic control man.
+[ 1843.5] Hello, bud.
+[ 1844.2] That ain't very well, thank you.
+[ 1846.1] I really loved that email that you sent through
+[ 1848.5] with the caricatured sort of AI artwork of you.
+[ 1852.7] That wasn't bad, was it?
+[ 1854.7] How accurate is it?
+[ 1855.7] Is that pretty well what you look like?
+[ 1858.4] It is, actually, yeah.
+[ 1859.5] Ken, you're a good looking rooster.
+[ 1862.4] I know, mate, but I go for the sharks, not the roosters.
+[ 1867.3] Oh, good stuff.
+[ 1868.2] Who were they taking on?
+[ 1869.0] I'll just have that buy this week.
+[ 1870.3] I think we got Maroon.
+[ 1871.2] You got a buy this week.
+[ 1871.9] That's right.
+[ 1872.3] There's a stack in the buy this week.
+[ 1873.9] Yeah, well, Maroon, he'll be on literally in a few minutes,
+[ 1876.9] giving us his tips.
+[ 1879.5] Mate, let's do this 150 bucks.
+[ 1881.8] I'll give it to you if you can correctly identify
+[ 1884.1] what this all new secret sound is.
+[ 1887.2] What are we thinking?
+[ 1889.3] Is it opening or closing a microwave door?
+[ 1894.7] No.
+[ 1895.9] It's not, Ken.
+[ 1896.5] Good guess, though.
+[ 1897.3] Thanks for trying.
+[ 1898.9] That's all right, mate.
+[ 1899.7] Busy day today.
+[ 1900.9] Where are you working?
+[ 1901.9] Whereabouts in the world are you today?
+[ 1904.2] Back down in Lauryton, it's been really quiet with all the rain.
+[ 1907.0] A lot of jobs cancelled, so it's good to get back out here again.
+[ 1909.9] Yeah, I was going to say, there's a bit of sunshine.
+[ 1913.0] A bit of talk about some showers over the next couple of days,
+[ 1917.2] but I mean, is that all good for your world?
+[ 1920.1] It's not torrential, is it?
+[ 1923.1] No, not like it has been.
+[ 1924.8] No.
+[ 1925.9] As long as it's only light stuff will be OK,
+[ 1928.2] otherwise it just gets too dangerous on the road for everyone.
+[ 1931.4] Yeah, you should be right.
+[ 1932.4] OK.
+[ 1933.1] Well, good on you, Ken.
+[ 1933.9] And say goodnight to your mate for me,
+[ 1935.5] who rang for the Secret Sand a few weeks back.
+[ 1937.3] What was his name again?

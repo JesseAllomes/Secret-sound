@@ -1,0 +1,67 @@
+BEST BITS: Big Love To The Arrow's
+Wed, 20 May 2026 23:03:07 +0000
+plays: [{'t': np.float64(552.85), 'ncc': 0.827}]
+
+[  479.0] It's the early bird edition of The Secret Sound.
+[  482.8] Thanks to 40 Winx Port Macquarie.
+[  485.6] Come in and see the team at Port Home Zone.
+[  487.8] 40 Winx, serious about sleep.
+[  490.1] Hey, good morning there Keith.
+[  491.9] There you go.
+[  492.7] Good mate, welcome to the 6 o'clock club.
+[  494.6] It sounds like you're on the road right now.
+[  496.8] Yeah, yeah, I posty.
+[  498.8] Oh, good stuff.
+[  499.7] What's your area?
+[  500.9] Where are you posting to?
+[  502.7] The Taree.
+[  503.8] Oh, the Taree area, brilliant.
+[  505.6] I actually just got a notification about a parcel.
+[  507.9] I was wondering whether it was you.
+[  509.3] Anyway, I don't live in Taree.
+[  511.2] Keith, what else is on the cards today?
+[  512.7] What time do you wrap up your posty duties?
+[  515.3] About half past one.
+[  516.8] Yeah, sweet.
+[  517.3] And then what do you do in the arvo?
+[  518.3] What do you get up to?
+[  519.8] Not much.
+[  520.9] Go home, relax.
+[  522.8] I like that mate.
+[  523.9] Maybe spend 150 bucks on something.
+[  526.1] What would you do with that cash if you wanted?
+[  528.4] I probably stock up the bottle on my own.
+[  530.1] Okay.
+[  530.7] For one.
+[  531.2] Yeah.
+[  532.3] That's the way it sounds funny.
+[  533.3] Yeah, you know, it might take the misses out for dinner.
+[  535.8] Yeah.
+[  536.4] Well, if she's listening, you would probably swap those around.
+[  539.8] You'd do the misses for dinner first and then maybe the bottle.
+[  542.7] Well, it's a bit early for her to be listening, so I'm pretty safe.
+[  546.8] Hey, hey.
+[  547.3] What happens in the club stays in the club, eh Keith?
+[  549.8] That's right.
+[  551.0] Okay, here we go.
+[  551.8] Here's a secret sound.
+[  553.7] What do you think, mate?
+[  555.1] Is it a hole punch?
+[  557.0] No.
+[  557.9] It's not a hole punch.
+[  558.8] Sorry, mate.
+[  560.0] Oh, bummer.
+[  560.7] Yeah.
+[  561.4] Hey, you enjoy your day and we'll talk soon.
+[  564.4] Me too.
+[  565.0] Good on you, mate.
+[  565.6] There's Keith, the Tare, the Posty on Triple M, Mid-North Coast.
+[  569.1] It is the Sarge for Breakfast Show rolling on.
+[  571.9] But more after this, good morning.
+[  573.8] Eighteen minutes away from seven o'clock.
+[  576.0] This is the Mid-North Coast's Triple M Sarge here for breakfast.
+[  580.1] We are live on your radio and the listener app.
+[  583.1] It is 14 degrees at North Haven right now, heading for 19 there today.
+[  587.4] Some showers about.
+[  588.8] Well, I'll tell you what, yesterday afternoon when I was sitting on the couch and scrolling
+[  592.8] through socials and I had the rush hour on too in the afternoon and.

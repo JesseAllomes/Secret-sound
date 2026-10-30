@@ -1,0 +1,45 @@
+BEST BITS: Lets Call The SARGE!!!
+Thu, 28 May 2026 23:42:20 +0000
+plays: [{'t': np.float64(2103.68), 'ncc': 0.861}]
+
+[ 2035.0] massage for breakfast.
+[ 2036.2] Triple F.
+[ 2037.2] Thanks to 40 weeks Port Macquarie.
+[ 2041.7] So come in and see the team at Court Home Zone.
+[ 2044.1] 40 weeks, serious about sleep.
+[ 2046.1] Oh, Marjorie, good morning.
+[ 2048.1] Good morning, sir.
+[ 2051.8] How are you?
+[ 2052.8] I'm very well, thank you.
+[ 2053.8] I believe you are live from the Port Macquarie break wall, yes?
+[ 2056.8] Yes, I am.
+[ 2058.8] How is it there this morning, Marjorie?
+[ 2060.8] Oh, seems a bit rough.
+[ 2062.8] Looks like it's getting rained down, but from the umbrella with me.
+[ 2066.8] Good on you.
+[ 2067.8] It's currently 16 in Port, 21 the top today, some showers about.
+[ 2071.8] Marjorie, what's on for the rest of your Friday?
+[ 2074.8] Oh, going to go to with a friend and then have a video and then chill out this afternoon.
+[ 2083.8] Good on you, Marjorie.
+[ 2084.8] Well, how about we add to that heading to the Settlers Inn Hotel for their 10th birthday?
+[ 2088.8] Two chicken schnitzels, all yours.
+[ 2090.8] Oh, awesome.
+[ 2092.8] That is wonderful.
+[ 2093.8] No worries.
+[ 2094.8] Let's also add $275 to the bank account if you can correctly identify what this sound is.
+[ 2103.8] Oh, please.
+[ 2107.8] That is beautifully said.
+[ 2109.8] I think it's closing a latch.
+[ 2116.4] Closing a latch.
+[ 2117.4] Marjorie, it's not.
+[ 2119.4] Sorry about that, but you have a wonderful Friday.
+[ 2121.4] Enjoy your schnitzels.
+[ 2123.4] Thank you so much.
+[ 2124.4] See you, lovely.
+[ 2125.4] Bye.
+[ 2126.4] The secret sound is back on Monday after 6.30 and 8 o'clock on 1, 333.53.
+[ 2131.4] All the incorrect guesses so far for it.
+[ 2133.4] Go on the Sarge for Breakfast podcast at Listener.
+[ 2136.4] Let's talk all things Group 3 Rugby League next on the M's.
+[ 2139.4] Right across the Mid-North Coast, this is Triple M Sarge here for breakfast
+[ 2144.4] and we love our Group 3 Rugby League right here.

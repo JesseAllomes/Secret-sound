@@ -1,0 +1,29 @@
+BEST BITS: Welcome Back Mr. Producer!
+Tue, 19 May 2026 22:52:32 +0000
+plays: [{'t': np.float64(1490.83), 'ncc': 0.924}, {'t': np.float64(1494.98), 'ncc': 0.882}, {'t': np.float64(1497.55), 'ncc': 0.852}, {'t': np.float64(1509.85), 'ncc': 0.952}]
+
+[ 1415.8] volunteer celebrations go for you. 50 volunteer sessions from you, yes?
+[ 1421.0] Yes, some 50 volunteers. It went very well on Marsford and everyone gave me high five in that and stuff and
+[ 1428.8] had taken that with some friends and that after and a coffee, so it was nice.
+[ 1435.5] Beautiful. Benno, I'm so sorry I couldn't make it. I had an outside broadcast around a similar time and then a
+[ 1443.2] appointment beforehand. I don't mean to make excuses, but we have to catch up and do our own little celebration. Just you and I, hey?
+[ 1451.0] Yes, I'm good size. Wonderful. All right Benno, let's give you a hundred and twenty five dollars. Are you still trying to get a new phone or?
+[ 1459.0] I've already got the new one. Oh, you got the phone in the end? Yeah, I got it in the end.
+[ 1464.0] Yeah. Is it living up to your expectations? Are you loving it? Sure is. I'm loving it. Can you take good photos on it?
+[ 1470.6] Yes, shall we do? iPhone?
+[ 1473.6] iPhone. Good man.
+[ 1476.0] Here we go. Well, what will you put $125 to now if you want it?
+[ 1480.4] I would save it for a rainy day or something like that. Yeah, it's a few rainy days. It's been a few rainy days, isn't it?
+[ 1486.9] It surely has. Nice to see the sunshine. Here we go.
+[ 1491.3] That is the all-new secret. So I'm gonna go once again for good luck Benno.
+[ 1495.4] I'll do it a third time because I like you. What do you think?
+[ 1499.4] I reckon it's um, punch in the hole or something and you know one of them um, drums.
+[ 1503.9] So there's a tin or maybe a can opener. Opening a can. All right.
+[ 1511.7] No Benno, sorry mate. Okay. Enjoy your Wednesday. Will do. What do you got planned today?
+[ 1518.3] Are you getting out in the sunshine or? Yeah, I'm getting out in the sunshine going for a bit of a fish this morning.
+[ 1522.8] Hopefully I catch something. Eeee. Well, happy fishing Benno. Yeah, thank you. See you mate. Secret sound.
+[ 1528.8] It is back tomorrow morning up to 6 30 and 8 o'clock on 1 triple 3 5 3 worth 150 dollars
+[ 1535.6] and we do put all of the incorrect guesses on the Sarge for Breakfast podcast at listener.
+[ 1541.1] Good friend of the show Emma Mema. You know her from The Wiggles. She's now doing her solo thing.
+[ 1545.9] Absolutely smashing it. She is coming to Port Macquarie next month at the Glasshouse Theatre
+[ 1552.4] and she wants to involve me in her show.

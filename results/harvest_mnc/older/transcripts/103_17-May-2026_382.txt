@@ -1,0 +1,47 @@
+BEST BITS: Sexy Monday's
+Sun, 17 May 2026 23:29:06 +0000
+plays: [{'t': np.float64(457.22), 'ncc': 0.856}, {'t': np.float64(459.14), 'ncc': 0.854}, {'t': np.float64(470.67), 'ncc': 0.923}]
+
+[  382.2] a slice of cake and help support an amazing cause while catching up with the local community.
+[  387.6] I know there's heaps of other Australia's biggest morning teas happening right across
+[  391.1] the mid-north coast, so if you want me to sprook the word, get in touch with the show.
+[  396.4] You know the drill?
+[  397.4] There you go, that's the Locals Guide.
+[  398.6] Brought to you by Macquarie Signs Group, Port's largest local sign business.
+[  402.9] Mmm, shhh, it could sound.
+[  410.8] Thanks to 40 Winks Port Macquarie.
+[  412.8] Come in and see the team at Port Home Zone.
+[  414.8] 40 Winks, serious about sleep.
+[  417.2] Well we've got a man out on the roads right now, good morning.
+[  421.6] Good morning there, Sarge, how are you?
+[  423.7] Yeah, good, who have I got here?
+[  425.6] You've got John from Awesome Lake Caddi.
+[  428.8] John from Awesome Lake Caddi?
+[  431.4] Yes.
+[  432.4] Um, how did you spend your weekend in Lake Caddi, nice and wet?
+[  437.1] Yeah, indoors mate, indoors as well as everyone else I think.
+[  440.7] Yeah, did you watch movies or what do you do indoors?
+[  445.0] Yeah, a bit of domestic mate, you know.
+[  447.2] Yeah, get all those indoor jobs done that you don't want to get done.
+[  450.6] Um, alright mate, well let's give you 75 bucks, all you've got to do is tell me correctly
+[  455.0] what this all new secret sound is.
+[  457.4] I'll go once again, what are we thinking?
+[  462.0] Like a stapler.
+[  464.0] A stapler, do you want to lock that in as your final answer?
+[  467.7] When you push the stapler down, yeah why not?
+[  469.7] Uh huh.
+[  470.7] Is it a stapler?
+[  471.7] No, no it's not, sorry.
+[  473.9] Mate, have a wonderful day, stay safe on the roads.
+[  476.4] Thanks brother.
+[  477.4] Good on ya.
+[  478.4] Secret Sound, it is back at 8 o'clock, 1 triple 3 5 3 to get involved, we put all the incorrect
+[  484.6] guesses to, by the way, on the Sarge for Breakfast podcast at Listener.
+[  489.1] Alrighty, more to come on the other side of this at the Mid North Coast, it's Triple
+[  492.4] A massage here for breakfast, welcome to the 6 o'clock club, what happens in the club
+[  496.4] stays in the club.
+[  497.4] This life is more than just a read through.
+[  499.4] Chili Peppers this morning on Triple A, Mid North Coast, it is the Sarge for Breakfast
+[  503.7] show, currently 19 degrees in, camp, heading for 20 there today, a shower or two is most
+[  510.8] definitely predicted.
+[  511.8] Triple A, Mid North Coast's ultimate origin experience.

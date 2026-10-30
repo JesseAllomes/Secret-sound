@@ -1,0 +1,30 @@
+BEST BITS: How To Have A Perfect Day
+Sun, 24 May 2026 22:54:23 +0000
+plays: [{'t': np.float64(609.8), 'ncc': 0.851}, {'t': np.float64(612.74), 'ncc': 0.807}]
+
+[  534.8] Good morning, this is the Mid-North Coast triple-M Sarge here for breakfast. We are live on the radio and
+[  541.4] listener app
+[  543.0] Eurythmics when tomorrow comes for your greatest hits bit of show trivia
+[  549.0] Why is that song?
+[  551.4] significant
+[  553.0] Specifically for the Sarge for breakfast show here at triple-M Mid-North Coast
+[  557.4] Don't know that's okay. I don't blame you. It's really not that important at all. It was the first song I ever played
+[  564.2] When I started doing this program
+[  567.8] nearly two years ago
+[  570.8] Hmm that two-year show anniversary is coming up very soon
+[  577.2] And I'm just you know putting it out there. I don't need a big fanfare
+[  580.7] I don't need hundreds of calls from people anyone at work listing. I don't need a cake
+[  586.5] Or streamers or stuff like that. You know me. I'm pretty low-key. I don't like to get out and about
+[  593.4] you
+[  594.8] Watch it not happen now, and then I'll be disappointed anyway
+[  598.7] One triple three five three is my number call right now and
+[  603.0] You could score yourself $200. Yeah, all you got to do is correctly identify what this sound is
+[  610.5] Once again for good luck
+[  613.3] It's the secret sound all thanks to 40 winks of Port Macquarie just around the corner from your local news sport and weather
+[  620.2] Plus a beach and surf update from Hutto this Monday morning
+[  627.8] Good morning, it is 637
+[  632.3] 20 degrees at the hatch
+[  634.5] Heading for 23 there today a shower or two is
+[  638.6] Predicted and right now we are playing the secret sound we just had
+[  643.4] Claire on the phone line, but producers are telling me she has just dropped out which is a little bit unfortunate
+[  650.2] I think we do have back up. We've got a really good backup. Actually, let's do this

@@ -1,0 +1,42 @@
+BEST BITS: Mum's Ducks
+Mon, 01 Jun 2026 23:00:12 +0000
+plays: [{'t': np.float64(557.7), 'ncc': 0.898}, {'t': np.float64(560.72), 'ncc': 0.926}, {'t': np.float64(603.41), 'ncc': 0.766}, {'t': np.float64(606.38), 'ncc': 0.799}, {'t': np.float64(614.82), 'ncc': 0.899}]
+
+[  494.0] A duet with his dad up on the stage. And how beautiful is that?
+[  515.0] What's that saying? The apple doesn't fall far from the tree?
+[  518.7] Wow. But, guys, Sebastian, he actually is coming to Port Macquarie. I'm really excited about this.
+[  523.6] This was announced not that long ago, a few days ago, I think, in October the 14th and 15th.
+[  530.5] It'll be at the Glass House Theatre. I cannot wait for that.
+[  534.3] Coming up on the Sarge for Breakfast Show.
+[  539.2] Yeah, we'll get a hit of your local news sport and weather plus a beach and surf update from
+[  543.9] Huddo. Then we'll play the Secret Sound. I've got $350 to give away. All right, so if you want it,
+[  551.3] call up now, 1-333-and simply guess correctly what this sound is.
+[  558.8] Once again for good luck. The Secret Sound, all thanks to 40Wings Port Macquarie,
+[  563.8] it's just around the corner. 1-333-53.
+[  567.4] An edition of the Secret Sound. Thanks to 40Wings Port Macquarie,
+[  576.4] come in and see the team at Port Home Zone. 40Wings, serious about sleep.
+[  580.7] Oh, hello there, Leonie. How are you?
+[  582.9] Good, thanks.
+[  584.0] That's the way. Hey, you're on the road right now? You off to work?
+[  587.2] Yes, I am.
+[  587.9] What do you do?
+[  589.5] Look after children.
+[  591.0] Oh, fantastic. Thanks for doing that. Hey, 350 bucks would be a bit all right if you won that.
+[  598.6] That would be great actually, thank you.
+[  600.2] Yeah.
+[  600.5] All right, well, let's do it. Here is the Secret Sound, Leonie.
+[  604.2] I'm going to play it for you once more for good luck. What do you think it is?
+[  609.4] Putting a price tag on something.
+[  612.1] Putting a price tag on something, is it that? Sounds like it, but it's not. Sorry, Leonie.
+[  618.0] Have a good day.
+[  619.3] All right, see ya.
+[  620.1] Keep on trying. See ya. That's how the Secret Sound works and it's back at 8 o'clock on 1-333-53.
+[  625.8] By the way, we also put all of the incorrect guesses on the Sarge For Breakfast podcast at
+[  630.6] Listener Clues, if you will, to get you closer to the cash. Happy Tuesday.
+[  634.9] This is the Mid-North Coast, it's triple M. Sarge here for breakfast.
+[  637.8] More on the other side of there?
+[  639.6] The dancing shoes are getting a good workout this morning in Studio One here at Thrumster.
+[  643.2] It's triple M. Mid-North Coast Sarge here for breakfast. Welcome to the 6 o'clock club.
+[  647.7] We have 20 minutes away from 7 o'clock. It is 7 degrees right now at Lakewood,
+[  652.6] heading for 23 there today and partly cloudy. The rest of the Mid-North Coast area,
+[  657.4] gee, I was meant to do this right at the start.
