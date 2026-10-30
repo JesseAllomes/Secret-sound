@@ -1,0 +1,82 @@
+on-air filter: 7 clips match a wrong guess and are left out of the A/B files
+0.795 clap 0.796 mel 0.793  425387 @3.12s  [car lock] audi a4 allroad 20TFSI foley seatbelts lock unlock mono NTG3
+0.785 clap 0.796 mel 0.759  44214 @0.38s  [foot switch] bubbler01.wav
+0.778 clap 0.775 mel 0.784  614173 @4.62s  [car lock] Pulling and locking seat_belt.wav
+0.765 clap 0.714 mel 0.883  459243 @0.00s  [power button] ButtonPress.mp3
+0.760 clap 0.723 mel 0.846  575808 @5.09s  [power button] Guitar Amp Power Switch On & Off
+0.753 clap 0.711 mel 0.849  822560 @0.00s  [stereo power] Stereo Amp Powering On
+0.750 clap 0.725 mel 0.806  840877 @1.88s  [kettle button] Kettle Button Pressing  << on air wrong: 6 Jul: pressing the button on the kettle
+0.748 clap 0.707 mel 0.846  265189 @0.00s  [lamp button] clickswitch-05.wav
+0.737 clap 0.686 mel 0.854  383881 @10.62s  [car lock] Powered Locks in Car
+0.736 clap 0.728 mel 0.754  556765 @2.56s  [lamp switch] Desk Lamp Switch On
+0.734 clap 0.703 mel 0.807  462275 @8.87s  [lock knob] Squeaky door knob (Contact mic)
+0.734 clap 0.675 mel 0.872  802568 @0.24s  [car lock] Door Lock
+0.733 clap 0.708 mel 0.790  45416 @2.86s  [power button] light switches.mp3
+0.726 clap 0.664 mel 0.869  151580 @0.00s  [lock knob] Door-Handle-Jiggle-02.wav
+0.724 clap 0.674 mel 0.840  689323 @8.99s  [foot switch] Foot-switch activated by foot
+0.723 clap 0.679 mel 0.826  89557 @13.89s  [foot switch] Foley_Kodak K500 taking pictures & forwarding film w. flash.
+0.719 clap 0.699 mel 0.768  123022 @0.00s  [car lock] carstart.wav
+0.719 clap 0.652 mel 0.875  366992 @0.27s  [lamp button] Light switch.wav
+0.719 clap 0.695 mel 0.775  365504 @6.67s  [lamp button] Light switches on & off.mp3
+0.719 clap 0.673 mel 0.825  486541 @0.89s  [lock knob] Door_knob_locked_004.mp3
+0.714 clap 0.677 mel 0.801  818300 @1.09s  [car lock] Seatbelt In, Out
+0.711 clap 0.672 mel 0.803  33459 @0.23s  [car lock] 320d_1.wav
+0.711 clap 0.688 mel 0.765  632143 @5.52s  [car lock] Opening a car door - Saab 9-5
+0.711 clap 0.653 mel 0.846  275957 @2.05s  [lamp button] On-Off-switch.flac
+0.708 clap 0.687 mel 0.756  637490 @11.29s  [lock knob] door wood interior residential knob spring lock open close g
+0.707 clap 0.634 mel 0.878  263900 @0.26s  [power button] old_crt_monitor_button_turn_on_01.wav
+0.706 clap 0.627 mel 0.890  553935 @1.96s  [lamp switch] lamp clicking, switch.wav
+0.704 clap 0.682 mel 0.755  386423 @19.34s  [lamp switch] Chain_switch_1.wav
+0.704 clap 0.655 mel 0.819  563992 @4.33s  [power button] Xbox 360 Power Brick Cable
+0.698 clap 0.613 mel 0.895  865236 @8.52s  [car lock] Elantra Seatbelt
+0.698 clap 0.651 mel 0.807  656597 @6.42s  [exhaust fan] exhaust fan.m4a
+0.696 clap 0.645 mel 0.815  587726 @0.79s  [rice cooker] MUS135_araneses_soundlab_2.m4a
+0.695 clap 0.645 mel 0.812  89562 @0.13s  [foot switch] Foley_Opening & Closing Bedroom Door.mp3
+0.694 clap 0.659 mel 0.774  265031 @10.81s  [lamp button] light switch.wav
+0.693 clap 0.626 mel 0.847  387662 @0.00s  [car lock] Car Door 2
+0.693 clap 0.621 mel 0.860  716278 @3.10s  [car lock] van_mechanical_sound_12152023
+0.692 clap 0.617 mel 0.865  185718 @7.14s  [foot switch] Switch Click
+0.688 clap 0.627 mel 0.832  151579 @0.00s  [lock knob] Door-Handle-Jiggle-03.wav
+0.685 clap 0.611 mel 0.859  783588 @1.94s  [lamp switch] 011 - Lamp, On and Off
+0.685 clap 0.632 mel 0.809  863139 @3.80s  [lock knob] Combination lock (SoundAction 161)
+0.684 clap 0.611 mel 0.856  217499 @0.00s  [lamp switch] Switch 07.wav
+0.683 clap 0.641 mel 0.781  831909 @1.54s  [lamp switch] Light switch turning on and off
+0.681 clap 0.627 mel 0.805  842463 @0.00s  [power button] Switch-073
+0.678 clap 0.607 mel 0.845  364276 @0.27s  [car lock] Seguros.wav
+0.678 clap 0.647 mel 0.749  415296 @0.50s  [car lock] Car Door Lock.mp3
+0.678 clap 0.639 mel 0.768  563996 @0.23s  [power button] Xbox 360 Wireless Sync Button
+0.677 clap 0.593 mel 0.874  629303 @0.20s  [car lock] Lock car.wav
+0.677 clap 0.621 mel 0.809  467265 @1.25s  [lamp switch] Lamp_on+off.mp3
+0.677 clap 0.634 mel 0.778  187593 @0.27s  [car lock] Car Start
+0.675 clap 0.606 mel 0.835  643561 @0.72s  [lamp button] Metallic Twist Lamp On and Off
+0.674 clap 0.611 mel 0.819  17656 @14.81s  [stereo power] bebops_fire2.flac
+0.672 clap 0.612 mel 0.811  361371 @6.55s  [lamp switch] light switch flick on off
+0.671 clap 0.606 mel 0.825  151578 @0.00s  [lock knob] Door-Handle-Jiggle-04.wav
+0.671 clap 0.600 mel 0.838  367003 @7.58s  [car lock] playing with keys.wav
+0.669 clap 0.610 mel 0.808  721727 @2.34s  [hifi power] Power button (SoundAction 045)
+0.669 clap 0.576 mel 0.886  573715 @1.85s  [lock knob] Front Locks and Knob_2.wav
+0.663 clap 0.624 mel 0.756  166933 @7.65s  [rice cooker] Rice Cooker (Open + Close + Pressurize)  << on air wrong: 15 Jun: opening a rice cooker
+0.662 clap 0.621 mel 0.758  502770 @0.39s  [lamp switch] lamp_with_noise.wav
+0.662 clap 0.594 mel 0.820  650747 @2.54s  [lamp button] Light Switch Turning
+0.660 clap 0.591 mel 0.822  751901 @0.00s  [power button] 2024 02 22 - A51 Phone sounds - Power button click 8cm away
+results/mnc_wave6/ab_clap/AB_mnc_clap1_car-lock_425387.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap2_foot-switch_44214.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap3_car-lock_614173.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap4_power-button_459243.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap5_power-button_575808.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap6_stereo-power_822560.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap7_lamp-button_265189.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap8_car-lock_383881.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap9_lamp-switch_556765.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap10_lock-knob_462275.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap11_car-lock_802568.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap12_power-button_45416.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap13_lock-knob_151580.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap14_foot-switch_689323.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap15_foot-switch_89557.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap16_car-lock_123022.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap17_lamp-button_366992.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap18_lamp-button_365504.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap19_lock-knob_486541.mp3
+results/mnc_wave6/ab_clap/AB_mnc_clap20_car-lock_818300.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav

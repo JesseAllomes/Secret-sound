@@ -1,0 +1,85 @@
+
+934 files with a stroke pair. Top 40 by score:
+  1  0.873  gap 160.5 ms  ring  624 Hz T60 0.46  [gap 0.84 pre 0.40 crunch 1.00 thump 0.82 ring 0.82 dry 0.95 iso 1.00]  Door-Handle-Jiggle-01.wav
+  2  0.857  gap 160.6 ms  ring  719 Hz T60 1.15  [gap 0.84 pre 0.40 crunch 0.75 thump 1.00 ring 0.79 dry 1.00 iso 1.00]  Lock 1.wav
+  3  0.837  gap 148.2 ms  ring  852 Hz T60 3.60  [gap 0.96 pre 0.00 crunch 1.00 thump 0.82 ring 0.73 dry 0.75 iso 1.00]  Door_knob_locked_003.mp3
+  4  0.829  gap  89.9 ms  ring  512 Hz T60 0.42  [gap 0.50 pre 0.00 crunch 1.00 thump 1.00 ring 0.82 dry 0.95 iso 1.00]  Xbox 360 Connecting Power Cable
+  5  0.828  gap 142.9 ms  ring  994 Hz T60 0.29  [gap 0.99 pre 1.00 crunch 0.50 thump 0.86 ring 0.70 dry 1.00 iso 1.00]  Blip Wave
+  6  0.815  gap 142.8 ms  ring  590 Hz T60 0.56  [gap 0.99 pre 1.00 crunch 0.75 thump 0.71 ring 0.68 dry 0.57 iso 1.00]  Closed Wooden Door
+  7  0.806  gap 157.8 ms  ring  785 Hz T60 2.50  [gap 0.87 pre 0.40 crunch 1.00 thump 0.98 ring 0.60 dry 0.15 iso 1.00]  piano5_ex3_bad_bad.wav
+  8  0.802  gap 150.5 ms  ring 1157 Hz T60 0.89  [gap 0.94 pre 0.40 crunch 1.00 thump 0.98 ring 0.71 dry 0.08 iso 0.81]  piano1_ex6_bad_bad.wav
+  9  0.798  gap 108.7 ms  ring  588 Hz T60 1.37  [gap 0.78 pre 0.40 crunch 1.00 thump 0.98 ring 0.51 dry 0.76 iso 1.00]  piano5_ex2_good_bad.wav
+ 10  0.792  gap 137.6 ms  ring  871 Hz T60 0.36  [gap 1.00 pre 0.00 crunch 0.50 thump 1.00 ring 0.67 dry 0.98 iso 1.00]  Safe Lock Metal Knob 12
+ 11  0.792  gap 141.9 ms  ring  842 Hz T60 0.89  [gap 0.99 pre 1.00 crunch 1.00 thump 0.34 ring 0.57 dry 1.00 iso 1.00]  Safe Lock Metal Knob 06
+ 12  0.791  gap 119.0 ms  ring  531 Hz T60 5.00  [gap 0.90 pre 1.00 crunch 0.50 thump 0.83 ring 0.62 dry 1.00 iso 1.00]  Chain_switch_2.wav
+ 13  0.790  gap 150.9 ms  ring  571 Hz T60 0.67  [gap 0.94 pre 0.00 crunch 0.75 thump 1.00 ring 0.55 dry 0.99 iso 1.00]  van_mechanical_sound_12152023
+ 14  0.790  gap 159.1 ms  ring  661 Hz T60 0.53  [gap 0.86 pre 1.00 crunch 0.50 thump 1.00 ring 0.70 dry 0.76 iso 0.87]  piano1_ex5_bad_bad.wav
+ 15  0.790  gap 119.9 ms  ring  866 Hz T60 0.61  [gap 0.91 pre 1.00 crunch 0.50 thump 0.80 ring 0.76 dry 0.40 iso 1.00]  Remix #2 of 113679__CGEffex__Breaking_large_ice.wav
+ 16  0.784  gap 160.4 ms  ring  989 Hz T60 0.85  [gap 0.84 pre 0.40 crunch 1.00 thump 0.72 ring 0.59 dry 0.65 iso 1.00]  piano5_ex4_bad_bad.wav
+ 17  0.783  gap 111.0 ms  ring  785 Hz T60 5.00  [gap 0.81 pre 0.40 crunch 1.00 thump 0.76 ring 0.60 dry 0.56 iso 1.00]  piano6_ex6_bad_bad.wav
+ 18  0.782  gap 104.5 ms  ring  882 Hz T60 1.98  [gap 0.72 pre 0.40 crunch 1.00 thump 0.78 ring 0.58 dry 0.83 iso 1.00]  piano5_ex2_bad_bad.wav
+ 19  0.782  gap 159.4 ms  ring  652 Hz T60 0.49  [gap 0.85 pre 0.00 crunch 0.58 thump 0.92 ring 0.77 dry 0.70 iso 1.00]  custom_lever_pulling_sounds_02182026
+ 20  0.778  gap 141.1 ms  ring  659 Hz T60 0.41  [gap 0.99 pre 0.40 crunch 0.50 thump 0.50 ring 0.94 dry 0.50 iso 1.00]  piano5_ex1_good_bad.wav
+ 21  0.778  gap 117.4 ms  ring 1093 Hz T60 0.58  [gap 0.89 pre 0.00 crunch 0.50 thump 0.89 ring 0.75 dry 1.00 iso 1.00]  Power Cord Unplug 1_2
+ 22  0.775  gap 151.9 ms  ring 1009 Hz T60 0.52  [gap 0.93 pre 1.00 crunch 0.50 thump 0.71 ring 0.61 dry 1.00 iso 1.00]  Safe Lock Metal Knob 04
+ 23  0.773  gap 193.0 ms  ring  760 Hz T60 0.39  [gap 0.38 pre 0.00 crunch 0.83 thump 0.95 ring 0.88 dry 0.62 iso 1.00]  Foley_Opening & Closing Bedroom Door.mp3
+ 24  0.772  gap 130.5 ms  ring  761 Hz T60 5.00  [gap 0.99 pre 0.00 crunch 0.50 thump 0.91 ring 0.65 dry 1.00 iso 1.00]  Flashlight Click On
+ 25  0.771  gap 158.1 ms  ring  702 Hz T60 0.23  [gap 0.87 pre 0.00 crunch 0.50 thump 1.00 ring 0.66 dry 1.00 iso 1.00]  Safe Lock Metal Knob 02
+ 26  0.767  gap 120.4 ms  ring  540 Hz T60 0.32  [gap 0.92 pre 0.00 crunch 1.00 thump 0.59 ring 0.56 dry 0.99 iso 1.00]  Door-Handle-Jiggle-04.wav
+ 27  0.766  gap 165.9 ms  ring  707 Hz T60 5.00  [gap 0.77 pre 0.40 crunch 1.00 thump 0.76 ring 0.47 dry 1.00 iso 1.00]  Doors lock inside.wav
+ 28  0.766  gap 149.1 ms  ring 1101 Hz T60 0.39  [gap 0.96 pre 1.00 crunch 0.50 thump 0.37 ring 0.87 dry 0.50 iso 1.00]  Bật Chế Độ
+ 29  0.765  gap 127.3 ms  ring 1071 Hz T60 5.00  [gap 0.97 pre 0.00 crunch 0.67 thump 1.00 ring 0.48 dry 1.00 iso 1.00]  Xbox 360 Wireless Sync Button
+ 30  0.765  gap 121.3 ms  ring  708 Hz T60 1.18  [gap 0.93 pre 0.40 crunch 0.50 thump 0.82 ring 0.63 dry 1.00 iso 1.00]  Door_knob_locked_002.mp3
+ 31  0.764  gap 142.3 ms  ring  647 Hz T60 5.00  [gap 0.99 pre 0.00 crunch 0.50 thump 0.93 ring 0.60 dry 1.00 iso 1.00]  Flashlight on & off
+ 32  0.762  gap  76.1 ms  ring  819 Hz T60 0.40  [gap 0.31 pre 0.00 crunch 0.58 thump 1.00 ring 0.91 dry 1.00 iso 1.00]  Custom_Iron_man_MCU_inspired_metal_hits_FINAL_08252023_02.mp3
+ 33  0.762  gap 135.8 ms  ring  599 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.83 thump 0.80 ring 0.47 dry 0.98 iso 1.00]  Switch.Lamp.Metallic.Antique.wav
+ 34  0.759  gap 164.5 ms  ring  763 Hz T60 2.21  [gap 0.79 pre 0.00 crunch 1.00 thump 1.00 ring 0.57 dry 1.00 iso 0.74]  Elantra Seatbelt
+ 35  0.759  gap 108.3 ms  ring 1112 Hz T60 0.31  [gap 0.77 pre 1.00 crunch 0.50 thump 0.80 ring 0.59 dry 1.00 iso 1.00]  Safe Lock Metal Knob 08
+ 36  0.758  gap 103.3 ms  ring  760 Hz T60 0.64  [gap 0.70 pre 1.00 crunch 0.75 thump 1.00 ring 0.71 dry 0.94 iso 0.58]  Central Locking.wav
+ 37  0.757  gap 148.1 ms  ring  782 Hz T60 0.46  [gap 0.96 pre 1.00 crunch 1.00 thump 0.80 ring 0.97 dry 1.00 iso 0.00]  Spooky Loopy3_100BPM_Gm_PSS560_SK5resample.aif
+ 38  0.754  gap 197.5 ms  ring  878 Hz T60 0.35  [gap 0.32 pre 1.00 crunch 0.50 thump 1.00 ring 0.73 dry 1.00 iso 1.00]  Switch-078
+ 39  0.753  gap 112.3 ms  ring  569 Hz T60 0.55  [gap 0.83 pre 1.00 crunch 0.33 thump 0.83 ring 0.62 dry 0.99 iso 1.00]  Safe Lock Metal Knob 03
+ 40  0.753  gap 153.3 ms  ring 1105 Hz T60 0.88  [gap 0.92 pre 0.40 crunch 1.00 thump 0.54 ring 0.49 dry 0.82 iso 1.00]  Gold coins - Weighting the loot, balance
+
+Evidence per mechanism (search query):
+  lock knob                        n=  59 best 0.873 median-top5 0.815  matches gap,crunch,thump,ring,dry,iso  never -
+  keyboard piano                   n= 120 best 0.806 median-top5 0.798  matches gap,crunch,thump,ring,iso  never -
+  power button                     n=  39 best 0.829 median-top5 0.778  matches gap,crunch,thump,ring,dry,iso  never -
+  car lock                         n=  88 best 0.857 median-top5 0.766  matches gap,crunch,thump,ring,dry,iso  never -
+  lamp switch                      n=  27 best 0.791 median-top5 0.751  matches gap,thump,ring,dry,iso  never -
+  lamp button                      n=  23 best 0.764 median-top5 0.744  matches gap,thump,dry,iso  never -
+  stereo power                     n= 107 best 0.766 median-top5 0.742  matches gap,ring,dry,iso  never -
+  foot switch                      n=  17 best 0.773 median-top5 0.726  matches crunch,thump,ring,dry,iso  never -
+  toaster lever                    n=   5 best 0.782 median-top5 0.716  matches gap,pre,crunch,thump,ring,iso  never -
+  casio keyboard                   n= 112 best 0.757 median-top5 0.715  matches gap,pre,crunch,thump,ring,dry  never iso
+  kettle button                    n=   2 best 0.742 median-top5 0.705  matches gap,crunch,thump,dry,iso  never -
+  cook lever                       n=   2 best 0.736 median-top5 0.705  matches gap,crunch,thump,iso  never -
+  bin button                       n=  18 best 0.790 median-top5 0.704  matches gap,crunch,thump,ring,dry,iso  never -
+  electric piano                   n= 105 best 0.722 median-top5 0.686  matches gap,crunch,thump,ring,dry  never -
+  organ key                        n= 119 best 0.684 median-top5 0.678  matches gap,pre,crunch,thump,ring,dry  never iso
+  rice cooker                      n=  11 best 0.762 median-top5 0.664  matches gap,pre,crunch,thump,ring,dry  never -
+  exhaust fan                      n=  72 best 0.695 median-top5 0.661  matches gap,pre,crunch,thump,ring,dry  never iso
+  range hood                       n=   4 best 0.753 median-top5 0.656  matches gap,pre,crunch,thump,ring,dry  never -
+  hifi power                       n=   1 best 0.608 median-top5 0.608  matches gap,thump,ring,dry  never pre,iso
+  washer button                    n=   3 best 0.731 median-top5 0.605  matches gap,crunch,thump  never -
+A/B: results/mnc_wave6/ab/AB_steel1_lock-knob_151581.mp3
+A/B: results/mnc_wave6/ab/AB_steel2_car-lock_364272.mp3
+A/B: results/mnc_wave6/ab/AB_steel3_lock-knob_486542.mp3
+A/B: results/mnc_wave6/ab/AB_steel4_power-button_563995.mp3
+A/B: results/mnc_wave6/ab/AB_steel5_power-button_452998.mp3
+A/B: results/mnc_wave6/ab/AB_steel6_lock-knob_702398.mp3
+A/B: results/mnc_wave6/ab/AB_steel7_keyboard-piano_522788.mp3
+A/B: results/mnc_wave6/ab/AB_steel8_keyboard-piano_522806.mp3
+A/B: results/mnc_wave6/ab/AB_steel9_keyboard-piano_522786.mp3
+A/B: results/mnc_wave6/ab/AB_steel10_lock-knob_529598.mp3
+A/B: results/mnc_wave6/ab/AB_steel11_lock-knob_529592.mp3
+A/B: results/mnc_wave6/ab/AB_steel12_lamp-switch_386422.mp3
+A/B: results/mnc_wave6/ab/AB_steel13_car-lock_716278.mp3
+A/B: results/mnc_wave6/ab/AB_steel14_keyboard-piano_522802.mp3
+A/B: results/mnc_wave6/ab/AB_steel15_bin-button_114053.mp3
+A/B: results/mnc_wave6/ab/AB_steel16_keyboard-piano_522784.mp3
+A/B: results/mnc_wave6/ab/AB_steel17_keyboard-piano_522790.mp3
+A/B: results/mnc_wave6/ab/AB_steel18_keyboard-piano_522839.mp3
+A/B: results/mnc_wave6/ab/AB_steel19_toaster-lever_845787.mp3
+A/B: results/mnc_wave6/ab/AB_steel20_keyboard-piano_522833.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
