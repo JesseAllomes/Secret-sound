@@ -1,0 +1,16 @@
+{
+  "tier:fast": {
+    "digest": "tier",
+    "tree": "sha256:70e1733e8f48c605",
+    "status": "fail",
+    "when": "2026-10-30T12:38:01+00:00",
+    "log": "verify.log"
+  },
+  "unit": {
+    "digest": "sha256:2f5578a8c439",
+    "tree": "sha256:70e1733e8f48c605",
+    "status": "pass",
+    "when": "2026-10-30T12:38:19+00:00",
+    "log": ".agent/unit.log"
+  }
+}

@@ -39,7 +39,7 @@ def load_index(folder, win):
     if not p.exists():
         return {"file": np.array([], str), "at": np.zeros(0), "emb": np.zeros((0, 0), np.float32)}
     z = np.load(p, allow_pickle=False)
-    return {k: z[k] for k in ("file", "at", "emb")}
+    return {"file": z["path"], "at": z["at"], "emb": z["emb"]}
 
 
 def audio_files(folder):
@@ -71,7 +71,7 @@ def build(folder, embedder, win=0.64, max_events=24, batch=16, save_every=200, l
             ats.extend(pend_a)
             pend_f.clear(), pend_a.clear(), pend_w.clear()
         if embs:
-            np.savez(index_path(folder, win), file=np.array(files, str), at=np.array(ats, float),
+            np.savez(index_path(folder, win), path=np.array(files, str), at=np.array(ats, float),
                      emb=np.concatenate(embs).astype(np.float32))
 
     for i, f in enumerate(todo, 1):

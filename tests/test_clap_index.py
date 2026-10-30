@@ -35,7 +35,7 @@ def tone_hit(f, n=int(0.3 * SR)):
 def clip(hit, at=0.5, length=1.5):
     y = 0.001 * rng.standard_normal(int(length * SR)).astype(np.float32)
     a = int(at * SR)
-    y[a:a + len(hit)] += hit
+    y[a:a + len(hit)] += hit[:len(y) - a]
     return y
 
 

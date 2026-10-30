@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=6 -->
+<!-- drainclamp-build: state; schema=1; generation=7 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -46,7 +46,7 @@
 <!-- DC:VERIFY -->
 ```json
 [
-  {"id": "unit", "argv": [".venv/bin/python", "-m", "pytest", "-q", "tests/"], "cwd": ".", "tier": "fast", "timeout_s": 600}
+  {"id": "unit", "argv": ["bash", "tools/test.sh"], "cwd": ".", "tier": "fast", "timeout_s": 600}
 ]
 ```
 <!-- /DC:VERIFY -->
