@@ -18,6 +18,9 @@ DrainClamp state: `.agent/` (push it after every DrainClamp write: `tools/dc_pus
   one-armed bandit / slot machine fits "classic / need a hand / old school" and is not on the wrong list. Wave 3
   (lever / slot machine, 30 searches) ran overnight: `results/bendigo_wave3` on the `results` branch.
 - Other leaders: grandfather-clock winding (0.807), rotary phone dials (0.80), bike wheel / spokes, hand cranks, egg timer.
+- Wave 3 result: coin/vending machines cluster just below the lever (vending.wav 0.854, coin coffee machine 0.834,
+  coin into slot 0.828). Callers hear coins too (jar, collection box, parking meter, self-serve coins all wrong on the
+  station list), so the exact action matters: a vending machine / coin-return / slot-machine lever is not on the list.
 - Fresh Fable (no context): `analysis/bendigo/fable_fresh.md` (spoons, winding an alarm clock, teaspoon in a mug...).
 **Freesound use overnight:** about 330 search requests on the SOUNDMAN key (bot 1 only): fable100 100, wave2 50,
 wave3 30, wave4 35, Bendigo 50 + 30 + 30, plus ~10 name lookups. Downloads do not count.
