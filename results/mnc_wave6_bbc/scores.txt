@@ -1,0 +1,85 @@
+
+302 files with a stroke pair. Top 40 by score:
+  1  0.881  gap 131.1 ms  ring  948 Hz T60 0.33  [gap 0.99 pre 1.00 crunch 0.50 thump 0.90 ring 0.95 dry 0.70 iso 1.00]  Foot lifted and lowered 3 times.
+  2  0.843  gap 197.2 ms  ring  898 Hz T60 0.56  [gap 0.32 pre 1.00 crunch 1.00 thump 0.81 ring 0.89 dry 1.00 iso 1.00]  Hand-Operated Sewing Machine, foot lifted & lowered three times.
+  3  0.822  gap 132.6 ms  ring  539 Hz T60 0.54  [gap 0.99 pre 0.00 crunch 1.00 thump 0.99 ring 0.60 dry 1.00 iso 0.87]  One piano dragged along. (Specially created effect)
+  4  0.811  gap 122.8 ms  ring 1115 Hz T60 2.11  [gap 0.94 pre 1.00 crunch 0.83 thump 0.85 ring 0.47 dry 1.00 iso 1.00]  Keying Aldis lamp.
+  5  0.803  gap 159.1 ms  ring  711 Hz T60 0.76  [gap 0.86 pre 0.00 crunch 0.83 thump 0.91 ring 0.65 dry 1.00 iso 1.00]  American Telephone: Push button dialing and ringing tone, with signal tones muted
+  6  0.800  gap 167.0 ms  ring 1130 Hz T60 0.34  [gap 0.75 pre 1.00 crunch 1.00 thump 0.86 ring 0.67 dry 0.89 iso 0.73]  Range of calls, with distant geese
+  7  0.784  gap 124.7 ms  ring  609 Hz T60 0.36  [gap 0.95 pre 1.00 crunch 0.50 thump 0.68 ring 0.91 dry 0.68 iso 0.76]  Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, coins put in drawer & closed. (Type 96-1 Cash Register.)
+  8  0.780  gap 132.5 ms  ring  540 Hz T60 0.53  [gap 0.99 pre 0.00 crunch 1.00 thump 0.82 ring 0.60 dry 0.82 iso 0.83]  One piano dragged along - 1967 (7B, reprocessed)
+  9  0.776  gap 157.5 ms  ring  505 Hz T60 0.47  [gap 0.88 pre 1.00 crunch 1.00 thump 0.86 ring 0.77 dry 0.00 iso 0.61]  Cash register, bell, keyboard, change given and coins put in drawer, closed.
+ 10  0.770  gap 131.6 ms  ring  608 Hz T60 0.37  [gap 0.99 pre 1.00 crunch 0.33 thump 0.89 ring 0.91 dry 0.34 iso 0.72]  Cash Register keyboard operated, ticket produced, drawer closed. (Totting up.) (Type 96-1 Cash Register.)
+ 11  0.767  gap 134.7 ms  ring  994 Hz T60 1.60  [gap 1.00 pre 0.00 crunch 1.00 thump 0.92 ring 0.47 dry 0.55 iso 0.93]  Clatter of utensils on kitchen range.
+ 12  0.766  gap 147.7 ms  ring  558 Hz T60 0.46  [gap 0.97 pre 0.00 crunch 0.50 thump 0.94 ring 0.75 dry 0.53 iso 0.96]  Type Ninety-Six One - keyboard operated, ticket produced, drawer opens, bell, change given, coins put in drawer and closed - 1969 (23Z,reprocessed)
+ 13  0.766  gap 157.2 ms  ring  506 Hz T60 0.48  [gap 0.88 pre 1.00 crunch 1.00 thump 0.83 ring 0.77 dry 0.00 iso 0.58]  Manual - bell, keyboard, change given and coins put in drawer, drawer closed - 1966 (9A,reprocessed)
+ 14  0.763  gap 108.7 ms  ring  553 Hz T60 0.32  [gap 0.78 pre 0.40 crunch 1.00 thump 0.51 ring 0.74 dry 0.88 iso 0.85]  Mode change button tone.
+ 15  0.758  gap 163.5 ms  ring  985 Hz T60 0.47  [gap 0.80 pre 1.00 crunch 0.50 thump 0.77 ring 0.65 dry 0.68 iso 1.00]  Type Ninety-Six Five - keyboard operated, ticket produced, drawer opens, bell, change given, coins put in drawer and closed - 1969 (23Z,reprocessed)
+ 16  0.756  gap 127.3 ms  ring  662 Hz T60 1.13  [gap 0.97 pre 0.00 crunch 0.83 thump 0.73 ring 0.78 dry 0.23 iso 0.85]  Kettle being filled.
+ 17  0.751  gap 131.2 ms  ring  609 Hz T60 0.38  [gap 0.99 pre 1.00 crunch 0.50 thump 0.47 ring 0.89 dry 0.35 iso 0.84]  Type Ninety-Six One - keyboard operated, ticket produced, drawer closed (totting up) - 1969 (23Z,reprocessed)
+ 18  0.751  gap 127.8 ms  ring  600 Hz T60 5.00  [gap 0.97 pre 1.00 crunch 1.00 thump 0.74 ring 0.37 dry 0.83 iso 0.80]  Pre dawn. Kakas calling from tree-tops - some loud screeches. Flight call from Cook's petrel. Very distant morepork. Crickets. Wind in trees.
+ 19  0.750  gap 138.9 ms  ring  916 Hz T60 0.85  [gap 1.00 pre 1.00 crunch 1.00 thump 1.00 ring 0.80 dry 1.00 iso 0.00]  Exterior, start, tickover, switch off (exhaust end). (11.9 hp side valve Hotchkiss engine, 1922 Morris Bullnose.)
+ 20  0.736  gap 109.6 ms  ring 1169 Hz T60 0.50  [gap 0.79 pre 0.00 crunch 0.50 thump 1.00 ring 0.70 dry 0.34 iso 1.00]  Cash Register opened, keyboard operated, closed. (Class 100 Cash Register.)
+ 21  0.736  gap 108.7 ms  ring  500 Hz T60 0.18  [gap 0.78 pre 1.00 crunch 0.50 thump 0.80 ring 0.50 dry 1.00 iso 1.00]  CU pulses, eel is silent when at rest. Spaced pulses when aware, rapid pulses when moving but not swimming. Fast pulses when swimming. Higher frequency 'blips'are stunning prey.
+ 22  0.736  gap 132.5 ms  ring  741 Hz T60 0.34  [gap 0.99 pre 1.00 crunch 1.00 thump 0.96 ring 0.77 dry 1.00 iso 0.00]  Ford Cortina 1600, exterior, self starter, tickover, stop. (Recorded at exhaust end, 1600cc engine.)
+ 23  0.733  gap 109.3 ms  ring 1172 Hz T60 0.51  [gap 0.79 pre 0.00 crunch 0.50 thump 1.00 ring 0.70 dry 0.32 iso 1.00]  Class One Hundred - opened, keyboard operated, closed - 1969 (23Z,reprocessed)
+ 24  0.731  gap 129.7 ms  ring 1014 Hz T60 0.98  [gap 0.98 pre 1.00 crunch 0.50 thump 1.00 ring 0.49 dry 0.69 iso 0.76]  Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, drawer closed. (Repeated three times.) (Class 3 Cash Register.)
+ 25  0.729  gap 149.6 ms  ring  847 Hz T60 0.79  [gap 0.95 pre 1.00 crunch 0.50 thump 0.74 ring 0.63 dry 1.00 iso 0.72]  Mid morning by side of pool near marsh. Yellow-billed storks preening. Marabou stork clicking bill as it probes in the muddy water. Calls from yellow-billed egret. Immature knob-billed geese dabbling. Woodland kingfisher in distance. Insects and other bir
+ 26  0.726  gap 109.8 ms  ring  939 Hz T60 0.17  [gap 0.79 pre 0.00 crunch 1.00 thump 0.84 ring 0.73 dry 0.93 iso 0.51]  Keying an Aldis lamp.
+ 27  0.724  gap 130.2 ms  ring  895 Hz T60 2.06  [gap 0.99 pre 0.40 crunch 0.50 thump 0.62 ring 0.55 dry 1.00 iso 1.00]  Dialling pulses (push button phone)
+ 28  0.724  gap 163.9 ms  ring  983 Hz T60 0.52  [gap 0.80 pre 1.00 crunch 0.50 thump 0.56 ring 0.63 dry 0.74 iso 1.00]  Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, coins put in drawer & closed. (Type 96-5 Cash Register.)
+ 29  0.720  gap 133.0 ms  ring  581 Hz T60 0.00  [gap 0.99 pre 1.00 crunch 1.00 thump 1.00 ring 0.68 dry 1.00 iso 0.00]  Vespa Scooter, start, tick over, switch off. (Recorded on scooter.)
+ 30  0.717  gap 137.7 ms  ring  806 Hz T60 5.00  [gap 1.00 pre 1.00 crunch 1.00 thump 1.00 ring 0.67 dry 1.00 iso 0.00]  Early Morning: insects, birds and distant cockerels and chatter from village
+ 31  0.716  gap 125.4 ms  ring  502 Hz T60 0.51  [gap 0.96 pre 1.00 crunch 0.83 thump 1.00 ring 0.79 dry 1.00 iso 0.00]  Electrical impulses
+ 32  0.714  gap 127.4 ms  ring 1041 Hz T60 0.21  [gap 0.97 pre 1.00 crunch 1.00 thump 1.00 ring 0.67 dry 1.00 iso 0.00]  Tickover. (Stern of 19 foot motor boat, 12 h.p. petrol engine)
+ 33  0.713  gap 144.5 ms  ring  917 Hz T60 0.47  [gap 0.98 pre 1.00 crunch 1.00 thump 0.87 ring 0.74 dry 1.00 iso 0.00]  Creed keyboard perforator operating. (c.1925)
+ 34  0.713  gap 140.1 ms  ring  946 Hz T60 5.00  [gap 1.00 pre 1.00 crunch 1.00 thump 1.00 ring 0.65 dry 1.00 iso 0.00]  Creed keyboard perforator, 1925.
+ 35  0.711  gap 156.5 ms  ring  666 Hz T60 0.29  [gap 0.89 pre 1.00 crunch 1.00 thump 0.96 ring 0.74 dry 1.00 iso 0.00]  Crowd atmosphere with steam roundabouts and indistinct music from steam organ - Aug '1966 (38A,reprocessed)
+ 36  0.708  gap 103.6 ms  ring  550 Hz T60 5.00  [gap 0.71 pre 1.00 crunch 0.67 thump 0.78 ring 0.62 dry 1.00 iso 0.65]  Sounder used with morse key - receiving end, 1839.
+ 37  0.708  gap 118.4 ms  ring  817 Hz T60 5.00  [gap 0.90 pre 1.00 crunch 1.00 thump 0.89 ring 0.76 dry 1.00 iso 0.00]  Two key punches, 1966.
+ 38  0.706  gap 153.4 ms  ring  856 Hz T60 3.07  [gap 0.92 pre 1.00 crunch 1.00 thump 1.00 ring 0.67 dry 1.00 iso 0.00]  Cu - md calls from birds flying in from the sea to burrows. Cooing sound also made. Crickets in background becoming louder. Distant morepork near end of recording. Also suitable for dusk/night-time atmosphere on Little Barrier Island.
+ 39  0.706  gap 147.5 ms  ring  651 Hz T60 1.34  [gap 0.97 pre 1.00 crunch 1.00 thump 1.00 ring 0.64 dry 1.00 iso 0.00]  Dance Hall atmosphere during interval, with odd notes on piano.
+ 40  0.705  gap 137.3 ms  ring  767 Hz T60 0.93  [gap 1.00 pre 0.00 crunch 0.50 thump 0.77 ring 0.71 dry 0.38 iso 0.84]  Cash Register keyboard operated, bell, change given, coins put in drawer, closed. (Repeated twice.) (Class 100 Cash Register.)
+
+Evidence per mechanism (search query):
+  keyboard piano                   n=  17 best 0.784 median-top5 0.770  matches gap,pre,crunch,thump,ring,iso  never -
+  electric piano                   n=  29 best 0.822 median-top5 0.736  matches gap,pre,crunch,thump,ring,dry  never -
+  lamp button                      n=  30 best 0.811 median-top5 0.726  matches gap,crunch,thump,ring,dry,iso  never -
+  foot switch                      n=  20 best 0.881 median-top5 0.714  matches gap,pre,crunch,thump,ring,dry  never -
+  organ key                        n=  16 best 0.711 median-top5 0.708  matches gap,pre,crunch,thump,ring,dry  never iso
+  range hood                       n=  30 best 0.800 median-top5 0.698  matches gap,pre,crunch,thump,ring,dry  never -
+  lamp switch                      n=  23 best 0.720 median-top5 0.696  matches gap,pre,crunch,thump,ring,dry  never iso
+  exhaust fan                      n=  30 best 0.750 median-top5 0.694  matches gap,pre,crunch,thump,ring,dry  never iso
+  casio keyboard                   n=   5 best 0.766 median-top5 0.690  matches gap,pre,thump,iso  never -
+  kettle button                    n=  14 best 0.756 median-top5 0.689  matches gap,pre,crunch,thump,ring  never -
+  cook lever                       n=   9 best 0.751 median-top5 0.687  matches gap,pre,crunch,thump,dry  never iso
+  lock knob                        n=  21 best 0.729 median-top5 0.683  matches gap,pre,crunch,thump,ring,dry  never iso
+  rice cooker                      n=   2 best 0.717 median-top5 0.681  matches gap,pre,crunch,thump,ring,dry  never iso
+  stereo power                     n=  30 best 0.697 median-top5 0.681  matches gap,pre,crunch,thump,ring,dry  never iso
+  spout button                     n=   3 best 0.670 median-top5 0.667  matches gap,pre,crunch,thump,dry  never iso
+  car lock                         n=  11 best 0.679 median-top5 0.660  matches gap,pre,crunch,thump  never -
+  hifi power                       n=   6 best 0.699 median-top5 0.628  matches gap,pre,crunch,thump,ring,dry  never iso
+  washer button                    n=   3 best 0.803 median-top5 0.588  matches gap,pre,crunch,thump,ring  never -
+  toaster lever                    n=   2 best 0.596 median-top5 0.588  matches gap,thump,ring  never dry
+  bin button                       n=   1 best 0.538 median-top5 0.538  matches gap,pre,thump  never dry,iso
+A/B: results/mnc_wave6_bbc/ab/AB_steel1_foot-switch_07055138.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel2_foot-switch_07039142.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel3_electric-piano_07005044.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel4_lamp-button_07069053.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel5_washer-button_07022422.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel6_range-hood_NHU05078302.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel7_keyboard-piano_07040188.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel8_electric-piano_07071049.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel9_keyboard-piano_07005179.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel10_keyboard-piano_07040189.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel11_range-hood_07002113.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel12_casio-keyboard_07074215.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel13_keyboard-piano_07074209.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel14_lamp-button_07070092.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel15_casio-keyboard_07074217.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel16_kettle-button_07038291.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel17_keyboard-piano_07074216.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel18_cook-lever_NHU05050034.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel19_exhaust-fan_07011166.mp3
+A/B: results/mnc_wave6_bbc/ab/AB_steel20_keyboard-piano_07040187.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav

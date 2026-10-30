@@ -1,0 +1,82 @@
+on-air filter: 4 clips match a wrong guess and are left out of the A/B files
+0.758 clap 0.730 mel 0.823  07042246 @5.24s  [lamp button] Telephone, handset lifted & replaced. (Push button telephone
+0.732 clap 0.732 mel 0.730  07076025 @15.55s  [lamp button] Keying an Aldis lamp.
+0.718 clap 0.726 mel 0.701  07069053 @17.95s  [lamp button] Keying Aldis lamp.
+0.707 clap 0.651 mel 0.839  07011079 @20.39s  [organ key] A door lock with key.
+0.704 clap 0.648 mel 0.833  07026141 @0.60s  [lamp switch] Motor Van: Column Dip Switch, interior, (Ford Anglia 105E, 1
+0.703 clap 0.629 mel 0.877  07055138 @13.69s  [foot switch] Foot lifted and lowered 3 times.
+0.702 clap 0.675 mel 0.763  07042248 @4.65s  [lamp button] Telephone, handset lifted & 9 digits keyed. (Push button tel
+0.702 clap 0.635 mel 0.857  07039142 @4.75s  [foot switch] Hand-Operated Sewing Machine, foot lifted & lowered three ti
+0.696 clap 0.683 mel 0.728  07069035 @10.99s  [organ key] Morse key - transmitting end, 1839.
+0.694 clap 0.688 mel 0.710  07069034 @9.22s  [organ key] Sounder used with morse key - receiving end, 1839.
+0.681 clap 0.610 mel 0.848  07022422 @10.29s  [washer button] American Telephone: Push button dialing and ringing tone, wi
+0.677 clap 0.596 mel 0.865  07070083 @1.36s  [lamp switch] Motorola car phone - switch off, replace in holster.
+0.671 clap 0.639 mel 0.748  07076003 @10.71s  [organ key] Morse key, transmitting end. (c.1839)
+0.661 clap 0.596 mel 0.814  07055173 @4.93s  [electric piano] exterior - electric window, wound up
+0.659 clap 0.577 mel 0.852  07042245 @7.01s  [washer button] Telephone, ring & handset lifted. (Push button telephone.)
+0.649 clap 0.598 mel 0.769  07055132 @8.90s  [lamp button] Button holing (Electric machine c.1968).
+0.646 clap 0.601 mel 0.753  07076002 @9.25s  [organ key] Sounder used with morse key, receiving end. (c.1839)
+0.636 clap 0.564 mel 0.806  07026027 @2.18s  [lock knob] Canals: Canal lock, Sluices open  << on air wrong: 1 Sep: opening a can
+0.634 clap 0.580 mel 0.760  07037507 @3.58s  [organ key] Door, key & handle turned, door opened & reverse.
+0.625 clap 0.563 mel 0.770  07002094 @4.88s  [lamp switch] An electric coffee bean roasting machine, switch on, run, sw
+0.625 clap 0.537 mel 0.831  07005044 @9.56s  [electric piano] One piano dragged along. (Specially created effect)
+0.620 clap 0.541 mel 0.805  07074214 @6.21s  [keyboard piano] Class One Hundred - opened, keyboard operated, closed - 1969
+0.620 clap 0.542 mel 0.803  07041006 @1.20s  [exhaust fan] Electric fan starts, runs and stops.
+0.619 clap 0.532 mel 0.824  07026143 @2.46s  [lamp switch] Motor Van: Head and side light switch, interior, (Ford Angli
+0.619 clap 0.526 mel 0.838  07043113 @7.67s  [lamp switch] Ford Fiesta, interior, switch on, reverse, switch off. (1.1 
+0.618 clap 0.536 mel 0.811  07040187 @5.55s  [keyboard piano] Cash Register opened, keyboard operated, closed. (Class 100 
+0.615 clap 0.579 mel 0.699  07005124 @7.84s  [electric piano] Crash of piano. (Specially created effect)
+0.612 clap 0.514 mel 0.842  07074215 @18.71s  [casio keyboard] Type Ninety-Six One - keyboard operated, ticket produced, dr
+0.611 clap 0.575 mel 0.697  07071051 @8.03s  [electric piano] Crash of piano - 1968 (7H, reprocessed)
+0.610 clap 0.553 mel 0.743  07011179 @1.23s  [exhaust fan] Exterior, start, revving, tickover, switch off recorded near
+0.607 clap 0.536 mel 0.773  07005179 @4.92s  [keyboard piano] Cash register, bell, keyboard, change given and coins put in
+0.605 clap 0.501 mel 0.847  07009051 @18.52s  [range hood] BAC 1-11, interior, switch off, sounds of movement from pass
+0.604 clap 0.508 mel 0.828  07071049 @9.54s  [electric piano] One piano dragged along - 1967 (7B, reprocessed)
+0.601 clap 0.538 mel 0.750  07037546 @6.52s  [organ key] Door key in door, opened, feet wiped, door shut.
+0.592 clap 0.498 mel 0.812  07076024 @0.86s  [organ key] Keyed morse. (No tone, sound of key being operated)
+0.592 clap 0.497 mel 0.814  07022440 @0.99s  [lamp button] Push-Button Telephone Box (1985): Receiver replaced
+0.591 clap 0.477 mel 0.857  07070092 @0.07s  [lamp button] Mode change button tone.
+0.587 clap 0.493 mel 0.807  07040193 @37.66s  [keyboard piano] Cash Register keyboard operated, ticket produced, drawer ope
+0.585 clap 0.520 mel 0.738  07037516 @11.45s  [lock knob] Heavy door with lock & bolts opened & shut.
+0.585 clap 0.509 mel 0.762  07027126 @0.80s  [lamp switch] Household: Light Switch, cord pull, electric operated.
+0.583 clap 0.477 mel 0.830  07027206 @0.99s  [kettle button] Household: Electric kettle filled with water.
+0.581 clap 0.474 mel 0.832  07008204 @0.45s  [exhaust fan] Exterior, start, tickover. (Recorded near exhaust of 1940 pe
+0.580 clap 0.507 mel 0.750  07038291 @13.03s  [kettle button] Kettle being filled.
+0.579 clap 0.466 mel 0.841  07040188 @18.46s  [keyboard piano] Cash Register keyboard operated, ticket produced, drawer ope
+0.569 clap 0.458 mel 0.827  07074217 @20.18s  [casio keyboard] Type Ninety-Six Five - keyboard operated, ticket produced, d
+0.569 clap 0.468 mel 0.804  07074220 @38.09s  [casio keyboard] Class Three Machine (supermarket) - keyboard operated, ticke
+0.568 clap 0.473 mel 0.790  07002113 @0.75s  [range hood] Clatter of utensils on kitchen range.
+0.565 clap 0.498 mel 0.722  07004206 @0.18s  [stereo power] 16mm RCA cine projector. Power rewind.
+0.565 clap 0.458 mel 0.815  07026028 @7.40s  [lock knob] Canals: Canal lock, Sluices closed
+0.563 clap 0.530 mel 0.639  07019169 @0.67s  [lock knob] Wheel-Lock Gun, single shot fired. (Manufactured 1590.)
+0.561 clap 0.479 mel 0.752  07074218 @15.90s  [keyboard piano] Itemizing Machine - keyboard operated, drawer opens, bell, c
+0.560 clap 0.517 mel 0.660  07058156 @1.75s  [organ key] Key in lock, door opens and closes (reverberent corridor)
+0.559 clap 0.526 mel 0.637  07074223 @15.45s  [keyboard piano] Monroe-Sweda - keyboard operated, ticket produced, drawer op
+0.559 clap 0.444 mel 0.828  NHU05004116 @5.03s  [electric piano] CU pulses as eel swims and strikes to stun prey.
+0.557 clap 0.480 mel 0.737  07002075 @3.54s  [kettle button] Lid removed and kettle filled with water.
+0.556 clap 0.443 mel 0.821  07055208 @3.10s  [lamp switch] interior - start, drive on wet, muddy in first and second ge
+0.554 clap 0.440 mel 0.819  NHU05004117 @7.98s  [electric piano] CU pulses from swimming eel. Several strikes to stun prey.
+0.553 clap 0.517 mel 0.638  07069041 @2.23s  [keyboard piano] Creed keyboard perforator, 1925.
+0.551 clap 0.494 mel 0.685  07074209 @5.50s  [keyboard piano] Manual - bell, keyboard, change given and coins put in drawe
+0.550 clap 0.437 mel 0.812  07026002 @83.78s  [foot switch] Yacht: 25 foot, tacking with seawash, occasional sound of wi
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap1_lamp-button_07042246.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap2_lamp-button_07076025.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap3_lamp-button_07069053.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap4_organ-key_07011079.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap5_lamp-switch_07026141.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap6_foot-switch_07055138.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap7_lamp-button_07042248.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap8_foot-switch_07039142.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap9_organ-key_07069035.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap10_organ-key_07069034.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap11_washer-button_07022422.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap12_lamp-switch_07070083.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap13_organ-key_07076003.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap14_electric-piano_07055173.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap15_washer-button_07042245.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap16_lamp-button_07055132.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap17_organ-key_07076002.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap18_organ-key_07037507.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap19_lamp-switch_07002094.mp3
+results/mnc_wave6_bbc/ab_clap/AB_mnc_clap20_electric-piano_07005044.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
