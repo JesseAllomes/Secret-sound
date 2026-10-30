@@ -1,0 +1,12 @@
+c805328 len s 4.052675736961452 peak dBFS -19.022335 rms -37.481087
+clicks found 106 ; level percentiles dB [-57.  -37.1 -33. ]
+main clicks 53 median interval ms 36.3 IQR [26.9 65.8]
+   0.0- 0.5s:   7 main clicks ( 14/s), rms  -36.2 dBFS
+   0.5- 1.0s:   6 main clicks ( 12/s), rms  -33.0 dBFS
+   1.0- 1.5s:   6 main clicks ( 12/s), rms  -38.5 dBFS
+   1.5- 2.0s:   7 main clicks ( 14/s), rms  -40.2 dBFS
+   2.0- 2.5s:  11 main clicks ( 22/s), rms  -38.9 dBFS
+   2.5- 3.0s:  10 main clicks ( 20/s), rms  -40.2 dBFS
+   3.0- 3.5s:   6 main clicks ( 12/s), rms  -39.0 dBFS
+   3.5- 4.0s:   0 main clicks (  0/s), rms  -39.4 dBFS
+   4.0- 4.5s:   0 main clicks (  0/s), rms  -77.9 dBFS

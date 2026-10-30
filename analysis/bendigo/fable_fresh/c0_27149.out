@@ -1,0 +1,29 @@
+c27149 len s 12.53984126984127 peak dBFS -2.264838 rms -25.63089
+clicks found 968 ; level percentiles dB [-54.1 -35.4 -13.6]
+main clicks 484 median interval ms 11.6 IQR [ 8.1 19.2]
+   0.0- 0.5s:   0 main clicks (  0/s), rms  -69.5 dBFS
+   0.5- 1.0s:   2 main clicks (  4/s), rms  -41.5 dBFS
+   1.0- 1.5s:  16 main clicks ( 32/s), rms  -26.7 dBFS
+   1.5- 2.0s:  41 main clicks ( 82/s), rms  -22.7 dBFS
+   2.0- 2.5s:  20 main clicks ( 40/s), rms  -25.4 dBFS
+   2.5- 3.0s:  19 main clicks ( 38/s), rms  -29.6 dBFS
+   3.0- 3.5s:   3 main clicks (  6/s), rms  -42.5 dBFS
+   3.5- 4.0s:  11 main clicks ( 22/s), rms  -31.4 dBFS
+   4.0- 4.5s:  36 main clicks ( 72/s), rms  -19.8 dBFS
+   4.5- 5.0s:  36 main clicks ( 72/s), rms  -23.6 dBFS
+   5.0- 5.5s:  15 main clicks ( 30/s), rms  -24.3 dBFS
+   5.5- 6.0s:   2 main clicks (  4/s), rms  -42.1 dBFS
+   6.0- 6.5s:  25 main clicks ( 50/s), rms  -24.3 dBFS
+   6.5- 7.0s:  43 main clicks ( 86/s), rms  -20.2 dBFS
+   7.0- 7.5s:  23 main clicks ( 46/s), rms  -25.8 dBFS
+   7.5- 8.0s:  18 main clicks ( 36/s), rms  -37.1 dBFS
+   8.0- 8.5s:  11 main clicks ( 22/s), rms  -31.9 dBFS
+   8.5- 9.0s:  43 main clicks ( 86/s), rms  -19.2 dBFS
+   9.0- 9.5s:  22 main clicks ( 44/s), rms  -24.8 dBFS
+   9.5-10.0s:  12 main clicks ( 24/s), rms  -32.5 dBFS
+  10.0-10.5s:  11 main clicks ( 22/s), rms  -36.3 dBFS
+  10.5-11.0s:  32 main clicks ( 64/s), rms  -26.2 dBFS
+  11.0-11.5s:  26 main clicks ( 52/s), rms  -29.4 dBFS
+  11.5-12.0s:  13 main clicks ( 26/s), rms  -28.7 dBFS
+  12.0-12.5s:   4 main clicks (  8/s), rms  -41.0 dBFS
+  12.5-13.0s:   0 main clicks (  0/s), rms  -54.7 dBFS
