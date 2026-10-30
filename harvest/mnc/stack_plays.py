@@ -37,17 +37,14 @@ def cut(mp3, t, dur):
 
 def align(x, ev, lo):
     """Best lag of the clue's event part inside x (normalised correlation), searched from lo over 2*SEARCH."""
-    n = len(ev)
-    best = (-2.0, 0)
-    for lag in range(lo, lo + int(2 * SEARCH * SR)):
-        w = x[lag:lag + n]
-        if len(w) < n:
-            break
-        w = w - w.mean()
-        r = float(w @ ev) / (np.linalg.norm(w) + 1e-12)
-        if abs(r) > abs(best[0]):
-            best = (r, lag)
-    return best
+    n, m = len(ev), int(2 * SEARCH * SR)
+    seg = x[lo:lo + m + n - 1]
+    num = np.correlate(seg, ev, mode="valid")              # ev is zero-mean, so the window mean drops out
+    c1, c2 = np.concatenate([[0], np.cumsum(seg)]), np.concatenate([[0], np.cumsum(seg ** 2)])
+    s1, s2 = c1[n:] - c1[:-n], c2[n:] - c2[:-n]
+    r = num / np.sqrt(np.maximum(s2 - s1 ** 2 / n, 1e-20))
+    k = int(np.argmax(np.abs(r)))
+    return float(r[k]), lo + k
 
 
 def episode_plays(rec, clue, ev, ev_a):
