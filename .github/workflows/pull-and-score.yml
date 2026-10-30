@@ -19,6 +19,9 @@ on:
       per_query:
         description: "Results per search"
         default: "100"
+      max_seconds:
+        description: "Longest clip to pull (seconds)"
+        default: "30"
       ab:
         description: "How many A/B files"
         default: "10"
@@ -57,7 +60,7 @@ jobs:
         run: |
           grep -v '^#' "${{ inputs.queries }}" | sed '/^\s*$/d' | awk -v n="${{ steps.key.outputs.bots }}" -v b="${{ matrix.bot }}" '(NR-1)%n==b-1' > my_queries.txt
           echo "bot ${{ matrix.bot }} of ${{ steps.key.outputs.bots }}: $(wc -l < my_queries.txt) searches"
-          python pull_queries.py "data/${{ inputs.name }}" my_queries.txt --per-query "${{ inputs.per_query }}"
+          python pull_queries.py "data/${{ inputs.name }}" my_queries.txt --per-query "${{ inputs.per_query }}" --max-seconds "${{ inputs.max_seconds }}"
       - name: Upload this bot's clips
         if: steps.key.outputs.skip != '1'
         uses: actions/upload-artifact@v4
