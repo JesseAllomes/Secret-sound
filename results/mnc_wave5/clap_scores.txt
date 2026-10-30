@@ -1,0 +1,82 @@
+on-air filter: 10 clips match a wrong guess and are left out of the A/B files
+0.806 clap 0.792 mel 0.838  766199 @8.18s  [fan switch] Flick of a switch
+0.800 clap 0.783 mel 0.838  787708 @17.54s  [desk fan] Desk Fan
+0.792 clap 0.766 mel 0.851  577863 @0.42s  [key switch] beefed-up Dell touchpad buttons.wav
+0.780 clap 0.759 mel 0.831  462280 @14.38s  [blender button] Blender switch (Contact mic)
+0.773 clap 0.734 mel 0.864  765457 @4.24s  [sewing machine] Setting Thread Tension
+0.766 clap 0.740 mel 0.827  835523 @0.00s  [latching switch] 20251126_Click - Case close
+0.765 clap 0.736 mel 0.833  631535 @0.94s  [fan switch] Fan switch on off.wav
+0.750 clap 0.734 mel 0.788  625278 @9.40s  [fan button] Typing (old Lenovo laptop)
+0.745 clap 0.700 mel 0.852  397926 @5.13s  [key switch] variations on MadmanEpic's Freesound #397888.wav
+0.744 clap 0.714 mel 0.815  456777 @1.32s  [key switch] Old keyboard.wav
+0.742 clap 0.697 mel 0.846  629309 @1.21s  [fan switch] adjust fan setting knob.wav
+0.742 clap 0.697 mel 0.846  867921 @2.53s  [key switch] Button Press
+0.742 clap 0.685 mel 0.874  629301 @5.47s  [car radio] Press radio knob.wav  << on air wrong: 16 Jul: clicking in the buttons on an old radio
+0.736 clap 0.683 mel 0.860  395215 @0.19s  [heater switch] Heater on running 10 seconds with switch
+0.733 clap 0.697 mel 0.816  872829 @9.98s  [key switch] Mechanical_Keyboard_CherryMX_Typing
+0.733 clap 0.719 mel 0.766  630555 @0.40s  [fan switch] Extractor fan turn on.wav
+0.733 clap 0.708 mel 0.790  45416 @2.86s  [fan button] light switches.mp3
+0.733 clap 0.678 mel 0.859  622060 @0.00s  [key switch] button click
+0.730 clap 0.679 mel 0.849  566195 @0.00s  [key switch] Press_Button_02.wav
+0.726 clap 0.666 mel 0.866  402839 @18.41s  [piano key] Piano - Dead Key - Double Long
+0.723 clap 0.662 mel 0.866  402838 @19.72s  [piano key] Piano - Dead Key - Double Short
+0.720 clap 0.720 mel 0.719  867994 @4.17s  [key switch] Keyboard typing (clicking type)
+0.720 clap 0.655 mel 0.869  635983 @0.07s  [fan speed] Adjust AC Fan Speed on 1979 Mercury Zephyr Sedan
+0.718 clap 0.677 mel 0.814  496328 @0.00s  [heater switch] Mechanical Switch
+0.718 clap 0.664 mel 0.845  250902 @0.00s  [key switch] Piano Key Cover
+0.716 clap 0.678 mel 0.803  631536 @5.36s  [fan switch] Fan setting 123off.wav
+0.715 clap 0.629 mel 0.917  566194 @0.00s  [key switch] Press_Button_03.wav
+0.710 clap 0.731 mel 0.662  546088 @1.50s  [key switch] Keyboard Typing 6 (HHKB, Topre)
+0.710 clap 0.651 mel 0.848  815491 @2.32s  [latching switch] Mechanical switch (latch) 03
+0.708 clap 0.669 mel 0.799  815796 @0.67s  [fan switch] Fan start up
+0.708 clap 0.631 mel 0.886  815493 @0.00s  [latching switch] Mechanical switch (latch) 02
+0.706 clap 0.674 mel 0.780  556632 @0.16s  [latching switch] Push Toggle Switch 3
+0.703 clap 0.635 mel 0.862  624634 @3.18s  [retro button] Casio AS-51R Cassette Player Stop Button
+0.703 clap 0.636 mel 0.859  765455 @7.50s  [sewing machine] Insert Thread into Sewing Machine
+0.700 clap 0.624 mel 0.879  815492 @0.13s  [latching switch] Mechanical switch (latch) 01
+0.699 clap 0.657 mel 0.798  450083 @0.00s  [adding machine] AddingMachine_BUTTON_slow_02.wav
+0.698 clap 0.635 mel 0.847  765454 @10.88s  [sewing machine] Insert Spool into Sewing Machine
+0.698 clap 0.663 mel 0.780  755840 @18.39s  [key switch] PRO_Mechanical Keyboard Switches
+0.696 clap 0.629 mel 0.852  499340 @4.22s  [car radio] 12_radio.wav
+0.695 clap 0.615 mel 0.880  402836 @13.94s  [piano key] Piano - Dead Key - Single Short
+0.694 clap 0.694 mel 0.695  553903 @3.82s  [key switch] Typing On a Keyboard | Heavy Keyboard Sound Effect
+0.692 clap 0.647 mel 0.796  735113 @2.12s  [fan speed] Electric mini fan turn on with 3 speed then turn off
+0.690 clap 0.614 mel 0.866  384412 @1.33s  [key switch] Turning off engine & removing the car key
+0.689 clap 0.643 mel 0.797  405236 @3.20s  [key switch] Small Town #4.flac
+0.689 clap 0.613 mel 0.867  118227 @0.00s  [key switch] phone_button_push.mp3
+0.688 clap 0.614 mel 0.862  414759 @9.72s  [mixer button] MacBook Pro Keyboard
+0.688 clap 0.627 mel 0.830  789628 @1.14s  [key switch] Keychron k10 A to + individual keys
+0.687 clap 0.625 mel 0.832  817661 @6.58s  [vacuum button] 250726 - Vacuum cleaner - Philips PowerPro 7000 series - Pow  << on air wrong: 24 Aug: pushing a switch or a button on a vacuum cleaner
+0.687 clap 0.620 mel 0.843  624637 @10.97s  [retro button] Casio AS-51R Cassette Player Play Button
+0.683 clap 0.618 mel 0.835  572139 @0.08s  [retro button] button clicks on an old mixing desk
+0.681 clap 0.614 mel 0.838  668667 @8.66s  [channel button] Computer Mouse Clicks.wav  << on air warm: 26 Jul: a computer mouse click
+0.680 clap 0.599 mel 0.868  556631 @0.02s  [latching switch] Push Toggle Switch 2
+0.679 clap 0.611 mel 0.838  842384 @0.00s  [latching switch] switches.wav
+0.678 clap 0.612 mel 0.833  858903 @23.56s  [old television] COMTv-Blue Snowball Microphone, MCU_Television Set, Old, Tur
+0.677 clap 0.628 mel 0.793  186130 @0.50s  [fan button] Computer-12.wav
+0.675 clap 0.637 mel 0.765  872830 @1.06s  [key switch] Mechanical_Keyboard_Razer_BlackWidowChroma2_Typing
+0.674 clap 0.580 mel 0.895  250251 @0.00s  [heater switch] Switch of sauna heater
+0.669 clap 0.586 mel 0.864  735981 @1.94s  [vacuum button] Dyson vacuum cleaner buttons  << on air wrong: 24 Aug: pushing a switch or a button on a vacuum cleaner
+0.669 clap 0.641 mel 0.734  442502 @0.00s  [fan button] Broken Fan.wav
+0.669 clap 0.603 mel 0.822  765456 @6.84s  [sewing machine] Lower Sewing Foot
+results/mnc_wave5/ab_clap/AB_mnc_clap1_fan-switch_766199.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap2_desk-fan_787708.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap3_key-switch_577863.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap4_blender-button_462280.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap5_sewing-machine_765457.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap6_latching-switch_835523.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap7_fan-switch_631535.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap8_fan-button_625278.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap9_key-switch_397926.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap10_key-switch_456777.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap11_fan-switch_629309.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap12_key-switch_867921.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap13_heater-switch_395215.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap14_key-switch_872829.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap15_fan-switch_630555.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap16_fan-button_45416.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap17_key-switch_622060.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap18_key-switch_566195.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap19_piano-key_402839.mp3
+results/mnc_wave5/ab_clap/AB_mnc_clap20_piano-key_402838.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav

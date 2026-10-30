@@ -1,0 +1,93 @@
+
+956 files with a stroke pair. Top 40 by score:
+  1  0.844  gap 135.0 ms  ring  716 Hz T60 0.80  [gap 1.00 pre 0.40 crunch 1.00 thump 0.84 ring 0.63 dry 0.82 iso 1.00]  Machine Cutting Metal.wav
+  2  0.844  gap 128.4 ms  ring  797 Hz T60 0.73  [gap 0.98 pre 1.00 crunch 0.75 thump 0.75 ring 0.83 dry 0.30 iso 1.00]  User Interface Buttons
+  3  0.835  gap 170.8 ms  ring  582 Hz T60 0.58  [gap 0.70 pre 1.00 crunch 0.67 thump 1.00 ring 0.74 dry 0.91 iso 1.00]  Spring click sound.m4a
+  4  0.829  gap 126.6 ms  ring  508 Hz T60 0.84  [gap 0.97 pre 1.00 crunch 1.00 thump 0.85 ring 0.45 dry 0.88 iso 1.00]  CheckPress_STAMP_Fast_02.wav
+  5  0.828  gap 113.7 ms  ring  607 Hz T60 0.59  [gap 0.84 pre 1.00 crunch 1.00 thump 0.95 ring 0.56 dry 0.37 iso 1.00]  Action02.wav
+  6  0.812  gap 109.0 ms  ring  625 Hz T60 0.53  [gap 0.78 pre 1.00 crunch 0.50 thump 0.79 ring 0.80 dry 1.00 iso 1.00]  Happybirthday.wav
+  7  0.808  gap 149.7 ms  ring  658 Hz T60 1.62  [gap 0.95 pre 1.00 crunch 0.50 thump 0.91 ring 0.76 dry 0.31 iso 1.00]  Action23.wav
+  8  0.807  gap 129.1 ms  ring  606 Hz T60 4.45  [gap 0.98 pre 0.00 crunch 0.83 thump 1.00 ring 0.57 dry 0.95 iso 0.97]  Braun 3105 Coffee Maker - Button presses
+  9  0.798  gap 105.8 ms  ring  556 Hz T60 0.40  [gap 0.74 pre 0.40 crunch 0.50 thump 1.00 ring 0.77 dry 1.00 iso 1.00]  Action15.wav
+ 10  0.797  gap 137.2 ms  ring  826 Hz T60 1.81  [gap 1.00 pre 0.00 crunch 0.67 thump 0.78 ring 0.72 dry 1.00 iso 1.00]  Blender switch (Contact mic)
+ 11  0.794  gap 159.2 ms  ring  675 Hz T60 0.94  [gap 0.86 pre 1.00 crunch 0.50 thump 0.93 ring 0.61 dry 0.99 iso 1.00]  Action03.wav
+ 12  0.792  gap 168.6 ms  ring  512 Hz T60 0.62  [gap 0.73 pre 1.00 crunch 0.50 thump 1.00 ring 0.75 dry 1.00 iso 0.85]  Pulling A Chain Switch.wav
+ 13  0.790  gap 141.4 ms  ring  712 Hz T60 1.65  [gap 0.99 pre 1.00 crunch 0.83 thump 0.77 ring 0.49 dry 0.57 iso 1.00]  CheckPress_SLIDER_Slow_12.wav
+ 14  0.790  gap 162.8 ms  ring  812 Hz T60 0.28  [gap 0.81 pre 1.00 crunch 0.50 thump 0.69 ring 0.76 dry 1.00 iso 1.00]  Action22.wav
+ 15  0.790  gap 138.5 ms  ring 1065 Hz T60 0.34  [gap 1.00 pre 0.00 crunch 0.67 thump 0.72 ring 0.73 dry 1.00 iso 1.00]  phone_button_push.mp3
+ 16  0.787  gap 149.5 ms  ring 1082 Hz T60 0.58  [gap 0.95 pre 1.00 crunch 1.00 thump 0.85 ring 0.48 dry 0.93 iso 0.75]  Various Buttons and switches
+ 17  0.785  gap 119.1 ms  ring  504 Hz T60 1.33  [gap 0.90 pre 1.00 crunch 0.67 thump 0.78 ring 0.65 dry 0.39 iso 1.00]  Sci Fi - Effects - Science_07.wav
+ 18  0.784  gap 143.6 ms  ring 1122 Hz T60 1.73  [gap 0.99 pre 1.00 crunch 0.75 thump 0.70 ring 0.63 dry 0.22 iso 1.00]  Dégoupillage
+ 19  0.783  gap 157.9 ms  ring 1144 Hz T60 0.53  [gap 0.87 pre 0.00 crunch 1.00 thump 0.73 ring 0.57 dry 1.00 iso 1.00]  7-bit Simple Wide Click Select Device Button BBM - Nova Sound.wav
+ 20  0.782  gap 159.4 ms  ring  652 Hz T60 0.49  [gap 0.85 pre 0.00 crunch 0.58 thump 0.92 ring 0.77 dry 0.70 iso 1.00]  custom_lever_pulling_sounds_02182026
+ 21  0.781  gap 156.4 ms  ring 1164 Hz T60 0.00  [gap 0.89 pre 1.00 crunch 0.83 thump 0.92 ring 0.38 dry 0.79 iso 1.00]  button01b.mp3
+ 22  0.778  gap 117.4 ms  ring 1093 Hz T60 0.58  [gap 0.89 pre 0.00 crunch 0.50 thump 0.89 ring 0.75 dry 1.00 iso 1.00]  Power Cord Unplug 1_2
+ 23  0.778  gap 131.1 ms  ring 1017 Hz T60 0.90  [gap 0.99 pre 1.00 crunch 1.00 thump 0.35 ring 0.56 dry 0.75 iso 1.00]  mechanical_small_metal_attaching_impact_sounds
+ 24  0.773  gap 164.2 ms  ring  822 Hz T60 3.79  [gap 0.79 pre 0.40 crunch 0.50 thump 0.92 ring 0.69 dry 0.99 iso 1.00]  Button click wheel.wav
+ 25  0.770  gap  99.0 ms  ring  704 Hz T60 1.29  [gap 0.64 pre 0.00 crunch 0.67 thump 0.88 ring 0.77 dry 1.00 iso 1.00]  Casio AS-51R Cassette Player Play Button
+ 26  0.768  gap 107.4 ms  ring  505 Hz T60 5.00  [gap 0.76 pre 0.00 crunch 1.00 thump 0.99 ring 0.42 dry 1.00 iso 1.00]  AddingMachine_BUTTON_fx_02.wav
+ 27  0.767  gap 170.5 ms  ring  920 Hz T60 0.98  [gap 0.70 pre 0.00 crunch 0.67 thump 0.92 ring 0.70 dry 1.00 iso 1.00]  mouse click.m4a
+ 28  0.764  gap 154.9 ms  ring  890 Hz T60 1.52  [gap 0.91 pre 0.00 crunch 0.50 thump 0.91 ring 0.67 dry 1.00 iso 1.00]  Button Sound Closed 1
+ 29  0.764  gap 128.3 ms  ring  857 Hz T60 1.89  [gap 0.98 pre 0.00 crunch 0.50 thump 0.72 ring 0.74 dry 1.00 iso 1.00]  mouse click and scroll sound effect
+ 30  0.764  gap 142.3 ms  ring  647 Hz T60 5.00  [gap 0.99 pre 0.00 crunch 0.50 thump 0.93 ring 0.60 dry 1.00 iso 1.00]  Flashlight on & off
+ 31  0.761  gap 154.7 ms  ring  876 Hz T60 0.42  [gap 0.91 pre 0.40 crunch 0.50 thump 0.66 ring 0.77 dry 0.78 iso 1.00]  Action18.wav
+ 32  0.759  gap 157.8 ms  ring  804 Hz T60 0.21  [gap 0.87 pre 1.00 crunch 1.00 thump 1.00 ring 0.91 dry 1.00 iso 0.00]  sewing_machine.wav
+ 33  0.759  gap 148.1 ms  ring 1131 Hz T60 5.00  [gap 0.96 pre 1.00 crunch 0.67 thump 0.85 ring 0.39 dry 1.00 iso 0.94]  Piano - Dead Key - Double Long
+ 34  0.757  gap 159.4 ms  ring 1054 Hz T60 1.41  [gap 0.86 pre 0.40 crunch 0.75 thump 0.79 ring 0.51 dry 1.00 iso 1.00]  Action27.wav
+ 35  0.756  gap 139.9 ms  ring 1196 Hz T60 3.10  [gap 1.00 pre 0.00 crunch 0.67 thump 0.98 ring 0.44 dry 0.99 iso 1.00]  TheAccountant_Design_07.wav
+ 36  0.755  gap  93.5 ms  ring  516 Hz T60 0.93  [gap 0.55 pre 0.00 crunch 0.83 thump 0.89 ring 0.65 dry 1.00 iso 1.00]  Mechanical switch (latch) 03
+ 37  0.755  gap 107.6 ms  ring  517 Hz T60 1.25  [gap 0.76 pre 1.00 crunch 0.50 thump 1.00 ring 0.46 dry 1.00 iso 1.00]  Stereo wavetable reel for MakeNoise Morphagene
+ 38  0.754  gap 144.1 ms  ring 1093 Hz T60 0.50  [gap 0.98 pre 0.00 crunch 0.50 thump 0.94 ring 0.64 dry 0.60 iso 1.00]  FX_ALUMINUM_PLATE_SMALL_HITS.wav
+ 39  0.754  gap 119.8 ms  ring  614 Hz T60 1.21  [gap 0.91 pre 0.00 crunch 1.00 thump 0.58 ring 0.52 dry 1.00 iso 1.00]  Action20.wav
+ 40  0.754  gap 162.5 ms  ring  747 Hz T60 1.37  [gap 0.82 pre 0.00 crunch 1.00 thump 0.83 ring 0.55 dry 0.38 iso 1.00]  Toaster Oven Door.wav
+
+Evidence per mechanism (search query):
+  retro button                     n=  71 best 0.828 median-top5 0.798  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  adding machine                   n=  71 best 0.844 median-top5 0.790  matches gap,crunch,thump,dry,iso  never -
+  key switch                       n=  43 best 0.835 median-top5 0.787  matches gap,crunch,thump,ring,dry,iso  never -
+  channel button                   n=  66 best 0.807 median-top5 0.783  matches gap,crunch,thump,ring,dry,iso  never -
+  toaster oven                     n=  15 best 0.782 median-top5 0.754  matches gap,crunch,thump,ring,dry,iso  never -
+  sewing machine                   n=  75 best 0.784 median-top5 0.751  matches gap,pre,crunch,thump,ring,dry  never -
+  old television                   n=  44 best 0.728 median-top5 0.722  matches gap,crunch,thump,ring,dry,iso  never -
+  fan button                       n=  28 best 0.778 median-top5 0.721  matches gap,pre,thump,ring,dry,iso  never -
+  piano key                        n=  52 best 0.759 median-top5 0.718  matches gap,crunch,thump,iso  never -
+  car radio                        n=  79 best 0.773 median-top5 0.715  matches gap,pre,crunch,thump,ring,dry  never -
+  tv channel                       n=  64 best 0.730 median-top5 0.715  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  interlock                        n=  80 best 0.728 median-top5 0.711  matches gap,pre,crunch,thump,ring,dry  never iso
+  latching switch                  n=  17 best 0.755 median-top5 0.708  matches thump,ring,dry,iso  never pre
+  fan speed                        n=  42 best 0.812 median-top5 0.691  matches gap,pre,crunch,thump,ring,dry  never -
+  dryer button                     n=   9 best 0.731 median-top5 0.689  matches gap,crunch,thump,dry,iso  never -
+  food mixer                       n=  23 best 0.711 median-top5 0.688  matches gap,pre,crunch,thump,ring,dry  never iso
+  washing machine                  n=  73 best 0.707 median-top5 0.683  matches gap,pre,crunch,thump,ring,dry  never iso
+  radio preset                     n=   1 best 0.673 median-top5 0.673  matches gap,pre,crunch,thump,dry  never iso
+  pedestal fan                     n=   2 best 0.728 median-top5 0.664  matches gap,thump,ring,dry  never -
+  fan switch                       n=  40 best 0.792 median-top5 0.659  matches gap,pre,crunch,thump,ring,dry  never -
+  transistor radio                 n=   2 best 0.655 median-top5 0.646  matches gap,pre,crunch,thump,ring,dry  never iso
+  blender button                   n=   6 best 0.797 median-top5 0.638  matches gap,pre,crunch,thump,ring,dry  never -
+  desk fan                         n=  21 best 0.682 median-top5 0.635  matches gap,pre,crunch,thump,dry  never iso
+  vacuum button                    n=   4 best 0.669 median-top5 0.623  matches gap,pre,thump,ring  never -
+  valve radio                      n=  15 best 0.666 median-top5 0.620  matches gap,pre,crunch,thump,ring,dry  never iso
+  preset button                    n=   5 best 0.844 median-top5 0.619  matches gap,crunch,thump,ring,dry  never -
+  mixer button                     n=   4 best 0.594 median-top5 0.568  matches gap,crunch,thump,ring,dry  never iso
+  heater switch                    n=   4 best 0.601 median-top5 0.567  matches gap,crunch,thump  never -
+A/B: results/mnc_wave5/ab/AB_steel1_adding-machine_241263.mp3
+A/B: results/mnc_wave5/ab/AB_steel2_preset-button_860967.mp3
+A/B: results/mnc_wave5/ab/AB_steel3_key-switch_548431.mp3
+A/B: results/mnc_wave5/ab/AB_steel4_adding-machine_450077.mp3
+A/B: results/mnc_wave5/ab/AB_steel5_retro-button_435299.mp3
+A/B: results/mnc_wave5/ab/AB_steel6_fan-speed_211099.mp3
+A/B: results/mnc_wave5/ab/AB_steel7_retro-button_435316.mp3
+A/B: results/mnc_wave5/ab/AB_steel8_channel-button_353503.mp3
+A/B: results/mnc_wave5/ab/AB_steel9_retro-button_435337.mp3
+A/B: results/mnc_wave5/ab/AB_steel10_blender-button_462280.mp3
+A/B: results/mnc_wave5/ab/AB_steel11_retro-button_435298.mp3
+A/B: results/mnc_wave5/ab/AB_steel12_fan-switch_654766.mp3
+A/B: results/mnc_wave5/ab/AB_steel13_adding-machine_450061.mp3
+A/B: results/mnc_wave5/ab/AB_steel14_retro-button_435319.mp3
+A/B: results/mnc_wave5/ab/AB_steel15_key-switch_118227.mp3
+A/B: results/mnc_wave5/ab/AB_steel16_key-switch_171654.mp3
+A/B: results/mnc_wave5/ab/AB_steel17_channel-button_482112.mp3
+A/B: results/mnc_wave5/ab/AB_steel18_sewing-machine_539907.mp3
+A/B: results/mnc_wave5/ab/AB_steel19_channel-button_653050.mp3
+A/B: results/mnc_wave5/ab/AB_steel20_toaster-oven_845787.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
