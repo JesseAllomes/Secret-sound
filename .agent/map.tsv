@@ -1,0 +1,106 @@
+# schema=2
+# root=/home/user/secret-sound
+# generated=2026-10-30T12:32:21+00:00
+# COVERAGE: partial
+# engine=python:ast; javascript:regex(partial); others=UNSUPPORTED
+analysis/bendigo/fable/a1.py	1793363244430916854:1106	OK			
+analysis/bendigo/fable/a2.py	1793363244432848642:1978	OK	band	25	26
+analysis/bendigo/fable/a3.py	1793363244434941294:1013	OK			
+analysis/bendigo/fable/a4.py	1793363244436876820:4917	OK	bp	4	5
+analysis/bendigo/fable/a4.py	1793363244436876820:4917	OK	envdb	6	7
+analysis/bendigo/fable/a4.py	1793363244436876820:4917	OK	spec	64	65
+analysis/bendigo/fable/a5.py	1793363244438663782:2109	OK	modspec	7	11
+analysis/bendigo/fable/a6.py	1793363244440826154:2041	OK			
+analysis/bendigo/fable/a7.py	1793363244442547496:2804	OK	modes	21	26
+analysis/bendigo/fable/a8.py	1793363244444245158:2021	OK			
+analysis/mnc/research/free_disk.py	1793363244398787167:1235	OK	ev	12	15
+analysis/mnc/research/free_disk2.py	1793363244399789605:1037	OK	lp	8	11
+analysis/mnc/research/free_disk2.py	1793363244399789605:1037	OK	fn	13	13
+analysis/mnc/research/plate_ratios.py	1793363244403789605:1248	OK	free_plate	3	27
+analysis/mnc/research/tensioned_disk.py	1793363244408737571:1805	OK	mul	6	6
+analysis/mnc/research/tensioned_disk.py	1793363244408737571:1805	OK	poly2	7	7
+analysis/mnc/research/tensioned_disk.py	1793363244408737571:1805	OK	build	8	15
+analysis/mnc/research/tensioned_disk.py	1793363244408737571:1805	OK	ev	21	25
+analysis/mnc/research/tensioned_disk.py	1793363244408737571:1805	OK	freqs	32	34
+analysis/mnc/research/tensioned_disk2.py	1793363244412489865:1900	OK	mul	6	6
+analysis/mnc/research/tensioned_disk2.py	1793363244412489865:1900	OK	poly2	7	7
+analysis/mnc/research/tensioned_disk2.py	1793363244412489865:1900	OK	build	8	17
+analysis/mnc/research/tensioned_disk2.py	1793363244412489865:1900	OK	ev	23	27
+analysis/mnc/research/tensioned_disk2.py	1793363244412489865:1900	OK	freqs	34	36
+bbc_pull.py	1793359932855592757:2808	OK	search	20	23
+bbc_pull.py	1793359932855592757:2808	OK	fetch	26	35
+bbc_pull.py	1793359932855592757:2808	OK	main	38	63
+extract_guesses.py	1793361896291772251:2118	OK			
+freesound_pull.py	1793350576994511639:7875	OK	key	43	44
+freesound_pull.py	1793350576994511639:7875	OK	api_slot	51	58
+freesound_pull.py	1793350576994511639:7875	OK	search	61	86
+freesound_pull.py	1793350576994511639:7875	OK	fetch	89	99
+freesound_pull.py	1793350576994511639:7875	OK	make_db	102	116
+freesound_pull.py	1793350576994511639:7875	OK	main	119	162
+harvest/mnc/build_package.py	1793363244224230654:2735	OK			
+harvest/mnc/extract_guesses.py	1793363244226434399:2118	OK			
+harvest/mnc/find_plays.py	1793363244221923650:1485	OK	load	15	18
+harvest/mnc/find_plays.py	1793363244221923650:1485	OK	band	21	23
+harvest/mnc/find_plays.py	1793363244221923650:1485	OK	find	26	36
+harvest/mnc/harvest.py	1793363244219549506:2750	OK			
+pull_queries.py	1793361110539662762:2565	OK	main	19	55
+res_score.py	1793356297084887913:17814	OK	family	75	80
+res_score.py	1793356297084887913:17814	OK	bp	83	85
+res_score.py	1793356297084887913:17814	OK	rms_db	88	89
+res_score.py	1793356297084887913:17814	OK	narrow_db	92	98
+res_score.py	1793356297084887913:17814	OK	stroke_tone	101	144
+res_score.py	1793356297084887913:17814	OK	score_signal	147	189
+res_score.py	1793356297084887913:17814	OK	score_file	192	200
+res_score.py	1793356297084887913:17814	OK	score_folder	203	208
+res_score.py	1793356297084887913:17814	OK	family_report	211	224
+res_score.py	1793356297084887913:17814	OK	write_ab	227	262
+res_score.py	1793356297084887913:17814	OK	pick_diverse	265	274
+res_score.py	1793356297084887913:17814	OK	main	277	345
+sfx_match.py	1793350787643888300:4567	OK	load_clue	25	32
+sfx_match.py	1793350787643888300:4567	OK	events	35	52
+sfx_match.py	1793350787643888300:4567	OK	mel_env	55	58
+sfx_match.py	1793350787643888300:4567	OK	Clap	61	72
+sfx_match.py	1793350787643888300:4567	OK	Clap.__init__	62	64
+sfx_match.py	1793350787643888300:4567	OK	Clap.embed	66	72
+sfx_match.py	1793350787643888300:4567	OK	main	75	114
+sound_id.py	1793350576996529858:3689	OK	load	24	31
+sound_id.py	1793350576996529858:3689	OK	ast_tags	34	41
+sound_id.py	1793350576996529858:3689	OK	clap_rank	44	58
+sound_id.py	1793350576996529858:3689	OK	main	61	79
+steel_score.py	1793353504371387693:17198	OK	smooth	47	51
+steel_score.py	1793353504371387693:17198	OK	band_env	54	56
+steel_score.py	1793353504371387693:17198	OK	db	59	60
+steel_score.py	1793353504371387693:17198	OK	strokes	63	88
+steel_score.py	1793353504371387693:17198	OK	ring_stats	91	126
+steel_score.py	1793353504371387693:17198	OK	mode_level	129	138
+steel_score.py	1793353504371387693:17198	OK	thump_score	141	154
+steel_score.py	1793353504371387693:17198	OK	decay_time	157	167
+steel_score.py	1793353504371387693:17198	OK	isolation	170	186
+steel_score.py	1793353504371387693:17198	OK	score_pair	189	221
+steel_score.py	1793353504371387693:17198	OK	score_signal	224	241
+steel_score.py	1793353504371387693:17198	OK	score_file	244	252
+steel_score.py	1793353504371387693:17198	OK	score_folder	255	260
+steel_score.py	1793353504371387693:17198	OK	mechanism_report	263	277
+steel_score.py	1793353504371387693:17198	OK	write_ab	280	316
+steel_score.py	1793353504371387693:17198	OK	main	319	383
+tests/test_steel_score.py	1793350674099881551:3015	OK	click	14	16
+tests/test_steel_score.py	1793350674099881551:3015	OK	add	19	21
+tests/test_steel_score.py	1793350674099881551:3015	OK	thump	24	26
+tests/test_steel_score.py	1793350674099881551:3015	OK	ring	29	31
+tests/test_steel_score.py	1793350674099881551:3015	OK	clue_like	34	46
+tests/test_steel_score.py	1793350674099881551:3015	OK	decoy_single	49	52
+tests/test_steel_score.py	1793350674099881551:3015	OK	decoy_pop	55	62
+tests/test_steel_score.py	1793350674099881551:3015	OK	test_clue_like_scores_high_with_measured_gap	65	72
+tests/test_steel_score.py	1793350674099881551:3015	OK	test_timing_tolerance	75	78
+tests/test_steel_score.py	1793350674099881551:3015	OK	test_decoys_score_lower	81	85
+tests/test_steel_score.py	1793350674099881551:3015	OK	test_mechanism_report_groups_by_query	88	92
+tools/scratch/env.py	1793363244383478962:677	OK			
+tools/scratch/look.py	1793363244385277755:519	OK			
+tools/scratch/pull_steel.py	1793363244387117952:1720	OK			
+tools/scratch/res_measure.py	1793363244388911606:3155	OK	bp	10	12
+tools/scratch/res_measure.py	1793363244388911606:3155	OK	rms_db	15	16
+tools/scratch/res_measure.py	1793363244388911606:3155	OK	stroke_measures	19	55
+tools/scratch/res_measure.py	1793363244388911606:3155	OK	measure	58	60
+tools/scratch/score2.py	1793363244390751656:686	OK	seg	4	5
+tools/scratch/score2.py	1793363244390751656:686	OK	show	6	9
+tools/sync_scratch.sh	1793363241311789421:1714	UNSUPPORTED			

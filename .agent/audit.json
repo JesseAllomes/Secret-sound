@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "root": "/home/user/secret-sound",
+  "head": "472b6cd9e9189a706c7a4df0f630a7853a8be9c9",
+  "dirty_fingerprint": "b9a8816e585d5eaae36410a797c929afa619999265d5b3e4b5cebab270c98a51",
+  "dirty_files": 0,
+  "verify_config_fingerprint": "00ce9ee58ad8770625f9898500af160bb6ba911f48358a89368194ce77da1176",
+  "verify_block_fingerprint": "absent",
+  "verify_entries": 0,
+  "config_files": [],
+  "generated": "2026-10-30T12:32:21+00:00",
+  "scan": {
+    "files": 32,
+    "lines": 2181,
+    "depth2": [
+      {
+        "path": "(root)",
+        "files": 8,
+        "lines": 1274
+      },
+      {
+        "path": "analysis/bendigo",
+        "files": 8,
+        "lines": 274
+      },
+      {
+        "path": "harvest/mnc",
+        "files": 4,
+        "lines": 201
+      },
+      {
+        "path": "analysis/mnc",
+        "files": 5,
+        "lines": 161
+      },
+      {
+        "path": "tools/scratch",
+        "files": 5,
+        "lines": 149
+      },
+      {
+        "path": "tests",
+        "files": 1,
+        "lines": 92
+      },
+      {
+        "path": "tools",
+        "files": 1,
+        "lines": 30
+      }
+    ],
+    "skipped_links": []
+  },
+  "stack": [
+    "python(requirements: 7 direct dep(s))"
+  ],
+  "languages": [
+    "python(inferred: 31/31 indexed file(s))"
+  ],
+  "dead_code_candidates": [],
+  "gate3_required": true
+}
