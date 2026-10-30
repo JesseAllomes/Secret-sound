@@ -1,0 +1,64 @@
+
+35 files with a stroke pair. Top 40 by score:
+  1  0.830  gap 155.7 ms  ring  663 Hz T60 0.68  [gap 0.90 pre 0.40 crunch 1.00 thump 0.56 ring 0.77 dry 1.00 iso 1.00]  vcr_switch.wav
+  2  0.790  gap 146.9 ms  ring  550 Hz T60 0.67  [gap 0.97 pre 0.00 crunch 0.75 thump 0.97 ring 0.59 dry 0.96 iso 0.96]  pop in / pop out
+  3  0.782  gap 159.4 ms  ring  652 Hz T60 0.49  [gap 0.85 pre 0.00 crunch 0.58 thump 0.92 ring 0.77 dry 0.70 iso 1.00]  custom_lever_pulling_sounds_02182026
+  4  0.770  gap 119.6 ms  ring  740 Hz T60 0.72  [gap 0.91 pre 0.00 crunch 1.00 thump 0.87 ring 0.63 dry 0.80 iso 0.77]  GameBoy cartridge being inserted.wav
+  5  0.753  gap 158.7 ms  ring  697 Hz T60 0.58  [gap 0.86 pre 0.00 crunch 0.50 thump 0.84 ring 0.71 dry 0.91 iso 1.00]  broken-door-bell.flac
+  6  0.742  gap 144.5 ms  ring  947 Hz T60 0.94  [gap 0.98 pre 0.00 crunch 0.67 thump 0.83 ring 0.50 dry 0.90 iso 1.00]  Kettle Button Pressing
+  7  0.736  gap 125.5 ms  ring  579 Hz T60 1.62  [gap 0.96 pre 0.00 crunch 0.83 thump 0.89 ring 0.49 dry 0.58 iso 0.90]  Toaster Pop.wav
+  8  0.721  gap 147.1 ms  ring  665 Hz T60 1.49  [gap 0.97 pre 1.00 crunch 0.83 thump 0.83 ring 0.54 dry 0.74 iso 0.51]  Plastic pop
+  9  0.714  gap 136.8 ms  ring  687 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.50 thump 0.73 ring 0.52 dry 1.00 iso 1.00]  inserting an SD card into dslr camera
+ 10  0.702  gap 133.3 ms  ring  720 Hz T60 0.29  [gap 1.00 pre 0.40 crunch 0.75 thump 1.00 ring 0.88 dry 1.00 iso 0.00]  Car Door Alarm
+ 11  0.685  gap 152.5 ms  ring  702 Hz T60 1.59  [gap 0.93 pre 1.00 crunch 0.50 thump 0.48 ring 0.58 dry 0.33 iso 0.93]  battery compartment spring 01.wav
+ 12  0.680  gap 118.8 ms  ring  856 Hz T60 0.80  [gap 0.90 pre 0.40 crunch 1.00 thump 0.74 ring 0.86 dry 1.00 iso 0.00]  awfulTHEsample_haribo5-2.wav
+ 13  0.663  gap  90.5 ms  ring  745 Hz T60 1.02  [gap 0.51 pre 0.00 crunch 0.50 thump 0.41 ring 0.80 dry 1.00 iso 1.00]  Calculator_Insert_Batteries_01.wav
+ 14  0.659  gap 212.4 ms  ring  722 Hz T60 0.11  [gap 0.17 pre 0.00 crunch 0.50 thump 0.68 ring 0.83 dry 1.00 iso 1.00]  The headlamp is blaring like a siren
+ 15  0.652  gap 103.9 ms  ring  575 Hz T60 1.95  [gap 0.71 pre 0.00 crunch 0.50 thump 0.83 ring 0.38 dry 1.00 iso 1.00]  Click_Button_BatteryRechargerFlashlight.wav
+ 16  0.651  gap 135.8 ms  ring  551 Hz T60 0.00  [gap 1.00 pre 0.00 crunch 0.50 thump 0.44 ring 0.44 dry 1.00 iso 1.00]  CLICK.wav
+ 17  0.650  gap  64.1 ms  ring  838 Hz T60 1.25  [gap 0.19 pre 0.00 crunch 1.00 thump 0.52 ring 0.58 dry 1.00 iso 1.00]  sd card sounds.mp3
+ 18  0.650  gap 154.6 ms  ring  614 Hz T60 0.12  [gap 0.91 pre 1.00 crunch 1.00 thump 0.93 ring 0.50 dry 1.00 iso 0.00]  WTF.flac
+ 19  0.648  gap 250.4 ms  ring  692 Hz T60 0.73  [gap 0.02 pre 0.40 crunch 0.50 thump 0.69 ring 0.79 dry 1.00 iso 1.00]  Calculator_Insert_Batteries_02.wav
+ 20  0.640  gap 163.4 ms  ring  577 Hz T60 0.38  [gap 0.80 pre 1.00 crunch 0.50 thump 0.87 ring 0.86 dry 1.00 iso 0.00]  Coagula Science! 6 - Charging Bubbles
+ 21  0.623  gap 122.4 ms  ring  721 Hz T60 0.20  [gap 0.94 pre 0.00 crunch 1.00 thump 1.00 ring 0.53 dry 1.00 iso 0.00]  inserting and removing an 8-track tape from a portable player
+ 22  0.620  gap 125.5 ms  ring  565 Hz T60 0.37  [gap 0.96 pre 1.00 crunch 1.00 thump 0.85 ring 0.39 dry 1.00 iso 0.00]  Flashlight battery compartment unscrew
+ 23  0.615  gap 110.0 ms  ring  836 Hz T60 0.47  [gap 0.80 pre 1.00 crunch 0.50 thump 0.88 ring 0.95 dry 0.00 iso 0.00]  Battery Powered Drill2.wav
+ 24  0.614  gap 104.1 ms  ring  575 Hz T60 0.60  [gap 0.71 pre 0.00 crunch 0.50 thump 0.50 ring 0.61 dry 0.10 iso 1.00]  20180307_Springs in a battery compartment.wav
+ 25  0.607  gap 130.9 ms  ring  682 Hz T60 5.00  [gap 0.99 pre 0.00 crunch 0.67 thump 0.89 ring 0.49 dry 1.00 iso 0.26]  Cartridge
+ 26  0.600  gap 149.2 ms  ring  966 Hz T60 1.51  [gap 0.95 pre 1.00 crunch 0.67 thump 0.79 ring 0.64 dry 0.58 iso 0.00]  Xbox One S Controller Battery Cover Manipulation 03
+ 27  0.598  gap 136.9 ms  ring  768 Hz T60 5.00  [gap 1.00 pre 1.00 crunch 0.50 thump 1.00 ring 0.49 dry 1.00 iso 0.00]  Colorino Battery out in AM Radio.wav
+ 28  0.597  gap 128.6 ms  ring  636 Hz T60 2.44  [gap 0.98 pre 0.00 crunch 0.83 thump 0.85 ring 0.59 dry 1.00 iso 0.00]  Camera SD Card and Battery Inserting and Removing
+ 29  0.595  gap 112.8 ms  ring  643 Hz T60 0.17  [gap 0.83 pre 1.00 crunch 0.50 thump 0.88 ring 0.66 dry 1.00 iso 0.00]  Anticipation with Plastic Warping
+ 30  0.557  gap 106.1 ms  ring 1061 Hz T60 0.63  [gap 0.74 pre 0.40 crunch 1.00 thump 0.69 ring 0.53 dry 0.82 iso 0.00]  opening and closing remote control battery cover.wav
+ 31  0.541  gap 103.4 ms  ring  932 Hz T60 1.15  [gap 0.70 pre 0.00 crunch 0.50 thump 0.69 ring 0.54 dry 1.00 iso 0.36]  Xbox One S Controller Battery Cover Manipulation 01
+ 32  0.527  gap 225.5 ms  ring  594 Hz T60 5.00  [gap 0.09 pre 0.00 crunch 0.50 thump 0.50 ring 0.61 dry 1.00 iso 0.81]  Inserting and Ejecting Nintendo DS Cartridge
+ 33  0.523  gap 116.0 ms  ring  676 Hz T60 1.79  [gap 0.87 pre 1.00 crunch 0.50 thump 0.84 ring 0.57 dry 0.00 iso 0.00]  battery compartment spring 02.wav
+ 34  0.469  gap 196.5 ms  ring  785 Hz T60 5.00  [gap 0.33 pre 0.00 crunch 0.50 thump 0.78 ring 0.67 dry 0.73 iso 0.11]  RKeaton_EMF366_14_Putting Batteries in a Flashlight.aif
+ 35  0.444  gap  85.6 ms  ring  929 Hz T60 1.88  [gap 0.44 pre 0.00 crunch 0.50 thump 0.52 ring 0.70 dry 1.00 iso 0.00]  Pushing Large Stones Down Shoreline on Stony Beach 2.wav
+
+Evidence per mechanism (search query):
+  push down click                  n=   5 best 0.830 median-top5 0.742  matches gap,crunch,thump,ring,dry,iso  never pre
+  press down lever                 n=   1 best 0.736 median-top5 0.736  matches gap,crunch,thump,iso  never pre
+  battery door                     n=   6 best 0.753 median-top5 0.702  matches gap,crunch,thump,ring,dry  never -
+  inserting batteries              n=   6 best 0.680 median-top5 0.659  matches crunch,thump,ring,dry,iso  never -
+  SD card insert                   n=   3 best 0.714 median-top5 0.650  matches gap,crunch,thump,dry,iso  never -
+  cartridge insert                 n=   5 best 0.790 median-top5 0.623  matches gap,crunch,thump,dry  never pre
+  battery compartment              n=   5 best 0.685 median-top5 0.614  matches gap,pre,crunch,thump  never -
+  battery insert                   n=   3 best 0.640 median-top5 0.600  matches gap,pre,thump,ring,dry  never iso
+  battery cover close              n=   1 best 0.557 median-top5 0.557  matches gap,crunch,thump,dry  never iso
+A/B: results/mnc_battery_push/ab/AB_steel1_push-down-click_364202.mp3
+A/B: results/mnc_battery_push/ab/AB_steel2_cartridge-insert_218938.mp3
+A/B: results/mnc_battery_push/ab/AB_steel3_push-down-click_845787.mp3
+A/B: results/mnc_battery_push/ab/AB_steel4_cartridge-insert_366719.mp3
+A/B: results/mnc_battery_push/ab/AB_steel5_battery-door_332858.mp3
+A/B: results/mnc_battery_push/ab/AB_steel6_push-down-click_840877.mp3
+A/B: results/mnc_battery_push/ab/AB_steel7_press-down-lever_178416.mp3
+A/B: results/mnc_battery_push/ab/AB_steel8_battery-door_686163.mp3
+A/B: results/mnc_battery_push/ab/AB_steel9_sd-card-insert_593283.mp3
+A/B: results/mnc_battery_push/ab/AB_steel10_battery-door_733505.mp3
+A/B: results/mnc_battery_push/ab/AB_steel11_battery-compartment_472478.mp3
+A/B: results/mnc_battery_push/ab/AB_steel12_inserting-batteries_19466.mp3
+A/B: results/mnc_battery_push/ab/AB_steel13_inserting-batteries_506532.mp3
+A/B: results/mnc_battery_push/ab/AB_steel14_inserting-batteries_835659.mp3
+A/B: results/mnc_battery_push/ab/AB_steel15_battery-door_617587.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
