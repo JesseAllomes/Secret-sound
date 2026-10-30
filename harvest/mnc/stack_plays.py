@@ -47,7 +47,28 @@ def align(x, ev, lo):
     return float(r[k]), lo + k
 
 
+def saved_plays(rec, clue, ev, ev_a):
+    """The episode's plays from plays/*.flac (already aligned), or None if any is missing (then re-download)."""
+    tag = f"{rec['n']:03d}_{rec['date'][5:16].replace(' ', '-')}"
+    files = [HERE / "plays" / f"{tag}_{p['t']:.2f}.flac" for p in rec["plays"]]
+    segs = [HERE / "segments" / f"{tag}_{int(w['t0'])}.mp3" for w in rec["windows"]]
+    if not all(f.exists() for f in files + segs):
+        return None
+    out = []
+    for p, f in zip(rec["plays"], files):
+        seg, _ = sf.read(f)
+        r, _ = align(seg, ev, int((PRE - SEARCH) * SR) + ev_a)
+        body = seg[int(PRE * SR):int(PRE * SR) + len(clue)]
+        g = float(body @ clue) / float(clue @ clue)
+        out.append({"date": rec["date"][5:16], "t": p["t"], "fit": round(abs(r), 3), "gain": round(g, 3),
+                    "seg": seg / g if abs(g) > 1e-6 else seg})
+    return out
+
+
 def episode_plays(rec, clue, ev, ev_a):
+    saved = saved_plays(rec, clue, ev, ev_a)
+    if saved is not None:
+        return rec, saved
     out = []
     with tempfile.TemporaryDirectory() as td:
         mp3 = Path(td) / "ep.mp3"

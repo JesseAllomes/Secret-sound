@@ -45,5 +45,5 @@ head = ("# Mid North Coast Secret Sound: evidence from the Sarge for Breakfast p
 (OUT / "mnc_evidence.md").write_text(head + "\n".join(parts))
 for f in ("clue_orig.wav",):
     shutil.copy(HERE / f, OUT / "clue_original.wav")
-shutil.copy(HERE.parent / "aud" / "clue_v6b.wav", OUT / "clue_clean_v6b.wav")
+shutil.copy(HERE.parents[1] / "clues" / "mnc" / "clue_stacked.wav", OUT / "clue_stacked.wav")
 print(OUT / "mnc_evidence.md", len(parts), "segments,", (OUT / "mnc_evidence.md").stat().st_size // 1024, "KB")

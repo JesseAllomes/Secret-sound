@@ -1,0 +1,59 @@
+BEST BITS: Dream Of Me
+Mon, 18 May 2026 22:51:58 +0000
+plays: [{'t': np.float64(462.49), 'ncc': 0.899}, {'t': np.float64(467.19), 'ncc': 0.908}]
+
+[  387.5] plus every dollar raised to help support local businesses.
+[  391.5] We love that.
+[  392.5] So if you reckon your golf game is good enough to avoid embarrassing your workmates
+[  396.5] or not, get a team together and hit the fairways
+[  400.5] Thursday afternoon in Warhope.
+[  402.5] There you go.
+[  403.5] That's the Locals Guide.
+[  404.5] Top three things going on in our backyard and beyond when it comes to events.
+[  407.5] And it's brought to you by Macquarie Signs Group,
+[  410.5] Port's largest local sign business.
+[  415.9] It's the early bird edition of The Secret Sound.
+[  418.9] Mm-hmm.
+[  419.9] Thanks to 40 Winks Port Macquarie.
+[  421.9] Come in and see the team at Port Home Zone.
+[  423.9] 40 Winks.
+[  424.9] Serious about sleep.
+[  425.9] And this is the thing, right?
+[  427.9] On Tuesday mornings at 10 past 8,
+[  430.9] we always catch up with Port Macquarie Hastings Council Mayor Adam Roberts.
+[  433.9] Everyone thinks that's the main event.
+[  435.9] The main event is when we catch up with the unofficial mayor of Bowerville,
+[  440.9] Brad, who's on the phone line right now.
+[  442.9] Good morning.
+[  443.9] Good morning, Sarge. How are you today, mate?
+[  445.9] You know, the differences between you and the Port Macquarie Hastings Council Mayor
+[  448.9] is that he doesn't ring up for The Secret Sound and you do.
+[  451.9] We should have a crack at it.
+[  453.9] Men of the people.
+[  454.9] Quickly, let's just do The Secret Sound stuff
+[  456.9] and then I need to talk some very official business with you.
+[  458.9] So I'll give you a hundred bucks if you can tell me what this sound is.
+[  462.9] What do you think?
+[  463.9] Can you just do it once more for me, please?
+[  465.9] Sure.
+[  466.9] Oh, wow.
+[  469.6] Mm-hmm.
+[  470.6] That could be one of a million things, Sarge.
+[  472.6] Yeah.
+[  474.6] That's obviously a metal flap of some kind coming down.
+[  477.6] I'm just going to work out on what piece of me is swinging.
+[  481.6] A metal flap coming down. Do you want to lock that in?
+[  484.6] Yeah, why not?
+[  485.6] Some kind of metal flap coming down, locking something in there.
+[  487.6] I can't think of what it would be at the moment.
+[  489.6] Mm-hmm.
+[  490.6] Yeah, we'd have to be a bit more specific.
+[  492.6] That's okay, Brad.
+[  493.6] That's all right.
+[  494.6] I'm fine with that.
+[  495.6] Now, the exciting thing is this Friday,
+[  499.6] you and your band, loosely assembled, are coming in to do Free Gig Friday,
+[  503.6] which I'm absolutely pumped for.
+[  505.6] Are the band keen as well?
+[  507.6] Absolutely, mate. They've been keen.
+[  509.6] One of them just got back from Perth yesterday and he said...

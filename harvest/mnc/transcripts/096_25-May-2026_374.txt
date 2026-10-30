@@ -1,0 +1,47 @@
+BEST BITS: Sowie & Sarge In Short Shorts
+Mon, 25 May 2026 23:03:27 +0000
+plays: [{'t': np.float64(449.85), 'ncc': 0.917}, {'t': np.float64(452.37), 'ncc': 0.888}, {'t': np.float64(463.39), 'ncc': 0.869}]
+
+[  374.9] It's a great chance to meet new people, roll some dice and get competitive over a few classic
+[  380.1] games.
+[  381.1] There you go.
+[  382.1] It's a bit of fun, isn't it?
+[  383.1] The locals got top three things going on in our backyard and beyond when it comes to events.
+[  386.1] Irene Cara this morning for your greatest hits.
+[  389.0] It is Triple M, Mid-North Coast.
+[  391.0] Sarge here for breakfast.
+[  392.3] We're live on your radio and the listener app.
+[  394.8] Happy Tuesday.
+[  395.8] 18 degrees at Lower Papumbara, heading for 23 there today.
+[  400.7] Plenty of showers about.
+[  402.0] You can get involved with your show anytime you want by calling 13353.
+[  406.3] You can also text 0468040MM on the text line.
+[  413.2] We did just get something from the great Waza.
+[  416.2] And he said, good morning Sarge.
+[  419.2] Better get out the welcome wagon and start that party.
+[  423.0] I'm coming home to the Mid-North Coast.
+[  424.7] He and his family have been living in Sydney for a while now.
+[  427.8] He does a lot of work in this area and he's coming home.
+[  431.0] How good is that?
+[  432.0] I'll have to play his favourite song, Shepherd Coming Home, very soon.
+[  437.1] In fact, he might call up right now.
+[  438.9] We can have a chat to him for the secret sound.
+[  441.1] One triple three five three is a number.
+[  442.6] If you'd like $225 right now, call and simply identify what this sound is.
+[  451.2] What do you think?
+[  453.5] Have a crack.
+[  454.5] It's pretty, it's a pretty good deal.
+[  456.7] Thanks for having a crack at figuring out what this, not even one second sound is.
+[  463.3] If you write $225 straight into your pocket this Tuesday morning, we'll do it next.
+[  468.5] Thanks to 40 Winks Port Macquarie.
+[  473.6] It's the early bird edition of The Secret Sound.
+[  477.5] Thanks to 40 Winks Port Macquarie.
+[  479.5] Come in and see the team at Port Home Zone.
+[  481.6] 40 Winks, serious about sleep.
+[  483.9] Aunty Julia, good morning.
+[  486.6] Good morning, Sir.
+[  488.5] I feel like we just need to explain to maybe new listeners that you aren't actually my
+[  493.4] aunty.
+[  494.4] Well, I'm old enough to be a grandmother, actually.
+[  498.8] No, you don't sound a day over, I'm going to say 25 judging by your voice.
+[  507.3] I'd love to be 25.

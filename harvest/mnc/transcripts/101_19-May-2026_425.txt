@@ -1,0 +1,49 @@
+BEST BITS: Welcome Back Mr. Producer!
+Tue, 19 May 2026 22:52:32 +0000
+plays: [{'t': np.float64(500.2), 'ncc': 0.892}, {'t': np.float64(516.92), 'ncc': 0.909}]
+
+[  425.2] 40 Winks Port Macquarie. Come in and see the team at Port Home Zone.
+[  429.0] 40 Winks. Serious about sleep.
+[  431.2] Hey, hello mate.
+[  439.3] Morning Sarge, how we doing?
+[  441.1] You are finally back for the secret sound.
+[  443.7] I am, I'm out of secret sound jail.
+[  445.7] You've been counting down the days.
+[  448.9] I'm out mate, yeah, three months has already gone quick.
+[  452.1] Hey, you know what, it has gone quick because it feels like yesterday you won the thing.
+[  455.1] You know what I mean?
+[  456.3] It does, it does, yeah.
+[  457.9] It's quite funny because the wife and I, when the new sound started last week,
+[  462.5] we looked at each other and we said,
+[  464.3] once it met someone says, it's a stapler.
+[  466.9] Oh, they always say stapler, they always say cracking a cold can of coke.
+[  473.9] And it gets to a point where if there's too many of those guesses, I do lose my mind.
+[  480.7] I was going to say Sarge was going to lose it.
+[  483.3] Yeah, yeah, which some people would love to see.
+[  486.1] But anyway, it's, I think we've only had six of those guesses so far.
+[  489.9] I think if you get to about the 20 mark, that's the point where I lose it.
+[  493.9] Start losing it, yes.
+[  495.5] Alright, well, it was a Wednesday.
+[  497.1] Let's just quickly have a listen to the brand new secret sound.
+[  500.7] What do you think for $125?
+[  503.7] Mate, I'm going along the same lines as a stapler,
+[  506.7] but I reckon it could be a staple remover.
+[  510.1] The one that does, yeah, the little claws that you put the staples out with.
+[  513.7] Yeah, we've got plenty of them in here in the office.
+[  515.5] Let's have a listen once again.
+[  517.5] Yeah, good guess, but not quite it was.
+[  520.3] Not quite, alright.
+[  521.5] Mate, you're on the roads right now.
+[  523.9] How's it all looking and how's everything going in your world?
+[  527.1] Mate, the roads look really good.
+[  529.3] Very dry at the moment, which is good.
+[  531.7] Coming through more land and John's River area.
+[  535.7] So yeah, traffic's fairly light.
+[  537.7] Mate, you have seen a bit of water over the road in the past week or so.
+[  541.7] Oh my goodness, the last few days, mate, it was shocker.
+[  544.9] Yeah, I traveled, I think, on Monday from Sydney all the way up the coast.
+[  550.9] I had rain all the way to Coffs and all the way back to Tung Curry on.
+[  555.1] Oh, it was terrible.
+[  556.3] Yeah, no, it is. It's not fun, is it?
+[  558.7] Well, you say good day to your better heart for me.
+[  561.3] Shazza!

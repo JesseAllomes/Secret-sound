@@ -2,9 +2,102 @@
 
 Every segment where the clue was played, oldest first. Times are relative to the first play in the segment (negative = before the sound). Transcribed automatically (faster-whisper small.en): names and some words may be misheard. 'Absolutely not!' is the show's catchphrase for a wrong answer (a promo voice, 'Promo Sally').
 
-Episodes with plays: 53, segments: 107. First episode with the sound: 26 Jul 2026; latest: 29 Oct 2026.
+Episodes with plays: 99, segments: 200. First episode with the sound: 13 May 2026; latest: 29 Oct 2026.
 
 ## Jackpot amounts said per segment
+- 13 May 2026: $25, $50,000
+- 13 May 2026: -
+- 15 May 2026: $50
+- 15 May 2026: $50, $75
+- 17 May 2026: -
+- 17 May 2026: $100, $75
+- 18 May 2026: -
+- 18 May 2026: $100, $1000, $125
+- 19 May 2026: $125
+- 19 May 2026: $125
+- 20 May 2026: -
+- 20 May 2026: -
+- 22 May 2026: -
+- 22 May 2026: $175, $200
+- 24 May 2026: $200
+- 24 May 2026: -
+- 24 May 2026: $225
+- 25 May 2026: $225
+- 25 May 2026: $225,
+- 25 May 2026: $225
+- 26 May 2026: $250
+- 26 May 2026: $250, $275
+- 27 May 2026: $275
+- 27 May 2026: $275
+- 28 May 2026: $200, $200,
+- 28 May 2026: $275
+- 31 May 2026: $325
+- 31 May 2026: $325
+- 01 Jun 2026: $350
+- 02 Jun 2026: $375
+- 02 Jun 2026: $375,
+- 03 Jun 2026: $400
+- 03 Jun 2026: $400, $425
+- 05 Jun 2026: $425
+- 05 Jun 2026: $425, $425,
+- 08 Jun 2026: $450
+- 08 Jun 2026: $450, $475
+- 09 Jun 2026: $475
+- 09 Jun 2026: $475,
+- 10 Jun 2026: $500, $500,
+- 10 Jun 2026: $500, $500,
+- 11 Jun 2026: $200, $525
+- 11 Jun 2026: $525
+- 14 Jun 2026: -
+- 14 Jun 2026: -
+- 15 Jun 2026: -
+- 15 Jun 2026: $575,
+- 16 Jun 2026: $600
+- 16 Jun 2026: $600,
+- 18 Jun 2026: $625
+- 18 Jun 2026: $625
+- 19 Jun 2026: -
+- 19 Jun 2026: -
+- 21 Jun 2026: -
+- 21 Jun 2026: $675
+- 22 Jun 2026: $700
+- 22 Jun 2026: $725
+- 23 Jun 2026: $725
+- 23 Jun 2026: $725, $750
+- 24 Jun 2026: $750
+- 24 Jun 2026: -
+- 26 Jun 2026: -
+- 26 Jun 2026: $775
+- 28 Jun 2026: $800,
+- 28 Jun 2026: $800, $825
+- 29 Jun 2026: -
+- 29 Jun 2026: $825,
+- 01 Jul 2026: -
+- 01 Jul 2026: $850, $875
+- 01 Jul 2026: -
+- 01 Jul 2026: $875
+- 02 Jul 2026: $900
+- 02 Jul 2026: $900, $925
+- 06 Jul 2026: $925
+- 06 Jul 2026: $925,, $950
+- 13 Jul 2026: $950
+- 13 Jul 2026: $950
+- 13 Jul 2026: -
+- 13 Jul 2026: $1,000
+- 14 Jul 2026: $1,000
+- 14 Jul 2026: $1000
+- 15 Jul 2026: -
+- 15 Jul 2026: $25
+- 16 Jul 2026: $1,050
+- 16 Jul 2026: $1,050,
+- 19 Jul 2026: $1075
+- 19 Jul 2026: $1,075
+- 20 Jul 2026: $1,100
+- 20 Jul 2026: $1,100, $1,125
+- 21 Jul 2026: $1,125, $1,125,, 1,333
+- 21 Jul 2026: -
+- 26 Jul 2026: $1,150
+- 26 Jul 2026: $1,150
 - 26 Jul 2026: -
 - 26 Jul 2026: -
 - 27 Jul 2026: -
@@ -114,6 +207,3579 @@ Episodes with plays: 53, segments: 107. First episode with the sound: 26 Jul 202
 - 29 Oct 2026: $2,800
 
 ## Segments
+
+### 13 May 2026 (segment at 492 s, 5 play(s))
+Amounts said: $25, $50,000
+
+```
+[ -43.9s] The cowabunga stuff. I don't know. I mean, I'm not a surfer but and he's a farmer
+[ -39.6s] And it was just the two worlds colliding. It was good stuff
+[ -35.3s] Look, you've heard of the $50,000 Narrow pit workday
+[ -33.0s] You've heard of you know millions of dollars given away on other radio shows and stations and all that sort of stuff
+[ -27.6s] But have you ever won $25?
+[ -25.0s] $25 to think about all of the stuff you couldn't do
+[ -20.8s] To do with that catch we've got the all-new secret sound
+[ -16.5s] So the one that was doing the rounds it went off that what 250 bucks yesterday to Michael. Congratulations
+[ -10.2s] That was peeling the film of a microwave meal. I thought that was tricky. Apparently not
+[  -4.5s] Here is the all-new secret sound. Are you ready?
+[  -0.6s] Let's go once more
+[  +8.3s] 1 triple 3 5 3 what do you think?
+[ +11.7s] That sound is
+[ +13.8s] If you're correct next I will give you
+[ +17.2s] $25
+[ +22.1s] I know
+[ +24.1s] Don't get too overwhelmed
+[ +25.7s] But if it doesn't go off today, it'll jackpot to uh 50 bucks tomorrow and so on and so forth
+[ +30.6s] That's how the secret sound rolls. Thanks to 40 weeks pop Macquarie. It's up next
+[ +37.6s] It's a great sound
+[ +41.4s] Thanks to 40 weeks port Macquarie come in and see the team at port home zone 40 wings
+[ +46.6s] Serious about sleep. Hey, good morning Ruby
+[ +49.9s] Hi long time no speak
+[ +53.0s] You're up nice and early
+[ +55.0s] Yeah
+[ +55.9s] Amazing. Hey, um, i'll give you 25 if you can correctly identify what this sound is
+[ +61.3s] Okay once more for good luck. What do you think rubes?
+[ +64.6s] A stapler. Oh ruby. No, it's not a stapler. Good try though. Thanks for having a crack
+[ +70.7s] Thank you. Have a good day. Bye. Bye. Uh, there you go. That's how the all new secret sound sounds
+[ +77.2s] Is
+[ +79.2s] 25 bucks back at 8 o'clock 1 triple 3 5 3 is a number to get involved there
+[ +82.3s] All right, let's roll on with the greatest hits on the mid-north coast
+[ +84.8s] Triple m it is sarge here for breakfast more on the other side of this happy thursday
+[ +90.9s] Nine minutes away from seven welcome to the six o'clock club. This is triple am in north coast sarge here for breakfast
+[ +97.8s] 15 degrees at logan's crossing heading for 21 there today some showers about you can get involved with your show
+[+103.7s] Anytime you want you can text 0 4 6 8 0 4 0 triple m or you can call
+```
+
+### 13 May 2026 (segment at 1263 s, 5 play(s))
+Amounts said: none
+
+```
+[ -41.3s] to present him the case that we really need some funding to assist us
+[ -38.1s] to develop Paul McQuarranxing as it continues to grow.
+[ -35.7s] OK.
+[ -34.8s] Well, looking forward to the announcement on Monday,
+[ -31.2s] we'll absolutely make sure we cover that.
+[ -28.2s] Local member for Paul McQuarranxing, Robert Dwyer,
+[ -25.2s] we'll catch up soon. Thank you so much.
+[ -22.9s] Thanks for your time, Sergeant, and have a great day at all, really.
+[ -20.8s] Shh! It's Triple M's secret sound.
+[ -18.4s] Hmm. Thanks to 40 Winks Paul McQuarranxing.
+[ -15.7s] So go in and see the team at Court Homeside.
+[ -13.5s] 40 Winks, serious about sleep.
+[ -11.4s] G'day there, William.
+[  -9.4s] Hello. How are you, mate?
+[  -7.5s] I'm all right. How are you? Yeah.
+[  -5.7s] Fantastic. Can't complain.
+[  -3.6s] Mate, we'll give you 25 bucks if you can correctly identify what this sound is.
+[  +0.8s] What do you think? I'll go once again for good luck.
+[  +5.1s] Uh... I don't know.
+[ +10.2s] Oh. OK. Are you going to lock in? I don't know.
+[ +14.7s] I'll pardon. Are you going to lock that in?
+[ +17.4s] Uh, yes. You don't want to have a stab at anything else?
+[ +21.0s] No. All right. Well, if you don't know, you don't know.
+[ +24.6s] Better luck next time. Yeah. Have a good one.
+[ +27.6s] See ya. I might go to Phil in Baker's Creek.
+[ +31.8s] Good morning, Phil. Yes.
+[ +34.0s] And I tell you what, Mr Sergeant. Yeah.
+[ +37.8s] The weather here at Baker's Creek this morning on the...
+[ +42.2s] Was it 14? Yeah.
+[ +44.3s] I think it's Thursday still. Mm-hmm.
+[ +47.0s] Beautiful blue skies. Oh. Lovely.
+[ +50.4s] We do not want your showers. You can keep them late.
+[ +53.6s] Yeah, that's right. Yeah. Enjoy your blue skies.
+[ +56.0s] Hey, Phil, quickly. What's that sound? What's that sound?
+[ +59.1s] I really think it might be. And I'll tell you what. Yeah.
+[ +64.3s] You know, when you go to the toilet, in the public toilet,
+[ +66.8s] say a little clicky thing on the door.
+[ +69.0s] Oh, the latch to lock yourself in.
+[ +71.2s] I think that makes a clicky...
+[ +72.7s] There's a lot of other people out. Here we go.
+[ +74.6s] Yeah, that's a good one. Not it, though, Phil. Phil.
+[ +77.6s] But anyway, why you're on the toilet,
+[ +81.3s] I rang you last Friday, I think it was last Friday,
+[ +84.9s] and I did a request on the song. Yes.
+[ +89.4s] That I didn't get a thing on there from your, you know, handmaidens.
+[ +95.2s] The After or Chicken Schnitty?
+[ +96.9s] Yeah, Phil.
+[ +99.4s] Mate, we're going to sort that out.
+[+101.3s] We'll sort that out off the air,
+[+103.2s] and every caller tomorrow gets two snitties
+```
+
+### 15 May 2026 (segment at 546 s, 2 play(s))
+Amounts said: $50
+
+```
+[ -41.0s] Bit of this, a bit of that and whatever nothing.
+[ -36.2s] What would you do with $50 these days Lorraine?
+[ -32.0s] Well, I could eat. Just go to dinner I think.
+[ -25.9s] My time, yeah it'd be nice.
+[ -24.0s] What kind of meal are you craving at the moment?
+[ -19.2s] Well a schnitty'd be nice.
+[ -17.3s] A schnitty, very true. Actually I forgot to let you know that so you're not going to get
+[ -12.0s] one schnitty today but you also get two.
+[  -7.4s] I recall the guess now, two schnitties, that's right.
+[  -3.2s] Okay let's get into this. All you got to do is tell me what this secret sound is.
+[  +0.8s] If you're right, I'll give you $50. What do you think Lorraine?
+[  +4.8s] Well, I'm glad that, I'm glad that this steeper thing got out of the 80s the other day,
+[  +8.8s] someone gets that but I think it now is putting a socket on the end of a ratchet.
+[ +14.7s] Putting a socket on the end of a ratchet?
+[ +17.2s] Yeah.
+[ +17.7s] Okay, let's have a listen again.
+[ +22.8s] No it's not.
+[ +24.4s] No.
+[ +24.8s] Nice try though, right?
+[ +27.6s] Hey, it's meant to be showering a lot today, tomorrow and Sunday.
+[ +37.7s] Lorraine-ing a lot.
+[ +38.7s] So when it's Lorraine-ing, we do this don't we?
+```
+
+### 15 May 2026 (segment at 1418 s, 2 play(s))
+Amounts said: $50, $75
+
+```
+[ -44.7s] So Darren, you're in Port Macquarie and you're a concreter.
+[ -40.5s] No, I drive a concrete truck.
+[ -38.9s] Oh, righty-o.
+[ -37.2s] Work would be, pardon the pun, but drying up today, considering the rain, right?
+[ -31.6s] No, we were actually pouring today.
+[ -29.9s] We're doing a house slab and we're doing the exposed driveway.
+[ -25.7s] Does it matter if it rains?
+[ -22.9s] On the slab it might if it pours, but exposed driveways, they hose them off anyway.
+[ -17.9s] And it's not raining at the moment, have I?
+[ -16.0s] I'm with you.
+[ -15.4s] OK, mate, because you've called the show, you've already scored yourself two chicken schnitzels
+[  -9.5s] at the Settlers Inn Hotel for the 10th birthday.
+[  -7.7s] Congratulations.
+[  -6.3s] Thank you very much.
+[  -5.1s] Well, let's add to that $50 if you can correctly identify what this all new secret sound is.
+[  +0.6s] What do you think?
+[  +1.2s] I'll go once more for good luck.
+[  +2.7s] Oh, it sounds like opening a can of beer.
+[  +5.2s] Oh, Darren.
+[  +7.6s] No, would you believe it?
+[ +10.4s] The guess that we get all the time is not the secret sound.
+[ +14.1s] Darren, have a wonderful day.
+[ +15.3s] Enjoy your weekend.
+[ +16.1s] Enjoy the new schnitzes.
+[ +17.9s] I've come up with this invention of a butter chicken topper.
+[ +21.3s] Yeah, yeah, it sounds great.
+[ +22.7s] Darren, have a good weekend.
+[ +24.2s] Thank you. Bye bye.
+[ +25.3s] There you go.
+[ +25.7s] Secret sound.
+[ +26.7s] It is back on Monday, six thirty eight o'clock, one triple three five three to get involved.
+[ +32.0s] Now worth $75.
+```
+
+### 17 May 2026 (segment at 457 s, 3 play(s))
+Amounts said: none
+
+```
+[ -44.4s] Come in and see the team at Port Home Zone.
+[ -42.4s] 40 Winks, serious about sleep.
+[ -40.0s] Well we've got a man out on the roads right now, good morning.
+[ -35.6s] Good morning there, Sarge, how are you?
+[ -33.5s] Yeah, good, who have I got here?
+[ -31.6s] You've got John from Awesome Lake Caddi.
+[ -28.4s] John from Awesome Lake Caddi?
+[ -25.8s] Yes.
+[ -24.8s] Um, how did you spend your weekend in Lake Caddi, nice and wet?
+[ -20.1s] Yeah, indoors mate, indoors as well as everyone else I think.
+[ -16.5s] Yeah, did you watch movies or what do you do indoors?
+[ -12.2s] Yeah, a bit of domestic mate, you know.
+[ -10.0s] Yeah, get all those indoor jobs done that you don't want to get done.
+[  -6.6s] Um, alright mate, well let's give you 75 bucks, all you've got to do is tell me correctly
+[  -2.2s] what this all new secret sound is.
+[  +0.2s] I'll go once again, what are we thinking?
+[  +4.8s] Like a stapler.
+[  +6.8s] A stapler, do you want to lock that in as your final answer?
+[ +10.5s] When you push the stapler down, yeah why not?
+[ +12.5s] Uh huh.
+[ +13.5s] Is it a stapler?
+[ +14.5s] No, no it's not, sorry.
+[ +16.7s] Mate, have a wonderful day, stay safe on the roads.
+[ +19.2s] Thanks brother.
+[ +20.2s] Good on ya.
+[ +21.2s] Secret Sound, it is back at 8 o'clock, 1 triple 3 5 3 to get involved, we put all the incorrect
+[ +27.4s] guesses to, by the way, on the Sarge for Breakfast podcast at Listener.
+[ +31.9s] Alrighty, more to come on the other side of this at the Mid North Coast, it's Triple
+[ +35.2s] A massage here for breakfast, welcome to the 6 o'clock club, what happens in the club
+[ +39.2s] stays in the club.
+[ +40.2s] This life is more than just a read through.
+[ +42.2s] Chili Peppers this morning on Triple A, Mid North Coast, it is the Sarge for Breakfast
+```
+
+### 17 May 2026 (segment at 1330 s, 2 play(s))
+Amounts said: $100, $75
+
+```
+[ -38.0s] And how long were you down there in Sydney for, Cassie?
+[ -35.0s] Not that long, I was only there for a week and a half, two weeks. But after having your skull open, apparently your brain doesn't like air on it very much.
+[ -26.0s] So it's been the recovery where you can't handle noise or light. So you just got to stay locked up.
+[ -19.0s] Yeah, you've been resting and you're feeling good now, Cassie?
+[ -15.0s] I feel great. I'm just so blessed to be above the dirt and to be me.
+[ -11.0s] Good on you.
+[ -10.0s] I can talk, I can talk, everything's normal.
+[  -8.0s] How beautiful. Well, it is wonderful to hear your voice. I want to give you $75. All you got to do is tell me what this sound is. What do you think?
+[  +2.0s] I don't know. To me, it sounds like the old fashioned rubbish bin where you put your foot on the pedal and it opens and clumps back down again.
+[  +8.0s] Oh, yeah.
+[ +10.0s] No, it's not. But Cassie, I'll tell you what, I feel like I'm a winner because I'm hearing you talk to me on the radio again. Good to have your back. Good to know you're okay. And don't be a stranger. That was a long time.
+[ +23.0s] Well, I couldn't handle, watching TV, I had to read the subtitles, couldn't handle the noise.
+[ +28.0s] No.
+[ +30.0s] Your radio station doesn't have some type of sweet peep.
+[ +33.0s] Not yet. Not yet. Cassie, take care and we'll talk soon. Lovely.
+[ +39.0s] Have a brilliant day. Take care too. Bye bye.
+```
+
+### 18 May 2026 (segment at 462 s, 2 play(s))
+Amounts said: none
+
+```
+[ -43.6s] Mm-hmm.
+[ -42.6s] Thanks to 40 Winks Port Macquarie.
+[ -40.6s] Come in and see the team at Port Home Zone.
+[ -38.6s] 40 Winks.
+[ -37.6s] Serious about sleep.
+[ -36.6s] And this is the thing, right?
+[ -34.6s] On Tuesday mornings at 10 past 8,
+[ -31.6s] we always catch up with Port Macquarie Hastings Council Mayor Adam Roberts.
+[ -28.6s] Everyone thinks that's the main event.
+[ -26.6s] The main event is when we catch up with the unofficial mayor of Bowerville,
+[ -21.6s] Brad, who's on the phone line right now.
+[ -19.6s] Good morning.
+[ -18.6s] Good morning, Sarge. How are you today, mate?
+[ -16.6s] You know, the differences between you and the Port Macquarie Hastings Council Mayor
+[ -13.6s] is that he doesn't ring up for The Secret Sound and you do.
+[ -10.6s] We should have a crack at it.
+[  -8.6s] Men of the people.
+[  -7.6s] Quickly, let's just do The Secret Sound stuff
+[  -5.6s] and then I need to talk some very official business with you.
+[  -3.6s] So I'll give you a hundred bucks if you can tell me what this sound is.
+[  +0.4s] What do you think?
+[  +1.4s] Can you just do it once more for me, please?
+[  +3.4s] Sure.
+[  +4.4s] Oh, wow.
+[  +7.1s] Mm-hmm.
+[  +8.1s] That could be one of a million things, Sarge.
+[ +10.1s] Yeah.
+[ +12.1s] That's obviously a metal flap of some kind coming down.
+[ +15.1s] I'm just going to work out on what piece of me is swinging.
+[ +19.1s] A metal flap coming down. Do you want to lock that in?
+[ +22.1s] Yeah, why not?
+[ +23.1s] Some kind of metal flap coming down, locking something in there.
+[ +25.1s] I can't think of what it would be at the moment.
+[ +27.1s] Mm-hmm.
+[ +28.1s] Yeah, we'd have to be a bit more specific.
+[ +30.1s] That's okay, Brad.
+[ +31.1s] That's all right.
+[ +32.1s] I'm fine with that.
+[ +33.1s] Now, the exciting thing is this Friday,
+```
+
+### 18 May 2026 (segment at 1523 s, 3 play(s))
+Amounts said: $100, $1000, $125
+
+```
+[ -39.6s] the value of $1000.
+[ -36.5s] Plus we'll throw in some pizzas.
+[ -34.8s] That code again BLUE text BLUE to 0468 040 MMM.
+[ -28.2s] Now upgrade your origin nights with Harvey Norman Port Macquarie, your home of comfort,
+[ -22.5s] style and big screen moment.
+[ -20.4s] It's Triple M's secret sound.
+[ -17.0s] Next to 40 Winks Port Macquarie.
+[ -15.2s] So go in and see the team at court home zone.
+[ -13.2s] 40 Winks, serious about sleep.
+[ -10.3s] Good morning Tony, how you doing mate?
+[  -6.8s] Yeah, good mate, how are you?
+[  -4.7s] Yeah, very good, thank you.
+[  -3.7s] Alright, let's do this.
+[  -2.7s] I'll give you $100 if you can correctly identify what this sound is.
+[  +1.0s] I'll go once again for good luck.
+[  +2.5s] What are we thinking?
+[  +3.7s] Oh look, I'll have a, this is really just a stab in the dark.
+[  +9.0s] I'll say it's perhaps a boulder opening and closing or closing and opening.
+[ +14.0s] Those binder folders with the little metal bit in the middle.
+[ +17.0s] Yeah, yeah.
+[ +18.0s] Good guess.
+[ +19.0s] Not exactly though Tony.
+[ +21.0s] Hey mate, thank you so much for getting involved.
+[ +23.1s] You have a great rest of your Tuesday.
+[ +25.2s] Talk to you mate.
+[ +26.2s] Secret sound, it is back tomorrow morning up to 6.30pm on 1.333.5.3 worth $125.
+[ +33.0s] We put all the incorrect guesses on the Sarge for breakfast podcast at listener.
+[ +39.2s] Alrighty, Port Macquarie Hastings councilman Adam Roberts is in the studio next.
+[ +44.0s] Here at the M's.
+[ +45.0s] Stand by.
+[ +46.0s] Hoosier or hoisier, however you say it.
+```
+
+### 19 May 2026 (segment at 500 s, 2 play(s))
+Amounts said: $125
+
+```
+[ -43.9s] It does, it does, yeah.
+[ -42.3s] It's quite funny because the wife and I, when the new sound started last week,
+[ -37.7s] we looked at each other and we said,
+[ -35.9s] once it met someone says, it's a stapler.
+[ -33.3s] Oh, they always say stapler, they always say cracking a cold can of coke.
+[ -26.3s] And it gets to a point where if there's too many of those guesses, I do lose my mind.
+[ -19.5s] I was going to say Sarge was going to lose it.
+[ -16.9s] Yeah, yeah, which some people would love to see.
+[ -14.1s] But anyway, it's, I think we've only had six of those guesses so far.
+[ -10.3s] I think if you get to about the 20 mark, that's the point where I lose it.
+[  -6.3s] Start losing it, yes.
+[  -4.7s] Alright, well, it was a Wednesday.
+[  -3.1s] Let's just quickly have a listen to the brand new secret sound.
+[  +0.5s] What do you think for $125?
+[  +3.5s] Mate, I'm going along the same lines as a stapler,
+[  +6.5s] but I reckon it could be a staple remover.
+[  +9.9s] The one that does, yeah, the little claws that you put the staples out with.
+[ +13.5s] Yeah, we've got plenty of them in here in the office.
+[ +15.3s] Let's have a listen once again.
+[ +17.3s] Yeah, good guess, but not quite it was.
+[ +20.1s] Not quite, alright.
+[ +21.3s] Mate, you're on the roads right now.
+[ +23.7s] How's it all looking and how's everything going in your world?
+[ +26.9s] Mate, the roads look really good.
+[ +29.1s] Very dry at the moment, which is good.
+[ +31.5s] Coming through more land and John's River area.
+[ +35.5s] So yeah, traffic's fairly light.
+[ +37.5s] Mate, you have seen a bit of water over the road in the past week or so.
+[ +41.5s] Oh my goodness, the last few days, mate, it was shocker.
+[ +44.7s] Yeah, I traveled, I think, on Monday from Sydney all the way up the coast.
+```
+
+### 19 May 2026 (segment at 1490 s, 4 play(s))
+Amounts said: $125
+
+```
+[ -39.8s] Yes, I'm good size. Wonderful. All right Benno, let's give you a hundred and twenty five dollars. Are you still trying to get a new phone or?
+[ -31.8s] I've already got the new one. Oh, you got the phone in the end? Yeah, I got it in the end.
+[ -26.8s] Yeah. Is it living up to your expectations? Are you loving it? Sure is. I'm loving it. Can you take good photos on it?
+[ -20.2s] Yes, shall we do? iPhone?
+[ -17.2s] iPhone. Good man.
+[ -14.8s] Here we go. Well, what will you put $125 to now if you want it?
+[ -10.4s] I would save it for a rainy day or something like that. Yeah, it's a few rainy days. It's been a few rainy days, isn't it?
+[  -3.9s] It surely has. Nice to see the sunshine. Here we go.
+[  +0.5s] That is the all-new secret. So I'm gonna go once again for good luck Benno.
+[  +4.6s] I'll do it a third time because I like you. What do you think?
+[  +8.6s] I reckon it's um, punch in the hole or something and you know one of them um, drums.
+[ +13.1s] So there's a tin or maybe a can opener. Opening a can. All right.
+[ +20.9s] No Benno, sorry mate. Okay. Enjoy your Wednesday. Will do. What do you got planned today?
+[ +27.5s] Are you getting out in the sunshine or? Yeah, I'm getting out in the sunshine going for a bit of a fish this morning.
+[ +32.0s] Hopefully I catch something. Eeee. Well, happy fishing Benno. Yeah, thank you. See you mate. Secret sound.
+[ +38.0s] It is back tomorrow morning up to 6 30 and 8 o'clock on 1 triple 3 5 3 worth 150 dollars
+[ +44.8s] and we do put all of the incorrect guesses on the Sarge for Breakfast podcast at listener.
+```
+
+### 20 May 2026 (segment at 552 s, 1 play(s))
+Amounts said: none
+
+```
+[ -45.0s] I was wondering whether it was you.
+[ -43.6s] Anyway, I don't live in Taree.
+[ -41.7s] Keith, what else is on the cards today?
+[ -40.1s] What time do you wrap up your posty duties?
+[ -37.6s] About half past one.
+[ -36.1s] Yeah, sweet.
+[ -35.6s] And then what do you do in the arvo?
+[ -34.6s] What do you get up to?
+[ -33.1s] Not much.
+[ -32.0s] Go home, relax.
+[ -30.1s] I like that mate.
+[ -29.0s] Maybe spend 150 bucks on something.
+[ -26.8s] What would you do with that cash if you wanted?
+[ -24.5s] I probably stock up the bottle on my own.
+[ -22.8s] Okay.
+[ -22.1s] For one.
+[ -21.6s] Yeah.
+[ -20.6s] That's the way it sounds funny.
+[ -19.6s] Yeah, you know, it might take the misses out for dinner.
+[ -17.1s] Yeah.
+[ -16.5s] Well, if she's listening, you would probably swap those around.
+[ -13.1s] You'd do the misses for dinner first and then maybe the bottle.
+[ -10.1s] Well, it's a bit early for her to be listening, so I'm pretty safe.
+[  -6.1s] Hey, hey.
+[  -5.6s] What happens in the club stays in the club, eh Keith?
+[  -3.1s] That's right.
+[  -1.9s] Okay, here we go.
+[  -1.1s] Here's a secret sound.
+[  +0.9s] What do you think, mate?
+[  +2.2s] Is it a hole punch?
+[  +4.1s] No.
+[  +5.0s] It's not a hole punch.
+[  +5.9s] Sorry, mate.
+[  +7.1s] Oh, bummer.
+[  +7.9s] Yeah.
+[  +8.5s] Hey, you enjoy your day and we'll talk soon.
+[ +11.5s] Me too.
+[ +12.1s] Good on you, mate.
+[ +12.8s] There's Keith, the Tare, the Posty on Triple M, Mid-North Coast.
+[ +16.2s] It is the Sarge for Breakfast Show rolling on.
+[ +19.0s] But more after this, good morning.
+[ +20.9s] Eighteen minutes away from seven o'clock.
+[ +23.1s] This is the Mid-North Coast's Triple M Sarge here for breakfast.
+[ +27.2s] We are live on your radio and the listener app.
+```
+
+### 20 May 2026 (segment at 1886 s, 2 play(s))
+Amounts said: none
+
+```
+[ -43.3s] Hello, bud.
+[ -42.6s] That ain't very well, thank you.
+[ -40.7s] I really loved that email that you sent through
+[ -38.3s] with the caricatured sort of AI artwork of you.
+[ -34.1s] That wasn't bad, was it?
+[ -32.1s] How accurate is it?
+[ -31.1s] Is that pretty well what you look like?
+[ -28.4s] It is, actually, yeah.
+[ -27.3s] Ken, you're a good looking rooster.
+[ -24.4s] I know, mate, but I go for the sharks, not the roosters.
+[ -19.5s] Oh, good stuff.
+[ -18.6s] Who were they taking on?
+[ -17.8s] I'll just have that buy this week.
+[ -16.5s] I think we got Maroon.
+[ -15.6s] You got a buy this week.
+[ -14.9s] That's right.
+[ -14.5s] There's a stack in the buy this week.
+[ -12.9s] Yeah, well, Maroon, he'll be on literally in a few minutes,
+[  -9.9s] giving us his tips.
+[  -7.3s] Mate, let's do this 150 bucks.
+[  -5.0s] I'll give it to you if you can correctly identify
+[  -2.7s] what this all new secret sound is.
+[  +0.4s] What are we thinking?
+[  +2.5s] Is it opening or closing a microwave door?
+[  +7.9s] No.
+[  +9.1s] It's not, Ken.
+[  +9.7s] Good guess, though.
+[ +10.5s] Thanks for trying.
+[ +12.1s] That's all right, mate.
+[ +12.9s] Busy day today.
+[ +14.1s] Where are you working?
+[ +15.1s] Whereabouts in the world are you today?
+[ +17.4s] Back down in Lauryton, it's been really quiet with all the rain.
+[ +20.2s] A lot of jobs cancelled, so it's good to get back out here again.
+[ +23.1s] Yeah, I was going to say, there's a bit of sunshine.
+[ +26.2s] A bit of talk about some showers over the next couple of days,
+[ +30.4s] but I mean, is that all good for your world?
+[ +33.3s] It's not torrential, is it?
+[ +36.3s] No, not like it has been.
+```
+
+### 22 May 2026 (segment at 1617 s, 1 play(s))
+Amounts said: none
+
+```
+[ -42.2s] mate they are all yours you can go and do some birthday celebrations there with your uh with your
+[ -38.0s] 17 year old hey? Well ironically we were already down there already booked in. There you go a little
+[ -31.3s] good a little birthday present on uh on the settlers in hey and make sure you let them know
+[ -26.3s] because they're very good there they they do special treatment for special occasions like that
+[ -21.2s] tell them Sarge said that. Yeah I know Matty and I've been there for a fair while as well so
+[ -15.9s] I've been going there for about 30 years. Get Zoe or Courtney to sing happy birthday or something
+[ -11.0s] you know? Oh she'd love that not. Yeah here we go mate let's add 175 bucks to this uh
+[  -3.4s] load of presents you've already got right now all you got to do Chris is tell me
+[  +0.4s] what that sound is what are we thinking this morning? I've really got no idea but I'm gonna
+[  +5.4s] go with a hole punch. A hole punch Chris that is not the secret sound but uh
+[ +13.7s] you're not walking away empty-handed though okay? Nah thanks I appreciate that thanks that.
+[ +18.0s] Have a good one there yeah okay secret sound it is back at eight o'clock at one triple three
+[ +22.0s] five three worth 175 dollars and a reminder we put the incorrect guesses on the Sarge
+[ +27.6s] for breakfast podcast listeners go and check that out to get closer to the cash. Let's do a
+```
+
+### 22 May 2026 (segment at 2556 s, 2 play(s))
+Amounts said: $175, $200
+
+```
+[ -40.0s] They've just released that Kylie Minogue documentary.
+[ -36.0s] Yeah, I might have to give it a crack.
+[ -34.0s] I think that'd be alright. She speaks, I think in episode one it's kind of around that relationship of her and Michael Hutchins.
+[ -26.0s] Oh, okay, yeah, I didn't even know they really had a relationship, yeah. I'm a bit young for that stuff, but I do know a bit about her.
+[ -18.0s] Do you mind me asking how old you are Chloe?
+[ -16.0s] Oh, well I'm 26. I mean, I feel young still.
+[ -14.0s] Chloe, yeah, I mean, I'm 25, so I probably shouldn't know anything about it.
+[  -9.0s] No, I'm older.
+[  -8.0s] Anyway, anyway, it is what it is. $175 Chloe. We'll give that to you if you can correctly identify what this sound is.
+[  -0.0s] What are you thinking?
+[  +2.0s] Oh, um, that like the like the trolley things when you put the coin, like you know those things that...
+[ +12.9s] Oh yeah, the Audi coin?
+[ +14.9s] Yeah, like those things. I don't know what they're called, but like the trolley things. Yeah, I'm just going to go with that.
+[ +18.9s] Yeah, let's go again.
+[ +21.9s] No, Chloe, that's not it, but you don't walk away empty handed. You've scored yourself not one, but two chicken schnitzels.
+[ +29.9s] Oh, awesome, okay.
+[ +32.9s] Lizzie and hotel, so go and enjoy that Chloe. Have a wonderful Friday.
+[ +36.9s] Thanks, you too.
+[ +37.9s] Bye-bye.
+[ +38.9s] Secret Sound, it is back on Monday after 6.30 and 8 o'clock on 1.333, now worth $200.
+[ +46.9s] And a reminder, the incorrect guesses so far go on the Sarge for Breakfast podcast at listener.
+```
+
+### 24 May 2026 (segment at 609 s, 2 play(s))
+Amounts said: $200
+
+```
+[ -42.0s] nearly two years ago
+[ -39.0s] Hmm that two-year show anniversary is coming up very soon
+[ -32.6s] And I'm just you know putting it out there. I don't need a big fanfare
+[ -29.1s] I don't need hundreds of calls from people anyone at work listing. I don't need a cake
+[ -23.3s] Or streamers or stuff like that. You know me. I'm pretty low-key. I don't like to get out and about
+[ -16.4s] you
+[ -15.0s] Watch it not happen now, and then I'll be disappointed anyway
+[ -11.1s] One triple three five three is my number call right now and
+[  -6.8s] You could score yourself $200. Yeah, all you got to do is correctly identify what this sound is
+[  +0.7s] Once again for good luck
+[  +3.5s] It's the secret sound all thanks to 40 winks of Port Macquarie just around the corner from your local news sport and weather
+[ +10.4s] Plus a beach and surf update from Hutto this Monday morning
+[ +18.0s] Good morning, it is 637
+[ +22.5s] 20 degrees at the hatch
+[ +24.7s] Heading for 23 there today a shower or two is
+[ +28.8s] Predicted and right now we are playing the secret sound we just had
+```
+
+### 24 May 2026 (segment at 835 s, 2 play(s))
+Amounts said: none
+
+```
+[ -41.8s] Yeah. Well, so is mine. Whenever we have outside broadcasts and I see the roadies packing up, they say to me, Sarge, you don't have to pack up. You're, they call me the talent. They say you can go home. But I said, there's no way.
+[ -27.1s] It's a couple of teardrop flags and a couple of speakers. It's been good, good exercise for me.
+[ -19.9s] No, that's right.
+[ -19.2s] Gosh, no.
+[ -17.6s] But I don't ask for me about sound, asking me about sounds like, like asking a bloody truck driver about brain surgery.
+[ -10.0s] Well, speaking of sound, it doesn't sound too promising. But anyway, let's give it a crack. What do you think of the all new secret sound is Brad? There it is. I'll go once again. I'll give you 200 bucks if you're right.
+[  +0.8s] Is it inside the house or is it anywhere around the house?
+[  +4.1s] I'm not going to disclose that information just yet.
+[  +7.4s] No way. So I'm going to have a crack and say a letterbox flat.
+[ +14.7s] No, it's not, Brad. But I'll tell you what, mate, I actually was scrolling the socials over the weekend and I saw, you know, Foley artists, the people who record the.
+[ +24.5s] Yeah.
+[ +25.4s] I saw a Foley artist online recording that exact sound you described the flap of the letterbox, but that is not this secret sound. Brad from Bowera, mate, we did it. We bloody did it.
+[ +37.2s] Thank you so much, mate. You're a legend, Sarge. Absolutely. And again, thanks for all the effort and time you put into supporting local music and local people and that, mate, you do a wonderful job.
+```
+
+### 24 May 2026 (segment at 1776 s, 2 play(s))
+Amounts said: $225
+
+```
+[ -42.4s] Thanks to 40 Winx Port Macquarie.
+[ -40.4s] So come in and see the team at Court Home Zone.
+[ -38.4s] 40 Winx serious about sleep.
+[ -35.4s] Oh happy Monday Kayla.
+[ -32.4s] Hi how you going?
+[ -31.2s] I'm very well thank you.
+[ -29.8s] What's been going on?
+[ -28.8s] How's the weekend?
+[ -27.0s] Yeah good good.
+[ -25.5s] Just on the way to drop the kids to school.
+[ -22.4s] I've actually got my son in the car with me.
+[ -18.8s] His name is Cooper.
+[ -16.4s] Oh hang on Cooper who won the last secret sound.
+[ -13.2s] No no this is a different Cooper.
+[ -10.8s] Oh okay.
+[  -9.8s] My son is very eager to have a guest.
+[  -5.8s] Oh yes go for it Cooper good morning mate.
+[  -1.8s] What do you think this secret sound is?
+[  +3.2s] Probably like opening like the pet shawl.
+[ +10.2s] Oh they're the cat.
+[ +11.6s] I think it's opening it or closing it.
+[ +14.6s] Yeah I think it's both.
+[ +16.6s] Alright.
+[ +18.6s] Hey thanks for guessing both of you.
+[ +20.6s] That's not the secret sound but nice try.
+[ +24.6s] Good job mate.
+[ +25.6s] Yeah have a great day at school okay.
+[ +27.6s] Thank you.
+[ +29.6s] See you lovely meeting you both.
+[ +30.6s] Have a wonderful day.
+[ +31.6s] Bye bye.
+[ +32.6s] See ya.
+[ +33.6s] Secret sound it is back tomorrow morning after 6.30 and 8 o'clock and 1.35.3 now worth $225.
+[ +40.6s] Every single incorrect guest we've ever had for this all new secret sound right there at the podcast.
+[ +46.6s] Listen to Sarge for breakfast.
+```
+
+### 25 May 2026 (segment at 449 s, 3 play(s))
+Amounts said: $225
+
+```
+[ -43.6s] You can also text 0468040MM on the text line.
+[ -36.7s] We did just get something from the great Waza.
+[ -33.7s] And he said, good morning Sarge.
+[ -30.7s] Better get out the welcome wagon and start that party.
+[ -26.9s] I'm coming home to the Mid-North Coast.
+[ -25.2s] He and his family have been living in Sydney for a while now.
+[ -22.1s] He does a lot of work in this area and he's coming home.
+[ -18.9s] How good is that?
+[ -17.9s] I'll have to play his favourite song, Shepherd Coming Home, very soon.
+[ -12.8s] In fact, he might call up right now.
+[ -11.0s] We can have a chat to him for the secret sound.
+[  -8.8s] One triple three five three is a number.
+[  -7.2s] If you'd like $225 right now, call and simply identify what this sound is.
+[  +1.3s] What do you think?
+[  +3.6s] Have a crack.
+[  +4.6s] It's pretty, it's a pretty good deal.
+[  +6.8s] Thanks for having a crack at figuring out what this, not even one second sound is.
+[ +13.4s] If you write $225 straight into your pocket this Tuesday morning, we'll do it next.
+[ +18.6s] Thanks to 40 Winks Port Macquarie.
+[ +23.8s] It's the early bird edition of The Secret Sound.
+[ +27.6s] Thanks to 40 Winks Port Macquarie.
+[ +29.6s] Come in and see the team at Port Home Zone.
+[ +31.8s] 40 Winks, serious about sleep.
+[ +34.0s] Aunty Julia, good morning.
+[ +36.8s] Good morning, Sir.
+[ +38.6s] I feel like we just need to explain to maybe new listeners that you aren't actually my
+```
+
+### 25 May 2026 (segment at 626 s, 1 play(s))
+Amounts said: $225,
+
+```
+[ -44.2s] Alright. Well I'll get an addition. What were you in there for?
+[ -40.6s] Uh, because of the charity work I do with Food Connect.
+[ -37.4s] Of course. That makes total sense.
+[ -33.7s] Well, you know, um, the faith you and I need to catch up and have scone because she found some really good scone recipes.
+[ -25.8s] Oh, okay. Cool.
+[ -24.6s] And did you hear the news that Waza, good friend of the show and Six O'Clock Club, is moving to the Mid-North Coast.
+[ -17.5s] Maybe you should organise some sort of, I don't know, morning tea or something.
+[ -13.6s] Oh, absolutely. I think we should do a Six O'Clock Club breakfast club.
+[  -8.3s] Certainly.
+[  -7.5s] Yeah. That'd be good.
+[  -5.9s] Alright, here we go. I'll give you $225, Aunty Julia. If you correctly identify what this sound is, what are we thinking?
+[  +2.6s] Um, are you using a pair of nail clippers to cut a toenail?
+[  +8.8s] No.
+[ +10.3s] I am not, but that'd be a great secret sound for Down the Track. You gave me a good idea there.
+[ +16.4s] Have a wonderful Tuesday, Aunty Julia.
+[ +18.9s] Okay, you too. Thanks a lot. Bye.
+[ +20.4s] Talk to you. Bye.
+[ +21.4s] Secret sound back at 8 o'clock. 1, triple 3, 5, 3 is the number to get involved there.
+[ +25.2s] We put all the incorrect guesses too, by the way, on the Sarge for Breakfast podcast at listener.
+```
+
+### 25 May 2026 (segment at 1754 s, 2 play(s))
+Amounts said: $225
+
+```
+[ -43.0s] Thanks to 40 Winks Port Macquarie. So go in and see the team at Court Home Zone. 40 Winks,
+[ -38.2s] serious about sleep.
+[ -36.6s] Hey Rach, how is it out there on the roads at the moment? A little bit wet?
+[ -31.4s] A lot wet.
+[ -30.5s] Yeah, we're about to see you pulled over right now.
+[ -27.1s] Um, just along the highway heading north to Kempe, so.
+[ -23.7s] Yeah, gotcha. What's on in Kempe today Rach?
+[ -19.9s] Work.
+[ -17.9s] Nurse, yeah.
+[ -15.5s] Yeah, work. And um, yeah. Everybody's still in their last minute ditch for their bazos so
+[  -7.5s] nothing you've got to get them done.
+[  -5.4s] Um, alright, I'll give you $225 if you correctly identify what this sound is Rach.
+[  +0.3s] What do you think in this morning?
+[  +3.9s] I know you love your coffee.
+[  +5.5s] I love it too much, yeah.
+[  +7.8s] Yeah, and so it wouldn't happen to be opening a tin of coffee would it?
+[ +15.0s] Does sound a lot like it. Not it though, sorry Rach.
+[ +19.4s] You do, you gotta give it a go.
+[ +21.4s] You do? You gotta ban it to win it Rach. Have a wonderful day in Kempe.
+[ +25.6s] You too.
+[ +26.2s] Stay dry.
+[ +27.8s] You too.
+[ +28.4s] Yeah, thank you.
+[ +29.5s] Bye-bye.
+[ +30.2s] Secret sound back tomorrow morning.
+[ +31.7s] 6.30. 8 o'clock is when we play.
+[ +33.6s] 1.333 to get involved. The incorrect guesses for the all new secret sound all goes on the Sarge
+[ +39.4s] for Breakfast podcast at listener.
+[ +41.6s] Okey dokey, let's catch up and put Macquarie Hastings Councilman Adam Roberts next on the
+```
+
+### 26 May 2026 (segment at 622 s, 2 play(s))
+Amounts said: $250
+
+```
+[ -44.5s] Bring in it back into the shore. Yep, and all the young fish motors would go down there with it
+[ -37.6s] Put it in every refrigerator trucks and drive away. So I just wondering if it's done the same way as it was back then. Yeah
+[ -29.6s] It's a fabulous thing to watch actually fabulous. Yeah, well, I'll pass that on to him
+[ -24.9s] I'll ask him whether it is done in a similar way to as how you described it and if that's the case Lorraine
+[ -18.2s] Will you go and check it out?
+[ -15.4s] Well, I had to get the time of these days with me but um, I'd love to see it again here be good
+[  -7.0s] Okay, well I'll pass it on hey Lorraine, let's do this
+[  -4.1s] I'll give you $250 if you can correctly identify what this sound is. What do you think?
+[  +2.0s] Well, could you be just telling me?
+[  +4.5s] Love on a door locking it into the and the door jam rock, you know when you're doing a little knob on the door, yeah
+[ +14.3s] No
+[ +16.3s] Good on your Lorraine. Hey, have a wonderful Lorraine day
+[ +21.1s] Yes, everybody is well, thanks. Thanks
+[ +31.0s] There she is Lorraine
+[ +35.1s] On a Lorraine day
+[ +39.5s] It's also a was a Wednesday by the way and he gave me some very exciting news
+```
+
+### 26 May 2026 (segment at 1421 s, 2 play(s))
+Amounts said: $250, $275
+
+```
+[ -43.4s] right now? You sure have Cassie from Fredo on the phone line right now sweet pea.
+[ -38.9s] Oh incredible. Hey is it nice and wet on the farm? Oh mate don't talk about wet. The
+[ -31.8s] poor donkeys sink about 20 centimetres every time they take a step on the
+[ -27.8s] ground poor little darlings. Oh poor thing and you just got to wait for it to dry.
+[ -24.0s] There's nothing you can do is there? But they're pretty smart they stand in
+[ -20.4s] their house and wait for their Uber breakfast to be delivered. They move the dinner to be delivered and they don't move out of their house.
+[ -14.7s] They walk through the mud. I saw an ad that Uber is coming to the McClay Valley.
+[  -9.6s] That's awesome. Great here we go. $250 I'll give that to you if you can correctly identify what this sound is.
+[  +1.1s] I'll go again for good luck. What do we think in this morning?
+[  +3.9s] To me it's the old fashioned cassette recorder where you put the cassette and shut the door.
+[  +8.5s] Cassie Cassette is it? No sorry.
+[ +13.4s] That's okay I'll try again I've still got a couple more up my sleeve so we'll never know.
+[ +17.8s] Very good and nothing ventured nothing gained. Oh I like that I'll add that to the quotes book.
+[ +23.7s] We should have a sarge for breakfast quotes book. See ya Cassie have a good day stay dry.
+[ +29.5s] You too darling. Thank you. Thank you for me too bye bye.
+```
+
+### 27 May 2026 (segment at 458 s, 6 play(s))
+Amounts said: $275
+
+```
+[ -42.2s] time. Obviously live traffic for any of those closures of the roads. Light winds,
+[ -35.7s] daytime maximum temperatures. Yeah only between 15 and 22 today. This is
+[ -29.3s] Triple A Mid North Coast Sarge here for breakfast. Happy Thursday. My brother
+[ -24.0s] there, big red edge here and this morning on Triple A Mid North Coast.
+[ -20.1s] Coming up on the Sarge for Breakfast Show. Yeah nearly 6.30 so we'll get a hit of
+[ -12.2s] your local new sport and weather plus a beach and surf update from Huddo.
+[  -6.6s] 1-333-5-3 is my phone number. Okay call now and correctly identify what this
+[  -1.1s] sound is. If you're right we'll give you $275 once again. Just have a crack. I
+[  +7.9s] mean my best bit of advice in these early stages of the secret sound is
+[ +12.9s] whatever comes to your mind first, unless you say bloody stapler or hole
+[ +19.1s] punch, because that will infuriate me and some people like doing that. Test out when
+[ +26.4s] I'm gonna lose my throat. Breathe. New South Wales one. Life's good. It's just when you...
+[ +33.3s] I'll be around with you when you get stapler over and over or can of
+[ +37.8s] coke being opened. I mean really? It's kind of. I get that they all sound like
+[ +42.6s] that but it's not. I wouldn't be so silly to do that. $275 I'll give it to you.
+[ +49.8s] Hey are you a Queenslander listening right now? I need a win in your life. Call
+[ +55.3s] now. 1-333-5-3. What do you think this sound is? The secret sound would do it
+[ +59.0s] next. Well thanks to 40 Winks Port Macquarie. Good morning.
+[ +62.4s] Secret sound. Thanks to 40 Winks Port Macquarie. Come in and see the team at
+[ +73.2s] Port Home Zone. 40 Winks. Serious about sleep. Is that my good mate Brian on
+[ +77.6s] the phone line? Sure is Sarge. How are ya? Alright mate. That's the way. How's the game last
+[ +84.2s] night? Did you enjoy it? Oh mate wasn't too bad. I watched a little bit of it. I
+[ +88.6s] had no going to sleep. Mate that's totally fair. So it was 22 to the Blues.
+[ +94.9s] 20 to Queensland. I'll go to the Blueys. Go to the Blueys. Where's your state of
+[+100.7s] origin? Were you born in New South Wales Brian? I was born right here in Port
+[+105.4s] Macquarie. The best part of the world hey? Yep. Let's do this. Let's give you
+[+111.8s] 275 bucks. Let's make you even more of a winner. What do you think that sound is my
+[+117.3s] man? Well I reckon you're locking, you're putting your seatbelt, latching your
+[+121.7s] seatbelt in. Oh yeah latching the seatbelt. I do that every time I get in the car.
+[+125.5s] Yeah you better. And dry. I know. It's, I think it's even Road Safety
+[+132.3s] Awareness Week. A very good message there Brian. It's not the secret town sorry
+[+137.3s] mate. Oh bugger. Yeah. Oh I like to keep thinking then. You keep on trying good
+[+143.3s] man and hey it was good seeing you yesterday afternoon hey? Good to catch
+[+148.9s] up with you too mate. We'll have to get on the axe and play some tunes hey?
+[+153.5s] Yeah. Getting up a little jam. Had like a full-on music shop down there. It was
+[+157.8s] great. Yeah I wish I still had half of it. Some of me drum kit got burnt. Yeah. I lost
+[+164.6s] me drum kit, normie amp say. I actually. I've still got the axes. You've still got the
+```
+
+### 27 May 2026 (segment at 1594 s, 2 play(s))
+Amounts said: $275
+
+```
+[ -28.8s] Thanks to 40 Winks Port Macquarie.
+[ -26.9s] So go in and see the team at court home zone. 40 Winks. Serious about sleep.
+[ -22.2s] Good morning, Kyra Lee from Lauraton.
+[ -17.1s] Kyra Lee. Hello? What's that? Okay, we've lost Kyra Lee. We've got any backup? No?
+[  -7.0s] Classic. All right.
+[  -6.2s] 1-3-3-5-3. That is the phone number. Call right now. Tell me what this sound is.
+[  -0.3s] I go once again for good luck. If you're right, we'll give you $275.
+[  +9.7s] Had a great guest this morning from a mate, Brino. What did he say?
+[ +14.5s] Um, oh, the seat belt. Clicking that in. I can tell you that it is not that.
+[ +20.1s] Here we go. We've got some calls. Hello? Who's this?
+[ +24.1s] Hello?
+[ +24.9s] Hi, Sarge here, triple M.
+[ +27.0s] Sarge!
+[ +28.5s] Who is it?
+[ +29.7s] It's Jeff.
+[ +30.6s] Hey, Jeff.
+[ +32.1s] Jeff, have we met, mate?
+```
+
+### 28 May 2026 (segment at 1160 s, 4 play(s))
+Amounts said: $200, $200,
+
+```
+[ -41.1s] It's 6.28, happy Friday.
+[ -38.4s] It is the Sarge for Breakfast show, so good to have your company.
+[ -31.7s] We are 15 degrees right now at Mount Seaview heading for 21 there today.
+[ -26.7s] Showers about.
+[ -25.7s] Coming up on the Sarge for Breakfast show.
+[ -22.7s] Well let me tell you, more bangers like that, be your greatest hits.
+[ -14.4s] The local new sport and weather plus a beach and surf update from Huddo and then we'll
+[  -9.4s] play the secret sound, okay?
+[  -8.3s] I've got $200 to give away right now, so call 13353 and simply identify what this sound is.
+[  +0.8s] It's the secret sound all thanks to 40 Winks Port Macquarie, just around the corner, good
+[ +10.6s] luck.
+[ +11.6s] Secret sound.
+[ +12.6s] Mmm.
+[ +13.6s] Thanks to 40 Winks Port Macquarie, come in and see the team at Port Home Zone.
+[ +16.6s] 40 Winks, serious about sleep.
+[ +18.6s] Wossa, wossa, wossa, wossa, wossa, wossa, wossa, happy Friday.
+[ +21.6s] Wossa, happy Friday Sarge.
+[ +24.1s] What do you think this secret sound is my man?
+[ +26.6s] Mate, I was thinking about it now, my daughter's gone in on this one with me, so if we get anything,
+[ +32.6s] she's got to, we've got to split it with her.
+[ +34.6s] Of course, that's the logical thing to do, so here it is.
+[ +37.6s] Yeah.
+[ +38.6s] I'll go again.
+[ +39.6s] $200, I'll give it to you, you tell me what it is.
+[ +42.6s] We reckon it's pushing down a key on a mechanical keyboard for a computer.
+[ +49.6s] No, sorry Wossa.
+[ +51.6s] Not it.
+[ +52.6s] Mate, happy Friday though and guess what?
+[ +55.6s] Yes.
+[ +56.6s] One but two chicken schnitzels for schnitty Fridays, our last ever one, mate.
+[ +60.6s] Lovely, lovely, that would be great when we come back up very shortly, a couple of weeks or so.
+[ +65.6s] The amount of people who have said I cannot wait to meet Wossa,
+[ +68.6s] seen as though he's going to be living in the area, you've become quite the celebrity Wossa Wednesday.
+[ +73.6s] I hope so, mate, well this is good because that way we can get some live ones in the studio.
+[ +78.6s] That's right, oh, some live Wossa Wednesdays, look out world.
+[ +82.6s] Look out world.
+[ +83.6s] All microphones are going to cop it, aren't they?
+[ +86.6s] They will.
+[ +87.6s] Mate, I'm going to go to line two, have a wonderful day.
+[ +89.6s] Triple M hello, Jimbo, is it?
+[ +92.6s] Yeah, how you going, Tom?
+[ +93.6s] Yeah, very well, thank you, mate.
+[ +95.6s] You've scored yourself not one but two chicken schnitzels already this morning.
+[ +99.6s] Look at me go.
+[+100.6s] Out the settler's in the hotel.
+[+101.6s] How you doing?
+[+102.6s] Well done, mate.
+[+103.6s] Here we go, here's the secret sound too.
+[+105.6s] What do you think it is for $200?
+[+107.6s] Oh, mate, I reckon it might be just clicking the top of a pen.
+[+110.6s] Clicking the top of a pen.
+[+112.6s] No, it's not, Jimbo.
+[+113.6s] But, mate, you have a wonderful day.
+[+115.6s] Enjoy those schnitzes.
+[+116.6s] Right, thank you.
+[+117.6s] Stay on the line, we'll get those schnitzes too, yeah.
+[+120.6s] Secret Sound back at 8 o'clock, 1-3-3-5-3.
+[+124.6s] It's worth $200.
+[+125.6s] We put all the incorrect guesses so far too, by the way, on the Sarge for Breakfast podcast at least.
+[+130.6s] It is schnitty Friday, so if you'd like yourself a free chicken schnitzel, not one but two, call up now, 1-3-3-5-3 or text in 0468040M.
+[+141.6s] We'll do a schnitty-blitty next.
+```
+
+### 28 May 2026 (segment at 2103 s, 1 play(s))
+Amounts said: $275
+
+```
+[ -44.9s] How is it there this morning, Marjorie?
+[ -42.9s] Oh, seems a bit rough.
+[ -40.9s] Looks like it's getting rained down, but from the umbrella with me.
+[ -36.9s] Good on you.
+[ -35.9s] It's currently 16 in Port, 21 the top today, some showers about.
+[ -31.9s] Marjorie, what's on for the rest of your Friday?
+[ -28.9s] Oh, going to go to with a friend and then have a video and then chill out this afternoon.
+[ -19.9s] Good on you, Marjorie.
+[ -18.9s] Well, how about we add to that heading to the Settlers Inn Hotel for their 10th birthday?
+[ -14.9s] Two chicken schnitzels, all yours.
+[ -12.9s] Oh, awesome.
+[ -10.9s] That is wonderful.
+[  -9.9s] No worries.
+[  -8.9s] Let's also add $275 to the bank account if you can correctly identify what this sound is.
+[  +0.1s] Oh, please.
+[  +4.1s] That is beautifully said.
+[  +6.1s] I think it's closing a latch.
+[ +12.7s] Closing a latch.
+[ +13.7s] Marjorie, it's not.
+[ +15.7s] Sorry about that, but you have a wonderful Friday.
+[ +17.7s] Enjoy your schnitzels.
+[ +19.7s] Thank you so much.
+[ +20.7s] See you, lovely.
+[ +21.7s] Bye.
+[ +22.7s] The secret sound is back on Monday after 6.30 and 8 o'clock on 1, 333.53.
+[ +27.7s] All the incorrect guesses so far for it.
+[ +29.7s] Go on the Sarge for Breakfast podcast at Listener.
+```
+
+### 31 May 2026 (segment at 501 s, 4 play(s))
+Amounts said: $325
+
+```
+[ -42.7s] It's a brand new book.
+[ -40.7s] She's just acquired some really special kind of psychic, magicky...
+[ -35.8s] I was going to say spells, not spells, but just this ability to see the other side
+[ -27.8s] and cross to the other side.
+[ -26.6s] So I text her and said, hey, you're going to come on the show this week?
+[ -24.0s] And she said, absolutely.
+[ -22.8s] So we'll book that in for later on and how about we give away some of these books?
+[ -18.6s] I reckon we'll do like best go story on 1-333-53.
+[ -15.1s] Speaking of that number, 1-333-53, call now to score yourself $325.
+[  -6.4s] All right? With the secret sound.
+[  -4.4s] All you got to do is correctly identify what this sound is.
+[  +1.1s] OK, once again for good luck. We are early stages.
+[  +5.2s] If you guess what that sound is, right?
+[  +8.7s] We'll give you that $325.
+[ +11.9s] But if not, I've also got some consolation pricing this week for Tough Nutters
+[ +18.3s] at Westport Park, Port Macquarie from June 6 to 8.
+[ +23.1s] You can book today at toughnutters.com
+[ +25.6s] or you can get involved with the secret sound
+[ +28.0s] and potentially pick up that consolation.
+[ +31.5s] Tough Nutters Family Pass.
+[ +33.2s] Good luck. It's next, the secret sound.
+[ +38.1s] It's the early bird edition of the secret sound.
+[ +41.4s] Mm-hm.
+[ +42.4s] Thanks to 40 Winx Port Macquarie.
+[ +44.3s] Come in and see the team at Port Home Zone.
+[ +46.5s] 40 Winx, serious about sleep.
+[ +48.9s] Hey there, good morning, Auntie Julia.
+[ +51.1s] Good morning.
+[ +52.1s] How are you?
+[ +53.3s] I'm very well, thank you.
+[ +54.6s] Oh, that's the way. Did you have a nice weekend?
+[ +57.1s] I had a pleasant weekend, yes. Quiet.
+[ +60.4s] When did you get up to? Oh, just nice and quiet, yep.
+[ +63.4s] Just reorganising the house because I'm going away today.
+[ +67.1s] Today's the day, is it?
+[ +68.9s] Yes, I'm going down to the big smoke.
+[ +73.3s] Uh-huh, yes.
+[ +75.2s] My middle grandson is turning 21, so...
+[ +79.1s] 21. That is a very big, important birthday, isn't it?
+[ +84.1s] You're not wrong, and then he's chopping off overseas the week after.
+[ +88.2s] There will actually be 21 when he's overseas.
+[ +90.3s] So, for the 21st, is it going to be a big party
+[ +93.6s] with lots of friends and family?
+[ +95.0s] What's the feeling of this one?
+[ +97.3s] No, he doesn't like being the centre of attention,
+[ +99.8s] so that's really quiet, you know?
+[+101.5s] Lovely, I like that a lot.
+[+104.3s] I pretend I don't like to be centre of attention,
+[+107.3s] and then I get upset when people do low-key things for me.
+[+110.9s] But anyway, that's another story, Auntie Julia, for another day.
+[+114.5s] Auntie Julia, let's give you some cash.
+[+116.0s] We need a bit of extra cash when we go to the big smoke, don't we?
+[+118.6s] Oh, yeah, definitely.
+[+120.4s] Here we go, here is the secret sound.
+[+123.1s] What do you think it is?
+[+125.2s] Are you closing the glove box in your ute?
+[+127.5s] Have a listen again.
+[+129.3s] Closing the glove box in the ute.
+[+132.0s] Well, in my ute, it's just got a bit more of a boomy, a bassier sound,
+[+136.2s] so, no, that is not it. Sorry, Auntie Julia.
+[+138.9s] Hey, safe travels.
+[+140.2s] I look forward to hearing how it all goes.
+[+142.7s] OK, thanks a lot. Bye-bye.
+[+144.4s] Have a great week, bye-bye.
+[+145.8s] Secret sound, it is back at 8 o'clock on 1 triple 353, worth $325.
+[+152.3s] We put all of the incorrect guesses so far on the Sarge for Breakfast podcast listener.
+[+157.5s] Alrighty, let's do Locals Guide next.
+[+159.4s] Top three things going on in our backyard and beyond when it comes to events.
+```
+
+### 31 May 2026 (segment at 1694 s, 2 play(s))
+Amounts said: $325
+
+```
+[ -42.9s] Girl which was very good. I was gonna say it would have been sensational how good
+[ -38.8s] the music of The Seekers. Oh great I love it. Yeah you know my first ever
+[ -33.9s] celebrity interview that I did this is years and years and years ago was with
+[ -28.4s] Keith Potka from The Seekers. Oh okay. Yeah and he actually came along to the
+[ -22.1s] Georgia Girl production here in Port Macquarie about a week ago. Oh really?
+[ -17.1s] That would have been stressful for the guy playing Keith Potka to know that the
+[ -12.5s] actual Keith Potka is in the audience you know. It would have been yeah. No he did a
+[  -7.3s] very good job. Hey let's get you some money Faye I've got $325 up for grabs
+[  -2.7s] here. What do you think this sound is? Well I'm not sure but it sounds like
+[  +4.2s] when the kettle boils and the catch it turns off. Yeah so when it's
+[ +10.0s] finished boiling it then makes that little clicking sound like it's ready to
+[ +13.4s] go. Mmm. That's a good guess but naughty it. Sorry Faye. It's okay. You have a
+[ +20.3s] wonderful week and we'll catch up soon okay? You too Sarge. Thank you. Bye bye. Lovely hearing from you.
+[ +25.6s] Secret sound it is back tomorrow morning up to 6 30 and 8 o'clock on
+[ +30.1s] 1 triple 353. Okie dokie let's catch up with Benny Cardmore next from
+[ +35.2s] Self Seen and Unstoppable Community. We'll do our monthly mental health catch up.
+[ +39.6s] I'm gonna talk all things burnout on the end. Triple M in North Coast it is the
+```
+
+### 01 Jun 2026 (segment at 557 s, 5 play(s))
+Amounts said: $350
+
+```
+[ -42.7s] What's that saying? The apple doesn't fall far from the tree?
+[ -39.0s] Wow. But, guys, Sebastian, he actually is coming to Port Macquarie. I'm really excited about this.
+[ -34.1s] This was announced not that long ago, a few days ago, I think, in October the 14th and 15th.
+[ -27.2s] It'll be at the Glass House Theatre. I cannot wait for that.
+[ -23.4s] Coming up on the Sarge for Breakfast Show.
+[ -18.5s] Yeah, we'll get a hit of your local news sport and weather plus a beach and surf update from
+[ -13.8s] Huddo. Then we'll play the Secret Sound. I've got $350 to give away. All right, so if you want it,
+[  -6.4s] call up now, 1-333-and simply guess correctly what this sound is.
+[  +1.1s] Once again for good luck. The Secret Sound, all thanks to 40Wings Port Macquarie,
+[  +6.1s] it's just around the corner. 1-333-53.
+[  +9.7s] An edition of the Secret Sound. Thanks to 40Wings Port Macquarie,
+[ +18.7s] come in and see the team at Port Home Zone. 40Wings, serious about sleep.
+[ +23.0s] Oh, hello there, Leonie. How are you?
+[ +25.2s] Good, thanks.
+[ +26.3s] That's the way. Hey, you're on the road right now? You off to work?
+[ +29.5s] Yes, I am.
+[ +30.2s] What do you do?
+[ +31.8s] Look after children.
+[ +33.3s] Oh, fantastic. Thanks for doing that. Hey, 350 bucks would be a bit all right if you won that.
+[ +40.9s] That would be great actually, thank you.
+[ +42.5s] Yeah.
+[ +42.8s] All right, well, let's do it. Here is the Secret Sound, Leonie.
+[ +46.5s] I'm going to play it for you once more for good luck. What do you think it is?
+[ +51.7s] Putting a price tag on something.
+[ +54.4s] Putting a price tag on something, is it that? Sounds like it, but it's not. Sorry, Leonie.
+[ +60.3s] Have a good day.
+[ +61.6s] All right, see ya.
+[ +62.4s] Keep on trying. See ya. That's how the Secret Sound works and it's back at 8 o'clock on 1-333-53.
+[ +68.1s] By the way, we also put all of the incorrect guesses on the Sarge For Breakfast podcast at
+[ +72.9s] Listener Clues, if you will, to get you closer to the cash. Happy Tuesday.
+[ +77.2s] This is the Mid-North Coast, it's triple M. Sarge here for breakfast.
+[ +80.1s] More on the other side of there?
+[ +81.9s] The dancing shoes are getting a good workout this morning in Studio One here at Thrumster.
+[ +85.5s] It's triple M. Mid-North Coast Sarge here for breakfast. Welcome to the 6 o'clock club.
+```
+
+### 02 Jun 2026 (segment at 472 s, 3 play(s))
+Amounts said: $375
+
+```
+[ -41.7s] the top of the hill mate. We're halfway there. He's just the little nudge over the other side.
+[ -36.9s] That's it. Two down, two to go. Who doesn't mind a little hump in the middle, you know? That's it.
+[ -31.0s] Uh, was uh, I've got 375 dollars to give away here and just quickly how about the debacle with
+[ -23.8s] my mathematics last week. Oh, at least the wife was onto it mate. Sarge was onto it. Mate,
+[ -16.7s] we have to get her on the payroll. Producer Shaza, hey? I reckon, yeah, when we get up there you'll be
+[ -11.0s] right. Yeah. You'll be tapped on you. Absolutely, no issues with the jackpot. That's for sure.
+[  -5.2s] Uh, okay, so I'll give you 375 bucks mate. If you can correctly identify what this sound is,
+[  +0.6s] I'll go once more for the listeners. I know you've heard it a million times. What are you
+[  +4.4s] thinking was I? I'm wondering if it may be one of those little handheld counters where you're
+[ +10.5s] clicking it, counting people coming into like a gate entry to an event or something like that.
+[ +16.5s] Just clicking them over. Very good guess. Yeah, I know the one. That's not it. Sorry, was I?
+[ +23.3s] Nah, all right. I keep thinking. Enjoy your hump day, hey? No worries mate. We're getting
+[ +28.2s] closer. 37 days to go before we get the keys. 37 days. Okay, well, we'll make sure that we've
+[ +34.2s] got the big party ready by then, hey? We're getting there, yeah. So exciting mate. It'll be good to
+[ +40.0s] have you back on the Mid-North Coast. Hey, I'll talk to you soon. No worries. Was it Wednesday?
+[ +45.6s] What a man. Uh, this is the Mid-North Coast's Triple M Sarge here for breakfast. More on the
+```
+
+### 02 Jun 2026 (segment at 1472 s, 1 play(s))
+Amounts said: $375,
+
+```
+[ -42.5s] You're funny.
+[ -41.5s] I have blankets and a beanie and a hot water bottle, darling boy.
+[ -37.8s] Very good.
+[ -36.8s] Wait, are you saying it's probably not cold enough for the fire?
+[ -32.4s] I took them out central west, out past Orange.
+[ -29.6s] That's cold.
+[ -28.6s] Here it's a bit fresh.
+[ -27.6s] Cassie, do you want to know, I grew up in Bathurst.
+[ -23.7s] Well, you shouldn't, it's cold and all, you should just think this is a tad fresh.
+[ -19.1s] Cassie, it is, I think I've acclimatised way too quickly.
+[ -15.8s] I've only been here for two years.
+[ -14.1s] I'm used to Jack Frost on the ground every morning.
+[  -9.7s] Now that is cold.
+[  -8.7s] I lost my Bathurst in me.
+[  -6.8s] Anyway, Cassie, let's do this.
+[  -4.7s] $375, I'll give that cash to you right now if you can correctly identify what this sound
+[  -0.5s] is.
+[  +2.2s] The guess isn't mine.
+[  +3.2s] It's a friend who said to me, I reckon it's a screen door opening or closing a screen
+[  +7.8s] door.
+[  +8.8s] Oh, your friend's incorrect.
+[ +10.6s] Sorry, Cassie.
+[ +11.7s] Well, that's good old children, mate.
+[ +13.2s] Yeah, but you know what I'll do.
+[ +14.9s] I'll give you a Tough Nudders family pass at Westport Park, Port Macquarie.
+[ +19.4s] It's on June 6th to 8th.
+[ +20.7s] You can book at toughnudders.com or you can win right here on the Mid-North Coast's
+[ +24.8s] Triple M.
+[ +25.8s] Good on you, Cassie.
+[ +26.8s] Thank you for the call.
+[ +27.8s] Thank you, sweet pea.
+[ +28.8s] Have a lovely day.
+[ +29.8s] And the secret sound, it is back tomorrow morning after 6.30 and 8 o'clock on 1 triple
+```
+
+### 03 Jun 2026 (segment at 257 s, 1 play(s))
+Amounts said: $400
+
+```
+[ -43.4s] 40 Winks, serious about sleep.
+[ -41.3s] I believe we've got a Justin on the phone line right now.
+[ -39.0s] Good morning, mates.
+[ -37.5s] Talk to the morning to you.
+[ -35.8s] All right, what is on the cards for today, sir?
+[ -32.3s] Welcome, full of pleenom.
+[ -30.8s] What do you do?
+[ -29.1s] I work at Rees.
+[ -27.5s] Oh, right.
+[ -26.6s] Actually, we've spoken before about some plumbing.
+[ -23.3s] Well, yeah, definitely, mate.
+[ -21.4s] I remember those chats.
+[ -19.8s] Very good.
+[ -19.0s] Some very funny...
+[ -17.5s] Because when it comes to plumbing,
+[ -16.3s] there's so many different jokes you can do with it, can't you?
+[ -12.0s] There certainly is, mate.
+[ -10.5s] There were some good ones off the air.
+[  -9.0s] We'll just say that for now.
+[  -6.7s] We will, mate.
+[  -5.8s] Yeah, we will.
+[  -4.8s] And we'll give you $400 if you correctly identify what this sound is, Justin.
+[  +0.5s] Mate, what do you think?
+[  +2.3s] Changing the e-cartridge on the photocopier machine.
+[  +6.3s] Oh, that's a good guess.
+[  +7.8s] We haven't had that one before.
+[  +9.2s] No, that is not it.
+[ +11.0s] But, mate, how about I give you a family pass
+[ +13.6s] to Tough Nutters at Westport Park?
+[ +16.5s] Oh, I'm much appreciate it.
+[ +17.9s] No worries, legend.
+[ +18.9s] Hey, you have a wonderful day.
+[ +20.7s] Cheers, mate. You too. Love your work.
+[ +22.0s] Talked to you. Thanks, mate. Appreciate it.
+[ +24.0s] Secret sound is back at 8 o'clock on 1-333-53.
+[ +28.9s] Still worth $400.
+```
+
+### 03 Jun 2026 (segment at 915 s, 2 play(s))
+Amounts said: $400, $425
+
+```
+[ -44.4s] The event also helped raise money for people experiencing hardship during the Great Depression.
+[ -39.4s] There you go, now you know, that's on this day for the 4th of June. Get a donut in.
+[ -25.8s] Hey, very good morning to you William, how are you mate?
+[ -22.8s] I'm alright, how are you guys?
+[ -20.8s] Yes, going good, thank you sir. What's on the agenda for today? It's a nice...it looks like a nice day.
+[ -14.8s] Yeah, I'm just going to school today.
+[ -12.8s] Oh, that's right. What year are you in William?
+[  -9.8s] Year 10.
+[  -8.8s] Oh, good on you mate. That was a good year.
+[  -6.8s] Um, okay here we go, let's give you $400 then. What is this sound?
+[  +0.2s] Alright, it's a pen clicking.
+[  +5.4s] Pen clicking William.
+[  +7.4s] Doesn't sound like it, it's not the...sorry mate.
+[ +13.3s] That's right, have a good one guys.
+[ +15.3s] Yeah, you too legend, talk to you soon.
+[ +17.3s] Secret sound, it is back tomorrow morning after 6.30 and 8 o'clock on 1.333.53.
+[ +23.3s] Now worth $425 and yes, a reminder, we put all of the incorrect guesses for the secret sound on this Sarge for Breakfast Podcast at Listener to get you closer to the cash.
+[ +33.3s] Anthony Maroon from the Rush Hour and Triple M NRL is on the show next.
+[ +37.3s] We'll get his tipping technique for this weekend's round of the NRL.
+```
+
+### 05 Jun 2026 (segment at 1051 s, 2 play(s))
+Amounts said: $425
+
+```
+[ -44.9s] Working or walking, did you say?
+[ -42.9s] Working.
+[ -42.2s] Working.
+[ -41.5s] Remind me what you do again, Larry?
+[ -39.7s] I do door dash.
+[ -37.9s] That is incredible.
+[ -36.4s] That is incredible.
+[ -35.0s] Wow, what have you been dashing to people's doors this morning?
+[ -30.8s] Oh, it's been all McDonald's so far this morning.
+[ -26.0s] Wow, I love that.
+[ -24.2s] That's incredible.
+[ -22.8s] OK, well, gee, maybe you could door dash some stuff
+[ -19.6s] to the station, to the radio station one day.
+[ -17.0s] I go by there quite often.
+[ -15.7s] All right, OK.
+[ -14.5s] Well, I've got your number.
+[ -12.9s] You've got mine.
+[ -12.3s] We can hook something up.
+[ -10.9s] There we go.
+[ -10.2s] Well, mate, you know what would be a great perk?
+[  -6.1s] Be a good tip, $425 we've got here.
+[  -2.8s] Larry, all you've got to do is tell me
+[  -1.2s] what this secret sound is.
+[  +1.0s] And then I'll give it to you.
+[  +3.2s] Are you starting to open something with a can opener?
+[  +9.4s] No, sorry, Larry.
+[ +10.7s] Oh, well.
+[ +11.5s] Mate, have a wonderful Friday.
+[ +12.9s] Have you got a busy weekend door dashing as well,
+[ +15.3s] this long weekend?
+[ +16.7s] We're doing the art walk tonight.
+[ +19.3s] Oh, yeah.
+[ +20.4s] So me and the wife are going to go there.
+[ +22.2s] And then, yeah, Saturday, Sunday are busy days.
+[ +24.1s] So go to work.
+[ +25.4s] Good on you, Larry.
+[ +26.7s] You call the show anytime, mate.
+[ +28.7s] Oh, thank you.
+[ +29.4s] See you, legend.
+[ +30.0s] Bye bye.
+[ +30.9s] Secret sound.
+[ +31.8s] It is back at 8 o'clock, 1-333-53 worth $425.
+```
+
+### 05 Jun 2026 (segment at 1996 s, 3 play(s))
+Amounts said: $425, $425,
+
+```
+[ -44.2s] Oh well well well, if it isn't my dear friend,
+[ -41.0s] Rach, how are you?
+[ -39.0s] Sorry to hear so.
+[ -36.5s] I am going good, thank you, because you know what, Rach, I'm looking outside the
+[ -33.4s] studio window right now here at Trumpstar and that sun is so beautiful and
+[ -27.9s] shining and warm and lovely. Is it doing the same thing where you are
+[ -23.5s] right now, Rach?
+[ -21.5s] It's shining but it's still cold.
+[ -19.5s] I know. It is a bit chilly, isn't it? It is.
+[ -15.9s] Hey Rach, let's get your $425 as you head into the weekend.
+[ -12.2s] What would you do with the cash if you won it, do you think?
+[ -10.2s] I don't know.
+[  -6.9s] That's good, you know what, that's okay, you don't need to know.
+[  -4.9s] You can think about it when you hopefully win it.
+[  -2.9s] Here we go, here is the secret sound.
+[  -0.9s] I'll go once again for good luck.
+[  +2.1s] What do you think for $425, Rach?
+[  +7.1s] Okay, I've been wrong. Are you doing up your seatbelt?
+[ +13.8s] Am I doing up the seatbelt?
+[ +16.5s] Oh, Rach, no, no, I'm not. I mean, I am doing up the seatbelt all the time
+[ +20.5s] but that is not the secret sound. Sorry, Rach.
+[ +22.5s] That's okay, Rach. That's okay.
+[ +26.5s] And Chaj, I want to thank you for sharing your story on Mental Health
+[ +33.5s] this week. That was amazing.
+[ +35.5s] Thank you, Rach. I really appreciate that and it's so lovely of you to say.
+[ +42.2s] I hope it helped some people out there.
+[ +45.2s] I think it has had a very lovely and big overwhelming response.
+```
+
+### 08 Jun 2026 (segment at 423 s, 1 play(s))
+Amounts said: $450
+
+```
+[ -44.3s] Good to get away.
+[ -43.3s] That's good.
+[ -42.3s] It was surgery last Friday, so we're getting away for it all over.
+[ -38.3s] OK, all right.
+[ -36.8s] Well, because I know we were texting, well, it would have been this time last week or
+[ -32.4s] on Monday last week, because usually we have a little Monday catch up on the air and I
+[ -28.5s] didn't hear from you.
+[ -27.5s] I got a little bit worried, Brad.
+[ -26.5s] No, mate, I was actually, we were at 9.30, 10 o'clock in the morning on Monday morning,
+[ -20.8s] we were doing a wide tasting in Queensland.
+[ -19.1s] It was bloody beautiful.
+[ -18.1s] Oh, it sounds horrible, Brad.
+[ -16.1s] Oh, it was disgusting.
+[ -12.3s] Hey, mate, off the back of these holidays and these trips, yes, they're fun, but there's
+[  -8.4s] always in the back of the mind, gee, I've spent a little bit too much, didn't I?
+[  -4.9s] So let's give you $450.
+[  -2.8s] What do you think the secret sound is?
+[  -1.2s] Here is the secret sound.
+[  -0.2s] What are we thinking, Brad?
+[  +2.6s] A stapler.
+[  +3.6s] No, no, no, it's not a stapler, Brad, but thanks for guessing.
+[  +9.2s] That's cool.
+[ +10.2s] That's cool.
+[ +11.2s] Sarge, can I just say something to you, mate?
+[ +13.2s] Sure, sure.
+[ +14.2s] I just want to commend you.
+[ +15.5s] I saw Amanda show me your little speech on Facebook.
+[ +19.8s] I just want to commend you on your strength, your openness and honesty, mate.
+[ +23.5s] It happens.
+[ +24.5s] A lot of people out there have it.
+[ +26.0s] The Black Dog follows a lot of people around.
+[ +28.0s] I've been there, done that myself.
+```
+
+### 08 Jun 2026 (segment at 1319 s, 2 play(s))
+Amounts said: $450, $475
+
+```
+[ -43.0s] Good morning, Jessica. Hello. Jessica, explain who you are related to on the Sarge for Breakfast show.
+[ -34.0s] Unfortunately, it is a woman. So was is your dad? Yes, it is. And Shaz is your mum.
+[ -25.0s] Oh, that's incredible. Hey, are you looking forward to moving to the Mid-North Coast?
+[ -20.0s] A little bit. Still sad though. Like it's bittersweet in a way. Bittersweet, yeah. For sure.
+[ -14.0s] Sarge, that's what my dad said. What did it say in the background? I literally saw.
+[  -9.0s] Well, I'm looking forward to catching up with all of you in person and hopefully, look, right now, giving you $450. That's what's up for grabs.
+[  -1.0s] What is that sound? Well, I was going to joke and say a stapler, but I'm not going to be that mean to you. Thank you. Thank you. I appreciate that.
+[  +9.0s] I think it is like a self-inking step, maybe like a date step. Oh, yes. Let's have a listen once more. Yeah, no, that's not it. Sorry, but good try. Good try.
+[ +22.0s] What's on the cards for today? Well, just traveling up north with dad at the moment while it doesn't work. Brilliant.
+[ +30.0s] Well, you give that man a big hug for me and we'll catch up soon, Jessica. All right. See you. See you, legends.
+[ +36.0s] Secret sound. It is back tomorrow morning after 6.30 and eight o'clock at 1.333.53 worth $475. Clues and incorrect guesses.
+[ +45.0s] All gone massage for breakfast podcast. That listener. All righty. Let's catch up with Port Macquarie Hastings Council, Mayor Adam Roberts next on the M.
+```
+
+### 09 Jun 2026 (segment at 500 s, 3 play(s))
+Amounts said: $475
+
+```
+[ -42.0s] Yeah!
+[ -41.0s] How's it out on the roads at the moment, mate?
+[ -39.0s] Mate, a little bit wet, a little bit slippery, just down at Kalunga Look.
+[ -35.0s] I was sort of starting to clear up a bit, but yeah, hopefully everyone stays safe and drives a bit cautiously.
+[ -27.0s] And I'll tell you what, it was wonderful to hear your daughter's dulcet tones on the air yesterday morning.
+[ -19.0s] Mate, you know, unfortunately you're going to probably start hearing a little bit more of her.
+[ -13.0s] No, it's great getting the entire family involved, and you know, the more people involved, the better chances of winning this secret sound.
+[  -6.0s] So we've got $475 is where we're at right now. Here it is. And what do you think?
+[  +2.0s] Mate, I was just thinking, because you like your microwave meal so much, I'm just wondering whether it's pushing the door open button on the microwave.
+[ +10.0s] Ah, pushing the door open button on the microwave.
+[ +15.0s] Sounds like a very, not to be discriminatory, but a very cheap microwave, very...
+[ +20.0s] Yeah, mine's... I mean, I love a microwave meal, so it's an upper-class microwave, yeah.
+[ +25.0s] That's it.
+[ +26.0s] It's only the best of the best.
+[ +28.0s] It was a... Have a wonderful Wednesday. Have a great hump day, and we'll catch up soon, good man.
+[ +33.0s] Definitely will. Alright, Sarge, take it easy.
+[ +35.0s] Good on you, legend. Secret Sound, it is back at 8 o'clock on 1, triple 3, 5, 3, worth $475.
+[ +42.0s] And a reminder, all of the incorrect guesses so far for the Secret Sound go on the Sarge for Breakfast Podcast at Listener.
+[ +49.0s] Alright, do you want to win the Ultimate Origin Experience at home for Game 2?
+```
+
+### 09 Jun 2026 (segment at 1476 s, 2 play(s))
+Amounts said: $475,
+
+```
+[ -44.8s] and the socials and all that stuff?
+[ -43.0s] Absolutely, Sarge, they can get onto that,
+[ -39.7s] and we look forward to seeing people there.
+[ -36.4s] Good on you, Al, thank you, mate.
+[ -35.2s] Thank you, thank you, Sarge.
+[ -33.1s] It's Triple M's secret sound.
+[ -30.5s] Thanks to 40 Winks Port Macquarie.
+[ -28.6s] So come in and see the team at Court Home Zone.
+[ -26.5s] 40 Winks, serious about sleep.
+[ -23.7s] Hey there, good morning, Jay.
+[ -21.1s] Good morning.
+[ -20.2s] How are you?
+[ -18.3s] I'm good, thanks, how are you?
+[ -16.8s] I'm very well, thank you.
+[ -16.0s] Where abouts are you calling from?
+[ -12.9s] I'm calling from the side of the road on my way to work.
+[  -8.2s] Oh, fantastic, you'd like to win yourself $475, eh?
+[  -3.3s] Yes, for these, yes.
+[  -1.9s] Here we go, here is the secret sound.
+[  +0.5s] I'll go once again for good luck.
+[  +2.3s] If you correctly identify what it is,
+[  +3.7s] I'll give you that cash.
+[  +5.8s] Okay, well, I think it's a hole puncher.
+[ +10.6s] No, it's not a hole puncher, Jay.
+[ +13.4s] Good try, though.
+[ +15.8s] Okay.
+[ +16.6s] Take care, Jay.
+[ +17.5s] Thank you.
+[ +18.3s] Have a wonderful day.
+[ +19.1s] Thank you.
+[ +20.0s] See ya.
+[ +20.8s] Secret sound, it is back tomorrow morning after 6.30
+[ +23.7s] and 8 o'clock on 1.333.
+[ +25.5s] Three a reminder, all of the incorrect guesses
+[ +27.5s] so far for the secret sound.
+[ +29.6s] Go on the Sarge for Breakfast podcast at Listener.
+```
+
+### 10 Jun 2026 (segment at 523 s, 3 play(s))
+Amounts said: $500, $500,
+
+```
+[ -42.3s] in Port Macquarie this Sunday.
+[ -39.1s] Yeah.
+[ -38.2s] 9 a.m. till mid day for their flash sale.
+[ -33.8s] We'll have a free sausage sizzle.
+[ -32.2s] Plus we'll have the triple M prize wheel there
+[ -30.1s] with your chance to have a spin.
+[ -28.2s] Don't miss the flash sale at Beatty's Quality Furniture
+[ -25.1s] in Port Macquarie this Sunday.
+[ -23.5s] Come and say hello.
+[ -22.0s] Michael and the team are fantastic.
+[ -18.8s] We love them and they love us.
+[ -15.4s] It's mutual.
+[ -14.2s] How good's that?
+[ -13.0s] All right.
+[ -12.2s] 1-333-53 is the number to call right now
+[  -9.3s] if you would like to score yourself $500
+[  -4.9s] with a secret sound.
+[  -3.4s] All you gotta do is correctly identify what this sound is.
+[  +1.4s] Yeah.
+[  +2.2s] And if you're right $500,
+[  +3.2s] gone straight into your bank account.
+[  +4.6s] Pretty good, hey?
+[  +5.4s] The secret sound.
+[  +6.3s] Thanks to 40 Wings Port Macquarie,
+[  +8.3s] it is just around the corner.
+[  +9.4s] Good luck.
+[ +13.2s] It's the early bird edition of the secret sound.
+[ +17.4s] Thanks to 40 Wings Port Macquarie,
+[ +19.4s] come in and see the team at Port Home Zone.
+[ +21.7s] 40 Wings, serious about sleep.
+[ +23.8s] Well, it's a very good morning to you, Aunty Julia.
+[ +27.1s] How are you?
+[ +29.3s] Thank you.
+[ +30.2s] I'm watching the sunrise trying to peek out
+[ +31.7s] underneath the clouds.
+[ +33.0s] Oh my goodness me, can you please?
+[ +35.3s] Oh, hang on a second, Aunty Julia.
+[ +36.9s] I'm looking outside my studio window right now
+[ +39.7s] and it's looking lovely and pastel.
+[ +41.6s] You know that pastel-y pink?
+[ +43.5s] Yeah.
+[ +44.4s] Is that what you're getting?
+[ +45.7s] No, mine's going a little bit orange.
+[ +47.8s] Oh.
+[ +49.3s] What time does it fully rise around your joint,
+[ +52.3s] your neck of the woods?
+[ +55.0s] Maybe in about another 15 minutes.
+[ +56.7s] Yeah.
+[ +57.7s] It's annoying because where the sun is now,
+[ +62.9s] if I stay in bed too long,
+[ +64.4s] it actually shines straight into my face.
+[ +66.8s] Oh, that's not ideal.
+[ +68.7s] How rude of the sun, you know what I mean?
+[ +72.4s] Well, it's us because the earth moves
+[ +74.4s] and you don't realise how quickly it actually moves.
+[ +77.1s] You're right.
+[ +78.0s] Is there anything better than watching a sunrise
+[ +79.7s] or a sunset, Aunty Julia?
+[ +82.1s] No, I think it's probably the most beautiful thing we have.
+[ +85.3s] It is so special.
+[ +87.3s] All right, we can talk about this forever.
+[ +90.0s] Hey, how did your trip go?
+[ +91.2s] How did the trip go down in Sydney?
+[ +93.7s] Really good.
+[ +94.6s] My grandson, he doesn't actually turn 21,
+[ +98.6s] he'll be on the 16th and he'll be in Amsterdam when he does.
+[+101.4s] Yes.
+[+102.2s] But not with good, thank you.
+[+103.1s] A good 21st, wonderful.
+[+104.1s] Okay, well, it's always good to get that money back
+[+107.1s] after a big weekend away, spending $500.
+[+111.7s] Okay, so what do you think that secret sound is, Julia?
+[+115.7s] I'm hoping that it's the gas lighter you use
+[+118.4s] to light a candle or barbecue or something like that.
+[+121.8s] Oh yeah, okay.
+[+122.7s] I mean, we're trying to give away a barbecue at the moment.
+[+125.0s] So potentially, would it be in that realm?
+[+129.1s] No, sorry, Aunty Julia.
+[+130.9s] Okay, thank you.
+[+132.3s] You look after yourself, enjoy that sunrise.
+[+134.8s] It's, you know what, it does go very quickly.
+[+136.8s] It's almost up from where I can see right now.
+[+139.6s] Yeah, it is.
+[+140.4s] Yeah.
+[+141.3s] Okay, thank God.
+[+142.1s] See ya by, okay, secret sound.
+[+143.5s] It is back at eight o'clock.
+[+144.4s] One triple three, five, three worth $500.
+[+148.1s] We put all of the incorrect guesses too, by the way.
+[+150.4s] On Massage for Breakfast podcast at listener.
+[+153.4s] Oh, that's right.
+[+154.6s] I was gonna play this for Aunty Julia
+[+156.8s] because when Lorraine, have you ever seen
+```
+
+### 10 Jun 2026 (segment at 1714 s, 2 play(s))
+Amounts said: $500, $500,
+
+```
+[ -45.0s] What do you want to do with the cash if you win it?
+[ -43.0s] I'll put it into something decent.
+[ -40.0s] Decent? Good.
+[ -38.0s] Hey, I heard you...
+[ -37.0s] Yeah, well...
+[ -36.0s] Yeah, go, go.
+[ -35.0s] Um, what were you gonna say?
+[ -33.0s] Well, I was gonna say, I heard you saying off the air that it's cold.
+[ -28.0s] It is, it's cold if you don't cover yourself over with a nice blanket.
+[ -24.0s] Mm-hmm.
+[ -23.0s] Do you have a nice...
+[ -22.0s] That's why I'm just sitting on the lounge, that's why.
+[ -20.0s] So you've got a nice warm blanket. Do you have a, you know, a heater or an aircon or something, Trish?
+[ -14.0s] Aircon with the heater on it.
+[ -12.0s] Oh, good. Very good. Okay, I was gonna say you could maybe, you know, put the $500 towards some warming... some warming devices, you know?
+[  -4.0s] Yeah.
+[  -3.0s] All right, here we go. Here is the secret sound, Trish.
+[  +0.0s] I'll play it once again.
+[  +2.0s] But good luck. What do you think it is? For $500, Trish from West Kempe.
+[  +7.0s] Is it something for in the kitchen or something?
+[ +10.0s] Is it something in the kitchen?
+[ +12.0s] Yeah, it's used in the kitchen.
+[ +14.0s] Well, I'm gonna have to have a bit more of a specific guess.
+[ +18.0s] Name something in the kitchen that it could be.
+[ +23.9s] Yeah.
+[ +24.9s] Yeah.
+[ +25.9s] You know when you open your tins and...
+[ +28.9s] Uh-huh.
+[ +29.9s] Open your tins with the, um...
+```
+
+### 11 Jun 2026 (segment at 491 s, 3 play(s))
+Amounts said: $200, $525
+
+```
+[ -44.9s] Is that the impression?
+[ -43.9s] Yeah, it's a dead cow mate.
+[ -42.9s] Have a good day.
+[ -41.9s] Medium rare?
+[ -40.9s] Oh, I'm gonna be on fire.
+[ -37.9s] See ya mate.
+[ -34.9s] See ya mate.
+[ -31.9s] Coming up on the Sarge for Breakfast show.
+[ -24.9s] It's Feral Friday, triple M in North Coast.
+[ -20.9s] Alright, coming up to 630 so we'll do the latest in your local news, sport and weather,
+[ -15.9s] plus a beach and surf update from Huddo.
+[ -13.6s] Then we'll play the secret sound, alright?
+[ -11.6s] I got $525 to give away.
+[  -9.6s] If you'd like it right now, all you gotta do is dial 123-53 and correctly identify what
+[  -2.0s] this sound is.
+[  +0.4s] Okay.
+[  +2.0s] Now the other thing too, if you don't win the $525 but you are a good time on the
+[  +7.6s] blower as you're in a bit of fun, we could give you a $200 fuel voucher.
+[ +12.6s] How good's that?
+[ +13.6s] Heading into your weekend adventures.
+[ +15.6s] So,
+[ +18.4s] 4353, what is this sound?
+[ +20.4s] Be right next and that $525 cold hard cash is all yours.
+[ +24.4s] Thanks to 40 Winks Port Macquarie.
+[ +26.4s] Happy Friday.
+[ +30.6s] It's the early bird edition of the Secret Sound.
+[ +33.6s] Thanks to 40 Winks Port Macquarie.
+[ +35.6s] Come in and see the team at Port Home Zone.
+[ +38.6s] 40 Winks, serious about sleep.
+[ +40.6s] An icon of triple M mid-north coast.
+[ +43.6s] Doug the night owl.
+[ +45.6s] Hello.
+[ +47.4s] Hello, Sarge.
+[ +48.4s] How are you, mate?
+[ +49.4s] Mate, I'm very well.
+[ +50.4s] Thank you.
+[ +51.4s] What's going on?
+[ +52.4s] Oh, nothing much.
+[ +53.4s] I'm having a rough try as I told you.
+[ +55.4s] No one to talk over the phone too much about it.
+[ +57.4s] How about we try and fix some things though with a little bit of cash, right?
+[ +62.4s] Oh, I love that.
+[ +63.4s] Yeah.
+[ +64.4s] I got $525 up for grabs here.
+[ +68.4s] Dougie, all you gotta do is tell me what this sound is.
+[ +72.4s] What do you think?
+[ +73.4s] Is it over in a can of drink?
+[ +75.4s] No.
+[ +77.9s] Doug, it is not.
+[ +79.7s] I tell you what, mate.
+[ +81.7s] Am I going to see you this Sunday at Beatty's Furniture in Port Macquarie?
+[ +86.7s] Sunday or Saturday?
+[ +87.7s] Sunday.
+[ +88.7s] No, I can't go Sunday.
+[ +90.7s] I got a pinch.
+[ +91.7s] I got a choice.
+[ +92.7s] Well, you're a good man for doing that.
+[ +95.7s] Anyway, look, we'll catch up soon, great man.
+[ +97.7s] And you keep on trying for that Secret Sound.
+[ +99.7s] Take care.
+[+100.7s] Okay, mate.
+```
+
+### 11 Jun 2026 (segment at 1219 s, 2 play(s))
+Amounts said: $525
+
+```
+[ -43.2s] Friday.
+[ -39.6s] Thanks to 40 Winks Port Macquarie. So come in and see the team at Court Home Zone. 40
+[ -35.1s] Winks, serious about sleep.
+[ -33.4s] Hey, happy Friday William.
+[ -31.4s] How are you? How are you? Going over there?
+[ -29.2s] Yeah, here we go. Absolutely fantastic. Got much planned for the weekend mate.
+[ -25.1s] Um, yeah, I'm going to Sydney.
+[ -23.0s] Oh, beautiful. What are you doing in Sydney?
+[ -20.7s] I'm going to go see my little sisters.
+[ -18.9s] Oh, lovely. You got them a nice little present or something?
+[ -15.3s] Yeah.
+[ -14.3s] Oh, good. That's the way. What is it? Are they going to be listening right now?
+[ -10.6s] Um, I don't know yet. We'll figure that out.
+[  -7.8s] Good stuff. Alright, well, um, $525 is up for grabs here William. Um, I'll give it
+[  -2.7s] to you if you correctly identify what this sound is. What do you think, mate?
+[  +2.4s] Um, a key, like a key button on a keyboard.
+[  +8.8s] Oh. Like on the keyboard that would be here in the studio with me?
+[ +14.8s] Yeah.
+[ +15.8s] Potentially at the office, yeah. Yeah, no. Sorry, William. Hey, safe travels to
+[ +19.4s] Sydney this weekend. Enjoy your time with your sisters.
+[ +22.0s] Yeah, thank you. You used to have a good one.
+[ +23.8s] Thank you, mate. Bye-bye. Secret sound. It is back to... not tomorrow, Monday.
+[ +29.0s] After 6.30, 8 o'clock at 1.333. 5.3. All of the incorrect guesses we've had for it
+[ +34.8s] this week will be on the Sarge for Breakfast podcast at listener. Thank you,
+[ +38.5s] 40 Winx. We love that game. We also love this game, Real or Rubbish.
+```
+
+### 14 Jun 2026 (segment at 541 s, 2 play(s))
+Amounts said: none
+
+```
+[ -35.2s] pretty hard right now whereabouts are you calling from was I just around
+[ -30.8s] Coopanook area at the moment heading north so yeah it's a little light rain
+[ -26.2s] here at the moment okay I was gonna ask is it being pretty steady but it's sort
+[ -22.3s] of on and off now a good reminder to people to drive safely drive to
+[  -9.8s] conditions this morning mate we've got five hundred and five hundred and fifty
+[  -4.4s] dollars up for grabs here all you got to do is tell me you know how this goes
+[  -1.6s] what the sound is there it is what are you thinking
+[  +7.7s] I think it could be pushing the power button on a smartphone to switch it off
+[ +13.4s] to like to go to the lock screen especially like with an iPhone when
+[ +18.2s] you push the power button it goes to the lock screen because I've got my phone here
+[ +22.1s] right now I'm so you're saying when you push the the power button to turn it
+[ +26.6s] on and off well if you've got it on like if you're using it on the screen
+[ +31.6s] and you want to shut it off to the to the black screen just push the power
+[ +35.6s] button it makes that clicking sound it makes a clicking sound and when you have
+[ +39.7s] the phone not on mute as well it makes a sound effect too so I'm just gonna
+[ +45.9s] actually see if I can do that hang on was a yes no sorry no all right no yeah
+[ +60.5s] look we can rule that one out
+[ +65.5s] that's it a drive safe mate thank you for the update and we'll talk soon there you
+[ +71.6s] go was a Wednesday on a Monday hey how good's that
+[ +77.9s] sacred sound it is back at 8 o'clock on one triple three five three worth five
+[ +82.8s] hundred and fifty dollars all of the incorrect guesses so far go on the
+```
+
+### 14 Jun 2026 (segment at 1600 s, 3 play(s))
+Amounts said: none
+
+```
+[ -44.4s] How exciting, how exciting.
+[ -43.2s] Yeah.
+[ -42.4s] Now, Courtney, we've got 550 bucks up for grabs here.
+[ -39.2s] In 2026, on Monday, the 15th of June,
+[ -34.8s] in this current climate,
+[ -32.5s] what would you do with that cash, do you reckon?
+[ -29.7s] Oh, I'd go on a bit of shopping spree.
+[ -27.5s] Oh, would you just?
+[ -26.8s] I'd treat myself.
+[ -26.0s] Yeah, okay, very good.
+[ -24.5s] I like that, Courtney.
+[ -22.9s] Like a bit of retail therapy.
+[ -21.0s] Yeah, that's it.
+[ -19.9s] You know what?
+[ -18.5s] I went and bought myself a jumper the other day.
+[ -13.9s] Probably shouldn't have,
+[ -12.2s] because I didn't really have that saved up,
+[  -9.5s] but you know what?
+[  -8.7s] I felt good afterwards.
+[  -7.0s] Yeah, sometimes you just got to treat yourself
+[  -4.2s] every now and then.
+[  -3.2s] You do, Courtney.
+[  -2.4s] All right, here we go.
+[  -1.5s] Here's the secret sound.
+[  +0.8s] I'll play it for you once again.
+[  +3.0s] What are you thinking?
+[  +4.5s] It's not clicking a pen.
+[ +11.5s] No, it's not.
+[ +12.3s] Sorry, Courtney.
+[ +14.3s] All the best with the school drop off
+[ +16.5s] and keep on trying, okay?
+[ +18.0s] Thank you.
+[ +18.8s] Lovely talking to you.
+[ +19.5s] Have a great week.
+[ +20.5s] Bye.
+[ +21.2s] You too, guys.
+[ +22.0s] Yeah, there you go.
+[ +23.0s] That's the secret sound.
+[ +23.8s] It is back tomorrow morning
+[ +25.0s] after 6.30 and eight o'clock on 1.35.35.
+[ +28.0s] And a little reminder,
+[ +29.0s] we put all of the incorrect guesses so far
+[ +31.2s] for the secret sound
+[ +32.5s] on the Sarge for Breakfast podcast at listener.
+[ +35.8s] All right, all this week,
+[ +36.8s] we are doing a little thing called Make Sarge Laugh.
+```
+
+### 15 Jun 2026 (segment at 513 s, 5 play(s))
+Amounts said: none
+
+```
+[ -42.9s] doves can certainly show signs of distress or grief through their behaviour. Wow, what
+[ -36.5s] do you mean? Many species form strong pair bonds and if they lose a mate, they may
+[ -30.4s] become quieter than usual, spend time searching for their missing partner. This
+[ -25.6s] is a bit sad. Eat less for a period or appear withdrawn or less active. I've got
+[ -19.8s] a lot of sympathy for the doves this morning. There you go, bit of dove chat on
+[ -15.6s] Triple A Mid-North Coast. Sarge here for breakfast. Let's perk up the spirits.
+[ -10.6s] Let's get you excited, hey? I've got five hundred and seventy-five dollars to give away and
+[  -6.7s] if you'd like it right now, all you've got to do is call 1-333-53 and tell me
+[  -2.4s] correctly what this sound is. It's the secret sound all thanks to 40 Wings
+[  +2.7s] Port Macquarie once again for good luck.
+[  +6.2s] It's the early bird edition of the secret sound. Thanks to 40 Wings Port Macquarie.
+[ +15.5s] Come in and see the team at Port Home Zone. 40 Wings, serious about sleep.
+[ +20.3s] Hey, good morning Lucy. Good morning Sarge, how you going? Happy Tuesday.
+[ +25.8s] Happy Tuesday, what's been going on in your world? Oh, what is it? Early rises, probably not as early as you but just
+[ +33.0s] working and trying to look forward to those weekends but in the
+[ +37.6s] weeks, they're going pretty quick on finding them. Yeah, right.
+[ +42.5s] So Lucy, it says here you've called a fair few times into the show but we've
+[ +47.8s] spoken a couple of times haven't we? I think so, I finally got through. I've tried
+[ +55.0s] the secret sound a few times. Great, okay fantastic. Well here we are, we've got
+[ +59.2s] five hundred and seventy-five dollars that could go towards a bit of a fun
+[ +62.2s] weekend. What do you think you'd do with the cash if you wanted, Lucy? So we're
+[ +67.4s] headed up to visit some families shortly so maybe, I don't know, spoil
+[ +72.7s] the kids a little bit with some treats. Nice one, I love that Lucy.
+[ +76.8s] Alright, here we go, here it is. That's the secret sound. What do you think?
+[ +83.4s] I haven't listened to all your podcasts but I listened to a couple but I feel
+[ +88.4s] it's pushing control alt delete on a keyboard. Oh, okay, pushing control alt
+[ +95.1s] delete on a keyboard, yeah, yeah, okay. No Lucy, that is not it but that guess
+[+102.6s] has got me grinning like crazy. It's close you reckon. I didn't say that, well I
+[+109.8s] said I'm grinning so do with that information as you will. Back to the drawing board, thanks very much Sarge.
+[+116.6s] Have a good morning, okay? You too, bye. Secret sound, it is back at 8 o'clock
+[+121.9s] and 1 triple 3 5 3, it's worth five hundred and seventy-five dollars and as
+[+125.8s] Lucy mentioned we put all the incorrect guesses so far on the Sarge for
+```
+
+### 15 Jun 2026 (segment at 1408 s, 3 play(s))
+Amounts said: $575,
+
+```
+[ -44.3s] Go into the draw for a great prize.
+[ -42.2s] One night's accommodation at McQuar
+[ -32.5s] Bird Rock Bar & Grill.
+[ -30.6s] Stay, dine and laugh with McQuar
+[ -27.7s] and Bird Rock Bar & Grill.
+[ -26.0s] It's triple M's secret sound.
+[ -23.5s] Thanks to 40 Winks Port McQuarrie.
+[ -20.8s] So come in and see the team at Court Home Zone.
+[ -18.6s] 40 Winks, serious about sleep.
+[ -16.5s] Well, it looks like we just lost Chloe
+[ -14.1s] who is going to play the secret sound with me this morning
+[ -11.2s] on 1-3-3-5-3.
+[  -9.3s] Sorry about that, Chloe.
+[  -7.6s] But that means there is a chance for you to swoop in right now
+[  -4.6s] on 1-3-3-5-3 and tell me what this sound is.
+[  +1.6s] And if you correctly identify what that sound is,
+[  +6.8s] I will give you $575,
+[ +10.5s] or thanks to 40 Winks Port McQuarrie,
+[ +13.3s] the number to get involved with the secret sound.
+[ +16.3s] It is 1-3-3-5-3.
+[ +20.9s] I think we might have somebody here.
+[ +24.2s] Hello, you're alive on the air.
+[ +27.8s] Hello, I'm calling about secret sound.
+[ +29.6s] G'day there, mate.
+[ +30.4s] Who have I got here?
+[ +31.9s] Jesse. Jesse.
+[ +33.1s] All right, here we go, legend.
+[ +34.0s] Here is the secret sound.
+[ +35.5s] What do you think for 575 bucks?
+[ +38.6s] I reckon that is opening a rice cooker.
+[ +42.6s] Uh, no.
+[ +44.2s] It's not, sorry, mate.
+[ +45.3s] Hey, have a good day.
+[ +47.1s] Thanks, mate.
+[ +47.7s] Cheers for calling.
+[ +48.3s] Keep on trying.
+[ +49.5s] Secret sound back tomorrow morning up at 6.30
+[ +51.5s] and 8 o'clock on 1-3-3-5-3.
+[ +53.4s] And a reminder, we put all of the incorrect guesses for it
+[ +56.3s] so far on the Sarge for Breakfast podcast at listener.
+[ +60.0s] Check out those clues to get closer to the cash.
+[ +62.6s] Let's do a little chinwag with Port McQuarrie Hastings'
+```
+
+### 16 Jun 2026 (segment at 457 s, 1 play(s))
+Amounts said: $600
+
+```
+[ -44.9s] Mate, we're getting closer, yeah.
+[ -42.9s] Yeah.
+[ -41.9s] Well, you know, with big moves and new opportunities and houses and this and that, it's always good to have a bit of extra cash, isn't it?
+[ -33.9s] Yeah, good to catch up last week with the coffee there mate, I hope you enjoyed it.
+[ -29.9s] Oh mate, yes, absolutely, that was such a good coffee.
+[ -25.9s] Yeah.
+[ -24.9s] I've got my order down pat down there at the hill, you just go, hey, you know, Sarge wants a coffee and they know what to get.
+[ -17.9s] Exactly, yeah, it's getting like that now.
+[ -15.9s] Yeah, yeah, exactly.
+[ -13.9s] No, I really appreciate that mate, it was good.
+[ -11.9s] And we did a FaceTime with your family.
+[  -8.9s] Yes, lovely, yeah, good catch up.
+[  -6.9s] Very good catch up, little family reunion.
+[  -4.9s] Okay, mate, 600 bucks, I'll give it to you if you can correctly identify what this sound is.
+[  +0.1s] What are we thinking this morning?
+[  +3.1s] Well, would it be as simple as clicking the button on a mouse for the computer?
+[  +9.1s] No, no, it's not Waza.
+[ +12.1s] Thanks for guessing though mate.
+[ +14.1s] Thank you for the door report.
+[ +15.1s] That's right, have a wonderful Wednesday Waza.
+[ +18.1s] You too, catch up.
+[ +19.1s] See ya legend, good on ya.
+[ +20.1s] Secret Sound, it is back at 8 o'clock on 13353, as I said, worth $600 and all of the incorrect guesses so far for it.
+[ +28.1s] Go on the Sarge for breakfast podcast at listener.
+```
+
+### 16 Jun 2026 (segment at 1255 s, 2 play(s))
+Amounts said: $600,
+
+```
+[ -44.9s] Thank you.
+[ -44.1s] Thank you.
+[ -42.9s] It's Triple M's secret sound.
+[ -40.3s] Thanks to 40 Winks Port Macquarie.
+[ -38.5s] So go in and see the team at court home zone.
+[ -36.3s] 40 Winks, serious about sleep.
+[ -33.7s] Roger, good morning, sir.
+[ -31.5s] Hello.
+[ -30.7s] How you doing?
+[ -29.4s] Yeah, great.
+[ -28.9s] Thanks.
+[ -28.4s] Good to see the sun out.
+[ -27.3s] Absolutely.
+[ -26.1s] Cracking sunrise.
+[ -24.9s] Did you manage to catch that?
+[ -22.4s] No, it's foggy here, where I am.
+[ -20.7s] All right.
+[ -20.0s] OK.
+[ -19.6s] Well, at some point, are you on the social media, Roger?
+[ -16.1s] Not really.
+[ -15.5s] It's OK.
+[ -14.9s] I was gonna say, there's a few photos flicking around.
+[ -12.7s] But anyway, it was a good sight to see.
+[ -10.6s] Let's get you $600, mate.
+[  -9.0s] What would you do with that cash if you won it?
+[  -6.5s] Oh, short break.
+[  -4.2s] Holiday would be good.
+[  -3.1s] Sure.
+[  -2.4s] All right, here we go.
+[  -1.5s] Here's the secret sound, Roger.
+[  +0.8s] What do you think?
+[  +3.1s] Pressing the space bar on the keypad of the computer.
+[  +6.8s] OK, let's have a listen again.
+[  +9.1s] Roger, no.
+[ +10.1s] It's not.
+[ +11.4s] Thanks for trying, though.
+[ +12.7s] Keep it up.
+[ +13.9s] Good on you.
+[ +14.3s] Thanks, mate.
+[ +14.7s] See you, Roger.
+[ +15.5s] All right, secret sound.
+[ +16.6s] It is back tomorrow morning after 6.30 and 8 o'clock on 1,
+[ +19.8s] triple 3, 5.3.
+[ +21.1s] It's all thanks to 40Wings at Port Macquarie.
+[ +23.1s] A reminder, all of the incorrect guesses for it.
+[ +25.8s] Go on the Sarge for Breakfast podcast at least.
+[ +27.7s] All right.
+[ +28.0s] So you listen to the clues and get closer to the cash.
+[ +31.8s] 1, triple 3, 5.3 is my number.
+[ +35.1s] Call right now with your cheekiest joke.
+```
+
+### 18 Jun 2026 (segment at 628 s, 2 play(s))
+Amounts said: $625
+
+```
+[ -44.0s] If you win it, what would you do with it first of all,
+[ -41.7s] do you reckon?
+[ -40.0s] Definitely not giving any to Cooper.
+[ -38.4s] Cooper.
+[ -37.6s] He thinks he's gonna get half,
+[ -36.2s] but he's not getting any of it.
+[ -33.8s] Oi, you realise that Cooper is one of the biggest
+[ -31.0s] celebs in town at the moment?
+[ -28.7s] Yeah, I do.
+[ -27.9s] Yeah, I did an outside broadcast on Sunday
+[ -24.6s] and there was a lady in the store
+[ -22.8s] who specifically came to the outside broadcast
+[ -19.3s] to figure out,
+[ -17.6s] because she's not on the socials
+[ -15.9s] and the podcasting and stuff,
+[ -14.8s] she's just the traditional radio
+[ -13.2s] and she wanted to know specifically
+[ -10.9s] if Cooper won the Secret Sound.
+[  -8.5s] Oh, well that's good.
+[  -7.6s] Yeah, I know.
+[  -6.7s] Was she happy when she found out that he won?
+[  -5.2s] Very bloody happy, very bloody happy.
+[  -3.1s] A lot of people were.
+[  -1.9s] Alright, here we go, mate.
+[  -1.1s] Here's the Secret Sound.
+[  +0.8s] What do you think?
+[  +3.4s] We think it might be pushing the button
+[  +5.4s] to turn on your microphone on the keyboard.
+[  +8.1s] Uh-huh.
+[  +9.4s] Let me listen again.
+[ +11.3s] Mmm, no.
+[ +13.6s] No, it sounds a bit too cheap and tacky, to be honest.
+[ +16.4s] It's a little bit high tech around here.
+[ +19.3s] Too high tech for my liking.
+[ +20.4s] Anyway, Jimbo, have a good one, man.
+[ +22.3s] Thank you.
+[ +23.1s] Thanks, mate, back to the drawing board.
+[ +24.0s] Have a good day.
+[ +24.8s] Back to the drawing board.
+[ +25.6s] See ya, mate.
+[ +26.5s] Secret Sound, back at eight o'clock,
+[ +27.3s] one triple three, five three is the number
+[ +28.3s] to get involved there.
+[ +29.9s] It is worth 625 bucks
+[ +32.2s] and we put all the incorrect guesses for it so far
+[ +35.2s] on the Sarge for Breakfast podcast listener.
+[ +38.6s] More to come after this.
+[ +39.9s] Triple M, good morning.
+```
+
+### 18 Jun 2026 (segment at 1455 s, 4 play(s))
+Amounts said: $625
+
+```
+[ -42.6s] We'll get amongst it tomorrow morning from 6am.
+[ -38.6s] Last chances to make me laugh and then we will draw the winner tomorrow.
+[ -33.6s] Triple Emmied North Coast Sarge here for breakfast.
+[ -31.6s] Oh brother. Always gets in the fields, hey.
+[ -28.6s] Youth group Forever Young, the greatest here.
+[ -26.6s] It's Triple Emmied North Coast. It is the Sarge for Breakfast show.
+[ -23.6s] We are live on your radio and the listener app currently 11 degrees at long flight.
+[ -19.6s] Good morning to the crew listening there.
+[ -17.6s] Heading for top of 22 and mostly sunny.
+[ -14.6s] I want to give you some cash man.
+[ -12.6s] I got $625 to give away. So if you'd like it, just give me a bell.
+[  -7.6s] 1-333-53.
+[  -4.6s] Just tell me correctly what this sound is.
+[  -0.6s] Once again for good luck.
+[  +5.0s] Call 1-333-53 and just simply tell me what you think that sound is.
+[  +8.0s] You might surprise yourself. You might win.
+[ +10.0s] And then we'll transfer $625 into your bank account.
+[ +14.0s] It's the secret sound of thanks to 40 Winks Port Macquarie.
+[ +17.0s] Coming up, Triple Emmied North Coast Sarge here for breakfast.
+[ +21.0s] Here's the Culture Club now.
+[ +24.0s] And Karma Chameleon.
+[ +25.0s] We've got a story about the Culture Club.
+[ +28.0s] I don't have time to tell it because the Vogue was around the head.
+[ +31.0s] I'll get to it soon though.
+[ +33.0s] Thanks to 40 Winks Port Macquarie.
+[ +38.5s] So come in and see the team at Court Home Zone.
+[ +40.5s] 40 Winks, serious about sleep.
+[ +42.5s] Hey, good morning Lee.
+[ +44.5s] Good morning.
+[ +45.5s] How you doing good man?
+[ +47.5s] Um...
+[ +48.5s] Oh, oh, oh, no, no, no, Lee, Lee. You just broke up. Say that again. Say that again.
+[ +52.5s] I can hear it in your voice. What's going on in your life, Lee?
+[ +58.1s] Take my little boy back home and then off to work for the day.
+[ +62.4s] Ah, that's amazing. It's just...
+[ +64.4s] I've been saying this a lot lately, Lee. It's the little things in life.
+[ +68.4s] Absolutely.
+[ +70.4s] Yeah, alright, mate. Here we go.
+[ +72.4s] I've got $625 to give away.
+[ +74.4s] What would you do with that money if you wanted, Lee?
+[ +77.4s] Ah, mate, I've treat the wife to the... something nice for the weekend.
+[ +82.4s] Okay, well that sounds wonderful. Wonderful husband material right there.
+[ +87.4s] Here we go. I hope it works out for you. Here you go, Lee.
+[ +90.4s] That's a secret. See, I'm going once again for good luck because you're a good guy.
+[ +94.4s] What do you think?
+[ +96.4s] Is it a chocolate wheel?
+[ +98.4s] No. It's not a chocolate wheel but I tell you what, it's a bloody good guess.
+[+103.4s] I like it. It is worth a try.
+[+105.4s] Lee, have a wonderful day, good man.
+[+107.4s] You too, buddy. Thank you.
+[+109.4s] Call anytime. Secret Sound is back tomorrow morning after 6.30pm at 1.333.5.3. Lee.
+[+116.4s] Ah, worth 650 buckaroonies, okay?
+[+119.4s] And all of the incorrect guesses for this thing so far.
+[+122.4s] Go on the Sarge for breakfast podcast at listener.
+```
+
+### 19 Jun 2026 (segment at 1580 s, 1 play(s))
+Amounts said: none
+
+```
+[ -43.6s] What's my colour again?
+[ -40.9s] I don't know, look, you're gonna have the yellow one, right?
+[ -37.5s] Oh, the front man.
+[ -36.1s] Max the hair, Max the hair.
+[ -33.4s] Oi, there was a missed opportunity too
+[ -31.9s] because you would have seen me doing some stuff with Emma Memma.
+[ -27.9s] I did, I did.
+[ -26.8s] That was a missed opportunity.
+[ -25.6s] I should have got you along and we just needed one more.
+[ -23.1s] We've got Jeff, we've got the original Jeff
+[ -20.2s] hanging around the Mid-North Coast at the moment.
+[ -17.8s] Do you know where he's actually based?
+[ -16.2s] Is he based on the Mid-North Coast
+[ -15.0s] or was he just passing through?
+[ -12.9s] I wouldn't have a clue.
+[ -11.5s] Look, I'd like to think that we've been blessed
+[  -9.7s] with such celebrities.
+[  -7.1s] Well, you can't blame him for coming here.
+[  -5.2s] Anyway, mate, 650 bucks, got up for grabs here.
+[  -2.1s] You just gotta tell me what this sound is.
+[  +0.4s] And if you're right, Jeff, the chef,
+[  +2.3s] we will give you that cash. What do you think?
+[  +4.8s] Look, I was pretty confident with clicking a pen,
+[  +7.0s] but that one was dead roll.
+[  +9.4s] I've gone back to the drawing board, I've come back.
+[ +11.4s] Maybe it's thick in the box switch on your door.
+[ +15.8s] Oh, yeah.
+[ +17.1s] On the office door.
+[ +20.0s] No, it's not, Jeff.
+[ +23.0s] Dang it. Sorry, mate.
+[ +24.4s] Hey, have a wonderful weekend.
+[ +27.0s] Oh, look, I do my best.
+[ +28.4s] Hopefully the rain keeps away.
+[ +29.8s] Hopefully, yeah, it looks like it's gonna come
+```
+
+### 19 Jun 2026 (segment at 2453 s, 2 play(s))
+Amounts said: none
+
+```
+[ -44.3s] Yeah, good friend of the show Dave is on the line right now one triple three five three. Hello, sir
+[ -35.9s] Mate very well. Thank you. This is what I've got you saved as in my
+[ -31.8s] Personal phone it says here Dave great listener and plumber
+[ -26.0s] You there don't know
+[ -21.0s] I
+[ -19.6s] Think it's because there was a time I was having some issues with my drain you called up and you gave me some tips and tricks
+[ -13.0s] I did
+[ -11.0s] The basics right you got the basics down pat
+[  -6.7s] All right, let's give you some money. We got 650 bucks up for grabs here
+[  -3.1s] All you got to do Dave is tell me what this sound is
+[  +0.3s] What do you think mate? Oh
+[  +4.5s] Let's have a listen once again, I don't know why we have to do that because I would never be so silly to
+[ +11.2s] Do the stapler?
+[ +12.9s] That is not it mate. Hey have a wonderful weekend. It was great catching you at the outside broadcast over the weekend, too
+[ +20.5s] Yeah, but it's good running into you having a good chat, and I was wondering if you could play us a rock melons
+[ +27.2s] Bit of rock melons. Oh tell me about your buddy who does a bit of work or did a bit of work with them
+[ +33.5s] Don Williams yes
+[ +36.0s] the
+```
+
+### 21 Jun 2026 (segment at 692 s, 2 play(s))
+Amounts said: none
+
+```
+[ -42.8s] She had a little bit before she went yeah, I didn't I didn't get it on the cruise
+[ -38.3s] I got when I finished yeah good Lorraine. What do you do?
+[ -34.1s] Do you just wait them through are you on the cold and flu tablets you have natural remedies? What do you do?
+[ -28.8s] No, I reckon there will those things that would be working eggs and all that money on cough syrups and
+[ -23.5s] percentages and
+[ -21.4s] Really it'll go by it's a natural progression
+[ -16.7s] Yeah, that's the way
+[ -14.7s] Well, hey, I guess you could afford some cold and flu tablets to be one six hundred and seventy five dollars. Couldn't ya?
+[  -8.6s] Oh gosh, you know we can't cook yeah, I think I put towards all that
+[  -3.4s] Here we go Lorraine. Here is the secret sound
+[  +0.1s] It hasn't changed since you've left. What do you think?
+[  +6.7s] Lorraine you there it what do you think the secret sound is?
+[ +11.1s] Yeah, some people have a handbag and that the strap comes down and it's never look a lock like a little magnetic block
+[ +18.3s] Yes
+[ +22.4s] No, that's not it. Sorry Lorraine
+[ +26.5s] It's a shame never my next time next time Lorraine
+[ +30.1s] Did you get my photos of the sunset the sunglasses? Have you sent some for oh wait hang on from the cruise ship?
+[ +37.1s] Yeah, send them from your other phone. Oh
+[ +39.4s] Oh the personal phone. I'm well, I'm gonna go and check that out right now. Yeah
+[ +44.8s] Yes, I'll report back to you after this song
+[ +48.8s] Lovely. All right
+[ +50.9s] Okay, Lorraine
+```
+
+### 21 Jun 2026 (segment at 2003 s, 2 play(s))
+Amounts said: $675
+
+```
+[ -44.0s] They don't know what to do.
+[ -43.0s] Oh, that's so beautiful.
+[ -41.0s] Now, do you give them to people?
+[ -39.5s] Do you keep them for yourself?
+[ -38.4s] What's the guy?
+[ -37.4s] I did it both.
+[ -36.4s] Keep them.
+[ -35.4s] Keep the bigger heads for myself for the seeds.
+[ -33.8s] But, yeah, share them around.
+[ -32.0s] How lovely.
+[ -31.0s] Cassie, we've got $675 up for grabs here.
+[ -27.8s] Now, what would you do with that cash if you wanted?
+[ -23.9s] I honestly don't know.
+[ -21.4s] Maybe put some lino in the kitchen because that could really do with that instead of
+[ -18.0s] a concrete floor.
+[ -16.8s] Very ugly.
+[ -15.0s] Tell you what, the lino looks really good.
+[ -13.5s] Like, it looks realistic these days.
+[ -12.2s] But you get...
+[ -11.2s] Oh, it's incredible.
+[ -10.2s] Yes.
+[  -9.2s] The timber flooring lino and all that sort of stuff.
+[  -6.8s] Yeah, there's some beautiful, beautiful patterns out there well and truly.
+[  -2.9s] Oh, let's give you some lino.
+[  -1.2s] Here we go.
+[  -0.2s] Here's a sacred sound.
+[  +0.8s] What do you think, Cassie?
+[  +1.8s] To me, it's sliding a battery onto her skin.
+[  +4.2s] It's like a drill or an angled grinder or a drop saw or something like that.
+[ +11.1s] That's what it sounds like, sliding that battery up into the skin of the appliance.
+[ +16.5s] Is it like one of those big thick ones?
+[ +19.5s] The chunky...
+[ +21.5s] The chunky sort of boxy rectangular battery.
+[ +24.5s] That's correct.
+[ +25.5s] What you use on your cordless drill and all your other outdoor tools.
+[ +29.3s] Oh, okay.
+[ +32.5s] Cassie, that is not the sacred sound.
+[ +35.0s] Okay.
+[ +36.0s] May I just say something?
+[ +37.2s] Of course.
+[ +38.2s] Years ago...
+[ +39.2s] Yeah.
+[ +40.2s] I won on your radio, a competition anyway.
+[ +44.0s] It was being stupid outside sort of thing.
+[ +47.0s] And I won and I bought a Makita drill and I love my drill.
+[ +52.9s] I use it at least once a week.
+[ +55.1s] Yeah, you still got it, eh?
+[ +56.9s] Oh, I love it.
+[ +57.9s] Before that, I had a little handyman drill and I played with hardwood.
+```
+
+### 22 Jun 2026 (segment at 538 s, 3 play(s))
+Amounts said: $700
+
+```
+[ -42.4s] How are you mate?
+[ -41.4s] Very good thank you.
+[ -40.4s] Whereabouts in this beautiful part of the Mid North Coast are you?
+[ -36.9s] Port Macquarie mate, it's heading to work.
+[ -34.9s] Yeah fantastic.
+[ -34.1s] What do you do for a crush Shane?
+[ -32.1s] Tree lopper mate.
+[ -30.8s] Go again?
+[ -29.6s] I'm a tree lopper.
+[ -28.1s] Oh fantastic.
+[ -27.2s] Hey that's a very important job.
+[ -24.4s] It is, it's very different.
+[ -22.6s] Yeah, very, what do you say, dangerous too?
+[ -19.8s] Yeah it is pretty dangerous.
+[ -18.2s] Crikey, look at you go.
+[ -16.2s] $700 mate, if I just flung that into your bank account right about now,
+[ -12.2s] what do you reckon you'd do with it?
+[ -10.6s] Oh I'll probably pay some bills mate.
+[  -9.0s] Yeah good stuff.
+[  -8.2s] Just that peace of mind.
+[  -6.9s] A couple of tons to be a two.
+[  -4.8s] Yeah sure, sure.
+[  -3.0s] Okay here we go mate, here it is.
+[  -1.5s] Here's The Secret Sound.
+[  +0.8s] It's driving everybody crazy.
+[  +2.2s] What do you think Shane?
+[  +3.8s] I think it's opening a can like a can of Coke or Red Bull or something like that.
+[  +8.5s] Yeah, let's have a listen again Shane.
+[ +12.5s] Mmmhmm.
+[ +13.9s] No Shane, sorry mate.
+[ +16.2s] No worries, thanks mate.
+[ +17.4s] Thanks having a crack.
+[ +18.5s] All the best today, see you.
+[ +20.2s] Hey mate.
+[ +20.8s] Take a sound.
+[ +21.4s] Back at 8 o'clock 1, triple 3, 5, 3 is the number to get involved.
+[ +24.9s] No it's not opening a can of Coke.
+[ +30.2s] Incorrect guesses for this thing go, and all of them by the way,
+[ +33.5s] go on the Sarge for Breakfast podcast at a listener.
+[ +36.4s] So have a listen to them to get closer to the cash.
+[ +39.4s] This is AAA Mid-North Coast Sarge here for Breakfast, Happy Tuesday.
+[ +42.9s] More on the other side of this.
+[ +44.4s] 10 to 7, welcome to the 6 o'clock club.
+[ +46.8s] What happens in the club?
+[ +47.6s] Stage in the club?
+[ +48.5s] It's AAA Mid-North Coast Sarge here for Breakfast.
+[ +51.2s] Then on 1 triple 3, 5, 3 a dear friend of mine Trish from Kemp's scene.
+[ +56.0s] Hello sir.
+[ +57.1s] How the devil are you?
+```
+
+### 22 Jun 2026 (segment at 1322 s, 1 play(s))
+Amounts said: $725
+
+```
+[ -43.1s] Maths.
+[ -42.1s] Maths?
+[ -39.9s] You really like maths, do you, Chase?
+[ -37.3s] Um, sort of, yeah.
+[ -35.9s] Sort of.
+[ -35.1s] What's your least favourite?
+[ -33.1s] Uh, science.
+[ -31.2s] Science, yeah, fair enough.
+[ -29.3s] See, maths was my least favourite.
+[ -26.9s] And recess and lunch was my favourite subject.
+[ -22.6s] Yeah.
+[ -21.6s] Yeah, good.
+[ -20.5s] Hey, 700 bucks, Chase.
+[ -18.3s] Um, what would you do with that, mate?
+[ -16.1s] That's a lot of money to win.
+[ -13.8s] No, no.
+[ -12.8s] Isn't it?
+[ -12.0s] I don't know.
+[ -11.1s] You don't know?
+[ -10.3s] A new bike.
+[  -9.5s] A new bike.
+[  -8.6s] You got a good bike at the moment, BMX or electric or what?
+[  -6.0s] Nah, it broke.
+[  -4.5s] Okay, oh yeah, well let's get a new bike for you, Chase.
+[  -1.6s] Here we go, mate, here's a secret sound.
+[  +0.5s] What do you think?
+[  +2.1s] A hole puncher.
+[  +3.5s] Mmm, Chase, no, it's not a hole puncher.
+[  +6.4s] Sorry, mate, but thanks for guessing.
+[  +8.9s] Yeah.
+[  +9.7s] Enjoy maths today.
+[ +11.9s] Yeah.
+[ +12.7s] Science, bye, Chase.
+[ +14.7s] Bye.
+[ +15.5s] See you, legend.
+[ +16.4s] Here you go.
+[ +17.4s] What a guy, Chase.
+[ +19.0s] Secret sound, back tomorrow morning, 6.30, eight o'clock.
+[ +21.2s] One triple three, five three is the number
+[ +22.9s] to get involved there.
+[ +24.4s] It's worth now $725.
+[ +27.5s] And the incorrect guesses so far for it
+```
+
+### 23 Jun 2026 (segment at 547 s, 2 play(s))
+Amounts said: $725
+
+```
+[ -42.4s] area you originated from?
+[ -40.0s] Oh, mate, just the peace and quiet, the beaches, you know, the beautiful weather.
+[ -34.6s] Like, yeah, just to get away from all the smog in the city.
+[ -30.4s] When you were in the city, what was the, I guess, best part about that for you?
+[ -23.7s] Um, not nothing much, mate.
+[ -20.4s] It was just, um, yeah, like, literally living out the west of Sydney and
+[ -16.4s] everything, but it's just, you know, it's peaceful out that way sometimes, you
+[ -12.6s] know, towards the mountains and everything.
+[ -11.0s] But yeah.
+[  -9.3s] Well, it's good to have you, uh, coming to the best part of the world.
+[  -6.0s] I've got $725 to give away, as you would know.
+[  -2.0s] So here is the secret sound was, uh, right there.
+[  +1.5s] Mate, what do you think for the cash?
+[  +3.3s] I'll give it to you if you're right.
+[  +5.1s] Would it be a spring loaded magnetic cabinet latch like you find on the, uh,
+[ +12.5s] kitchen cupboards?
+[ +13.6s] Mm-hmm.
+[ +14.6s] I know exactly what you're talking about.
+[ +18.8s] And we haven't had that guess yet, but it's not the secret sound.
+[ +22.8s] Sorry, was I?
+[ +23.6s] No, no, no, all good.
+[ +25.2s] No, we'll go back to the drawing board.
+[ +27.0s] Back to that drawing board, but you seem to go back to it quite a lot, don't we?
+[ +31.2s] Oh, yeah, certainly do.
+[ +34.4s] Mate, um, the safe travels, always good catching up.
+[ +37.7s] We'll talk later in the week, eh?
+[ +39.6s] We certainly will.
+[ +40.6s] Yeah, legend.
+[ +41.2s] There you go.
+[ +41.5s] There's Waza for a Waza Wednesday here at Triple E Mid-North Coast, the
+[ +44.8s] Sarge for Breakfast Show and the secret sound.
+[ +47.0s] It is back at eight o'clock on one hundred and three five three worth seven
+```
+
+### 23 Jun 2026 (segment at 1715 s, 2 play(s))
+Amounts said: $725, $750
+
+```
+[ -33.6s] Good morning William. Good morning Sarge. In Camp C? Yes. Yeah. Do you ever get Will I Am?
+[ -24.2s] Yeah sometimes. Do you like that? No I normally get called Will of Bill. What? Will of Bill? Yeah Bill.
+[ -16.0s] Okay explain that one to me. I'm not aware of that nickname. It's an old school nickname for William.
+[  -8.9s] Oh there you go. You learn something everyday don't you Will of Bill? Hey we got $725 up for grabs here. I'll give that cash to you if you can tell me what this sound is. What do you think?
+[  +1.7s] I reckon do you know like a tape recorder in like the office there? Mm-hmm I do know the tape recorder. We've got a few not in the actual office but probably in the storage shed for sure yeah.
+[ +13.8s] You think it's that? No no it's not Will I Am sorry mate but keep on trying back to the drawing board. That's okay. Good man. Have a good one guys. You too legend. Bye bye.
+[ +26.2s] Secret Sound it is back tomorrow morning up to 6.30 and 8 o'clock 1 triple 353 is the number to get involved. It's now worth $750 and all of the incorrect guesses so far for the Secret Sound go on the Sarge for Breakfast podcast at Listener.
+[ +43.4s] Alright well we've been doing this all morning and it's you know bittersweet in a sense because Aussie music great Daryl Braithwaite has announced he will step back from performing live.
+```
+
+### 24 Jun 2026 (segment at 398 s, 4 play(s))
+Amounts said: $750
+
+```
+[ -41.0s] I don't know. Is it my neighbours? I don't know.
+[ -38.0s] It's a triple A investigation. Anyway, we'll figure that one out later on, hey?
+[ -30.0s] But yeah, I'm wearing a shirt that's not mine. It's definitely not mine.
+[ -26.0s] And I took it off the clothes horse this morning.
+[ -24.0s] And I don't know how it's ended up on the clothes horse. Anyway.
+[ -20.0s] Ah, these things happen. We're going to do the secret sound next, OK?
+[ -15.0s] One triple three five three is the number to get involved with that.
+[ -12.0s] We've got $750 up for grabs.
+[ -10.0s] If you'd like the $750 cash, all you've got to do is correctly identify what this sound is on one triple three five three.
+[  +1.7s] There it is. We go once again for good luck.
+[  +3.7s] What do you think? One triple three five three.
+[  +9.4s] Guess that sound. If you correct, $750 is all yours next with the secret sound.
+[ +13.4s] All thanks to 40 Winx and Port Macquarie. Happy Thursday.
+[ +16.4s] Third edition of The Secret Sound.
+[ +23.3s] Thanks to 40 Winx Port Macquarie. Come in and see the team at Port Home Zone.
+[ +28.3s] 40 Winx. Serious about sleep.
+[ +30.3s] Hello, Ken. Good morning, mate. How are you?
+[ +34.3s] Ken, the traffic control man, eh? That's me.
+[ +37.3s] I've got a... Because look, what I want to do with every single listener and caller for this show,
+[ +45.3s] I want them to feel a part of the program.
+[ +47.3s] So we've got the I'm Just Ken song.
+[ +50.3s] But I'm thinking with you, mate, we could do Ken, Ken, Ken, Ken, Ken, Ken, Ken, Ken, Ken.
+[ +57.3s] See, I like that better.
+[ +58.3s] That's way better than the I'm Just Ken Ryan Gosling from Barbie.
+[ +62.3s] Yeah, I've been getting a lot of shit from that one.
+[ +65.3s] I bet. Oi, you really got me good with the Daryl Summers joke yesterday.
+[ +73.3s] You walked straight into that, mate, and I made it up on the spot.
+[ +76.3s] You walked straight into it.
+[ +79.3s] Is he OK, though? Because I genuinely thought maybe Daryl Summers might not be well.
+[ +86.3s] I don't know. All I know is he's got a dicky knee.
+[ +90.3s] A dicky knee. That was just tremendous. Tremendous.
+[ +94.3s] I was walking along the beach yesterday morning and somebody said,
+[ +98.3s] G, Ken got you good. You really you caught me off guard, mate.
+[+102.3s] You fell straight into it, buddy.
+[+105.3s] All right, let's give you 750 bucks, mate.
+[+108.3s] All you got to do is correctly identify what this sound is.
+[+111.3s] What are we thinking?
+[+113.3s] Is it clicking the button on top of a pen?
+[+117.3s] Clicking the button on top of the pen.
+[+120.3s] So it brings the ballpoint out.
+[+123.3s] No.
+[+124.3s] Getting the ball out. No.
+[+127.3s] That's not the case, Ken, Ken, Ken.
+[+130.3s] Have a great day, though. So what's on the cards for today?
+[+134.3s] I've done all night with this rain about.
+[+136.3s] We might get canceled, so we'll have to wait and see.
+[+139.3s] Right here. See you, mate.
+[+141.3s] Appreciate your contribution.
+[+143.3s] Hello, buddy. See you.
+[+144.3s] See you, legend.
+[+145.3s] Secret sound. Back at 8 o'clock, 1, 3, 3, 5, 3 is the number to get involved there.
+[+150.3s] 750 bucks up for grabs with the secret sound.
+```
+
+### 24 Jun 2026 (segment at 1579 s, 2 play(s))
+Amounts said: none
+
+```
+[ -44.2s] He really wants to go to Bluey World in Queensland.
+[ -42.1s] Oh my goodness.
+[ -40.7s] That's in Brisbane, yeah?
+[ -39.7s] Yeah, yeah.
+[ -38.7s] It would be a bit of a trip but sorry, he's screaming in the background right now.
+[ -31.6s] What's at Bluey's World?
+[ -30.2s] Is there the life size Bluey?
+[ -27.3s] What's the go?
+[ -26.3s] It's like the big house that you just go to and then you can buy stuff and everything
+[ -22.4s] like that there.
+[ -21.4s] I'm not too sure entirely but I've seen it on TV.
+[ -18.9s] Chloe, I don't have kids so I don't really watch Bluey but as a parent, do you enjoy watching
+[ -13.0s] it?
+[ -12.0s] Like is it a good kids TV show to watch the parent?
+[ -10.2s] I love watching kids shows so yeah, I do.
+[  -7.6s] I like it.
+[  -6.6s] Yeah, sweet as.
+[  -5.6s] Alright, let's get the cash.
+[  -4.6s] Here it is.
+[  -3.6s] 750 bucks.
+[  -2.6s] I'll give it to you if you can correctly identify what this sound is.
+[  +1.2s] What do we think in this morning Chloe?
+[  +3.8s] Is it the sound of a seatbelt like going in, like clicking in?
+[ +11.5s] Chloe, no.
+[ +12.5s] It's not.
+[ +13.5s] Damn.
+[ +14.5s] Can you please keep on thinking, keep on trying.
+[ +19.7s] It sounds so wholesome what you do with the cash, okay?
+[ +22.2s] Yeah, okay.
+[ +23.2s] Thank you for that.
+[ +24.2s] Good on you Chloe.
+[ +25.2s] Have a good one.
+[ +26.2s] Thanks.
+[ +27.2s] Bye.
+[ +28.2s] Secret Sound, back tomorrow morning, 6.30, 8 o'clock 1, triple 353 is the number to get
+[ +32.0s] involved there and all the incorrect guesses so far.
+[ +35.7s] For the Secret Sound, go on the Sarge for Breakfast podcast at listener.
+```
+
+### 26 Jun 2026 (segment at 432 s, 3 play(s))
+Amounts said: none
+
+```
+[ -43.0s] on down say good day tomorrow War Hope might attend 9 a.m. till midday and
+[ -37.3s] Carlo good friend of the show he said he was gonna bring me a caramel latte you
+[ -31.8s] don't have to mate but um I am kind of looking forward to it now that you've
+[ -28.2s] put that in my in my brain coming up on the search for breakfast show we'll get
+[ -18.9s] the absolute latest in your local news sport and weather plus a beach and surf
+[ -14.9s] update from Hutto then we'll play the secret sound all right I've got seven
+[ -10.5s] hundred and seventy five dollars to give away if you want that cash right now
+[  -7.4s] all you got to do is call one triple three five three right now and correctly
+[  -2.4s] identify what this sound is once again for good luck what do you think one
+[  +4.1s] triple three five three have a go seven hundred and seventy five bucks
+[ +10.1s] be nice heading into the weekend thanks to 40 wings port Macquarie it's the
+[ +16.7s] early bird edition of the secret sound thanks to 40 wings port Macquarie come
+[ +22.4s] in and see the team at Port Home Zone 40 wings serious about sleep oh happy
+[ +27.3s] Friday Pete on one triple three five three mate going really bloody well
+[ +34.3s] have you got big plans for today you're doing the the soccer Ruus icky what do you
+[ +45.9s] do again for a crust Pete well we got a terrible phone line you said chippy
+[ +52.3s] though didn't ya yeah chippy beautiful stuff mate beautiful stuff seven hundred
+[ +57.2s] and seventy five bucks heading into the weekend that'd be alright have your
+[ +61.0s] plans changed as to what you would do with it nah righty oh okay mate what we'll
+[ +70.1s] do we just got the worst phone line ever but that's okay we're still gonna do
+[ +73.7s] this we're gonna push through here is the secret sound Pete that's it right
+[ +78.4s] there what do you think oh did you say electric kettle okay no sorry mate yeah
+[ +92.4s] hey have a good one there legend by there you go this Pete through the
+[ +97.7s] secret sound it's back an eight o'clock one triple three five three as I said to
+[+101.3s] get involved there and all the incorrect guesses so far for the secret sound go
+[+104.6s] on the sarge for breakfast podcast at listener it is Friday morning the 26th of
+```
+
+### 26 Jun 2026 (segment at 1362 s, 2 play(s))
+Amounts said: $775
+
+```
+[ -40.5s] So come in and see the team at Court Home Zone. 40 Winx, serious about sleep.
+[ -36.2s] Okey dokey, we've got Taylor on 13353. Good morning.
+[ -30.7s] Hi, how are you going?
+[ -29.5s] I am going really well, thank you. How are you? What's going on? Where abouts are you calling from?
+[ -23.6s] Port Macquarie.
+[ -21.5s] And are you off to work today or what are you doing? I can hear you're in the car at the moment.
+[ -17.2s] Yeah, no, I've got all the kids in the car with me and we're just doing school drop off.
+[ -11.4s] Um, hi kids. Hello kids.
+[  -8.2s] Hello.
+[  -7.4s] Hey, cool house, I love it. Okay, so you've all been putting your heads together to try and figure
+[  -3.1s] out what this secret sound is. Here it is. If you're right in correctly identifying what it is,
+[  +3.7s] I'll give you $775. Taylor, what do you think?
+[  +7.5s] Yeah, that sounds good. Hopefully, hopefully it's not, but we'll see.
+[ +12.5s] What do you think it is?
+[ +14.3s] I am thinking it is the button that you press at the crossing for the traffic lights.
+[ +21.6s] Oh yeah, okay, let's have a listen again.
+[ +26.8s] We haven't had that guess, so that's a good start, but not it. Sorry,
+[ +30.0s] Taylor, back to the drawing board.
+[ +32.6s] Thank you.
+[ +33.4s] Enjoy school kids, bye.
+[ +35.7s] Say bye.
+[ +36.7s] There you go. Secret sound. It is back on Monday up to 638 o'clock at 1 triple 3 5 3.
+[ +43.5s] All of the incorrect guesses so far for it. Go on the Sarge for Breakfast podcast at a listener.
+[ +49.5s] Happy Friday, this is triple A Mid-North Coast. Sarge here for breakfast.
+[ +52.7s] More on the other side of this.
+```
+
+### 28 Jun 2026 (segment at 601 s, 2 play(s))
+Amounts said: $800,
+
+```
+[ -41.8s] he came and got me a coffee but he said that that was a bloke, sounds like a top bloke and
+[ -35.5s] I want to catch up with him soon and I said well you know what, he's moving to Kempsey
+[ -30.8s] in a couple of weeks time. Yes, although it'll be good, we'll be able to catch up with
+[ -26.0s] everybody. Yeah, well I think we need to do some 6 o'clock club breakfast club meet up,
+[ -20.1s] you know, get everyone together. Oh I reckon that would be great, yeah we can get Aunty
+[ -16.5s] Julia in and we can get Chris and... Lorraine. Yes Lorraine, young Cooper, yeah. The traffic
+[  -9.1s] controller man, we've got an army don't we? We certainly have. Mate, let's get you some
+[  -3.5s] cash $800, all you've got to do is tell me what this sound is, what do you think? Could
+[  +3.1s] it be turning a switch on or off on a powerpoint or a power board? Have a listen again.
+[ +12.4s] Oh mate, it sounds exactly like it, no it's not it though sorry. It was safe travels on
+[ +20.4s] the roads, always good hearing your voice. No worries, catch up soon. See ya legend bye.
+[ +25.0s] Secrets down, back at 8 o'clock 1.353 is the number two call to get involved there,
+[ +31.2s] Port Macquarie and also incorrect guesses for the Secrets Down go on the Sarge Breakfast
+[ +36.4s] Podcast at least, so check them out to get closer to the cash. Up next we're going to
+[ +41.3s] talk about winning the ultimate origin experience at home just for texting the show. Standby.
+```
+
+### 28 Jun 2026 (segment at 1418 s, 1 play(s))
+Amounts said: $800, $825
+
+```
+[ -44.8s] So go in and see the team at court home zone.
+[ -42.6s] 40 Winks, serious about sleep.
+[ -40.5s] Shh.
+[ -39.2s] Oh, Nicky, good morning.
+[ -36.9s] Good morning, how you going?
+[ -35.7s] Very well, thank you.
+[ -34.6s] You are in the car.
+[ -33.5s] Are you on your way to work, Nicky?
+[ -31.6s] I am, yes.
+[ -30.3s] Ah, what do you do for a crust?
+[ -27.9s] Ah, I am an assistant property manager.
+[ -24.8s] Assistant property manager?
+[ -22.8s] Oh, I help all the girls out in the office.
+[ -20.3s] Oh, wonderful.
+[ -19.2s] Very good. Yes.
+[ -17.8s] Let's get you some cashola.
+[ -15.6s] $800.
+[ -13.5s] What do you do with that cash if you want it, Nicky?
+[ -11.1s] I really wanna go on a little holiday.
+[  -8.3s] Where do you want a holiday?
+[  -5.5s] Just maybe the Gold Coast.
+[  -3.8s] The Goldy, okay.
+[  -2.4s] Very good.
+[  -1.5s] Here is the secret sound.
+[  +1.3s] What do you think?
+[  +3.2s] I think pushing play on a vinyl player.
+[  +6.2s] Oh, Nicky, no.
+[  +7.8s] But, no, it's not.
+[  +9.9s] You said something though in that answer
+[ +12.1s] that really excited me.
+[ +15.2s] Yeah.
+[ +16.7s] So, yeah.
+[ +18.3s] Just do it with that information as you will.
+[ +20.2s] And the incorrect guesses all go on the podcast at Listener.
+[ +22.9s] Nicky, have a great day.
+[ +23.8s] Thank you.
+[ +24.7s] Thank you.
+[ +25.5s] See ya, legend.
+[ +26.3s] Secret Sound, it's back.
+[ +27.4s] Tomorrow morning after 6.30 and 8 o'clock,
+[ +29.1s] 1.35.35.3.
+```
+
+### 29 Jun 2026 (segment at 492 s, 2 play(s))
+Amounts said: none
+
+```
+[ -40.8s] edition of the secret sound
+[ -38.2s] Thanks to 40 weeks Port Macquarie come in and see the team at Port home zone 40 weeks serious about sleep
+[ -23.7s] Lorraine Lorraine is a rainy day. No, it's maybe a possible shower. How are you Lorraine? No?
+[ -17.4s] Oh, thank you very much. How about you judge you're going good. I am going fantastic this morning
+[ -11.2s] That's the way that's the way because I've got eight hundred and twenty five dollars Lorraine that I would like to give to you
+[  -3.8s] Yeah, okay. So what do you think this is secret sound is there it is. I'll go once again for good luck
+[  +3.5s] Yeah, where are we leaning today?
+[  +6.5s] I'm leaning in the garden this thing. Yeah, maybe second tears and you're pruning the roses or something
+[ +14.9s] That's right
+[ +16.4s] Trimming the hedges potentially. Oh dear. Yes, that's right. Yes the second tears
+[ +22.2s] Yes, the second is yes
+[ +24.6s] You gotta you gotta say with an accent that yeah, oh you do. Yes exactly. You know the second is
+```
+
+### 29 Jun 2026 (segment at 1544 s, 2 play(s))
+Amounts said: $825,
+
+```
+[ -42.4s] Yeah, absolutely
+[ -41.4s] Certainly
+[ -40.4s] Um, where's your calling from?
+[ -38.4s] I've got my plumbing gear with it
+[ -37.4s] Port Macquarie
+[ -36.4s] Port Macquarie, alright
+[ -35.4s] And what do you say?
+[ -33.4s] Buy some what?
+[ -32.4s] Plumbing gear
+[ -31.4s] Plumbing gear
+[ -30.4s] Plumbing gear
+[ -29.4s] Yeah, I'm a plumber
+[ -28.4s] Oh, good stuff
+[ -27.4s] Actually have you worked on my pipes?
+[ -23.4s] Haha, no comment, no
+[ -19.4s] Have you called the show before?
+[ -17.4s] Uh, yeah I have
+[ -16.4s] Ok, right, I've got a lot of plumbers who call the show, that's all
+[ -12.4s] No, no, it was ages ago
+[ -10.4s] Oh right, yeah, cause I've had a lot of plumbers who have come to the house
+[  -7.4s] Anyway, mate, we're getting off track
+[  -5.4s] Let's do this
+[  -4.4s] $825, I'll give it to you right now
+[  -2.4s] If you correctly identify what this out is
+[  -0.4s] What do you think?
+[  +0.6s] Mate, opening the sunglass compartment above your head in a car
+[  +4.6s] Ooh
+[  +5.6s] Too echo-y
+[ +11.8s] Yeah, a bit too tinny for my liking
+[ +13.8s] Unless it's a really, like, crap car
+[ +16.8s] That's got that
+[ +17.8s] Yeah
+[ +18.8s] Not a shame, crap cars
+[ +19.8s] Anyway mate, have a good one
+[ +20.8s] Cheers, Harch
+[ +21.8s] Good on ya
+[ +22.8s] Ok, secret sound
+[ +23.8s] It is back
+[ +24.8s] Tomorrow morning, 6.30, 8 o'clock
+[ +26.8s] 1, triple 3, 5, 3
+[ +27.8s] The numbers are getting involved
+[ +28.8s] It's now worth 850 bucks
+[ +30.8s] All the incorrect guesses for this thing so far
+[ +32.8s] Got on the Sarge for breakfast podcast at Lister
+[ +35.8s] Ok, let's catch up with our techspert, Mr Trevor Long
+```
+
+### 01 Jul 2026 (segment at 519 s, 2 play(s))
+Amounts said: none
+
+```
+[ -45.0s] I sort of do a similar thing, not truck driving.
+[ -41.1s] But that sort of early finish in the day,
+[ -38.5s] it's good to have your afternoons.
+[ -36.5s] It is, especially when the weather's good
+[ -35.0s] and you go to the beach.
+[ -34.1s] Oh, stop it.
+[ -33.3s] What's your go-to beach?
+[ -30.9s] Town beach.
+[ -30.1s] Town, yeah, OK.
+[ -28.0s] I dabble.
+[ -26.5s] I dabble here and there.
+[ -25.4s] I'm a Flynn's guy.
+[ -24.3s] Anyway.
+[ -23.5s] Absolutely, yeah.
+[ -22.6s] Yeah, yeah, yeah.
+[ -21.8s] Mate, here we go.
+[ -20.9s] 850 bucks.
+[ -20.1s] I mean, what would you do with that cash if you wanted?
+[ -17.3s] Probably spend some money on your son's go-kart.
+[ -15.4s] He likes the go-kart race.
+[ -14.3s] So that's always expensive.
+[ -12.4s] Yeah, it is.
+[ -10.3s] Fun thing to be a part of, though.
+[  -8.9s] It's a good community, the go-karting, isn't it?
+[  -6.9s] It is.
+[  -6.5s] It's very good.
+[  -6.0s] Yeah, yeah, yeah.
+[  -5.5s] Great.
+[  -5.1s] All right, here we go.
+[  -4.4s] Well, let's do that.
+[  -3.5s] That sounds great.
+[  -2.3s] That's a secret sound.
+[  -1.1s] I'll just go once again.
+[  +0.5s] What do you think, mate?
+[  +2.0s] Is it pushing the space button, the space bar on the keyboard?
+[  +9.4s] No, but, mate, I think the last three people who have caught
+[ +14.4s] up for the secret sound have been saying the right words.
+[ +18.2s] We'll just put it that way.
+[ +20.2s] But not completely right, obviously.
+[ +23.3s] Yeah, OK, guess.
+[ +24.7s] Good man.
+[ +25.7s] Have a good one.
+[ +26.5s] See you, legend.
+[ +27.3s] Bye.
+[ +27.9s] The secret sound, it is back at 8 o'clock.
+[ +30.2s] 1, triple 353 is the number to get involved with that.
+[ +33.2s] We do put all the incorrect guesses for it, too, by the way,
+[ +35.5s] on the Sarge for Breakfast podcast at listener.
+```
+
+### 01 Jul 2026 (segment at 1490 s, 2 play(s))
+Amounts said: $850, $875
+
+```
+[ -44.1s] So there you go.
+[ -42.7s] International Reggae Day.
+[ -41.4s] That's on this day for the first of July.
+[ -36.3s] Thanks to 40 Winx Port Macquarie.
+[ -34.4s] So no minute to see the team at court home zone.
+[ -32.3s] 40 Winx, serious about sleep.
+[ -28.8s] Hey, good morning, Chloe.
+[ -27.0s] Morning.
+[ -26.4s] Isn't it an exceptional day?
+[ -23.7s] Yeah, it's really nice out today.
+[ -22.2s] What are you going to do?
+[ -20.4s] Not much, really.
+[ -19.4s] I've just got the kids off daycare and stuff,
+[ -17.5s] but they're sick at the moment.
+[ -16.2s] So yeah.
+[ -14.9s] Just tune.
+[ -14.1s] You're doing well.
+[ -12.9s] Yeah, we have been for a while.
+[ -10.8s] Deary me, well, maybe $850 could perk up the spirits
+[  -6.4s] and we can celebrate when we're feeling a bit better.
+[  -3.8s] That would be good.
+[  -2.9s] Yeah, all right.
+[  -1.9s] Here is the secret sound.
+[  +0.6s] What do you think it is this morning?
+[  +2.8s] Is it the lock on a tape measure?
+[  +5.7s] Oh, yeah, OK.
+[  +9.5s] Yeah, when you lock it so it can stay erect.
+[ +13.8s] Yeah.
+[ +15.4s] No, it's not.
+[ +16.7s] No, that's all right.
+[ +18.1s] I'll keep trying.
+[ +18.8s] Keep on trying.
+[ +19.5s] Thank you.
+[ +20.4s] Hope the kids get better.
+[ +21.4s] Bye.
+[ +21.9s] Thank you.
+[ +22.4s] Bye.
+[ +22.9s] Secret Sound back at 6.30, 9 o'clock tomorrow morning
+[ +26.2s] on 1 triple 353.
+[ +28.5s] It's now worth $875.
+[ +32.3s] And a reminder, all the incorrect guesses
+[ +33.7s] so far for the Secret Sound.
+[ +34.8s] Go on the Sarge for Breakfast podcast at listener.
+[ +37.7s] All righty, let's do Sarge's Angels next.
+```
+
+### 01 Jul 2026 (segment at 555 s, 2 play(s))
+Amounts said: none
+
+```
+[ -44.3s] who wants to sing Daddy Cool?
+[ -42.3s] And about five of us jumped up there.
+[ -40.3s] He said, oh, you can't all be up here.
+[ -38.3s] He said, the first one to salute the crowd with your buxom arched cheeks gets to sing it.
+[ -31.3s] So I dropped them, dropped the pack, shown everybody my better face.
+[ -26.3s] And as I looked to my right, nobody else did it.
+[ -22.3s] You all stitched up.
+[ -21.3s] So I got to sing the song.
+[ -18.3s] This actually sounds legit.
+[ -15.3s] Are you pulling my leg or are you being serious?
+[ -11.3s] I'm being serious.
+[ -10.3s] I never lie about things like that.
+[  -7.3s] Well, thank you for the insight, Flash.
+[  -5.3s] Yeah, it doesn't surprise me at all, actually.
+[  -2.3s] 875 bucks, mate.
+[  -1.3s] Let's give it to you.
+[  -0.3s] What do you think that sound is?
+[  +2.7s] Did you play it?
+[  +3.7s] Yeah, here.
+[  +4.7s] I know, stapler.
+[ +12.3s] No, it's not Flash.
+[ +13.3s] Hey, nice talking to you, man.
+[ +15.3s] Nice for you to talk to me again.
+[ +17.3s] Don't be a stranger.
+[ +18.3s] See you, aliens are watching.
+[ +20.3s] See you, Flash.
+[ +21.3s] Right here.
+[ +22.3s] Thank you.
+[ +23.3s] Bye.
+[ +24.3s] There you go.
+[ +25.3s] Wow.
+[ +26.3s] Secret Town, back at 8 o'clock.
+[ +27.3s] 1, triple 353 is the number to get involved there.
+[ +29.3s] We do put all the incorrect guesses to for it, by the way,
+[ +32.3s] on the Sarge for Breakfast podcast at listener.
+[ +35.3s] Alrighty, if you want to win the Ultimate Origin Experience at home,
+```
+
+### 01 Jul 2026 (segment at 1325 s, 2 play(s))
+Amounts said: $875
+
+```
+[ -43.6s] Mummate, Rebecca, how are you doing?
+[ -41.4s] I'm good, Sarge. How are you?
+[ -39.8s] Yeah, good. Do you get Beck?
+[ -36.8s] Yeah, all the time.
+[ -35.6s] Do you get Becker?
+[ -33.2s] No, no.
+[ -31.8s] So you just do you get anything else outside of Rebecca or Beck?
+[ -27.8s] No, that's it.
+[ -26.6s] Yeah, sort of hard to do anything else, isn't it?
+[ -23.3s] How's life? How's things been going?
+[ -21.3s] It's been a little while since we've had a little chinwag.
+[ -19.0s] Yeah, good, good. Working hard.
+[ -16.7s] Good. Here we go.
+[ -15.2s] Let's give you some cash. $875.
+[ -12.2s] I mean, if you do get it, what's the mind go to first as far as spending?
+[  -6.9s] Oh, it's nearly school holidays.
+[  -4.1s] So maybe something fun for the kids.
+[  -2.4s] Come in very handy.
+[  -0.8s] All right, here we go.
+[  +0.6s] There it is.
+[  +1.7s] What do you think?
+[  +3.2s] I reckon it's pushing a jacked on the tape player.
+[  +9.8s] No, Rebecca.
+[ +11.6s] It's not. But did you hear the little shutter in my voice just then?
+[ +15.1s] I did.
+[ +16.5s] Hmm.
+[ +18.5s] Yeah, I got I don't think I got butterflies.
+[ +21.3s] Something happened.
+[ +22.1s] My heart started racing. It was weird.
+[ +26.0s] I had two guesses, but yeah,
+[ +29.2s] I know you could be very close, Rebecca.
+[ +32.4s] Anyway, have a good one. We'll talk soon.
+[ +34.7s] Thank you.
+[ +35.4s] See you by Secret Sound.
+[ +37.7s] It is back tomorrow morning after six thirty and eight o'clock on one trip
+```
+
+### 02 Jul 2026 (segment at 423 s, 3 play(s))
+Amounts said: $900
+
+```
+[ -35.3s] One triple three five three. Good morning. Who is this? Hey Barnzy Sarge happy birthday. Oh Barnzy brother
+[ -28.2s] Thank you so much. I appreciate it
+[ -26.2s] Yeah, it should be an absolute cracker. I might see you out and about later on tonight. Hey
+[ -17.0s] Hey
+[ -16.0s] Not a legend just just a dude with a microphone and love playing some music and love giving away some cash. All right, 900 bucks
+[  -8.6s] $900 I want to give that away to you right now
+[  -5.9s] So one triple three five threes number call through and correctly identify what this sound is
+[  +0.4s] Yeah, if you're right, we'll give you that cash it's all thanks to 40 winks Port Macquarie once again
+[  +6.7s] One triple three five three. What do you reckon that sound is guess it right?
+[ +10.5s] And it's all yours on the 3rd of July Friday my birthday giving giving back
+[ +18.0s] Yeah, good. I mean, I'd love to give it to myself. Take me wrong, but I'd love to give it to you
+[ +25.8s] It's the early bird edition of the secret sound
+[ +29.0s] Mm-hmm. Thanks to 40 winks Port Macquarie come in and see the team at Port Home Zone 40 winks serious about sleep
+[ +36.1s] The great man can the traffic control man is on line one right now. Good morning legend
+[ +46.8s] Thank you mate, hang on let me do something for you hang on
+[ +50.8s] Can can can can can can can can can can can can can can can can can can can can can can
+[ +57.4s] Can can can can can can can can
+[ +61.8s] There you go, there's your intro mate, I'll put a bit more effort in and produce it up, but that's a live rendition for you sir
+[ +69.3s] It will do
+[ +71.6s] Those nights are too high to hit this hour of the morning. How's life?
+[ +76.0s] It's pretty good. It's Friday
+[ +78.4s] Weekends coming have a few coldies might have one for you beautiful
+[ +83.5s] Where am I going tonight? Well mates?
+[ +86.2s] I'll tell you off the air. How's that sound?
+[ +89.5s] Yeah, love to catch up with you
+[ +93.9s] Nine hundred dollars Ken. What are we doing that?
+[ +98.0s] Put it towards a holiday in November up to see the kids at
+[+102.2s] Queensland beautiful where abouts in Queensland is is that?
+[+107.4s] They're cool and gather actually. Oh, yeah beautiful part of the world. Yeah
+[+113.4s] Here we go Ken
+[+115.5s] That's the sound right there. What do you think?
+[+117.9s] Is a pressing play on a cassette player?
+[+122.1s] No Ken
+[+126.9s] No, Ken, it's not but I reckon the past six people who have guessed the secret sound have been saying
+[+135.3s] Really good things so that's a little um
+[+137.4s] You know idea for the listeners to go back to the podcast and listen to the incorrect guesses to get close to that cash
+[+143.5s] You know what I mean?
+[+144.7s] I know what you mean and I wish them all the luck mate, and I hope you have another I don't know 80 birthdays
+```
+
+### 02 Jul 2026 (segment at 1570 s, 3 play(s))
+Amounts said: $900, $925
+
+```
+[ -43.7s] Go and say good day to Chrissy a really wonderful friend of mine and we all helped her out too
+[ -35.0s] During what she's been going through
+[ -32.1s] And secrets down it's coming up as well by the way one triple three five three has enough to get involved there with that
+[ -26.8s] $900 up for grabs this morning
+[ -24.8s] Good morning. This is the mid-north coast triple-m. It is a Sarge here for breakfast coming up to
+[ -18.6s] Eight o'clock will do the latest in your new sport and weather plus a beach and surf update
+[ -13.4s] From huddle and then we'll play the secret sound
+[ -10.2s] One triple three five three is the number to get involved there got $900 up for grabs
+[  -5.0s] All you got to do is correctly
+[  -2.7s] identify what this sound is
+[  +0.5s] boom
+[  +2.5s] It's gonna take me just a little bit of time to
+[  +6.0s] fully
+[  +7.3s] process and recover not recover, but just
+[ +11.2s] Take in what lovely Chrissy just did a second ago. She called up the show and said hey, I'm at the front
+[ +16.4s] I've got something for you and it was a very very beautiful birthday present
+[ +21.1s] So um, there's a lot of kindness going on here this morning. It's lovely. It's great to see again one triple three five three
+[ +28.8s] What is this sound?
+[ +30.5s] If you correct, I'll give you 900 bucks. Good morning. Secrets out next
+[ +36.8s] Thanks to 40 weeks port Macquarie
+[ +39.2s] See the team at court home zone 40 weeks serious about sleep. Oh
+[ +44.6s] What a morning it's been and the producers have just flicked over
+[ +51.0s] To me on the phone lines right now. Very very dear friend of mine Chloe Lang. How are you Chloe? I'm good
+[ +58.7s] How are you? Yeah, I'm good. Have you got little Layla there with you?
+[ +61.9s] You guys you guys don't realize the morning I have had
+[ +76.5s] Is Jim Bob there as well did I hear Jim?
+[ +80.2s] brother
+[ +82.2s] Yeah, wow. I mean gosh you guys are the best
+[ +85.9s] And I love having you guys in my life and it's great. It's it's weird that we're talking on the radio right now
+[ +96.6s] Hey
+[ +99.0s] I don't think you're gonna get it and I don't think I can give the secret sound away to friends
+[+103.0s] But let's just have a crack for a bit of fun. 900 bucks. What do you think this sound is?
+[+111.9s] You know, I hate it when people say that
+[+116.2s] That's what I'm good at legends I will see you later on this afternoon and tonight, okay
+[+135.6s] The secret sound it is look not back on Monday. That is no talk day
+```
+
+### 06 Jul 2026 (segment at 734 s, 1 play(s))
+Amounts said: $925
+
+```
+[ -44.5s] that's going to give them a good time?
+[ -41.7s] Oh, we've got a couple of kids over at Warholt.
+[ -38.5s] And I want to check out the escape rooms again.
+[ -35.2s] Oh, the escape rooms.
+[ -33.1s] Whereabouts?
+[ -32.6s] The ones in Port Macquarie?
+[ -30.8s] Yeah.
+[ -29.9s] Yes, they're pretty good.
+[ -28.9s] I did one of them.
+[ -27.7s] Gee, I reckon it would have been, yeah, this time last year.
+[ -24.0s] Very, very fun.
+[ -22.8s] Bit stressful, but very fun.
+[ -19.5s] Yeah, I did one with the boys a few months ago.
+[ -16.3s] I think we managed to get out with two minutes to spare
+[ -13.7s] or it was a full-on event, but something I'd love to do again.
+[ -10.9s] Right down to the wire.
+[  -9.7s] I love that.
+[  -8.6s] Okey dokey, Geoff.
+[  -7.5s] Let's give you a bit of holiday spending money as well.
+[  -4.4s] $925 is up for grabs.
+[  -1.9s] All you've got to do is tell me what this sound is.
+[  +1.2s] What do you think, Geoff, the chef?
+[  +3.4s] Sarge, is that the kettle button?
+[  +5.2s] Pressing the button on the kettle?
+[  +6.6s] No, it's not.
+[  +8.1s] Oh, it's broken.
+[  +9.7s] Sorry, Mum.
+[ +10.6s] I wish I was.
+[ +11.8s] Anyway, enjoy the rest of the school holidays, Geoff.
+[ +14.1s] We'll talk soon, legend.
+[ +15.8s] Love it.
+[ +16.6s] Thanks, Sarge.
+[ +17.4s] Good man.
+[ +18.2s] Secret sound.
+[ +19.2s] It is back at 8 o'clock once with three, five, threes,
+[ +22.1s] and I'm to get involved there.
+[ +23.5s] It's worth $925 and all the incorrect guesses
+[ +26.3s] so far for this thing.
+[ +27.5s] Go on the Sarge for breakfast podcast at listener.
+```
+
+### 06 Jul 2026 (segment at 1453 s, 1 play(s))
+Amounts said: $925,, $950
+
+```
+[ -43.5s] Sarge for breakfast.
+[ -41.8s] Your old triple lift.
+[ -40.0s] Secret sound.
+[ -36.8s] Thanks to 40 Winks Port Macquarie.
+[ -34.9s] So go in and see the team at Court Home Zone.
+[ -32.8s] 40 Winks, serious about sleep.
+[ -30.7s] Ah, Jimbo, how are you, mate?
+[ -28.3s] Good, mate, how you going?
+[ -27.3s] Oh, bloody fantastic.
+[ -25.9s] I'd love to give you a lot of...
+[ -24.8s] Your birthday.
+[ -23.8s] How was the rest of it, mate?
+[ -22.5s] It was sensational.
+[ -20.6s] It was quite the celebration.
+[ -19.2s] I call it the Festival of George, the Festival of Sarge.
+[ -15.7s] Very good.
+[ -14.3s] Yeah, just... It's the one time of the year I decide to be a little bit self-indulgent.
+[ -10.6s] You know what I mean?
+[  -9.6s] Well, that's all right, mate.
+[  -8.6s] Yep.
+[  -7.6s] Everyone's allowed that.
+[  -6.6s] Comes around once a year.
+[  -5.6s] It's good.
+[  -4.6s] $925, man.
+[  -3.6s] I want to give it to you.
+[  -2.6s] So here is the secret sound.
+[  -1.6s] I'll play it nice and loud for you.
+[  +0.8s] What do you think, Jimbo?
+[  +1.8s] Mate, I think it might be pushing the freshness feel on the top of a preservative jar like
+[  +6.2s] I open, like a beetroot tin.
+[  +7.6s] Mm-hm.
+[  +8.6s] Like a beetroot.
+[  +9.6s] Yeah, man.
+[ +10.6s] Oh, we haven't had that guess yet.
+[ +12.9s] I mean, you said a lot of really good things in there, but it's not the secret sound.
+[ +16.5s] I keep on trying, though.
+[ +17.5s] No worries.
+[ +18.5s] Cheers, mate.
+[ +19.5s] Thank you.
+[ +20.5s] See you, Jimbo.
+[ +21.5s] Secret sound back tomorrow morning after 6.30 and 8 o'clock on 1.333.
+[ +24.5s] It's now worth $950.
+[ +25.5s] And all the incorrect guesses so far for the secret sound.
+[ +28.7s] Go on the Sarge for breakfast podcast at Listener.
+```
+
+### 13 Jul 2026 (segment at 471 s, 2 play(s))
+Amounts said: $950
+
+```
+[ -44.2s] Yeah, not too bad. Relaxing. Yeah.
+[ -41.4s] Good stuff.
+[ -40.4s] Keith, have you heard of the song called Keith?
+[ -37.4s] I have. I don't think you can play it, but...
+[ -35.4s] No.
+[ -33.6s] Well, I'm glad you've heard it, because if you haven't, I was about to share with you
+[ -30.2s] a pretty sensational tune.
+[ -27.6s] Yeah.
+[ -25.0s] What a song.
+[ -24.0s] Anyway, here we go, mate. Let's give you $950.
+[ -21.2s] I mean, what would you do with that cash if you wanted, Keith?
+[ -18.6s] Well, I'd probably buy a slab and then I'd probably give the rest of the Minister for War
+[ -13.7s] and Foreign Answer, let him play some tunes.
+[ -10.8s] Could you put it towards a trailer?
+[  -9.0s] Yeah, yeah.
+[  -7.0s] That's Stonepark in more spots.
+[  -5.6s] No.
+[  -4.6s] That's right.
+[  -3.6s] Good stuff, Keith.
+[  -2.4s] Here we go.
+[  -1.4s] Here's The Secret Sound.
+[  +0.2s] What do you think, mate?
+[  +2.0s] Is it pushing the buttons on an old school type deck?
+[  +6.2s] Let's have a listen again.
+[  +8.2s] No, mate.
+[  +9.2s] But you said some really, yeah, good words in there that could lead to what the actual
+[ +14.6s] Secret Sound is.
+[ +16.2s] Yep, not a problem.
+[ +17.4s] Get on you, Keith.
+[ +18.6s] All right, thanks, Sarge.
+[ +19.6s] See you, legend. Bye.
+[ +20.6s] Secret Sound back at 8 o'clock, lunch with 353s and I'm to get involved there.
+[ +25.2s] We do put all of the incorrect guesses too, by the way, for this thing on the Sarge
+[ +29.4s] for Breakfast podcast at least.
+[ +30.8s] So check that out to get closer to the cash.
+[ +33.6s] Up next, we're going to talk about the official launch of our MMM beer.
+```
+
+### 13 Jul 2026 (segment at 1147 s, 3 play(s))
+Amounts said: $950
+
+```
+[ -44.1s] Thanks to 40 Winks Port Macquarie.
+[ -41.5s] So come in and see the team at Court Home Zone. 40 Winks, serious about sleep.
+[ -37.2s] Oh good morning to you Chloe how you doing?
+[ -34.2s] Yeah not too bad how are you?
+[ -32.8s] Yeah I'm pretty good how was the weekend?
+[ -30.6s] Yeah not too bad just went on like the mini trains that they had at the Yip and Crete Railway. Took my kids on there.
+[ -24.6s] The kids love them don't they?
+[ -22.4s] Yeah we've been like the last three times.
+[ -20.0s] Such a simple idea but brings so much joy.
+[ -17.2s] Yeah.
+[ -15.6s] $950 Chloe what are we going to do with that Cash? Should we win it?
+[ -12.2s] Oh sorry you could hit in the background again.
+[  -9.0s] Just yeah still want to go to Bluey's World so that's the plan hopefully I can run some for that.
+[  -4.6s] Yes let's get you to Bluey's World. Okay here is the secret sound Chloe.
+[  +0.6s] What do you think?
+[  +2.6s] Is it like the latch opening of a toolbox?
+[  +7.1s] Okay.
+[  +8.8s] I've been doing a lot of work on the ute lately and I do have a toolbox that would make a similar sound to that.
+[ +15.0s] It's a good guess, a nice try but not good enough sorry Chloe.
+[ +19.2s] No that's alright I'll try again.
+[ +20.8s] Good, good stuff talk to you. Bye.
+[ +22.8s] Thanks to you.
+[ +23.6s] Have a great week. Secret sound it is back tomorrow morning after 6.30 and 8 o'clock on 1.333.53.
+[ +30.4s] All the incorrect guesses for this too by the way go on the Sarge for Breakfast podcast at listener.
+[ +35.6s] So have a listen to them to get closer to that cash.
+[ +39.6s] We're going to talk about our very own beer.
+[ +42.8s] The first trap which we are launching this Friday.
+```
+
+### 13 Jul 2026 (segment at 501 s, 2 play(s))
+Amounts said: none
+
+```
+[ -42.0s] Very freezing. I mean I'm looking at the temperature gauge here at the moment.
+[ -37.0s] Just outside our studios in Thrumster. It's saying 4 degrees but feels close to zero.
+[ -31.0s] I reckon the front and the back here too mate. Yeah crikey.
+[ -28.0s] Should be a pretty nice sunny day today though. It's saying here maybe a top of 20 so gosh.
+[ -21.0s] That should be nice. Bring that sun out hey? Yeah.
+[ -17.0s] Oh man, alright. 975 bucks, where are you putting that cash if you win it?
+[ -12.0s] I'm going to put it towards the outside area for 2 seconds, got TV.
+[  -7.0s] Beautiful mate. I like the sound of that. Here we go, let's make it happen.
+[  -2.0s] Here is the secret sound. What do you think?
+[  +2.0s] I reckon you're pushing the door, the door that microwave door when you push it, pull your clothes.
+[ +10.0s] It's not sorry. Keep on trying though please. Keep on trying.
+[ +18.6s] Oh will mate. Semi-love to our dear friend Chrissy. Oh sure will mate. Good man.
+[ +23.6s] Talk to you soon. How you doing mate, check out with you later. Sounds good.
+[ +27.6s] Sounds good, stay warm. Alright, secret sound. It is back at 8 o'clock 1 triple 3 5 3.
+[ +33.6s] Those numbs are getting involved. All the incorrect guesses for you to go on the Sarge for Breakfast podcast at least.
+[ +39.6s] So have a listen to them to get closer to the cash.
+```
+
+### 13 Jul 2026 (segment at 1101 s, 1 play(s))
+Amounts said: $1,000
+
+```
+[ -44.0s] Good morning.
+[ -42.7s] Um, where abouts are you off to this morning?
+[ -39.5s] Um, where is Dan Crocs this morning?
+[ -36.3s] Beautiful, and what's on the cards for today?
+[ -33.2s] Uh, just going to work and dropping my son to a friend's house for the holidays.
+[ -28.7s] Oh, lovely.
+[ -27.7s] What do you do for a cross, Melissa?
+[ -25.0s] I work in a fleet department, looking after cars.
+[ -20.5s] Stuff.
+[ -19.4s] Hey, uh, 975 bucks.
+[ -16.9s] What will you do with that cash if you want it?
+[ -14.0s] We'll probably put it towards our next holiday.
+[ -10.8s] Yeah, where do you want a holiday, Melissa?
+[  -8.3s] New Zealand is next on the cards for us.
+[  -5.9s] Oh, fantastic, that'd be so good.
+[  -3.7s] Yeah.
+[  -2.7s] Alright, well let's do this.
+[  -1.7s] Here is the secret sound.
+[  +1.1s] I'll give you 975 bucks if you correctly identify what it is right now.
+[  +4.4s] What do you think?
+[  +6.0s] Um, I think it's just stapler going through some pages.
+[ +10.4s] Oh, yeah.
+[ +11.4s] Yeah.
+[ +12.4s] Mm.
+[ +13.4s] No, that's not it.
+[ +15.4s] Sorry, Melissa.
+[ +16.4s] Try again next time.
+[ +17.4s] Awesome, thank you.
+[ +18.4s] See you, lovely.
+[ +19.4s] Bye.
+[ +20.4s] Uh, secret sound.
+[ +21.4s] It is back tomorrow morning after 6.30 and 8 o'clock.
+[ +24.4s] One triple 353 is a number to get involved there.
+[ +27.4s] Um, woo!
+[ +28.4s] She's now worth $1,000.
+[ +29.4s] And we do put all the incorrect guesses for this thing on the Sarge for Breakfast
+```
+
+### 14 Jul 2026 (segment at 550 s, 2 play(s))
+Amounts said: $1,000
+
+```
+[ -44.4s] He wants to go, so I'll go in.
+[ -42.1s] Okay, great.
+[ -40.8s] Because Lorraine, I've got another double pass to infamous to give to you right now
+[ -34.7s] because you called up for the secret sound.
+[ -33.1s] Why not?
+[ -32.7s] Do you have another two friends you want to take?
+[ -30.4s] Yeah, I was an organiser.
+[ -28.2s] Very good.
+[ -27.2s] Port Macquarie, get ready for infamous cabaret circus, adults only circus.
+[ -22.8s] Cabaret and comedy under the Spiegel big top from July 10.
+[ -19.0s] Book at infamous.net.au.
+[ -16.4s] One of the stars of the infamous show will be on this program at 10 past 8.
+[ -10.6s] Looking forward to catching up with him.
+[  -8.4s] Oh, yeah.
+[  -7.7s] Yeah, that'll be good.
+[  -6.7s] Lorraine, let's do this.
+[  -4.8s] Here is the secret sound.
+[  -1.7s] Just go once again for good luck.
+[  +0.4s] What do you think?
+[  +1.0s] I'll give you $1,000 if you're correct.
+[  +5.3s] There's a power board out.
+[  +6.4s] I have a power board and sometimes you do a little toggle switch on the power board.
+[ +11.0s] The latest one that I've bought now is the push button.
+[ +13.9s] Oh, yeah.
+[ +14.9s] And you push the button and it goes click, click.
+[ +17.0s] So rather than the switch, it's the button on the power board.
+[ +20.6s] Mm.
+[ +21.3s] There you go.
+[ +22.5s] And it's kind of got that plasticy kind of...
+[ +24.5s] Yeah, you're right, Lorraine.
+[ +26.1s] No, it's not.
+[ +27.1s] It's not Lorraine.
+[ +28.0s] Hey, enjoy infamous with your extra two friends coming along now.
+[ +33.2s] Good on you.
+[ +33.9s] David is here.
+[ +36.7s] There she is, Lorraine.
+[ +40.0s] Lorraine.
+[ +42.1s] And the secret sound, it is back at 8 o'clock on 1 triple 353.
+[ +47.0s] Still worth $1,000.
+[ +48.8s] And all of the incorrect guesses so far for the secret sound
+```
+
+### 14 Jul 2026 (segment at 1322 s, 1 play(s))
+Amounts said: $1000
+
+```
+[ -42.0s] Almost the whole bag. There you go, there's on this day for the 15th of July, get a black current life saver India.
+[ -35.0s] Thanks to 40 Winks Port Macquarie.
+[ -30.4s] So come in and see the team at Court Home Zone. 40 Winks, serious about sleep.
+[ -26.4s] G'day there Michelle, good morning, how you doing this Wednesday?
+[ -22.4s] Yeah, good thank you Sarge.
+[ -20.4s] That's the way. Now we've got $1000 up for grabs here with the Secret Sound 1K.
+[ -12.4s] What are we thinking we'd do with that cash if we won it Michelle?
+[  -8.4s] Well a few bills at the moment that it went with so that would be great if we could get it.
+[  -4.4s] Mm hmm, put it towards the bills, alright that's good.
+[  -1.4s] Here it is and what do you think?
+[  +1.6s] Michelle, what do you think the Secret Sound is?
+[  +6.3s] Yes.
+[  +7.3s] Yeah, what do you think?
+[  +8.3s] Would it be a self inking stamp?
+[ +10.3s] A self inking stamp, no.
+[ +12.3s] Michelle it's not, I'm so sorry but you know what, I'm going to give you a double pass to infamous the circus.
+[ +19.3s] How's that sound?
+[ +20.3s] Oh awesome, that'd be great, thank you so much.
+[ +23.3s] No worries Port Macquarie, get ready for infamous cabaret circus.
+[ +26.3s] Adults only circus, cabaret and comedy under the Spiegel Big Top from July 10.
+```
+
+### 15 Jul 2026 (segment at 602 s, 1 play(s))
+Amounts said: none
+
+```
+[ -41.8s] I know.
+[ -39.8s] Was it, hit me with the stats, hit me with the details.
+[ -35.8s] You've got a bit of an unfortunate story to quickly share with us this morning.
+[ -29.8s] Yeah, I can do that mate, but I reckon it's more about the secret sound today.
+[ -25.8s] But yeah, we'll try another time with all the long story.
+[ -22.8s] Sure, sure.
+[ -20.8s] Yeah, we'll do it that way.
+[ -18.8s] Well, let's just say you do have a very important message that you feel like a lot of people,
+[ -13.8s] I mean, I feel as well that a lot of people need to hear and yeah, we'll get to it.
+[  -8.8s] Yeah, just the youth crime, you know what I mean?
+[  -5.8s] Around youth crime, yeah, no, for sure mate.
+[  -3.8s] Well, that's a good call, that's a very good call.
+[  -1.8s] Here we go, here's the secret sound.
+[  +0.2s] You've heard of the gazillion times, what do you think it is, man?
+[  +3.2s] Would it be pushing a plug into a socket like a power point or a power board?
+[  +9.2s] No.
+[ +11.2s] And that is pretty well what the last secret sound was too.
+[ +15.2s] It was the charger.
+[ +16.2s] Yeah.
+[ +17.2s] But no, it's good to rule it out because I could have gone with something else to plug in, you know what I mean?
+[ +22.2s] That's it, yes.
+[ +23.2s] But Wazza, you take care of yourself, it's always good catching up and yeah, we'll have a bit more of a bigger discussion around your experience with youth crime, especially here on the Mid-North Coast.
+```
+
+### 15 Jul 2026 (segment at 1896 s, 2 play(s))
+Amounts said: $25
+
+```
+[ -43.0s] about sleep howdy Tom in Maxville how are you mate I'm very well thank you you're
+[ -36.4s] keeping Maxville all under control this morning okay good man is it it's raining
+[ -27.7s] here outside our studios in thrumpster what's it doing in Maxville right now as
+[ -24.0s] we speak so it's a bit wet underfoot yes yeah right yeah Tommy a thousand and
+[ -13.8s] $25 it's nothing to sneeze at what would you do with that cash if you were to win
+[  -9.8s] it you know what Tom I'd do the exact same thing bit a piece of mind here we
+[  -1.2s] go mate here's a secret sound right there what do you think it is
+[  +3.6s] old school but I sounds like you're closing the door on your cassette deck
+[  +9.5s] yes I actually do own one of them but it's in storage back home in Bathurst
+[ +15.4s] and I didn't get access to record it for this time around for the secret town Tom
+[ +19.9s] sorry keep on trying though boys thank you see you mate secret sound it is back
+[ +25.0s] tomorrow morning up to 6 30 and 8 o'clock on 1 triple 3 5 3 it's worth now a
+[ +28.8s] thousand and fifty bucks and we put all the incorrect guesses so far for the
+[ +32.8s] secret sound on the sarge for breakfast podcast it listens to go and check that
+[ +35.6s] out to get close to the cash oh man I'm Sonic so you know the reason I've
+[ +38.9s] been in such a good mood today I mean not every I'm always in a good mood but
+```
+
+### 16 Jul 2026 (segment at 573 s, 2 play(s))
+Amounts said: $1,050
+
+```
+[ -36.6s] The dry air causes the delicate lining inside your nose to crack and become irritated. Tiny
+[ -30.1s] blood vessels close to the surface and can then break easily leading to a nosebleed sometimes
+[ -22.8s] after blowing your nose, sneezing or even while you're asleep. Yeah, well I did blow my nose
+[ -18.8s] and then boom, there it is. So if you're having nosebleeds this morning in North Coast, blame
+[ -12.2s] it on the cold weather. You know what I'm saying? Hey, I've got $1,050 to give away right now.
+[  -5.8s] If you'd like it, just call 1-333-53 and correctly identify what this sound is. If you're right,
+[  +2.2s] I'll give you the cash. It's all thanks to 40 Winks Pot Macquarie. We'll do it next.
+[  +9.4s] It's the early bird edition of The Secret Sound. Thanks to 40 Winks Pot Macquarie. Come
+[ +15.2s] in and see the team at Port Home Zone. 40 Winks, serious about sleep. A very good morning
+[ +20.2s] to one of my most favourite human beings in the world. It's Chrissie. Good morning.
+[ +26.1s] How are you? Oh, I felt like I knew you were doing a Buminescamo and Eagle the last
+[ +32.3s] couple of weeks, but it's a bit warmer this morning. Oh, it's a bit warmer. You
+[ +37.9s] know what? You're right. It's 10 degrees in Port Macquarie right now where I know you
+[ +43.4s] are heading for a similar temperature of 19, which has been the top for the past week.
+[ +51.1s] But usually around this time of the morning for the past few days, it's been about four
+[ +55.5s] degrees. So you're right. It's a bit warmer. You know, Chrissie, whenever I get freezing
+[ +61.4s] cold, I always think about you. I know. I think about everything except my fingers
+[ +67.1s] nearly froze off the other morning when it was four degrees. Oh, I tell you, it was freezing.
+[ +72.5s] But hey, I feel sorry for your nosebleed. You should have tried the Wasabi.
+[ +77.2s] The Wasabi. I actually thought about that. I don't know. I think it's a combination
+[ +82.2s] of the man flu and the cold weather. Did you hear Dr. Chat GPT? Yeah.
+[ +88.3s] With the, yeah, apparently the cooler weather can bring on nosebleeds. I blew my nose.
+[ +93.3s] Anyway, anyway, let's get you some cash. We've got $1,050 up for grabs here.
+[ +98.3s] Chrissie, what do you think this secret sound is? Well, I know it's out of the blue,
+[+106.7s] but would it be clicking on, you know, your old radio stations, your old radio when you
+[+114.6s] click it down? I've got an old radio. Oh, yes. I know the one. The actual radio itself
+[+121.4s] and you sort of click in the buttons. You got to do that. I know. It's a silly one.
+[+126.0s] But Chrissie, that's naughty. And I'm so sorry. But hey, happy anniversary. And it's our anniversary
+```
+
+### 16 Jul 2026 (segment at 1716 s, 2 play(s))
+Amounts said: $1,050,
+
+```
+[ -44.0s] Yeah, I do DoorDash.
+[ -42.0s] DoorDash. A lot of Maccas deliveries this morning?
+[ -38.0s] A lot of them, yes.
+[ -37.0s] Yeah, right. Are you doing the DoorDashing right now?
+[ -34.0s] I am.
+[ -33.0s] Well, $1,050, what would you do with that cash if you wanted? You could probably have a bit of time off from the Deliveroo, wouldn't you?
+[ -25.0s] DoorDash?
+[ -24.0s] No, I had another thought. I thought maybe I would give it to that group that has been helping you and the other people with the mental health.
+[ -17.0s] Oh, self-seen.
+[ -15.0s] Yep.
+[ -14.0s] Are you part of self-seen, Larry?
+[ -12.0s] I am not, no.
+[ -11.0s] Well, it's a wonderful thing to be a part of. If you're interested, let me know, mate.
+[  -7.0s] Yeah, that's beautiful, mate. I really love to hear that. Let's do this. Here is the secret sound, Larry. Right there. What do you think?
+[  +3.0s] Are you plugging in your microphone?
+[  +5.0s] Oh, am I plugging in my golden, sorry, I mean, matte black microphone?
+[ +10.0s] We haven't had that guess, but that's not the secret sound, Larry. Great guess, though. Really good guess. I like that one.
+[ +20.1s] Okay.
+[ +21.1s] Take care of yourself. Have a great weekend.
+[ +23.1s] I'll see you tonight.
+[ +25.1s] Oh, you're... Larry, are you coming to the beer launch?
+[ +28.1s] Yes.
+[ +29.1s] Ah, get out of... get out of here.
+[ +31.1s] Me and the wife will be there.
+[ +32.1s] Stop it, Larry. Mate, I'm looking forward to having a thirst trap with you.
+[ +35.1s] Okay.
+[ +36.1s] See you, mate.
+[ +38.1s] Secret sound. It is back on Monday, up to 6.30am and 8 o'clock at 1.333. It's now worth a thousand and seventy-five bucks.
+```
+
+### 19 Jul 2026 (segment at 591 s, 2 play(s))
+Amounts said: $1075
+
+```
+[ -44.3s] someone else to come through and on 1 triple 353 it is of course
+[ -38.9s] Wazza!
+[ -37.9s] Yes, wazza. How was your weekend mate?
+[ -33.7s] Lovely. Yeah mate, I'm up in the, as you see, the greatest spot on the planet mate.
+[ -27.8s] I'm up in mid-north coast at the moment.
+[ -25.5s] Yes.
+[ -25.0s] Waking up in the best part of the world.
+[ -22.5s] Oh, how's it feel?
+[ -21.9s] How's it feel to actually wake up in the best part of the world because so often you would
+[ -17.5s] be just driving through for work but now it's a reality.
+[ -14.9s] That's right.
+[ -14.3s] Yeah, I'm taking a week off and
+[ -12.5s] I tell you what, Geez, I'm sleeping well.
+[ -10.9s] Yes!
+[  -9.0s] You've been non-stop.
+[  -7.1s] You're a bloody hard worker mate.
+[  -5.2s] And you deserve the car. Here we go.
+[  -3.8s] $1075. Here is the sound. What do you think it is?
+[  +2.5s] Would it be pushing a power button on the computer?
+[ +12.4s] No.
+[ +12.7s] No.
+[ +15.0s] Well, we got to go back to the drawing board.
+[ +16.8s] Yeah.
+[ +17.2s] You have to go back to the drawing board.
+[ +19.5s] And you can hear my voice. There's a lot of, I'd say, intrigue in what you said.
+[ +26.3s] Yeah. I think we're sort of hovering around the right area.
+[ +31.7s] You've put it perfectly, was I?
+[ +33.4s] Hey.
+[ +33.7s] Yeah.
+[ +34.5s] Keep on sleeping. Enjoy that time to sleep. Love me some sleep-ins.
+[ +38.9s] Yeah. Well, that's it mate. I've been, yeah, I've been up a little early.
+```
+
+### 19 Jul 2026 (segment at 1696 s, 2 play(s))
+Amounts said: $1,075
+
+```
+[ -44.3s] Probably just still a bit of unpacking at the moment because I've been up here for over a week now.
+[ -38.7s] So yeah, that's the way.
+[ -35.7s] All right, well, yeah, how do you find packing and unpacking?
+[ -33.1s] It's a bit of a boring annoying job, but a good one to get done, isn't it?
+[ -28.0s] I mean, I've never had to do it before.
+[ -26.1s] This is the first time moving basically in my life that I can remember.
+[ -22.5s] Yeah. Oh, well, you might have to...
+[ -19.2s] Yeah, I've done a fair bit of that moving all over regional Australia.
+[ -15.4s] Yeah, you get really good at just...
+[ -13.7s] You look at a space and go, there's no way we could fit that in there and then you somehow do.
+[  -8.4s] Yeah, you somehow make it happen.
+[  -6.9s] All right, well Jessica, a $1,075 bucks.
+[  -3.6s] Let's give that cash to you if you can correctly identify what this sound is.
+[  +0.3s] What do you think?
+[  +2.5s] Pushing the mouse button on like a mouse for a computer.
+[  +5.9s] Yeah, okay.
+[  +8.3s] We've got about three of them here in the studio.
+[ +10.5s] So could be, but is it?
+[ +13.1s] No, it's not. Sorry, Jessica.
+[ +14.7s] Hey, have a wonderful week.
+[ +16.9s] Oh, you too.
+[ +17.9s] Good hearing from you.
+[ +19.2s] Secret Sound is back tomorrow morning after 6.30 and 8 o'clock.
+[ +22.5s] 1,3,3,5,3 is a number to get involved there.
+[ +24.7s] We put all the incorrect guesses for this thing, by the way.
+[ +27.5s] On the Sarge for Breakfast podcast, Listener.
+[ +31.5s] All right, we're going to catch up with Kate Woodfoy next from Luminosity.
+[ +35.3s] She is an incredible human here in our beautiful community.
+```
+
+### 20 Jul 2026 (segment at 511 s, 2 play(s))
+Amounts said: $1,100
+
+```
+[ -36.3s] Thanks to 40 Winks Port Macquarie
+[ -34.3s] come in and see the team at Port Home Zone
+[ -32.3s] 40 Winks, serious about sleep
+[ -30.3s] We have the great tenure on line 1 right now
+[ -28.3s] Good morning tenure!
+[ -26.3s] Good morning Struck, how are you doing mate?
+[ -22.3s] Ahh tenure, no that's okay, it's okay, it's all good.
+[ -19.3s] How's your morning been so far tenure?
+[ -15.3s] Yeah not too bad mate, yeah.
+[ -13.3s] Yeah righty-o.
+[ -11.3s] What are you up to today? Yeah busy working?
+[  -9.3s] Yeah mate yeah, delivering good.
+[  -6.3s] Good on you. Alright here we go, I'll give you $1,100
+[  -3.3s] if you correctly identify what this sound is.
+[  -0.3s] There it is, what do you think tenure?
+[  +2.7s] Is it you flicking the switch onto your black microphone
+[  +5.7s] when you enter the studio?
+[  +7.7s] Oh yeah okay, is the switch on the actual microphone?
+[ +10.7s] No it's on a switch board.
+[ +12.7s] It's on a switch board.
+[ +14.7s] And no, not it, sorry tenure.
+[ +17.7s] Hey have a great day!
+[ +19.7s] Yeah alright buddy cheers, see ya.
+[ +21.7s] Good on you legend, bye.
+[ +22.7s] Secret Sound, back at 8 o'clock,
+[ +24.7s] 1-333-53 is the number 2 get involved there
+[ +27.7s] and all of the incorrect guesses so far
+[ +29.7s] for the Secret Sound go on the Sarge for Breakfast podcast at a listener.
+[ +34.7s] Alrighty, more to come on the other side of this,
+[ +37.7s] good morning, it's a Tuesday and you can get involved with your show
+[ +39.7s] anytime you want to by the way, 1-333
+[ +41.7s] or we do have a text line too,
+[ +43.7s] 0468-040-888
+```
+
+### 20 Jul 2026 (segment at 1762 s, 3 play(s))
+Amounts said: $1,100, $1,125
+
+```
+[ -40.8s] months out, I'll get into my long ones and that, yes.
+[ -37.3s] Okay, so you've been training, you've been volunteering.
+[ -34.2s] What else have you been up to in your downtime, if you have any?
+[ -28.1s] And on my downtime and stuff, I just have a wax, and yeah, not too much.
+[ -23.6s] Well, you know, it's a good part of the world, the mid-north coast.
+[ -19.3s] Port Macquarie to relax, isn't it?
+[ -17.5s] It sure is.
+[ -16.2s] So good.
+[ -15.2s] Well, we've got $1,100 to give away here, Benno.
+[ -11.5s] What would you buy or do with that cash if you wanted?
+[  -8.0s] I'd probably go towards my trip.
+[  -5.7s] Yeah, yes, that makes sense.
+[  -3.8s] That makes total sense.
+[  -2.6s] Very smart decision there.
+[  -1.6s] All right, here we go, Benno.
+[  -0.6s] Here it is.
+[  +0.4s] That's the secret.
+[  +1.4s] See, I'll just go once again for good luck.
+[  +3.6s] What do you think?
+[  +4.6s] I reckon it's pinched in a hole in what I am aluminiumed in.
+[  +8.7s] Okay, let's have a listen again.
+[ +13.6s] Let's repeat that guess again.
+[ +16.0s] I'm punching a hole in an aluminium tin.
+[ +19.8s] Yeah, like the Milo ones or the coffee ones?
+[ +23.8s] Is that what you mean?
+[ +24.8s] Milo ones or the coffee ones?
+[ +25.8s] Yeah, yeah, yeah, okay.
+[ +26.8s] Hey, we haven't had the guess.
+[ +27.8s] That's not it.
+[ +28.8s] Sorry, Benno, but gee, keep on trying.
+[ +31.4s] Thank you.
+[ +32.4s] Have a great day, Benno.
+[ +33.8s] See you, mate.
+[ +34.8s] Good day.
+[ +35.8s] Bye.
+[ +36.8s] Bye, you're a good man.
+[ +37.8s] All righty, secret sound.
+[ +38.8s] It is back tomorrow morning.
+[ +39.8s] Up to 6.30 at 8 o'clock, 1 triple 353 is the number two call to get involved there.
+```
+
+### 21 Jul 2026 (segment at 409 s, 4 play(s))
+Amounts said: $1,125, $1,125,, 1,333
+
+```
+[ -41.6s] Yes, it's a bit early if you're not awake yet,
+[ -37.8s] and Barnzy and Mossy and the Cold Chisel crew
+[ -33.8s] didn't quite get you going with forever now.
+[ -31.0s] Maybe Barnzy's warmup before a show will.
+[ -27.0s] Hey!
+[ -21.2s] Barnaby and Barnzy.
+[ -17.5s] What a team up.
+[ -16.5s] A team up we didn't know we needed.
+[ -14.4s] One triple three five three is my number.
+[ -10.3s] Call now.
+[  -9.4s] I've watched that video so many times.
+[  -6.3s] And correctly identify what this sound is.
+[  -1.9s] Sit down!
+[  -1.0s] I'm kidding, it's this one.
+[  +1.0s] Correctly identify what this sound is,
+[  +4.4s] and if you're right, on one triple three five three,
+[  +8.0s] I will give you $1,125 with the secret sound.
+[ +13.8s] It's all thanks to our good mates
+[ +15.7s] at 40 Wings Port Macquarie.
+[ +16.5s] Good morning Jerome and the crew.
+[ +18.7s] We'll do it next.
+[ +23.3s] It's the early bird edition of the secret sound.
+[ +27.1s] Thanks to 40 Wings Port Macquarie.
+[ +29.1s] Come in and see the team at Port Home Zone.
+[ +31.3s] 40 Wings, serious about sleep.
+[ +33.4s] Hey, good morning Daniel.
+[ +35.1s] Hey, good morning Sarge.
+[ +35.9s] Mate, very well thank you.
+[ +37.3s] How was your Tuesday night?
+[ +39.5s] Yeah, not bad.
+[ +40.5s] Just watch the TV.
+[ +43.6s] Oh yeah, what are you watching on TV at the moment?
+[ +47.3s] Yeah, Netflix, 21 Jump Street or something like that.
+[ +50.5s] Oh yeah, bit of a throwback.
+[ +52.8s] Yeah.
+[ +54.2s] That's good.
+[ +55.0s] Was it, it's a movie you've seen before
+[ +57.7s] or a first time watching that one?
+[ +60.1s] I think I've seen it a few years ago, but yeah.
+[ +62.1s] Yeah, gotcha.
+[ +63.9s] Mate, $1,125, it's good cash just to win
+[ +68.9s] for guessing what the sound is.
+[ +70.8s] What would you do with that money if you won it Daniel?
+[ +73.0s] Oh, probably pay some bills, save a bit.
+[ +75.7s] Yeah, that's good.
+[ +76.6s] Love it, mate.
+[ +77.5s] All right, here we go.
+[ +78.3s] Here's the secret sound.
+[ +79.3s] What do you think?
+[ +81.6s] Not like plugging your seatbelt in your car or something.
+[ +85.0s] Oh yeah, plugging the seatbelt in the car.
+[ +87.9s] I do that every single day, but no, that's not it.
+[ +91.9s] Sorry Daniel, keep on trying mate.
+[ +93.9s] Cool, thanks mate.
+[ +94.7s] Have a good one.
+[ +95.5s] Secret sound, it is back at eight o'clock on 1,333.
+[ +99.6s] $1,125 is up for grabs with it
+[+103.0s] and we do put all of the incorrect guesses so far
+[+106.1s] on the Sarge for Breakfast podcast at listener.
+[+108.5s] So check out that to get closer to the cash.
+[+112.2s] Happy hump day.
+[+113.5s] What a come on the other side of this, good morning.
+[+116.2s] We are 20 minutes away from seven o'clock.
+```
+
+### 21 Jul 2026 (segment at 1610 s, 3 play(s))
+Amounts said: none
+
+```
+[ -41.4s] I did have Henry out of the hammock, but I lost her a year ago. Now I have Hugh
+[ -36.2s] So I've been one H for the other anyway, but that's on this they get a hammock and swing around
+[ -30.6s] That's on this day for the 22nd of July enjoy
+[ -18.0s] Thanks to 40 weeks port Macquarie
+[ -16.0s] So come in and see the team at court home zone 40 weeks serious about sleep
+[ -10.8s] We have Oliver on one triple three five three. Hello mates
+[  -6.5s] Hello. All right. What do you think the secret sound is we got one thousand one hundred and twenty five dollars to give away here
+[  -0.6s] It is
+[  +0.6s] What do you reckon Oliver?
+[  +5.3s] Licking a can is it clicking a can I'm crushing it
+[ +10.7s] Mmm, not crushing it fully but just like a little bit Oliver. Yeah
+[ +17.7s] Sorry Oliver
+[ +22.7s] Bye Oliver. Have a good day. Are you going to school now?
+[ +26.2s] Yeah
+[ +27.2s] You can tell you can tell your friends you were famous and on the radio
+[ +31.3s] Yeah, see you mate. Oh
+[ +35.2s] Coop the Oh Cooper the secret sound winner from a couple of times ago
+[ +41.0s] Is Cooper there
+[ +44.3s] Say hello to the Mid-North Coast. You're a celebrity made a lot of people talk about you
+```
+
+### 26 Jul 2026 (segment at 533 s, 1 play(s))
+Amounts said: $1,150
+
+```
+[ -43.1s] Okay, I'm actually coming through Lake Cat Eye. Oh
+[ -39.4s] Glorious and what do you do for a crust?
+[ -36.1s] I'm actually in childcare
+[ -34.1s] Fantastic. Thank you for doing that. Thank you for doing that. It's a big job. Um, alright, so we've got $1,150 up for grabs here
+[ -27.1s] Karen, what would you do with that cash if you won it?
+[ -24.3s] I
+[ -22.7s] Don't know I'd probably share it with my family. That's so lovely. That's very very lovely. I like to hear that
+[ -16.9s] It's a good news story right there. Good way to start the day. Thank you
+[ -12.5s] Let's do it. Here's a secret sound
+[  -8.6s] What do you think I think it's you turning on your computer screen the button underneath the computer screen
+[  -2.2s] Oh, yeah, okay. Let's have a listen again
+[  +0.5s] Mmm, that's never been a secret sound on this show
+[  +3.3s] We haven't had that guess yet. But Karen, I'm so sorry. That's not it
+[  +7.3s] Sorry, okay, you have a lovely day and you do a great job on the radio. Thank you so much Karen
+[ +13.4s] Um, that's okay. You are one of the loveliest Karen's of med
+[ +22.2s] See you lovely by
+[ +24.0s] Secret sound it is back at 8 o'clock 1 triple 3 5 3 then I'm to get involved there
+[ +29.8s] We put all the incorrect guesses so far for it on the Sarge for breakfast podcast at listener
+```
+
+### 26 Jul 2026 (segment at 1614 s, 2 play(s))
+Amounts said: $1,150
+
+```
+[ -44.6s] Thanks to 40 Winks Port Macquarie.
+[ -42.6s] So run in and see the team at court home zone.
+[ -40.5s] 40 Winks, serious about sleep.
+[ -38.4s] Good morning Jessica in Kempsey.
+[ -36.1s] How you doing?
+[ -34.9s] I'm good. How are you?
+[ -33.3s] I'm great.
+[ -32.7s] Thank you so much for sending through those photos of the sun rises earlier in the week.
+[ -27.1s] I loved the one with the kangaroo and the horse.
+[ -24.6s] Yeah, I had to go to my dad to get those photos because my phone takes terrible photos.
+[ -20.7s] I'm like, quick, pass me your phone.
+[ -18.6s] It looked like something that could be in a calendar, you know?
+[ -15.8s] Yeah, it was great.
+[ -14.2s] Hey, $1,150.
+[ -11.6s] Jessica, where would you put that money if you wanted?
+[  -9.3s] Um, I'd possibly buy a new bed frame and mattress because honestly, I need one.
+[  -4.2s] Yeah, good stuff.
+[  -2.6s] Good stuff.
+[  -1.8s] Here we go.
+[  -1.4s] Here's the secret sound.
+[  +0.4s] What do you think?
+[  +1.8s] Um, is it possibly plugging the XLR cable into your microphone?
+[  +5.5s] Oh, wow.
+[  +6.5s] You're going technical.
+[  +7.8s] I love this XLR cable.
+[  +9.5s] Yeah.
+[ +10.6s] Um, no, it's not Jessica.
+[ +17.5s] Damn it.
+[ +18.5s] Did I get your heart racing, Jessica?
+[ +20.4s] Yeah, you've always been like that split second longer.
+[ +24.2s] I know, it's mean.
+[ +25.9s] Jessica, what we will do though is give you a double pass to the Mid North Coast Outdoor Show,
+[ +32.8s] which is at the Warhope Showground.
+[ +34.6s] It's on the 7th, 8th and 9th of August.
+[ +36.5s] You can grab your tickets at ruralreseen.com.au, but you've just won them, Jessica.
+[ +39.7s] Well done.
+[ +40.2s] That's sweet.
+[ +41.0s] Thank you very much.
+[ +41.9s] Get on your, have a great rest of your weekend.
+```
 
 ### 26 Jul 2026 (segment at 623 s, 5 play(s))
 Amounts said: none

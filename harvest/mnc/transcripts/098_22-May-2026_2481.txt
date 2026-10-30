@@ -1,0 +1,34 @@
+BEST BITS: A Dog Named Sarge
+Fri, 22 May 2026 00:03:53 +0000
+plays: [{'t': np.float64(2556.42), 'ncc': 0.914}, {'t': np.float64(2577.23), 'ncc': 0.946}]
+
+[ 2481.4] Hey there, good morning Chloe, how are you?
+[ 2483.4] Not too bad, how are you?
+[ 2485.4] I am good, thank you. How's your morning been so far?
+[ 2488.4] Yeah, not too bad. Just dropped the kid off at daycare, so just coming out of there now and gonna go home and relax and do nothing.
+[ 2495.4] Oh, brilliant Chloe, that's good. What's your nothing relaxing look like? Is it Netflix? Is it reading a book or what?
+[ 2503.4] Yeah, just TV really, because my kid loves the TV, so he doesn't really love letting me watch my TV.
+[ 2509.4] Fair enough. Chloe, I don't know if you're being into this potentially because I want to give it a crack over this weekend on Netflix.
+[ 2516.4] They've just released that Kylie Minogue documentary.
+[ 2520.4] Yeah, I might have to give it a crack.
+[ 2522.4] I think that'd be alright. She speaks, I think in episode one it's kind of around that relationship of her and Michael Hutchins.
+[ 2530.4] Oh, okay, yeah, I didn't even know they really had a relationship, yeah. I'm a bit young for that stuff, but I do know a bit about her.
+[ 2538.4] Do you mind me asking how old you are Chloe?
+[ 2540.4] Oh, well I'm 26. I mean, I feel young still.
+[ 2542.4] Chloe, yeah, I mean, I'm 25, so I probably shouldn't know anything about it.
+[ 2547.4] No, I'm older.
+[ 2548.4] Anyway, anyway, it is what it is. $175 Chloe. We'll give that to you if you can correctly identify what this sound is.
+[ 2556.4] What are you thinking?
+[ 2558.4] Oh, um, that like the like the trolley things when you put the coin, like you know those things that...
+[ 2569.3] Oh yeah, the Audi coin?
+[ 2571.3] Yeah, like those things. I don't know what they're called, but like the trolley things. Yeah, I'm just going to go with that.
+[ 2575.3] Yeah, let's go again.
+[ 2578.3] No, Chloe, that's not it, but you don't walk away empty handed. You've scored yourself not one, but two chicken schnitzels.
+[ 2586.3] Oh, awesome, okay.
+[ 2589.3] Lizzie and hotel, so go and enjoy that Chloe. Have a wonderful Friday.
+[ 2593.3] Thanks, you too.
+[ 2594.3] Bye-bye.
+[ 2595.3] Secret Sound, it is back on Monday after 6.30 and 8 o'clock on 1.333, now worth $200.
+[ 2603.3] And a reminder, the incorrect guesses so far go on the Sarge for Breakfast podcast at listener.
+[ 2609.3] Okay, the ultimate origin experience at home winner will be announced next.
+[ 2615.3] If you texted in this week, could be you. Have your phone handy.
