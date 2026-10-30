@@ -1,0 +1,82 @@
+on-air filter: 2 clips match a wrong guess and are left out of the A/B files
+0.807 clap 0.791 mel 0.844  27149 @4.19s  [clock wind] Grandfather Clock Winding.mp3
+0.807 clap 0.798 mel 0.827  449933 @3.10s  [winding crank] grease hose.wav
+0.805 clap 0.773 mel 0.878  805328 @2.87s  [clock wind] CLOCKMech-Samsung Galaxy Smartphone, CU_Grandfather Clock Wi
+0.780 clap 0.753 mel 0.843  331708 @7.54s  [wall clock] clock, wall, small, old, striking mechanism but no bell, tic
+0.768 clap 0.721 mel 0.876  331704 @7.61s  [wall clock] clock, wall, small, old, striking mechanism but no bell, tic
+0.767 clap 0.730 mel 0.853  14784 @4.76s  [tower clock] reloj_arcos.aif
+0.767 clap 0.726 mel 0.861  171951 @22.40s  [gramophone] 78end.wav
+0.762 clap 0.748 mel 0.796  830277 @7.23s  [car jack] MECHMisc-Samsung Galaxy Smartphone, MCU_Car Jack, Raise, Low
+0.761 clap 0.741 mel 0.805  819304 @3.86s  [clock wind] CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nichola
+0.759 clap 0.756 mel 0.766  96147 @0.26s  [clock wind] MultiWind1.wav
+0.758 clap 0.702 mel 0.888  184309 @3.31s  [spring wind] Vacuum Chord Being Wound in
+0.746 clap 0.726 mel 0.793  243610 @13.14s  [clock wind] CLOCK_WINDING.aiff
+0.743 clap 0.709 mel 0.824  403518 @1.69s  [clock wind] Egg-Timer_Spring_Wind-up.wav
+0.741 clap 0.701 mel 0.835  619296 @1.80s  [clock wind] Clock (Cuckoo) - Wind 3
+0.734 clap 0.706 mel 0.799  545311 @1.95s  [clock wind] winding up clock.wav
+0.730 clap 0.691 mel 0.819  523161 @0.93s  [gramophone] Gramophone starts and stops.wav
+0.726 clap 0.669 mel 0.858  366757 @0.66s  [winch] pulley
+0.725 clap 0.666 mel 0.863  432063 @19.12s  [clock wind] Alarm clock ring
+0.723 clap 0.680 mel 0.822  350331 @5.01s  [gramophone] 071416 Victor Victrola ramp up to speed.wav
+0.723 clap 0.672 mel 0.841  619297 @3.90s  [clock wind] Clock (Cuckoo) - Wind 2
+0.718 clap 0.671 mel 0.827  339449 @2.62s  [gramophone] Vinyl end crackle 2
+0.715 clap 0.645 mel 0.877  835865 @4.90s  [spring wind] calm down-town street Wilhelminabrug Stationsweg s-Hertogenb
+0.714 clap 0.664 mel 0.832  619298 @0.58s  [clock wind] Clock (Cuckoo) - Wind 1
+0.714 clap 0.669 mel 0.819  350329 @19.48s  [gramophone] 071416 Victor Victrola switch on and ramp up to speed.wav
+0.712 clap 0.709 mel 0.718  704582 @6.20s  [wall clock] ticking clock.mp3
+0.711 clap 0.674 mel 0.795  136521 @1.11s  [clock wind] winding up an alarm clock.wav
+0.710 clap 0.669 mel 0.804  692867 @5.26s  [wall clock] seththomas_strike-01.flac
+0.708 clap 0.677 mel 0.781  765129 @8.13s  [winding crank] Automatic Gate: grinding mechanical motor, heavy metal clang  << on air wrong: by 29 Oct: Gate latch
+0.708 clap 0.657 mel 0.827  350325 @7.29s  [gramophone] 071416 Victor Victrola starting to play a record 1.wav
+0.707 clap 0.657 mel 0.823  805327 @18.93s  [clock wind] CLOCKMech-Blue Snowball Microphone, CU_Cooking Timer Wind Up
+0.706 clap 0.662 mel 0.809  371784 @3.15s  [wall clock] G4_cuckoo in clock.mp3
+0.703 clap 0.665 mel 0.791  813356 @9.35s  [clock wind] CLOCKMech-Blue Snowball Microphone, MCU_Timer, Winding, Bell
+0.703 clap 0.640 mel 0.850  69177 @1.71s  [winch] Hand Winch Quick Release.wav
+0.701 clap 0.643 mel 0.837  14633 @11.90s  [clock wind] Seaford1.wav
+0.699 clap 0.619 mel 0.887  339451 @1.01s  [gramophone] Vinyl start crackle 3
+0.698 clap 0.614 mel 0.895  443470 @6.83s  [wall clock] Clock Whirring.m4a
+0.697 clap 0.690 mel 0.715  627419 @1.43s  [gramophone] End of 78 Record Gramaphone Running Down .WAV
+0.696 clap 0.621 mel 0.869  835783 @8.95s  [spring wind] street down-town Wilhelminabrug Stationsweg s-Hertogenbosch 
+0.695 clap 0.653 mel 0.793  96715 @0.04s  [wall clock] 2_gustav_becker_westminster_half.wav
+0.694 clap 0.625 mel 0.857  184311 @0.51s  [spring wind] Vacuum Chord Being Pulled Out 03 - Rattle
+0.693 clap 0.640 mel 0.817  350320 @9.78s  [gramophone] 071416 Victor Victrola winding two speeds.wav
+0.693 clap 0.638 mel 0.820  256023 @7.38s  [crank wind] windup_flashlight.flac
+0.692 clap 0.667 mel 0.751  864446 @1.95s  [wall clock] Ticking Clock
+0.688 clap 0.669 mel 0.733  171233 @3.07s  [clock wind] clock / music-box spring mechanism wind-up
+0.688 clap 0.659 mel 0.755  457472 @3.32s  [winch] Squeaks, crank of well’s winch #1
+0.688 clap 0.620 mel 0.847  418965 @4.86s  [winding key] Tinkling of Bells or Keys.mp3
+0.686 clap 0.625 mel 0.829  457471 @4.38s  [winch] Squeaks, crank of well’s winch #2
+0.682 clap 0.634 mel 0.795  180520 @1.76s  [clock wind] clock_winding_up_44_24.wav
+0.681 clap 0.621 mel 0.821  96714 @0.12s  [wall clock] 1_gustav_becker_westminster_quarter.wav
+0.681 clap 0.633 mel 0.793  635573 @10.97s  [crank wind] grandfather clock antique crank wind mechanism up1.flac
+0.680 clap 0.625 mel 0.806  329893 @3.93s  [clock wind] Herätyskello, pirisevä / Alarm clock, mechanical, wind up, r
+0.677 clap 0.653 mel 0.736  139959 @4.38s  [clock wind] ClockWindUp.Antique.Back.wav
+0.677 clap 0.643 mel 0.755  211941 @2.22s  [spring wind] 120305_WashMonmnt03.wav
+0.676 clap 0.593 mel 0.873  635572 @5.89s  [crank wind] grandfather clock antique crank wind mechanism up2.flac
+0.674 clap 0.594 mel 0.863  163413 @7.85s  [spring wind] winding mechanism
+0.674 clap 0.593 mel 0.862  184305 @0.40s  [spring wind] Vacuum Chord Being Pulled Out 01
+0.673 clap 0.613 mel 0.814  626164 @0.00s  [music box] bottle holder with music box
+0.671 clap 0.604 mel 0.827  705135 @9.53s  [gramophone] Servo_sound_01.wav
+0.668 clap 0.608 mel 0.808  350322 @10.62s  [gramophone] 071416 Victor Victrola playing a record end loop with stop 1
+0.667 clap 0.606 mel 0.809  438347 @0.25s  [crank wind] G27-01-Ratchet Crank.wav
+results/bendigo_wave4/ab_clap/AB_bendigo_clap1_clock-wind_27149.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap2_winding-crank_449933.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap3_clock-wind_805328.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap4_wall-clock_331708.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap5_wall-clock_331704.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap6_tower-clock_14784.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap7_gramophone_171951.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap8_car-jack_830277.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap9_clock-wind_819304.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap10_clock-wind_96147.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap11_spring-wind_184309.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap12_clock-wind_243610.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap13_clock-wind_403518.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap14_clock-wind_619296.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap15_clock-wind_545311.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap16_gramophone_523161.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap17_winch_366757.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap18_clock-wind_432063.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap19_gramophone_350331.mp3
+results/bendigo_wave4/ab_clap/AB_bendigo_clap20_clock-wind_619297.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
