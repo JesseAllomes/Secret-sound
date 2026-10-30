@@ -1,0 +1,48 @@
+{
+  "chunks": {
+    "m2": [
+      {
+        "done": false,
+        "done_at": null,
+        "est_min": 25,
+        "goal": "clap_index.py build: events per clip (sfx_match.events), CLAP embed, incremental cache index.npz per folder",
+        "id": "c1",
+        "note": "",
+        "targets": [
+          "clap_index.py",
+          "sfx_match.py::events"
+        ]
+      },
+      {
+        "done": false,
+        "done_at": null,
+        "est_min": 25,
+        "goal": "clap_index.py query: clue vs one or more indexes, rank by clap+mel, CSV + A/B; tests with a stub embedder",
+        "id": "c2",
+        "note": "",
+        "targets": [
+          "clap_index.py",
+          "tests/test_clap_index.py"
+        ]
+      },
+      {
+        "done": false,
+        "done_at": null,
+        "est_min": 20,
+        "goal": "index existing local MNC sets, query MNC clue, README + STATUS",
+        "id": "c3",
+        "note": "",
+        "targets": [
+          "README.md",
+          "STATUS.md"
+        ]
+      }
+    ]
+  },
+  "errors": [],
+  "rev": 3,
+  "schema": 1,
+  "time": [],
+  "todos": [],
+  "tokens": null
+}
