@@ -28,6 +28,9 @@ on:
       ab:
         description: "How many A/B files"
         default: "10"
+      clap_clue:
+        description: "Clue for the CLAP sound-matching ranking (empty = skip)"
+        default: clues/mnc/clue_stacked.wav
 
 permissions:
   contents: write
@@ -75,7 +78,7 @@ jobs:
   score:
     needs: pull
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -114,6 +117,21 @@ jobs:
             | tee "$out/scores.txt"
           cp "data/${{ inputs.name }}/meta.json" "$out/meta.json"
           echo "scored with steel_score.py (Mid North Coast fingerprint); A/B clue: ${{ inputs.ab_clue }}" >> "$out/scores.txt"
+      - uses: actions/cache@v4
+        if: inputs.clap_clue != ''
+        with:
+          path: ~/.cache/huggingface
+          key: hf-clap-htsat-unfused
+      - name: CLAP sound-matching ranking and A/B
+        if: inputs.clap_clue != ''
+        run: |
+          out="results/${{ inputs.name }}"
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r requirements.txt
+          python clap_index.py build "data/${{ inputs.name }}" --win 0.64 --max-events 6
+          python clap_index.py query "${{ inputs.clap_clue }}" "data/${{ inputs.name }}" --tag mnc --top 60 \
+            --csv "$out/clap_scores.csv" --ab "${{ inputs.ab }}" --out "$out/ab_clap" | tee "$out/clap_scores.txt"
+          echo "clap_index.py, window 0.64 s, 6 events per clip; clue ${{ inputs.clap_clue }}" >> "$out/clap_scores.txt"
       - name: Commit results to the results branch
         run: |
           git config user.name "secret-sound bot"
