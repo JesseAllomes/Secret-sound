@@ -1,0 +1,82 @@
+on-air filter: 36 clips match a wrong guess and are left out of the A/B files
+0.835 clap 0.799 mel 0.918  119134 @0.00s  [work zip] Keyboard Key.wav
+0.819 clap 0.804 mel 0.853  172179 @7.58s  [work zip] mouse_click.wav  << on air warm: 26 Jul: a computer mouse click
+0.818 clap 0.808 mel 0.842  400659 @4.52s  [work zip] Mouse Clicks  << on air warm: 26 Jul: a computer mouse click
+0.805 clap 0.789 mel 0.842  15478 @0.07s  [work zip] stapler.wav  << on air wrong: 13 May: a stapler
+0.804 clap 0.808 mel 0.794  515407 @0.65s  [work zip] Single key from a computer keyboard.wav
+0.803 clap 0.814 mel 0.778  535807 @16.27s  [work zip] Clicking Seatbelt.wav
+0.802 clap 0.781 mel 0.851  448910 @11.86s  [work zip] Pen Writing
+0.800 clap 0.787 mel 0.831  515810 @1.63s  [work zip] Pressing spacebar on computer mechanical keyboard.wav  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.795 clap 0.796 mel 0.793  425387 @3.12s  [work zip] audi a4 allroad 20TFSI foley seatbelts lock unlock mono NTG3
+0.795 clap 0.787 mel 0.813  442353 @6.04s  [work zip] dolphin torch locking push button.wav  << on air warm: 27 Sep: pushing a button on your torch
+0.794 clap 0.776 mel 0.835  391310 @0.00s  [work zip] Hitting the enter key on a keyboard
+0.793 clap 0.791 mel 0.797  346560 @0.00s  [work zip] switch-3.wav
+0.792 clap 0.766 mel 0.851  577863 @0.42s  [work zip] beefed-up Dell touchpad buttons.wav
+0.790 clap 0.778 mel 0.818  445972 @0.00s  [work zip] Click / Cursor SFX - Scroll through files / folder / cabinet
+0.787 clap 0.749 mel 0.878  29478 @0.00s  [work zip] btn298.wav
+0.786 clap 0.763 mel 0.839  531396 @0.00s  [work zip] switch 9.wav
+0.785 clap 0.756 mel 0.852  497115 @0.00s  [work zip] Xbox 360 Button Click
+0.784 clap 0.760 mel 0.841  330258 @0.54s  [work zip] Phone button 4.wav
+0.783 clap 0.751 mel 0.859  194795 @0.00s  [work zip] Vintage Keyboard 1
+0.781 clap 0.766 mel 0.817  328380 @0.00s  [work zip] Very deliberate mouse click  << on air warm: 26 Jul: a computer mouse click
+0.777 clap 0.757 mel 0.823  466049 @2.60s  [work zip] Some sweet spacebar clicks
+0.775 clap 0.746 mel 0.843  516261 @0.00s  [work zip] Key2.wav
+0.774 clap 0.741 mel 0.851  331427 @0.00s  [work zip] Old computer lid close
+0.772 clap 0.750 mel 0.824  467891 @0.42s  [work zip] button.wav
+0.772 clap 0.742 mel 0.843  194796 @0.00s  [work zip] Vintage Keyboard 2
+0.772 clap 0.755 mel 0.812  17891 @0.00s  [work zip] sound-click.wav
+0.769 clap 0.729 mel 0.863  256453 @0.00s  [work zip] Mouse Double Click  << on air warm: 26 Jul: a computer mouse click
+0.767 clap 0.737 mel 0.838  412050 @0.26s  [work zip] Button Click
+0.767 clap 0.724 mel 0.869  360492 @0.26s  [work zip] Stapler 2  << on air wrong: 13 May: a stapler
+0.765 clap 0.715 mel 0.883  202310 @0.00s  [work zip] Button 2.mp3
+0.765 clap 0.714 mel 0.883  459243 @0.00s  [work zip] ButtonPress.mp3
+0.765 clap 0.712 mel 0.889  383239 @0.00s  [work zip] Logitech Mouse Click  << on air warm: 26 Jul: a computer mouse click
+0.764 clap 0.730 mel 0.844  492450 @5.26s  [work zip] SFX parkingbreak.wav
+0.763 clap 0.724 mel 0.854  448465 @1.88s  [work zip] es-mouseclicks.wav
+0.763 clap 0.742 mel 0.812  218485 @2.23s  [work zip] LockAndLoad.mp3
+0.762 clap 0.714 mel 0.875  335748 @0.00s  [work zip] door_handle.wav
+0.762 clap 0.745 mel 0.801  348239 @0.00s  [work zip] MECH-KEYBOARD-01.wav
+0.761 clap 0.730 mel 0.836  194798 @0.00s  [work zip] Vintage Keyboard 4
+0.761 clap 0.727 mel 0.841  219293 @4.11s  [work zip] Clicking Pen  << on air wrong: 28 May: clicking the top of a pen
+0.760 clap 0.740 mel 0.806  585473 @6.73s  [work zip] 35mm film camera winding + NORMAL shutter click  << on air wrong: 25 Oct: a camera shutter on an old Box Brownie camera
+0.760 clap 0.722 mel 0.848  29475 @0.00s  [work zip] btn295.wav
+0.759 clap 0.716 mel 0.862  202311 @0.00s  [work zip] Button 1.mp3
+0.759 clap 0.723 mel 0.844  531407 @0.00s  [work zip] switch 19.wav
+0.758 clap 0.714 mel 0.862  256454 @0.00s  [work zip] Mouse Double Click 2  << on air warm: 26 Jul: a computer mouse click
+0.756 clap 0.727 mel 0.824  218482 @0.16s  [work zip] GunClick.mp3
+0.756 clap 0.708 mel 0.866  516262 @0.00s  [work zip] Key1.wav
+0.755 clap 0.716 mel 0.847  256455 @0.00s  [work zip] Mouse Click  << on air warm: 26 Jul: a computer mouse click
+0.753 clap 0.745 mel 0.772  423512 @1.41s  [work zip] Light Switch Click On and Off
+0.753 clap 0.720 mel 0.830  465696 @0.02s  [work zip] Breaker Switch
+0.753 clap 0.711 mel 0.852  386424 @4.02s  [work zip] Toggle_Switch.wav
+0.753 clap 0.697 mel 0.883  352880 @5.53s  [work zip] String Roof Switch
+0.752 clap 0.726 mel 0.814  456356 @13.90s  [work zip] Gamepad 2
+0.752 clap 0.707 mel 0.858  442649 @0.75s  [work zip] Keyboard Click.mp3
+0.752 clap 0.722 mel 0.822  246327 @0.15s  [work zip] Computer_Keyboard_Spacebar.wav
+0.751 clap 0.718 mel 0.829  53436 @0.99s  [work zip] Stapler.wav  << on air wrong: 13 May: a stapler
+0.750 clap 0.709 mel 0.848  194797 @0.00s  [work zip] Vintage Keyboard 3
+0.750 clap 0.729 mel 0.799  384406 @0.57s  [work zip] Seat belt unbuckle & buckling
+0.750 clap 0.709 mel 0.845  516264 @0.00s  [work zip] Key5.wav
+0.750 clap 0.713 mel 0.836  29444 @0.00s  [work zip] btn264.wav
+0.749 clap 0.697 mel 0.872  585475 @2.01s  [work zip] 35mm film camera winding + FAST shutter click  << on air wrong: 25 Oct: a camera shutter on an old Box Brownie camera
+results/clap_work_zip_stacked/ab/AB_mnc_clap1_work-zip_119134.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap2_work-zip_172179.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap3_work-zip_400659.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap4_work-zip_515407.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap5_work-zip_535807.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap6_work-zip_448910.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap7_work-zip_515810.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap8_work-zip_425387.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap9_work-zip_442353.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap10_work-zip_391310.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap11_work-zip_346560.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap12_work-zip_577863.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap13_work-zip_445972.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap14_work-zip_29478.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap15_work-zip_531396.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap16_work-zip_497115.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap17_work-zip_330258.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap18_work-zip_194795.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap19_work-zip_328380.mp3
+results/clap_work_zip_stacked/ab/AB_mnc_clap20_work-zip_466049.mp3
+clap_index.py, window 0.64 s, max 6 events per clip; clue clues/mnc/clue_stacked.wav
