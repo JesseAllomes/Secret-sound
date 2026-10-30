@@ -1,0 +1,94 @@
+
+1355 files with a stroke pair. Top 40 by score:
+  1  0.895  gap 145.5 ms  ring  645 Hz T60 0.85  [gap 0.98 pre 1.00 crunch 1.00 thump 1.00 ring 0.70 dry 0.50 iso 0.99]  drop3.wav
+  2  0.859  gap 136.4 ms  ring  840 Hz T60 2.62  [gap 1.00 pre 1.00 crunch 1.00 thump 0.85 ring 0.53 dry 0.97 iso 1.00]  Swishes_2_short_fast_rattle_stronger.wav
+  3  0.859  gap 127.5 ms  ring  503 Hz T60 0.42  [gap 0.97 pre 1.00 crunch 1.00 thump 0.87 ring 0.53 dry 1.00 iso 1.00]  SFX_MONOSJAM_slayer_149.wav
+  4  0.833  gap 149.4 ms  ring  798 Hz T60 0.84  [gap 0.95 pre 1.00 crunch 1.00 thump 0.72 ring 0.61 dry 0.59 iso 1.00]  cassette_deck_play_audio_cassette_01.wav
+  5  0.830  gap 155.7 ms  ring  663 Hz T60 0.68  [gap 0.90 pre 0.40 crunch 1.00 thump 0.56 ring 0.77 dry 1.00 iso 1.00]  vcr_switch.wav
+  6  0.828  gap  95.7 ms  ring  923 Hz T60 0.44  [gap 0.59 pre 0.40 crunch 1.00 thump 0.90 ring 0.74 dry 1.00 iso 1.00]  ding2.wav
+  7  0.826  gap 137.9 ms  ring  689 Hz T60 0.72  [gap 1.00 pre 0.00 crunch 1.00 thump 0.75 ring 0.71 dry 0.70 iso 1.00]  Elevator: Button 1 (Compilation)
+  8  0.824  gap 137.0 ms  ring 1024 Hz T60 0.28  [gap 1.00 pre 0.00 crunch 0.50 thump 0.93 ring 0.86 dry 0.88 iso 1.00]  female goodnight.wav
+  9  0.821  gap 109.0 ms  ring  879 Hz T60 1.14  [gap 0.78 pre 1.00 crunch 1.00 thump 0.68 ring 0.61 dry 1.00 iso 1.00]  Camcorder Beeps
+ 10  0.819  gap 137.1 ms  ring  643 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.67 thump 0.89 ring 0.74 dry 1.00 iso 1.00]  cd-dvd_drive_sounds.wav
+ 11  0.811  gap 139.9 ms  ring  709 Hz T60 0.64  [gap 1.00 pre 1.00 crunch 0.83 thump 0.42 ring 0.69 dry 1.00 iso 1.00]  Tape Recorder.wav
+ 12  0.807  gap 151.0 ms  ring  570 Hz T60 5.00  [gap 0.94 pre 1.00 crunch 1.00 thump 0.99 ring 0.41 dry 0.30 iso 1.00]  Elevator: Button Beep (Compilation)
+ 13  0.806  gap 161.2 ms  ring  704 Hz T60 0.44  [gap 0.83 pre 0.40 crunch 0.50 thump 0.85 ring 0.86 dry 0.84 iso 1.00]  doubleclack.wav
+ 14  0.805  gap 148.6 ms  ring  710 Hz T60 2.53  [gap 0.96 pre 1.00 crunch 0.83 thump 0.77 ring 0.62 dry 0.32 iso 1.00]  Mouse Clicks & Scrolls
+ 15  0.804  gap 173.6 ms  ring  966 Hz T60 0.25  [gap 0.66 pre 1.00 crunch 1.00 thump 0.65 ring 0.63 dry 1.00 iso 1.00]  SFX_MONOSJAM_slayer_137.wav
+ 16  0.804  gap 129.6 ms  ring  932 Hz T60 0.82  [gap 0.98 pre 0.00 crunch 1.00 thump 0.92 ring 0.60 dry 0.39 iso 1.00]  COMAv-Samsung Galaxy Smartphone_VHS Tape, Ejected from VCR_Nicholas Judy_TDC
+ 17  0.794  gap 156.4 ms  ring  815 Hz T60 0.23  [gap 0.89 pre 0.40 crunch 0.50 thump 0.67 ring 0.86 dry 1.00 iso 1.00]  ATIK  2 - 172   stereoatik.wav
+ 18  0.793  gap 190.4 ms  ring  772 Hz T60 0.20  [gap 0.41 pre 0.40 crunch 1.00 thump 0.90 ring 0.70 dry 1.00 iso 1.00]  clack4.wav
+ 19  0.793  gap 137.2 ms  ring  984 Hz T60 0.40  [gap 1.00 pre 0.00 crunch 1.00 thump 0.55 ring 0.79 dry 0.25 iso 1.00]  MAC LABS CD TRAY 004.wav
+ 20  0.792  gap 159.2 ms  ring  989 Hz T60 0.27  [gap 0.86 pre 0.40 crunch 0.50 thump 1.00 ring 0.67 dry 1.00 iso 1.00]  clack5.wav
+ 21  0.792  gap 145.0 ms  ring  814 Hz T60 0.97  [gap 0.98 pre 1.00 crunch 1.00 thump 0.39 ring 0.57 dry 0.89 iso 1.00]  drop4.wav
+ 22  0.788  gap 131.5 ms  ring  530 Hz T60 0.00  [gap 0.99 pre 0.00 crunch 1.00 thump 1.00 ring 0.37 dry 0.94 iso 1.00]  Keys Grab Hard 2.wav
+ 23  0.788  gap 106.6 ms  ring  570 Hz T60 0.52  [gap 0.75 pre 1.00 crunch 1.00 thump 0.70 ring 0.48 dry 1.00 iso 1.00]  FOLYProp-Blue Snowball Microphone, CU_VHS Tape, Drop_Nicholas Judy_TDC
+ 24  0.788  gap 109.9 ms  ring  762 Hz T60 5.00  [gap 0.79 pre 0.00 crunch 0.75 thump 0.91 ring 0.69 dry 0.95 iso 1.00]  drop1.wav
+ 25  0.786  gap 120.6 ms  ring  559 Hz T60 5.00  [gap 0.92 pre 0.40 crunch 1.00 thump 0.73 ring 0.47 dry 1.00 iso 1.00]  ATIK  2 - 71    stereoatik.wav
+ 26  0.786  gap 191.5 ms  ring  771 Hz T60 0.54  [gap 0.40 pre 0.00 crunch 1.00 thump 0.80 ring 0.82 dry 1.00 iso 1.00]  SFX_MONOSJAM_slayer_136.wav
+ 27  0.783  gap 154.4 ms  ring  916 Hz T60 3.03  [gap 0.91 pre 1.00 crunch 0.50 thump 0.91 ring 0.58 dry 0.79 iso 1.00]  female tommorow.wav
+ 28  0.783  gap 114.8 ms  ring  508 Hz T60 2.10  [gap 0.86 pre 1.00 crunch 1.00 thump 1.00 ring 0.41 dry 1.00 iso 0.76]  Panasonic PV-V4020 Eject
+ 29  0.782  gap 102.7 ms  ring  921 Hz T60 0.74  [gap 0.69 pre 0.40 crunch 0.50 thump 1.00 ring 0.77 dry 0.80 iso 1.00]  SFX_MONOSJAM_slayer_134.wav
+ 30  0.779  gap 159.9 ms  ring  798 Hz T60 1.13  [gap 0.85 pre 1.00 crunch 1.00 thump 0.63 ring 0.57 dry 0.30 iso 1.00]  cassette_deck_play_audio_cassette_02.wav
+ 31  0.779  gap 102.7 ms  ring  876 Hz T60 0.35  [gap 0.69 pre 0.00 crunch 0.58 thump 0.84 ring 0.90 dry 0.72 iso 1.00]  Olitec male voice record (eng) 2
+ 32  0.779  gap 105.9 ms  ring  831 Hz T60 0.49  [gap 0.74 pre 1.00 crunch 1.00 thump 0.28 ring 0.71 dry 1.00 iso 1.00]  FIRST RECORDER BEEP 1.wav
+ 33  0.777  gap 134.3 ms  ring  870 Hz T60 1.31  [gap 1.00 pre 0.00 crunch 1.00 thump 0.49 ring 0.62 dry 1.00 iso 1.00]  Old computer lid close
+ 34  0.776  gap 136.4 ms  ring  580 Hz T60 3.67  [gap 1.00 pre 1.00 crunch 0.83 thump 0.90 ring 0.49 dry 1.00 iso 0.72]  BMW GS Adventure Series 650cc key inserting sound.wav
+ 35  0.775  gap 102.4 ms  ring  571 Hz T60 0.26  [gap 0.69 pre 0.00 crunch 0.50 thump 0.87 ring 0.86 dry 1.00 iso 1.00]  female hello.wav
+ 36  0.775  gap 146.3 ms  ring  773 Hz T60 1.76  [gap 0.97 pre 0.00 crunch 0.67 thump 0.66 ring 0.72 dry 1.00 iso 1.00]  dvd player.wav
+ 37  0.773  gap  96.9 ms  ring  600 Hz T60 5.00  [gap 0.61 pre 1.00 crunch 1.00 thump 0.82 ring 0.44 dry 1.00 iso 1.00]  Scifi_microwave_buttons
+ 38  0.773  gap 156.2 ms  ring 1166 Hz T60 1.19  [gap 0.89 pre 1.00 crunch 0.50 thump 0.80 ring 0.59 dry 0.96 iso 0.99]  VX1000 Start Up Beep
+ 39  0.772  gap 127.9 ms  ring  826 Hz T60 0.92  [gap 0.97 pre 0.40 crunch 0.67 thump 0.66 ring 0.64 dry 0.91 iso 1.00]  Tape Player Sounds
+ 40  0.770  gap  99.0 ms  ring  704 Hz T60 1.29  [gap 0.64 pre 0.00 crunch 0.67 thump 0.88 ring 0.77 dry 1.00 iso 1.00]  Casio AS-51R Cassette Player Play Button
+
+Evidence per mechanism (search query):
+  radio cassette                   n=  50 best 0.828 median-top5 0.806  matches gap,crunch,thump,ring,dry,iso  never -
+  stereo button                    n=  56 best 0.859 median-top5 0.804  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  vhs                              n=  70 best 0.895 median-top5 0.788  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  vcr                              n=  63 best 0.830 median-top5 0.783  matches gap,crunch,thump,dry,iso  never -
+  tape recorder                    n=  51 best 0.833 median-top5 0.779  matches gap,pre,crunch,ring,dry,iso  never -
+  recorder button                  n=  36 best 0.826 median-top5 0.773  matches gap,crunch,thump,dry,iso  never -
+  dvd player                       n=  24 best 0.775 median-top5 0.752  matches gap,crunch,thump,dry,iso  never -
+  video recorder                   n=  66 best 0.859 median-top5 0.751  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  walkman                          n=  39 best 0.794 median-top5 0.748  matches gap,crunch,thump,ring,dry,iso  never -
+  answering machine                n=  78 best 0.779 median-top5 0.745  matches gap,crunch,thump,ring,dry,iso  never -
+  cd player                        n=  53 best 0.793 median-top5 0.738  matches gap,crunch,thump,ring,dry,iso  never -
+  record player                    n=  41 best 0.770 median-top5 0.729  matches gap,pre,crunch,thump,dry,iso  never -
+  recorder key                     n=  47 best 0.788 median-top5 0.726  matches gap,crunch,thump,dry,iso  never -
+  synth key                        n=  76 best 0.753 median-top5 0.724  matches gap,pre,crunch,thump,ring,dry  never -
+  old recorder                     n=  67 best 0.777 median-top5 0.723  matches gap,pre,crunch,thump,iso  never -
+  dictaphone                       n=  78 best 0.752 median-top5 0.720  matches gap,crunch,thump,ring,dry  never -
+  turntable                        n=  75 best 0.761 median-top5 0.718  matches gap,crunch,thump,ring,dry,iso  never -
+  piano key                        n=  40 best 0.759 median-top5 0.718  matches gap,crunch,thump,iso  never -
+  minidisc                         n=  72 best 0.725 median-top5 0.717  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  camcorder                        n=  74 best 0.821 median-top5 0.706  matches gap,pre,crunch,thump,ring,dry  never -
+  cd eject                         n=  22 best 0.819 median-top5 0.698  matches gap,pre,crunch,thump,ring,dry  never -
+  film projector                   n=  46 best 0.703 median-top5 0.680  matches gap,pre,crunch,thump,ring,dry  never iso
+  organ key                        n=  79 best 0.684 median-top5 0.678  matches gap,pre,crunch,thump,ring,dry  never iso
+  slide projector                  n=  17 best 0.747 median-top5 0.667  matches gap,pre,crunch,thump,ring,dry  never -
+  amplifier switch                 n=  19 best 0.703 median-top5 0.664  matches gap,pre,crunch,thump,ring,dry  never -
+  hifi button                      n=   1 best 0.608 median-top5 0.608  matches gap,thump,ring,dry  never pre,iso
+  jukebox                          n=   8 best 0.665 median-top5 0.607  matches gap,pre,crunch,thump,ring,dry  never -
+  projector button                 n=   2 best 0.612 median-top5 0.593  matches thump,dry,iso  never pre
+  overhead projector               n=   5 best 0.610 median-top5 0.533  matches crunch,thump,ring,dry  never iso
+A/B: results/mnc_wave3/ab/AB_steel1_vhs_697940.mp3
+A/B: results/mnc_wave3/ab/AB_steel2_video-recorder_614161.mp3
+A/B: results/mnc_wave3/ab/AB_steel3_stereo-button_589306.mp3
+A/B: results/mnc_wave3/ab/AB_steel4_tape-recorder_273438.mp3
+A/B: results/mnc_wave3/ab/AB_steel5_vcr_364202.mp3
+A/B: results/mnc_wave3/ab/AB_steel6_radio-cassette_53635.mp3
+A/B: results/mnc_wave3/ab/AB_steel7_recorder-button_475226.mp3
+A/B: results/mnc_wave3/ab/AB_steel8_radio-cassette_4052.mp3
+A/B: results/mnc_wave3/ab/AB_steel9_camcorder_453043.mp3
+A/B: results/mnc_wave3/ab/AB_steel10_cd-eject_651291.mp3
+A/B: results/mnc_wave3/ab/AB_steel11_tape-recorder_61075.mp3
+A/B: results/mnc_wave3/ab/AB_steel12_recorder-button_475223.mp3
+A/B: results/mnc_wave3/ab/AB_steel13_radio-cassette_53639.mp3
+A/B: results/mnc_wave3/ab/AB_steel14_stereo-button_320146.mp3
+A/B: results/mnc_wave3/ab/AB_steel15_stereo-button_589294.mp3
+A/B: results/mnc_wave3/ab/AB_steel16_vcr_805364.mp3
+A/B: results/mnc_wave3/ab/AB_steel17_walkman_4120.mp3
+A/B: results/mnc_wave3/ab/AB_steel18_radio-cassette_53631.mp3
+A/B: results/mnc_wave3/ab/AB_steel19_cd-player_106357.mp3
+A/B: results/mnc_wave3/ab/AB_steel20_radio-cassette_53632.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav

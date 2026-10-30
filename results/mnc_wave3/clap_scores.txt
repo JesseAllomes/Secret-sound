@@ -1,0 +1,82 @@
+on-air filter: 7 clips match a wrong guess and are left out of the A/B files
+0.854 clap 0.856 mel 0.851  641862 @7.17s  [recorder key] Key_Old_Recorder.wav
+0.820 clap 0.825 mel 0.809  595859 @13.91s  [dvd player] Disk drive sounds - opening and closing
+0.779 clap 0.747 mel 0.855  869751 @2.41s  [recorder button] Classic Arcade Button with Cherry Game Switch - Multiple Pre
+0.774 clap 0.741 mel 0.851  331427 @0.00s  [old recorder] Old computer lid close
+0.761 clap 0.730 mel 0.834  570617 @3.79s  [dvd player] dvd player.wav
+0.752 clap 0.716 mel 0.834  624632 @14.75s  [record player] Casio AS-51R Cassette Player FM/AM Switch
+0.747 clap 0.708 mel 0.839  132029 @6.16s  [tape recorder] Tape Player Sounds
+0.742 clap 0.697 mel 0.846  867921 @2.53s  [stereo button] Button Press
+0.731 clap 0.704 mel 0.794  624636 @0.08s  [record player] Casio AS-51R Cassette Player Playing
+0.731 clap 0.674 mel 0.862  624633 @0.03s  [record player] Casio AS-51R Cassette Player BBS Switch
+0.729 clap 0.684 mel 0.833  61075 @5.18s  [tape recorder] Tape Recorder.wav
+0.727 clap 0.691 mel 0.809  320146 @6.85s  [stereo button] Mouse Clicks & Scrolls  << on air warm: 26 Jul: a computer mouse click
+0.726 clap 0.677 mel 0.841  788770 @0.10s  [vcr] VHS Tape Insert and Eject sound
+0.726 clap 0.666 mel 0.866  402839 @18.41s  [piano key] Piano - Dead Key - Double Long
+0.726 clap 0.708 mel 0.767  681600 @8.12s  [cd player] CD Jewel Case; close.wav
+0.724 clap 0.686 mel 0.814  624641 @15.34s  [record player] Casio AS-51R Cassette Player Tuning Wheel.wav
+0.723 clap 0.662 mel 0.866  402838 @19.72s  [piano key] Piano - Dead Key - Double Short
+0.722 clap 0.679 mel 0.820  866360 @13.53s  [record player] COMAv-Blue Snowball Microphone, CU_Reel To Reel Tape Player,
+0.719 clap 0.675 mel 0.822  651291 @15.67s  [cd eject] cd-dvd_drive_sounds.wav
+0.718 clap 0.697 mel 0.764  639352 @0.16s  [vhs] Inserting Vhs tape.mp3
+0.716 clap 0.672 mel 0.817  91511 @2.50s  [recorder button] push_button_03.aif
+0.715 clap 0.681 mel 0.795  828785 @2.11s  [turntable] Console Turntable Turned On and Off
+0.712 clap 0.678 mel 0.791  91994 @4.45s  [video recorder] 0109 DVW500_int_eject.wav
+0.711 clap 0.664 mel 0.822  550459 @0.02s  [cd player] CD drive spin
+0.711 clap 0.644 mel 0.866  514451 @0.09s  [camcorder] shutter.wav
+0.707 clap 0.634 mel 0.878  263900 @0.26s  [recorder button] old_crt_monitor_button_turn_on_01.wav
+0.703 clap 0.635 mel 0.862  624634 @3.18s  [record player] Casio AS-51R Cassette Player Stop Button
+0.699 clap 0.674 mel 0.759  538507 @2.17s  [cd eject] GameCube Disc Drive Open and Close
+0.698 clap 0.646 mel 0.821  106357 @2.21s  [cd player] MAC LABS CD TRAY 004.wav
+0.698 clap 0.642 mel 0.827  109306 @9.75s  [cd player] CD-player, start & stop, open & close.wav  << on air wrong: 6 Oct: closing the top of an old-school CD player
+0.697 clap 0.653 mel 0.801  85668 @0.06s  [walkman] Lock_close2.mp3
+0.695 clap 0.615 mel 0.880  402836 @13.94s  [piano key] Piano - Dead Key - Single Short
+0.694 clap 0.681 mel 0.725  809172 @6.34s  [radio cassette] tape being inserted and ejected
+0.694 clap 0.643 mel 0.813  805360 @0.88s  [dvd player] COMAv-Samsung Galaxy Smartphone, CU_DVD Player, Close, Start
+0.691 clap 0.628 mel 0.835  505385 @1.89s  [cd player] disc to cd player and press play.wav
+0.690 clap 0.613 mel 0.870  264388 @0.00s  [recorder button] toilet_flushing_button.wav
+0.690 clap 0.628 mel 0.835  680832 @8.83s  [record player] Cassette player buttons
+0.690 clap 0.653 mel 0.774  106360 @0.02s  [cd player] MAC LABS CD TRAY 007.wav
+0.689 clap 0.670 mel 0.733  795374 @0.00s  [slide projector] Analog 17
+0.689 clap 0.595 mel 0.906  277650 @0.00s  [recorder button] Button 15.mp3
+0.688 clap 0.624 mel 0.837  627829 @3.14s  [tape recorder] Ouvrir tiroir.wav
+0.687 clap 0.649 mel 0.776  805417 @0.03s  [cd eject] CMPTDriv-Blue Snowball Microphone_CD Drive Door Close, Motor
+0.687 clap 0.620 mel 0.843  624637 @10.97s  [record player] Casio AS-51R Cassette Player Play Button
+0.686 clap 0.629 mel 0.820  853385 @16.80s  [dvd player] Portable DVD Player Disc Start & Stop
+0.685 clap 0.611 mel 0.858  484659 @0.18s  [cd player] CD-Player, Turn On, Turn Off, 01-01.wav
+0.683 clap 0.627 mel 0.816  467189 @9.04s  [film projector] Bell & Howell Film Camera.wav
+0.683 clap 0.593 mel 0.892  403247 @2.76s  [radio cassette] Tape Deck Buttons and Switches
+0.682 clap 0.628 mel 0.810  90730 @1.26s  [dictaphone] Tv off.wav
+0.680 clap 0.617 mel 0.828  689313 @1.36s  [stereo button] Razer Orochi V2 Left click
+0.680 clap 0.632 mel 0.791  407541 @0.40s  [record player] Record Player (turning table)
+0.679 clap 0.599 mel 0.868  40650 @0.00s  [minidisc] 023.aif
+0.679 clap 0.619 mel 0.819  106363 @2.26s  [cd player] MAC LABS CD TRAY 010.wav
+0.678 clap 0.667 mel 0.704  344536 @1.06s  [walkman] open-cd-player-play-close.wav  << on air wrong: 6 Oct: closing the top of an old-school CD player
+0.675 clap 0.620 mel 0.803  106365 @2.24s  [cd player] MAC LABS CD TRAY 012.wav
+0.674 clap 0.629 mel 0.782  256410 @3.92s  [recorder key] Door closing 04 with sound of keys
+0.674 clap 0.613 mel 0.818  321515 @1.28s  [radio cassette] fast forward.flac
+0.674 clap 0.606 mel 0.834  627849 @2.81s  [tape recorder] Rec + Stop 02.wav
+0.674 clap 0.597 mel 0.853  869750 @0.15s  [recorder button] Classic Arcade Button with Baolian Game Switch
+0.673 clap 0.638 mel 0.753  245272 @4.65s  [dictaphone] VELUX window on.off.wav
+0.672 clap 0.635 mel 0.759  106362 @0.00s  [cd player] MAC LABS CD TRAY 009.wav
+results/mnc_wave3/ab_clap/AB_mnc_clap1_recorder-key_641862.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap2_dvd-player_595859.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap3_recorder-button_869751.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap4_old-recorder_331427.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap5_dvd-player_570617.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap6_record-player_624632.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap7_tape-recorder_132029.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap8_stereo-button_867921.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap9_record-player_624636.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap10_record-player_624633.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap11_tape-recorder_61075.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap12_stereo-button_320146.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap13_vcr_788770.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap14_piano-key_402839.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap15_cd-player_681600.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap16_record-player_624641.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap17_piano-key_402838.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap18_record-player_866360.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap19_cd-eject_651291.mp3
+results/mnc_wave3/ab_clap/AB_mnc_clap20_vhs_639352.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
