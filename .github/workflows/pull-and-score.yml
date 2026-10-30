@@ -130,7 +130,8 @@ jobs:
           pip install -q -r requirements.txt
           python clap_index.py build "data/${{ inputs.name }}" --win 0.64 --max-events 6
           python clap_index.py query "${{ inputs.clap_clue }}" "data/${{ inputs.name }}" --tag mnc --top 60 \
-            --csv "$out/clap_scores.csv" --ab "${{ inputs.ab }}" --out "$out/ab_clap" | tee "$out/clap_scores.txt"
+            --csv "$out/clap_scores.csv" --ab "${{ inputs.ab }}" --out "$out/ab_clap" \
+            --skip-wrong analysis/mnc/onair_guesses.json | tee "$out/clap_scores.txt"
           echo "clap_index.py, window 0.64 s, 6 events per clip; clue ${{ inputs.clap_clue }}" >> "$out/clap_scores.txt"
       - name: Commit results to the results branch
         run: |

@@ -19,6 +19,7 @@ import json
 import re
 import shutil
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 
@@ -220,6 +221,8 @@ def main():
     q.add_argument("--csv")
     q.add_argument("--ab", type=int, default=0)
     q.add_argument("--out", default="ab_clap")
+    q.add_argument("--skip-wrong", help="on-air guesses json (tools/wrong_filter.py): mark matches, leave clips of "
+                                        "actions already guessed wrong out of the A/B files")
     args = ap.parse_args()
     if args.cmd == "merge":
         for f in args.folders:
@@ -234,16 +237,26 @@ def main():
         return
     clue = load_clue(args.clue)
     rows = query(clue, args.folders, clap, args.rerank)
+    fields = ["score", "clap", "mel", "id", "at", "query", "name", "file", "folder"]
+    ab_rows = rows
+    if args.skip_wrong and Path(args.skip_wrong).exists():
+        sys.path.insert(0, str(Path(__file__).parent / "tools"))
+        import wrong_filter
+        wrong_filter.mark(rows, wrong_filter.load_guesses(args.skip_wrong))
+        fields += ["onair", "onair_verdict"]
+        ab_rows = [r for r in rows if r["onair_verdict"] != "wrong"]
+        print(f"on-air filter: {len(rows) - len(ab_rows)} clips match a wrong guess and are left out of the A/B files")
     for r in rows[:args.top]:
         mel = f"{r['mel']:.3f}" if r["mel"] is not None else "  -  "
-        print(f"{r['score']:.3f} clap {r['clap']:.3f} mel {mel}  {r['id']} @{r['at']:.2f}s  [{r['query']}] {r['name'][:60]}")
+        tag = f"  << on air {r['onair_verdict']}: {r['onair']}" if r.get("onair") else ""
+        print(f"{r['score']:.3f} clap {r['clap']:.3f} mel {mel}  {r['id']} @{r['at']:.2f}s  [{r['query']}] {r['name'][:60]}{tag}")
     if args.csv:
         with open(args.csv, "w", newline="", encoding="utf-8") as fh:
-            w = csv.DictWriter(fh, fieldnames=["score", "clap", "mel", "id", "at", "query", "name", "file", "folder"])
+            w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
             w.writeheader()
             w.writerows(rows)
     if args.ab:
-        for p in write_ab(rows, args.ab, clue, args.tag, args.out):
+        for p in write_ab(ab_rows, args.ab, clue, args.tag, args.out):
             print(p)
 
 
