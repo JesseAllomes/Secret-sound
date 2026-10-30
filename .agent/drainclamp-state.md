@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=19 -->
+<!-- drainclamp-build: state; schema=1; generation=20 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -37,6 +37,7 @@
 - bendigo ear (31 Oct) -> grandfather-clock winding (freesound 27149) is the closest of everything; pitch-shifted versions (up or down) were not closer; lever, vending, rotary dial, bike wheel, bigger winders (wave 4) are further off. Lead answer: "winding up a grandfather clock" (fits classic / need a hand / old school; not on the wrong list) (user)
 - sound downloads -> ONLY through GitHub workflows (Freesound, BBC, full clips via fetch-clips.yml); never pulled in the cloud session (user, 31 Oct)
 - listening -> ONLY A/B files: clue then a candidate excerpt of the same length (x4); never send full recordings (user, 31 Oct)
+- mnc ear (31 Oct, rice cooker check) -> none of the rice cooker / toaster-lever library clips match; closest is Rice_cooker_C (Freesound 211926) but not right; old recorder key remains the closest overall (user)
 <!-- /DC:DECISIONS -->
 
 <!-- DC:ROADMAP -->
