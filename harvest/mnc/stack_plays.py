@@ -5,6 +5,9 @@ episode, cuts 1.0 s before to 1.5 s after every play at 48 kHz, aligns each cut 
 level and polarity, and writes:
   stack/clue_stacked_median.wav, stack/clue_stacked_mean.wav  (2.5 s; the clue sits at 1.000-1.631 s)
   stack/report.txt   per-play fit, and per 25 ms block how much of the sound is common to every play.
+It also keeps the audio while each episode is downloaded:
+  plays/<n>_<date>_<t>.flac      every play, 1.0 s before to 1.5 s after, aligned, as broadcast (no level change)
+  segments/<n>_<date>_<t0>.mp3   every transcribed segment (same window and name as transcripts/), 64 kb/s mono
 The "common" ratio (energy of the mean / mean energy) is ~1 where all plays carry the same sound and ~1/N where they
 differ (speech, music, noise), so it shows whether the station's recording runs past the edges of our 0.631 s clip.
 
@@ -53,6 +56,12 @@ def episode_plays(rec, clue, ev, ev_a):
         mp3 = Path(td) / "ep.mp3"
         if subprocess.run(["curl", "-sS", "-L", "-o", str(mp3), rec["url"]]).returncode:
             return rec, []
+        tag = f"{rec['n']:03d}_{rec['date'][5:16].replace(' ', '-')}"
+        for w in rec["windows"]:
+            dest = HERE / "segments" / f"{tag}_{int(w['t0'])}.mp3"
+            if not dest.exists():
+                subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", f"{w['t0']:.2f}", "-i", str(mp3), "-t",
+                                f"{w['t1'] - w['t0']:.2f}", "-ac", "1", "-b:a", "64k", str(dest)], check=True)
         for p in rec["plays"]:
             start = p["t"] - PRE - SEARCH
             x = cut(mp3, start, PRE + POST + 2 * SEARCH + 0.1)
@@ -66,6 +75,9 @@ def episode_plays(rec, clue, ev, ev_a):
                 continue
             body = seg[int(PRE * SR):int(PRE * SR) + len(clue)]
             g = float(body @ clue) / float(clue @ clue)          # level and polarity relative to our clue
+            dest = HERE / "plays" / f"{tag}_{p['t']:.2f}.flac"
+            if not dest.exists():
+                sf.write(dest, (seg / max(np.max(np.abs(seg)), 1.0)).astype(np.float32), SR, subtype="PCM_24")
             out.append({"date": rec["date"][5:16], "t": p["t"], "fit": round(abs(r), 3), "gain": round(g, 3),
                         "seg": seg / g if abs(g) > 1e-6 else seg})
     return rec, out
@@ -82,6 +94,8 @@ def main():
     ev_a, ev_b = int(0.04 * SR), int(0.40 * SR)              # the event itself, as find_plays.py uses
     ev = clue[ev_a:ev_b] - clue[ev_a:ev_b].mean()
     ev /= np.linalg.norm(ev)
+    (HERE / "plays").mkdir(exist_ok=True)
+    (HERE / "segments").mkdir(exist_ok=True)
     recs = [json.loads(line) for line in open(HERE / "harvest.jsonl")]
     recs = [r for r in recs if r["plays"]]
     plays = []
