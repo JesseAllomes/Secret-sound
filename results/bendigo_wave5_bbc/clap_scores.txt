@@ -1,0 +1,77 @@
+on-air filter: 6 clips match a wrong guess and are left out of the A/B files
+0.772 clap 0.737 mel 0.856  07022467 @0.80s  [clockwork toy] Model Railways: Hornby O-Gauge Clockwork train c.1935. Train
+0.750 clap 0.701 mel 0.865  07014186 @11.07s  [mechanical alarm] Mechanical digger, shutdown. (Four wheeled vehicle.)
+0.743 clap 0.682 mel 0.886  07071095 @5.95s  [clock key] Auto key punch, 1966.
+0.742 clap 0.690 mel 0.865  07022205 @1.27s  [cuckoo wind] Cuckoo clock striking two o'clock. (Cuckoo only.)
+0.740 clap 0.677 mel 0.887  07006009 @6.08s  [clock key] One auto-key punch operating, occasional pause.
+0.739 clap 0.685 mel 0.865  07056102 @88.02s  [kitchen timer] Canteen kitchen.
+0.738 clap 0.678 mel 0.878  07043355 @43.51s  [fishing reel] Beam Fishing Trawler, collecting fish from deck.
+0.736 clap 0.682 mel 0.863  07042260 @0.46s  [egg timer] Frying an egg.
+0.736 clap 0.672 mel 0.884  07004212 @10.41s  [film advance] An 8mm cine projector, threading film and power rewind. (Mak
+0.735 clap 0.671 mel 0.882  07004203 @45.79s  [film advance] 16mm RCA cine projector. Threading film and short test run.
+0.730 clap 0.674 mel 0.859  07039141 @20.57s  [winding alarm] Hand-Operated Sewing Machine, winding cotton on to shuttle.
+0.727 clap 0.668 mel 0.862  07045093 @4.34s  [music box] Tool box opened.
+0.723 clap 0.660 mel 0.872  07046134 @10.87s  [mechanical alarm] Mechanical digger (four wheels) - shutdown - 1981 (6B1, repr
+0.719 clap 0.660 mel 0.856  07070157 @6.25s  [winding alarm] English Walnut clock (1700) - wound up
+0.717 clap 0.645 mel 0.884  07070036 @27.92s  [travel clock] Thomas Cook World Travel Centre
+0.715 clap 0.659 mel 0.844  07010183 @27.25s  [jack-in-the-box] Jack plane boring hole in 3" soft wood with 1" twist bit in 
+0.714 clap 0.665 mel 0.827  07022079 @3.46s  [bedside clock] Domestic clock striking four o'clock. (Domestic clock with h
+0.713 clap 0.643 mel 0.874  07054032 @5.01s  [winding alarm] Cage opened and loaded, winding gear operated at slow speed 
+0.712 clap 0.640 mel 0.880  07033039 @70.56s  [music box] Gasworks, box purifier operating.
+0.709 clap 0.680 mel 0.775  07036132 @0.62s  [tin toy] Clockwork Toy, Whimpsy Pal operating.
+0.708 clap 0.638 mel 0.873  07022469 @15.87s  [clockwork toy] Model Railways: Hornby HO-Gauge Clockwork train c.1935. Hand
+0.708 clap 0.631 mel 0.889  07016340 @56.99s  [winding alarm] Winding up yarn after spinning. (Old textile machinery.)
+0.705 clap 0.643 mel 0.851  07071104 @65.26s  [camera wind] Photo-direct camera processor (photographic reproducer), 196
+0.705 clap 0.662 mel 0.804  07015189 @1.77s  [twin bell] Triumph 650cc twin, several machines revving.
+0.703 clap 0.623 mel 0.889  07046138 @1.42s  [mechanical alarm] Mechanical digger (four wheels) - working close - 1981 (6B1,
+0.703 clap 0.655 mel 0.814  07056100 @1.33s  [kitchen timer] Small domestic kitchen.
+0.702 clap 0.662 mel 0.797  07022129 @16.82s  [bedside clock] Domestic clock striking three o'clock. (English domestic clo
+0.702 clap 0.656 mel 0.810  07036204 @1.68s  [winding alarm] Grandfather Clock with St Michael's chimes, winding by chain
+0.701 clap 0.629 mel 0.870  07018153 @28.45s  [carriage clock] Horsedrawn Gun Carriage approaches & stops, panting of horse
+0.700 clap 0.622 mel 0.883  07033162 @7.42s  [ratchet screwdriver] Local Train, ratchet-type window blind raised & lowered.
+0.700 clap 0.643 mel 0.832  07022249 @15.51s  [bedside clock] Lantern clock striking ten o'clock. (Domestic lantern clock,
+0.698 clap 0.629 mel 0.860  07056103 @23.97s  [kitchen timer] Small restaurant kitchen.
+0.698 clap 0.627 mel 0.864  07037377 @11.92s  [twin bell] Twin Metal squeaks.
+0.697 clap 0.642 mel 0.824  07067054 @5.59s  [egg timer] Beating egg with fork.
+0.696 clap 0.662 mel 0.777  07045079 @0.82s  [carriage clock] Railway Carriage, interior, compartment double doors closed.
+0.696 clap 0.623 mel 0.867  07056104 @25.24s  [kitchen timer] Large restaurant kitchen.
+0.696 clap 0.635 mel 0.838  07056106 @33.94s  [kitchen timer] Large hotel kitchen - food collection area.
+0.696 clap 0.640 mel 0.826  07076045 @4.05s  [film advance] Film running out on 16 mm projector. (24 f.p.s.)
+0.694 clap 0.650 mel 0.797  07041056 @7.52s  [music box] Signal Box, obstruction warning.
+0.694 clap 0.625 mel 0.854  07006020 @71.08s  [camera wind] Photo-direct camera processor operating.
+0.691 clap 0.615 mel 0.870  07022471 @1.89s  [clockwork toy] Model Railways: Hornby HO-Gauge Clockwork train c.1935. Dera
+0.691 clap 0.631 mel 0.830  07041053 @21.40s  [music box] Manual Signal Box atmosphere.
+0.691 clap 0.636 mel 0.819  07002111 @6.66s  [egg timer] Beating an egg with a fork.
+0.691 clap 0.602 mel 0.897  07054031 @1.46s  [winding alarm] Pit winding gear in operation (Ellistoun Colliery, Leics.)
+0.691 clap 0.641 mel 0.807  07070123 @36.82s  [jack-in-the-box] Weaving - Spinning jack
+0.689 clap 0.616 mel 0.859  07063118 @17.98s  [carriage clock] Horsedrawn gun carriage passing slowly - 1970 (83E)
+0.689 clap 0.606 mel 0.881  07004209 @36.80s  [film advance] Eumig 8mm cine projector. Threading film and short test run.
+0.688 clap 0.625 mel 0.834  07045084 @2.46s  [carriage clock] Railway Carriage, interior, window opened (leather strap typ
+0.687 clap 0.673 mel 0.719  07054169 @27.11s  [winding alarm] Winding engine drivers cabin - lift taken up then down.
+0.685 clap 0.635 mel 0.800  07045090 @2.05s  [carriage clock] Railway Carriage andbasin tap operated.
+0.685 clap 0.648 mel 0.770  00008045 @0.00s  [film advance] Film projector
+0.685 clap 0.605 mel 0.871  07016341 @39.86s  [winding alarm] Improved spinning jenny, drawing back, spinning & winding up
+0.684 clap 0.630 mel 0.812  07054051 @0.66s  [twin bell] Twin metal squeaks (89D)
+0.684 clap 0.624 mel 0.826  07032232 @1.86s  [music box] Jukebox mechanism operating, no music. (Jukebox c. 1962.)
+0.683 clap 0.604 mel 0.867  07022482 @14.86s  [fishing reel] Fishing Industry: Actuality, Loading bulk ice into trawler
+0.679 clap 0.620 mel 0.818  07022473 @4.36s  [clockwork toy] Model Railways: Hornby HO-Gauge Clockwork train c.1935. Dera
+0.678 clap 0.616 mel 0.824  NHU05039053 @23.94s  [fishing reel] Casting with a fly-fishing rod, pulling line in by hand. A f
+0.676 clap 0.601 mel 0.853  NHU05018068 @88.62s  [brownie camera] MCU snores from sleeping bear. Running water or rain. Distan
+0.675 clap 0.636 mel 0.764  07043353 @46.25s  [fishing reel] Beam Fishing Trawler, trawl gear lowered into water.
+0.675 clap 0.597 mel 0.857  07041055 @10.01s  [music box] Signal Box, various bells signals.
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap1_clockwork-toy_07022467.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap2_mechanical-alarm_07014186.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap3_clock-key_07071095.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap4_cuckoo-wind_07022205.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap5_clock-key_07006009.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap6_kitchen-timer_07056102.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap7_fishing-reel_07043355.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap8_egg-timer_07042260.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap9_film-advance_07004212.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap10_film-advance_07004203.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap11_winding-alarm_07039141.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap12_music-box_07045093.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap13_mechanical-alarm_07046134.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap14_winding-alarm_07070157.mp3
+results/bendigo_wave5_bbc/ab_clap/AB_bendigo_clap15_travel-clock_07070036.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
