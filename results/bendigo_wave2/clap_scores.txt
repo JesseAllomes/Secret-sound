@@ -1,0 +1,82 @@
+on-air filter: 1 clips match a wrong guess and are left out of the A/B files
+0.807 clap 0.791 mel 0.844  27149 @4.19s  [clock winding] Grandfather Clock Winding.mp3
+0.805 clap 0.773 mel 0.878  805328 @2.87s  [clock winding] CLOCKMech-Samsung Galaxy Smartphone, CU_Grandfather Clock Wi
+0.804 clap 0.785 mel 0.849  274480 @17.48s  [hand crank] bike-wheel-torque-looped.flac
+0.800 clap 0.770 mel 0.870  556481 @0.86s  [rotary phone] Rotary Dial 4
+0.795 clap 0.767 mel 0.860  556469 @1.99s  [rotary phone] Rotary Dial 5 (W/Pause)
+0.794 clap 0.758 mel 0.877  556475 @0.30s  [rotary phone] Rotary Dial 0
+0.790 clap 0.765 mel 0.848  256650 @4.92s  [hand crank] Super 8 mm manual crank film
+0.790 clap 0.804 mel 0.756  169116 @19.29s  [grandfather clock] clockwork 06.wav
+0.788 clap 0.775 mel 0.818  366720 @3.29s  [egg timer] Egg Timer.wav
+0.779 clap 0.747 mel 0.856  336520 @2.03s  [kitchen timer] Stove fan on
+0.776 clap 0.737 mel 0.868  79650 @2.29s  [old telephone] analog telephone with background noise.wav
+0.773 clap 0.729 mel 0.875  811011 @5.30s  [wind up toy] TOYMech-Samsung Galaxy Smartphone, MCU_Wind Up Toy Clacking_
+0.773 clap 0.745 mel 0.836  700579 @16.40s  [rotary phone] Rotary phone 1 stereo Trawsfynydd Wales
+0.772 clap 0.738 mel 0.851  556480 @1.23s  [rotary phone] Rotary Dial 5
+0.772 clap 0.751 mel 0.821  556467 @0.38s  [rotary phone] Rotary Dial 7 (W/Pause)
+0.771 clap 0.730 mel 0.866  556465 @0.38s  [rotary phone] Rotary Dial 9 (W/Pause)
+0.766 clap 0.713 mel 0.892  753804 @1.64s  [hand crank] Hand cranked water pump 2024 09 07
+0.761 clap 0.719 mel 0.859  556468 @1.90s  [rotary phone] Rotary Dial 6 (W/Pause)
+0.761 clap 0.741 mel 0.805  819304 @3.86s  [clock winding] CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nichola
+0.761 clap 0.709 mel 0.881  388498 @7.07s  [pencil sharpener] Sharpening Pencil in Old Fashion Pencil Sharpener.wav
+0.760 clap 0.723 mel 0.846  166937 @6.97s  [kitchen timer] Toaster Oven Sounds
+0.759 clap 0.756 mel 0.766  96147 @0.26s  [clock winding] MultiWind1.wav
+0.758 clap 0.718 mel 0.854  539543 @5.30s  [rotary dial] Dial 01.m4a
+0.758 clap 0.702 mel 0.888  184309 @3.31s  [spring wind] Vacuum Chord Being Wound in
+0.756 clap 0.704 mel 0.879  795450 @3.01s  [hand crank] Saint Assiscle dog park fountain 3 - 250323
+0.756 clap 0.711 mel 0.862  556478 @1.56s  [rotary phone] Rotary Dial 7
+0.756 clap 0.712 mel 0.858  556477 @1.37s  [rotary phone] Rotary Dial 8
+0.755 clap 0.708 mel 0.867  169112 @8.21s  [clockwork] clockwork 02.wav
+0.755 clap 0.707 mel 0.867  735661 @0.65s  [rotary dial] COMTelph-LANDLINE PHONE_Rotary Dial Number 04_KVV AUDIO_VEF 
+0.751 clap 0.715 mel 0.837  125349 @2.70s  [pencil sharpener] pencil sharper.wav
+0.750 clap 0.710 mel 0.843  556482 @1.41s  [rotary phone] Rotary Dial 3
+0.749 clap 0.695 mel 0.877  169113 @13.32s  [clockwork] clockwork 01.wav
+0.749 clap 0.694 mel 0.879  272221 @7.19s  [coffee grinder] coffee grinder motor
+0.749 clap 0.701 mel 0.860  347856 @0.00s  [rotary phone] Rotary Phone Winding Up
+0.748 clap 0.712 mel 0.833  269262 @2.99s  [old telephone] old phone dial the number
+0.747 clap 0.702 mel 0.853  556466 @2.00s  [rotary phone] Rotary Dial 8 (W/Pause)
+0.746 clap 0.726 mel 0.793  243610 @13.14s  [clock winding] CLOCK_WINDING.aiff
+0.746 clap 0.696 mel 0.863  49224 @3.99s  [clockwork] Motor noise2.WAV
+0.746 clap 0.691 mel 0.875  69652 @0.95s  [old telephone] old phone.wav
+0.745 clap 0.694 mel 0.866  556476 @1.56s  [rotary phone] Rotary Dial 9
+0.744 clap 0.705 mel 0.834  415562 @0.45s  [dial phone] mehackit_phone_3.flac
+0.744 clap 0.718 mel 0.804  169120 @13.68s  [clockwork] clockwork 12.wav
+0.743 clap 0.709 mel 0.824  403518 @1.69s  [clock winding] Egg-Timer_Spring_Wind-up.wav
+0.743 clap 0.691 mel 0.864  556471 @1.88s  [rotary phone] Rotary Dial 4 (W/Pause)
+0.743 clap 0.697 mel 0.849  327685 @1.73s  [pencil sharpener] Pencil Sharpener.wav
+0.742 clap 0.692 mel 0.860  556472 @1.85s  [rotary phone] Rotary Dial 3 (W/Pause)
+0.742 clap 0.701 mel 0.837  556464 @2.04s  [rotary phone] Rotary Dial 0 (W/Pause)
+0.742 clap 0.692 mel 0.859  418790 @21.61s  [hand crank] Antique Coffee Grinder With Beans
+0.741 clap 0.701 mel 0.835  619296 @1.80s  [clock winding] Clock (Cuckoo) - Wind 3
+0.741 clap 0.722 mel 0.786  169119 @11.85s  [clockwork] clockwork 09.wav
+0.741 clap 0.693 mel 0.852  556479 @1.31s  [rotary phone] Rotary Dial 6
+0.741 clap 0.745 mel 0.731  458589 @0.47s  [grandfather clock] Grandfather Clock Striking at the 15 Minute Mark.aif
+0.740 clap 0.692 mel 0.854  58815 @0.18s  [cuckoo clock] coocoo_clock_half_hour.wav
+0.740 clap 0.697 mel 0.839  169121 @1.34s  [clockwork] clockwork 11.wav
+0.739 clap 0.668 mel 0.905  81213 @1.53s  [clockwork] toy car.flac
+0.739 clap 0.702 mel 0.827  774259 @0.89s  [rotary phone] rotary_phone_rotate
+0.739 clap 0.691 mel 0.849  344459 @8.46s  [rotary phone] rotary phone
+0.738 clap 0.682 mel 0.867  842639 @13.19s  [rotary dial] COMTelph-Blue Snowball Microphone, MCU_Telephone, Rotary, Di
+0.737 clap 0.680 mel 0.870  613989 @6.39s  [hand crank] Spinning Metal Spindle (Bassy)
+0.737 clap 0.679 mel 0.870  556483 @0.83s  [rotary phone] Rotary Dial 2
+results/bendigo_wave2/ab_clap/AB_bendigo_clap1_clock-winding_27149.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap2_clock-winding_805328.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap3_hand-crank_274480.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap4_rotary-phone_556481.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap5_rotary-phone_556469.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap6_rotary-phone_556475.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap7_hand-crank_256650.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap8_grandfather-clock_169116.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap9_egg-timer_366720.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap10_kitchen-timer_336520.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap11_old-telephone_79650.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap12_wind-up-toy_811011.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap13_rotary-phone_700579.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap14_rotary-phone_556480.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap15_rotary-phone_556467.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap16_rotary-phone_556465.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap17_hand-crank_753804.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap18_rotary-phone_556468.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap19_clock-winding_819304.mp3
+results/bendigo_wave2/ab_clap/AB_bendigo_clap20_pencil-sharpener_388498.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
