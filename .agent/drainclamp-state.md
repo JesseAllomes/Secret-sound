@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=20 -->
+<!-- drainclamp-build: state; schema=1; generation=21 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -63,4 +63,5 @@
 - 2026-10-30T13:43:35+00:00 d3338524 m1 done: harvest back to round start 13 May ($25), 423 plays saved, stack of 415, evidence package rebuilt; Fable step 1 running
 - 2026-10-30T14:40:03+00:00 86ce44c1 Overnight: fable steps done; 196 on-air guesses + strict wrong filter; pack 1 sent; Bendigo fresh Fable done, searches running
 - 2026-10-30T17:17:45+00:00 e6f3b7f6 Overnight: MNC waves 2-4 + combined ranking (keyboard/player push-buttons lead); Bendigo work zip + BBC + waves 2-3 (lever pull 0.855); STATUS.md morning summary
+- 2026-10-30T23:06:12+00:00 23e83a71 Final calls: Bendigo 'winding up an old wind-up alarm clock' (Fable final); MNC 'pushing the lever down on a rice cooker' (fresh Fable final, unconfirmed by ear); recorder key explored (no pack, similar sounds sent)
 <!-- /DC:LOG -->
