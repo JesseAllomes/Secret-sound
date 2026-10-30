@@ -1,0 +1,49 @@
+BEST BITS: I Should Really Think Before I Speak
+Thu, 03 Sep 2026 01:15:17 +0000
+plays: [{'t': np.float64(526.04), 'ncc': 0.85}, {'t': np.float64(538.98), 'ncc': 0.883}]
+
+[  451.0] No, I'm in the wrong position to watch, I've got too many trees and things in the way.
+[  456.0] Let me tell you this, there were purples in there, there were pinks, there were reds.
+[  460.0] It was a lovely, pastel-y looking thing and it just brought a smile to my face.
+[  465.0] Ah, lovely, that'd be good, yeah.
+[  468.0] A smile on the back.
+[  469.0] I heard yesterday you were trying to get the Teeter Cock Club thing off the ground,
+[  474.0] you know, with key rings or wine glasses or coffee mugs or whatever.
+[  478.0] I'd love Lorraine to have like a key that we can give away to everybody in the Six O'Clock Club
+[  484.0] and that can be the key to get into the club, you know what I mean?
+[  487.0] That'd be lovely, wouldn't it?
+[  488.0] Yeah, we can have, yeah, Six O'Clock Club written on it and some Sarge for breakfast branding and Triple M branding, all that good stuff.
+[  495.0] Hey, it's a nice little project for us to put our heads together and work on.
+[  499.0] It would be lovely, wouldn't it?
+[  502.0] What else would be lovely, Lorraine?
+[  503.0] We gave you $1,775.
+[  507.0] What would you do with the cash if you wanted, Lorraine?
+[  510.0] I think I'd put it to my next holiday whenever it might be.
+[  513.0] Yeah, nice.
+[  514.0] And then you can take keeps of photos and send them to me and make me jealous like you did last time.
+[  519.0] I probably will too, no problem.
+[  521.0] Oh, you're mean, you're mean, Lorraine.
+[  523.0] No, you're not, you're lovely.
+[  524.0] Here we go, here's the secret sound.
+[  526.0] What do you think?
+[  528.0] Well, I hope you do have an electric skillet and you're having the plugging in the temperature gauge when you click it into the socket of the skillet.
+[  538.0] Okay.
+[  539.0] No.
+[  540.0] Absolutely not.
+[  542.0] That's not it.
+[  543.0] No, that's a shame.
+[  544.0] Oh, that was promo Sal right there.
+[  546.0] Lorraine, have a wonderful day.
+[  548.0] You too, Sal. Thank you.
+[  549.0] Always keep catching up.
+[  550.0] Have you ever seen Lorraine?
+[  554.0] There she goes.
+[  555.0] All right, secret sound.
+[  556.0] It is back at 8 o'clock on 1 triple 3 5 3 call through $1,775 up for grabs.
+[  564.0] And all the incorrect guesses so far for a go on the Sarge for breakfast podcast at listener.
+[  569.0] Also a little sprinkling of clues there too.
+[  572.0] This is the Mid North Coast Triple M Sarge here for breakfast.
+[  575.0] More to come on the other side of this.
+[  576.0] Good morning.
+[  577.0] They make you feel good, eh?
+[  580.5] Elton and Kiki.

@@ -1,0 +1,44 @@
+BEST BITS: 69th Birthday Parties Are the Best
+Sun, 25 Oct 2026 22:18:19 +0000
+plays: [{'t': np.float64(1669.86), 'ncc': 0.857}, {'t': np.float64(1685.96), 'ncc': 0.773}]
+
+[ 1594.9] Thanks Sarge, you have a good week.
+[ 1596.9] You too, lovely. Bye bye.
+[ 1598.9] See ya, bye.
+[ 1599.9] Shh, it's Triple M's secret sound.
+[ 1601.9] Hmm.
+[ 1602.9] Thanks to 40 Winks Port Macquarie.
+[ 1604.9] So go in and see the team at Court Home Zone.
+[ 1606.9] 40 Winks, serious about sleep.
+[ 1608.9] And we have the wonderful Sue on line 1, 13353.
+[ 1612.9] Hello Sue.
+[ 1614.9] Hi Sarge. How are you going?
+[ 1616.9] How are you? Yeah, I'm really, really good, thank you.
+[ 1618.9] How's your Monday been so far?
+[ 1621.9] Um, yeah, all good. It was good to see the sun over the weekend though.
+[ 1625.9] Yeah, when it popped out I went, oh hang on, that's what the sun looks like. I forgot.
+[ 1630.9] Yeah.
+[ 1631.9] I think everyone was mowing their lawns and doing the washing.
+[ 1634.9] Yeah, certainly. Sue, where abouts the corn from?
+[ 1637.9] Port Macquarie.
+[ 1638.9] Okay. And look, we've spoken before Sue. I can sense some familiarity.
+[ 1643.9] I'm getting a bit of deja vu or deja Sue, if you know what I mean.
+[ 1646.9] Deja Sue.
+[ 1647.9] Do you work Sue? What do you do?
+[ 1650.9] No, I'm retired.
+[ 1652.9] Retired, yeah, okay. Well what would you do with 2700 bucks Sue?
+[ 1656.9] Um, planning a holiday to New Zealand so that will be good. Yeah, money towards.
+[ 1663.9] I hear wonderful things about New Zealand, that would be sensational.
+[ 1666.9] Well, Sue, here we go. Here's the secret sound. Right there. What do you think it is for 2700 bucks?
+[ 1673.9] Well, I was listening to my husband make his coffee this morning and when you put the capsule in the machine and then you pull down the handle and it breaks the capsule.
+[ 1684.9] Yep.
+[ 1685.9] Sue, I have to bring in promo Sally.
+[ 1688.9] Absolutely not.
+[ 1690.9] It's not the secret sound. Sorry.
+[ 1693.9] I have to go thinking again.
+[ 1695.9] Yeah, keep on trying. Lovely talking though Sue.
+[ 1699.9] Alright Sarge, thank you.
+[ 1700.9] Good on you. Bye lovely. Alright, secret sound. It's back tomorrow morning after 6.30 and 8 o'clock on 1.3535. It's worth 2725 dollars.
+[ 1709.9] Clues and incorrect guesses all go on the Sarge for breakfast podcast at listener. So, go over there. Check it out to get closer to the cash.
+[ 1717.9] Next we're going to catch up with our newsreader, Cherie Coleman. We call her the news sherita. We'll break down the big local news stories that we are waking up to this Monday, the 26th of October.
+[ 1727.9] Time for an extensive look at today's local news stories.

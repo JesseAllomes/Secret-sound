@@ -1,0 +1,51 @@
+BEST BITS: Bring Back Big Boxy Televisions
+Mon, 19 Oct 2026 21:57:11 +0000
+plays: [{'t': np.float64(545.78), 'ncc': 0.883}]
+
+[  470.8] I feel like it's been ages since we've had a bit of a chinwag.
+[  473.5] It has been, hasn't it?
+[  475.1] Yeah, but I've got some musicals to go to too.
+[  477.7] Actually, I'm going to go to one of the players' theatre.
+[  480.1] Oh.
+[  481.1] Because my grandson's one of the guitarists is in it.
+[  484.5] Is he really?
+[  485.5] Yes.
+[  486.5] And on this Saturday, I'm going to St. Columba School, where my other grandson is the drummer
+[  493.7] in the Footloose musical.
+[  497.5] What's the musical again, Footloose?
+[  499.2] Footloose, yeah.
+[  500.7] Footloose and Come From Away.
+[  503.4] Now I had one of the production team members of Come From Away in the studio for an interview
+[  508.2] last Friday, and it sounds like a very emotional story.
+[  512.1] It's all sort of centred around 9-11.
+[  514.1] Yes, I know.
+[  515.1] I heard her talk about that one.
+[  517.1] It was very interesting, yeah, and about down to the airport.
+[  520.5] Like imagine Port Macquarie putting up all those thousands of people, you know?
+[  524.5] I know.
+[  525.5] But then Footloose, it's a bit of a different vibe.
+[  527.3] You've got a reverend in town trying to shut down dancing.
+[  530.7] Yes, I know.
+[  532.7] You've got a weekend of variety on the way, Lorraine, and hopefully you've got some extra
+[  538.2] cash to enjoy it.
+[  540.2] So $2,600.
+[  541.2] I'll give that money to you if you correctly identify what this secret sound is.
+[  545.7] What do you think?
+[  547.7] Well, probably old base, but you wouldn't be just plugging in your radio to listen
+[  552.2] to Sarge for breakfast, would you?
+[  555.4] That's what a lot of people should and would be doing, but Lorraine, let me bring
+[  559.9] promo Sally in.
+[  560.9] Absolutely not!
+[  561.9] Oh, thanks Sally.
+[  562.9] I wouldn't be saying thanks to her.
+[  563.9] Oh well.
+[  564.9] She's a lovely lady.
+[  565.9] She is.
+[  566.9] She's a wonderful human being.
+[  568.9] My right hand woman for this show.
+[  574.9] Lorraine, you enjoyed today.
+[  576.9] It looks like there are some showers on the way, so you know what that means.
+[  581.4] Oh, I know.
+[  583.4] Lorraine.
+[  585.4] Lorraine, yeah.
+[  587.4] Woah.

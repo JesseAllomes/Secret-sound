@@ -1,0 +1,30 @@
+BEST BITS: Dry As In The Studio
+Tue, 13 Oct 2026 21:59:16 +0000
+plays: [{'t': np.float64(438.72), 'ncc': 0.838}, {'t': np.float64(461.8), 'ncc': 0.84}]
+
+[  363.7] Rachel. Hey Trudger, how are you going? Yeah, I'm good. Welcome to the 6 o'clock club.
+[  368.7] Whereabouts are you calling from? Port Macquarie.
+[  371.7] Okay, so are you in the house right now Rachel? Yes, out of the rain.
+[  376.7] I was going to say, if you look outside the window right now, what's it doing? Is it coming down hard?
+[  381.7] Is it drizzling? What's the go? It's pouring. Yeah.
+[  384.7] Yeah, same thing out here at Thrumster right now. Is it ruining any of your plans for today Rachel?
+[  390.7] Oh no, I love the rain. It's great. Yeah, it is good isn't it? You're going to do anything special today Rachel?
+[  398.7] Just working, yeah. Around the house or just work, work, like a job?
+[  403.7] Work, work, a job. Well, what's that? It's behaviour support work.
+[  410.7] Behaviour support work? Hey, challenging but rewarding, right?
+[  415.7] Yeah, really good. Work with some great people. Yeah, definitely.
+[  419.7] It takes a very patient and special person to do this kind of job too.
+[  424.7] Well. It's why I only lasted about six months in that job Rachel.
+[  430.7] And now here I am on the radio. Anyway, let's give you 2,500 buckaroos.
+[  436.7] Here is the secret sound. And all you've got to do is just tell me what it is.
+[  441.7] I'm wondering if it's pushing in the handle of a suitcase.
+[  447.7] Pushing in the handle of a suitcase. So, like there's ones that you... Yeah, go.
+[  452.7] Like a luggage, like a travel suitcase. Yeah, and you like sort of push it down the bit that you hold when you're wheeling it.
+[  460.7] Yeah. We haven't had that guess yet which is a great start Rachel.
+[  466.7] I've got to bring promo Sally in. Sorry. Absolutely not.
+[  471.7] Rachel is lovely talking and just keep on trying.
+[  476.7] Thank you. Good on you. Have a good day. Yeah, you too. Enjoy that rain.
+[  481.7] Secret sound. It's back at 8 o'clock on 1-333. Yeah, worth $2,500.
+[  487.7] And a reminder, all of the clues and incorrect guesses for this thing go on the Sarge for Breakfast podcast at a listener.
+[  494.7] Hey, speaking of money, about $50,000 worth of it, hey?
+[  498.7] Let's talk about that next, how you can win it with Triple M 1000. Stand by.

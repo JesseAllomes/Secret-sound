@@ -1,0 +1,44 @@
+BEST BITS: We Dedicate This Show To Dolly
+Tue, 25 Aug 2026 23:00:29 +0000
+plays: [{'t': np.float64(519.53), 'ncc': 0.793}, {'t': np.float64(536.47), 'ncc': 0.845}]
+
+[  444.5] I would only be in you and
+[  456.9] The Secret Sound
+[  458.1] Mm-hmm
+[  458.6] Thanks to 40 Winks Port Macquarie
+[  460.9] Come in and see the team at Port Home Zone
+[  463.1] 40 Winks, serious about sleep
+[  465.3] Hey Jeff
+[  466.6] Yes Sarge
+[  468.5] Do you want to do our thing?
+[  470.0] Oh we can't, how can we do the radio without doing the thing?
+[  474.9] Wake up Jeff!
+[  476.9] Everybody wake up!
+[  480.1] Wake up!
+[  484.9] Oh the great man Jeff back on triple M
+[  488.7] and on the road right now are you off to work or what are you doing?
+[  492.4] I'm doing the dad run, stripping everybody off at work and school and chase
+[  497.7] Good stuff, hey have you got the crew in the car with you right now?
+[  502.1] Well I've done first drop I'm going to pick up second round now
+[  505.8] Wowzers
+[  507.3] Well mate, you're using a lot of fuel so maybe we could put some of this money towards fuel
+[  513.6] Oh that'd be nice
+[  515.0] $1625 Jeff all you got to do is tell me what this sound is
+[  520.0] and if you write that cashola is yours what are we thinking?
+[  523.7] Look I reckon I'll come up with putting your coffee pot in the machine and
+[  529.0] pulling the little lever down on the coffee pot
+[  532.0] You want to lock that in?
+[  533.5] I reckon you can take a few coffee
+[  534.6] Yeah lock it in Sarge
+[  538.1] Jeff that's not it
+[  539.0] Oh
+[  540.6] Spewing
+[  541.5] Spewing
+[  542.6] Hey are you a Dolly Parton fan? How do you feel about that news this morning Jeff?
+[  547.8] My I am heartbroken what an absolute shame
+[  552.8] See I was um like loved her music or still do and just her personality and the energy that she
+[  560.9] brought onto our screens and you know radio and mate I had a very nice big cry this morning
+[  567.2] when that news came out it was unexpected it's just one of those things where you go oh wow
+[  571.0] what a loss
+[  572.5] Yeah it was it was a big shame she was such an inspirational person you know
+[  577.8] things she did with her life and the way she came from almost nothing

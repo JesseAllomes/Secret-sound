@@ -1,0 +1,48 @@
+BEST BITS: Kneecap Necklace
+Mon, 24 Aug 2026 22:52:56 +0000
+plays: [{'t': np.float64(1682.52), 'ncc': 0.802}, {'t': np.float64(1693.43), 'ncc': 0.925}]
+
+[ 1607.5] It's National Kiss and Makeup Day.
+[ 1612.5] Let's say let go of petty grudges
+[ 1615.5] and drawn out fights
+[ 1617.5] and kiss and make up
+[ 1621.0] with those nearest and dearest to you
+[ 1623.0] whether that's sibling, friend, spouse or anyone else.
+[ 1631.0] National Kiss and Makeup Day, wow.
+[ 1633.0] It's on this day for the 25th of August.
+[ 1636.0] Thanks to 40 Winx, Port Macquarie.
+[ 1640.5] So come in and see the team at court home zone.
+[ 1642.5] 40 Winx, serious about sleep.
+[ 1644.5] Good morning to you Shane.
+[ 1646.5] How you going mate?
+[ 1647.5] Very well thank you.
+[ 1649.5] Shane, it would be a shame if you didn't win $1600, you know what I mean?
+[ 1654.5] It'd be nice if I did.
+[ 1656.5] It'd be very nice if we did. Shane, where abouts you calling from?
+[ 1659.5] I'm just on my way into work mate, Bonnie Hills.
+[ 1662.5] Yeah beautiful, what do you do for a crust?
+[ 1664.5] We tree-lock my mate.
+[ 1666.5] Oh good stuff.
+[ 1667.5] That's a tricky old job isn't it? Very dangerous job right?
+[ 1670.5] It is sometimes.
+[ 1671.5] Good on you.
+[ 1672.5] Well stay safe.
+[ 1673.5] Nice to be talking to you.
+[ 1674.5] We've got $1600 up for grabs here.
+[ 1676.5] Let's give it to you.
+[ 1677.5] All you've got to do is correctly identify Shane, what this sound is.
+[ 1682.5] What are we thinking?
+[ 1683.5] I think it's when you get the kettle mate.
+[ 1686.5] Like when you click down the button on the kettle when it pops back up and the kettle's ready.
+[ 1690.5] Yeah okay, let's have a listen again.
+[ 1693.5] Don't mind me some kettle action but...
+[ 1696.5] Shane that's not it, we can cross that one off the list.
+[ 1699.5] No worries, thanks mate.
+[ 1700.5] Have a good one.
+[ 1701.5] Alright, Secret Sound, it is back tomorrow morning after 6.30 and 8 o'clock on 1.35353.
+[ 1707.5] Now worth $1625.
+[ 1711.5] All the incorrect guesses so far for it by the way, go on the Sarge for Breakfast podcast listener.
+[ 1717.5] So check that out to get close to the cash.
+[ 1720.5] We're going to catch up with the triple M techspert Mr Trevor Long next.
+[ 1724.5] He's bringing to the table all the latest and greatest when it comes to tech news all around the world.
+[ 1729.5] Stand by.

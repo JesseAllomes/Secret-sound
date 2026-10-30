@@ -1,0 +1,40 @@
+BEST BITS: I Should Really Think Before I Speak
+Thu, 03 Sep 2026 01:15:17 +0000
+plays: [{'t': np.float64(1512.62), 'ncc': 0.874}]
+
+[ 1437.6] It was a private funeral taking place in LA attended by family, friends and numerous celebrities.
+[ 1444.6] The televised ceremony attracted a massive worldwide audience.
+[ 1449.6] There you go. It's on this day for the 3rd of September.
+[ 1456.0] Sarge for breakfast.
+[ 1466.9] Thanks to Harvey Norman's Port Macquarie.
+[ 1469.9] Get more after this.
+[ 1470.9] Shh! It's Triple M's secret sound.
+[ 1473.9] Mmm. Thanks to 40 Winx Port Macquarie.
+[ 1475.9] So go in and see the team at Court Home Zone. 40 Winx. Serious about sleep.
+[ 1480.9] We've got Dean on 1-333-5-3. Good morning, mate.
+[ 1483.9] How are you, bud?
+[ 1484.9] Yeah, very well, thank you. You've got a very special passenger with you right now, don't you?
+[ 1488.9] Oh, I have. I've got my daughter Courtney with me and she's been bugging me for days and days or weeks now.
+[ 1494.9] So dead on and doing the secret sound, but it just so happens that we're usually on our way to school, so...
+[ 1499.9] Hey, Courtney. How old are you, darling?
+[ 1502.9] I'm eight years old.
+[ 1503.9] You're eight years old. And I believe you would like to guess what the secret sound is.
+[ 1507.9] So, Dean and Courtney, I'm going to play the secret sound for you right now.
+[ 1511.9] What do you think for $1,775?
+[ 1515.9] Is it a stapler?
+[ 1518.9] Courtney, it's not a stapler. So sorry.
+[ 1524.9] Can you keep on trying for me, though, Court?
+[ 1527.9] You keep on trying for me, okay? Keep on coming up with some ideas.
+[ 1534.1] Okay.
+[ 1535.1] Good stuff. And have a good day at school. Are you looking forward to school today?
+[ 1538.1] Yeah.
+[ 1539.1] Yeah, good stuff. What's your favourite subject?
+[ 1542.1] Maybe history.
+[ 1544.1] History?
+[ 1545.1] Yeah.
+[ 1546.1] What are you learning in history at the moment?
+[ 1549.1] About writing.
+[ 1552.1] Writing?
+[ 1553.1] Yeah.
+[ 1554.1] That's good. Dean, thank you for calling. We'll talk soon.
+[ 1557.1] Thanks.

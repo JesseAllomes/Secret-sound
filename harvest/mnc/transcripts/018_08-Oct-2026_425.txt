@@ -1,0 +1,51 @@
+BEST BITS: I Really Admire How You Play With Your Meat
+Thu, 08 Oct 2026 21:52:52 +0000
+plays: [{'t': np.float64(500.79), 'ncc': 0.769}, {'t': np.float64(514.74), 'ncc': 0.902}]
+
+[  459.2] Thanks to 40 Winks Port Macquarie.
+[  461.2] Come in and see the team at Port Home Zone.
+[  463.5] 40 Winks.
+[  464.3] Serious about sleep.
+[  465.7] Hey there Lucy, welcome to the 6 o'clock club.
+[  468.7] Thank you very much.
+[  469.7] Great to have you on board.
+[  471.3] Whereabouts are you calling from?
+[  473.2] I'm Port Macquarie.
+[  474.5] And how's life going Lucy?
+[  477.5] Very quietly at the moment.
+[  479.0] We've just woken up.
+[  479.9] Just heard your announcement on the radio.
+[  481.9] So here I am.
+[  483.5] You heard that some cash is up for grabs.
+[  485.8] I did, yes.
+[  486.9] $2425 of it.
+[  489.4] Lucy, what would you do with that cash if you were to win it?
+[  493.8] Put it away for a holiday that we're having in December.
+[  496.8] Marvelous.
+[  497.8] All right, here we go.
+[  498.7] Here's a secret sound Lucy and Port Macquarie.
+[  501.3] Thank you.
+[  502.2] What do you think?
+[  503.2] I think it's a special switch that you have
+[  505.7] when you need to mute quickly if you're having a cough.
+[  509.7] Ooh, we haven't had that guess yet.
+[  512.6] Let's have a listen again.
+[  516.4] I do have that switch of course here in the studio,
+[  519.6] but as promo Sally would say Lucy.
+[  521.2] Absolutely not.
+[  523.1] It's not the secret sound, sorry.
+[  524.5] Ah, well, I'll have another guy.
+[  526.7] Lucy, there's a lot of songs out there
+[  529.6] that have got the name Lucy in it.
+[  532.1] Do you have a favourite Lucy song?
+[  534.4] Lucy in the Sky with Diamonds.
+[  540.9] It's a good song, isn't it?
+[  542.0] Do you like the Elton John version or the Beatles?
+[  545.2] The Elton John version.
+[  546.5] Here it is, here's EJ.
+[  548.3] Beautiful.
+[  549.1] That's for you Lucy.
+[  550.3] Bye-bye, have a wonderful day.
+[  552.1] Thank you, bye.
+[  557.1] Yeah, it's good, isn't it?
+[  558.0] Anyway, secret sound back.

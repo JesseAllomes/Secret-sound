@@ -1,0 +1,104 @@
+BEST BITS: When Is The Right Time To Get It Up
+Tue, 20 Oct 2026 21:55:19 +0000
+plays: [{'t': np.float64(513.11), 'ncc': 0.811}, {'t': np.float64(598.18), 'ncc': 0.859}, {'t': np.float64(611.11), 'ncc': 0.899}]
+
+[  438.1] Pempsy on the text line, 0468040 MMM
+[  442.7] A-Sarge, I love it when you talk about your family.
+[  447.1] Keep it up.
+[  448.2] Yeah.
+[  449.5] Shizzy, they go all right.
+[  451.5] They go, okay.
+[  453.3] I'll keep them.
+[  454.3] Yeah, I forgot to mention as well,
+[  455.5] because we're talking about how my nan, mom,
+[  458.7] and sister recreate the learning to fly
+[  462.3] kick line from the music video whenever we all catch up.
+[  465.3] And then it pops place
+[  466.4] and played out on the crappy little speaker from the TV.
+[  470.3] Forgot to mention that pop was in a pretty serious
+[  474.5] horse accident.
+[  475.3] Pop, as in my sister, Poppy, she is so strong.
+[  478.3] She's going to surgery today.
+[  479.5] I was gonna give her a shout out and say all the best,
+[  482.4] but I'll send her a text
+[  483.2] because she wouldn't be listening to me.
+[  484.9] My voice is the last thing that she would want to hear
+[  488.2] when she's in pain.
+[  491.2] True story.
+[  492.7] Coming up on the Sarge for Breakfast Show.
+[  498.2] It's 6.25.
+[  500.3] We'll get to the latest in your local news spot
+[  502.2] and where the Placipation Surf update in a tick.
+[  505.4] And then we'll play the secret sound, all right?
+[  507.9] Get involved.
+[  508.7] 1-333-53.
+[  510.1] Call now.
+[  511.0] Correctly identify what this sound is.
+[  513.9] And I'll give you $2,625.
+[  517.1] It's the secret sound.
+[  518.3] All thanks to 40 Winx at Port Macquarie.
+[  525.4] An edition of the secret sound.
+[  528.2] Thanks to 40 Winx Port Macquarie.
+[  530.2] Come in and see the team at Port Home Zone.
+[  532.4] 40 Winx.
+[  533.2] Serious about sleep.
+[  534.7] Ian, good morning.
+[  535.8] It's great to have you part of the 6 o'clock club.
+[  539.4] How's it going, Sarge?
+[  540.3] Mate, very well.
+[  541.2] What's going on in your world at the moment?
+[  543.6] Oh, I've got to cook fat.
+[  546.6] Oh, how'd you manage that?
+[  550.2] Oh, it must have been sleeping funny.
+[  552.3] Just twisted my back to him.
+[  553.6] It's very sore.
+[  555.6] Crikey.
+[  556.4] Get into 40 Winx and maybe get a new bed, you know?
+[  561.1] Yeah.
+[  561.9] Sorry, I don't have to work today, so I'll rest.
+[  565.1] Put some deep heat on it or something?
+[  567.1] I have.
+[  568.1] I have, yeah.
+[  569.1] Hey, it's a good smell.
+[  570.1] I like that smell.
+[  571.1] Do you like that smell of the deep heat?
+[  573.1] I like it when it takes the edge off the back.
+[  575.1] Yeah, you like it when it does the job.
+[  578.1] Yeah, that's the main thing.
+[  579.1] All right, here we go.
+[  580.1] $2,625, Ian.
+[  582.1] What would you do with that cash if you won it?
+[  585.5] Spend it.
+[  586.5] Yeah, that's a good start.
+[  588.5] Anything in particular?
+[  591.5] A holiday, I suppose, for some family.
+[  594.5] Good one.
+[  595.5] I like it.
+[  596.5] Here we go, Ian.
+[  597.5] Here's the secret sound.
+[  598.5] What do you think?
+[  600.5] Pressing the snooze button.
+[  602.5] Pressing the snooze button.
+[  603.5] Like on the old school alarm clock?
+[  606.5] Yeah, I've got an older idea.
+[  608.5] I do too.
+[  609.5] Here we go.
+[  610.5] Have a listen to you.
+[  611.5] Ian, I've got to bring promo Sally in.
+[  614.5] Absolutely not.
+[  615.5] Not the secret sound.
+[  616.5] Sorry, mate.
+[  617.5] Hey, all the best with your bed.
+[  619.5] Best with your back.
+[  620.5] Hope it starts to feel better soon.
+[  622.5] Good on you, Sarge.
+[  623.5] See you, mate.
+[  624.5] Talk to you.
+[  625.5] Secret sound is back at 8 o'clock on 1-333-53, worth $260,000.
+[  630.5] $260,000.
+[  631.5] See, maths.
+[  632.5] I'm great at it.
+[  633.5] Clues and incorrect guesses all go on the Sarge for Breakfast Podcast at Listener.
+[  641.5] So check that out to get closer to the cash.
+[  643.5] All right, stand by.
+[  644.5] Let's talk about the triple M1000 next and how you can score yourself $50,000.

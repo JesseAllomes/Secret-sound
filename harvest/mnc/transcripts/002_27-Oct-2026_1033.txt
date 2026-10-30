@@ -1,0 +1,16 @@
+BEST BITS: Halloween Sucks!
+Tue, 27 Oct 2026 21:56:19 +0000
+plays: [{'t': np.float64(1108.34), 'ncc': 0.832}, {'t': np.float64(1117.74), 'ncc': 0.883}]
+
+[ 1033.3] schnitz or schnitz? It depends. It depends on my mood. Wow, okay. Fair enough. Look, if people want to find out more about the local news stories today, where can they go to for more, Sharida? Mid-North Coast Local News on listener.
+[ 1048.6] Beautiful. Alright, we'll catch you in the next lot of headlines. You will. See ya.
+[ 1081.7] I'm curious about sleep. Shh. Oh, howdy there, Rebecca. How you doing?
+[ 1086.7] Thanks, Parge. I'm good. That's wonderful. You're the real estate agent, yeah? Yeah.
+[ 1091.7] Oh, how good's my memory this morning? What would you do with $2,750, Rebecca?
+[ 1098.7] Definitely would be going towards Christmas and probably some bills. Mm-hmm. That's very smart. I like that. Well, you know the drill. We play the secret sandwich. I'll do it right now.
+[ 1108.7] And then you just got to guess what it is correctly. What do you think in this morning, Rebecca? Pushing the lid of the kettle closed. Pushing the lid of the kettle closed.
+[ 1117.7] Ah, promo Sally? Absolutely not. Ah, she's harsh, isn't she? Sorry, Rebecca. Oh my God.
+[ 1124.7] It's driving you crazy. It's driving me crazy. It's driving everybody crazy, this Secret Sound. It certainly is. Have a wonderful day. Keep on trying.
+[ 1133.7] Thanks, Parge. Bye. See ya. Secret Sound is now worth $2,775. And as I mentioned, the clues and incorrect guesses all go on The Sarge for Breakfast podcast at listener.
+[ 1145.7] All right. Check that out to get close to the cash. Let's do On This Day next. The weird, the wacky, the wonderful things that happen on this day, the 28th of October. Standby.
+[ 1153.7] They're made of the latest thing, woven, texturized polyemnias. Triple M, Mid-North Coast and The Sarge for Breakfast show presents On This Day.

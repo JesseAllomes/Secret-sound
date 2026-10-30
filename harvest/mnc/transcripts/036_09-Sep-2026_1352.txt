@@ -1,0 +1,55 @@
+BEST BITS: R U OK?
+Wed, 09 Sep 2026 23:05:35 +0000
+plays: [{'t': np.float64(1427.26), 'ncc': 0.805}, {'t': np.float64(1429.66), 'ncc': 0.846}]
+
+[ 1352.3] There you go, Lifeline Mid-course Coast.
+[ 1356.5] Thank you so much for jumping into the studio this morning
+[ 1358.8] and telling us about this.
+[ 1360.9] We'll see you Sunday.
+[ 1361.9] See you, Sarge.
+[ 1366.5] Thanks to 40 Winx Port Macquarie.
+[ 1368.3] So go in and see the team at Court Home Zone.
+[ 1370.5] 40 Winx, serious about sleep.
+[ 1374.1] Hello there, Rach.
+[ 1375.8] Hey Sarge, how are ya?
+[ 1377.3] I am very well, thank you.
+[ 1379.1] What beautiful part of the Mid-North Coast
+[ 1381.1] are you in right now?
+[ 1383.3] In Port Macquarie, but head into Kensie.
+[ 1385.9] Okey dokey, what would you do with $1,900?
+[ 1391.5] We're actually trying to plan a trip to the Gold Coast
+[ 1395.3] for my husband's birthday on the October long weekend,
+[ 1400.7] so that will go to each.
+[ 1403.3] I hope it's not a surprise birthday.
+[ 1405.8] Does he listen to Triple M?
+[ 1407.6] No, he does.
+[ 1408.5] Okay, cause I was gonna say, Rach,
+[ 1411.3] that'd be very, very silly of you to say
+[ 1413.1] if you were trying to keep it a surprise,
+[ 1414.4] but you're not silly.
+[ 1417.0] I am 1900.
+[ 1419.4] No you're not.
+[ 1420.7] Rach, stop it.
+[ 1423.4] We've got that 1,900 bucks to give away right now.
+[ 1426.6] Here it is.
+[ 1427.7] That is the secret sound.
+[ 1428.7] I go once again for good luck.
+[ 1430.0] What do you think?
+[ 1431.4] Okay, this is Hubby's guess.
+[ 1433.8] So Hubby thinks it is pushing the lock down
+[ 1438.9] on a briefcase or a cashier case.
+[ 1442.8] You know, the old fashioned type, but the...
+[ 1445.8] I do.
+[ 1448.4] But as promo sound would say...
+[ 1450.5] Absolutely not.
+[ 1452.3] Yeah, I thought so.
+[ 1453.7] I did tell him that, but you know...
+[ 1455.3] Rach, all I can say though,
+[ 1457.5] is when you started saying your answer,
+[ 1460.0] my heart started racing.
+[ 1465.1] Does that make any sense?
+[ 1468.6] Yeah, I'm salty, I know that, but it's...
+[ 1470.4] Mm-hmm, mm-hmm, mm-hmm.
+[ 1472.4] I'll let you...
+[ 1473.2] I'll let you...
+[ 1474.1] Sorry.

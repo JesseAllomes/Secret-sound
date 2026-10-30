@@ -1,0 +1,37 @@
+BEST BITS: Better Than Lego!
+Sun, 27 Sep 2026 22:49:27 +0000
+plays: [{'t': np.float64(662.15), 'ncc': 0.89}, {'t': np.float64(671.26), 'ncc': 0.841}, {'t': np.float64(737.0), 'ncc': 0.821}, {'t': np.float64(748.65), 'ncc': 0.865}]
+
+[  587.1] talk to you Sarge, you have a good week and we'll talk next week.
+[  589.9] Welcome to the 6 o'clock club. What happens in the club stays in the club. That was Def
+[  596.1] Leppu to pour some sugar on me. You know how songs make you think of certain moments in
+[  602.1] your life. Producer Christie, producer Kup, my brother, Gus Bass and the mayor know what
+[  612.1] that song means to me. That's about four or five people and if you ever see them
+[  620.7] out and about and inquire why is there such a connection to this song for Sarge
+[  627.3] watch them be so tight-lipped. I trust them I think. See if we can get it out of
+[  635.0] them. It's a funny story. AAA Mid-North Coast we are live on your radio and the
+[  639.0] listener app. Coming up on the Sarge for Breakfast Show. It's actually quite a
+[  644.1] diabolical story. Alright 2,200 bucks I could be giving that to you in a matter
+[  653.0] of minutes. All you've got to do right now is call 1-333-53 get through
+[  659.0] correctly identify what this sound is and the cashola is all yours. It's the
+[  665.1] secret sound. All thanks to 40 Winx Port Macquarie. Good morning Jerome and the
+[  668.9] team. Once again for good luck what do you reckon? It's the early bird edition
+[  677.4] of the secret sound. Thanks to 40 Winx Port Macquarie. Come in and see the team
+[  682.9] at Port Home Zone. 40 Winx serious about sleep. Brian happy Monday and welcome to
+[  688.8] the 6 o'clock club sir. How are you? I'm bloody wet where I am. I bet it is. I'm
+[  695.2] looking outside the studio window here at Thrumster right now and well it's
+[  700.2] drizzly and it's pretty wet underfoot. Are you where I think you are right now?
+[  705.9] Yeah mate. Yeah how you holding up? 2,200 bucks. What's the first thing you do
+[  716.1] with that cash if you win it Brian? I think I'd give both of it to Chrissy. Yeah. Is Chrissy there next to you?
+[  723.4] Nah she's in bed still asleep. She's asleep. Well can you give her a massive
+[  728.0] hug for me when she arises? I will mate. Good good man. Alright let's do this Brian
+[  734.9] here is the secret sound. 2,200 bucks is all yours if you correctly identify what
+[  740.8] it is. What do you think mate? You're not pushing a button on your torch are ya?
+[  745.6] Pushing a button on my torch. Oh it really does sound like that but. Absolutely not.
+[  753.9] That's not the secret sound. Sorry Brian. Oh well. We'll have to try again later. That's right. Hey good hearing your
+[  760.2] dull tones mate. You take care. Okay mate we'll catch up with you later. Yeah sounds good
+[  765.6] mate. Sounds good. Secret sound it is back at 8 o'clock on 1 triple 3 5 3. Worth 2,200 bucks.
+[  772.8] All the incorrect guesses go on the Sarge for Breakfast podcast at a listener. This is triple
+[  779.0] M. Let's talk a little bit more about the NRL and the AFL and all the great sport that
+[  785.2] happened over the weekend. Next 17 away from 7 this is triple M at Mid North Coast. Get
+[  792.6] his Sarge here for breakfast.

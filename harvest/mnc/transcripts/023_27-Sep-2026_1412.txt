@@ -1,0 +1,60 @@
+BEST BITS: Better Than Lego!
+Sun, 27 Sep 2026 22:49:27 +0000
+plays: [{'t': np.float64(1487.62), 'ncc': 0.897}]
+
+[ 1412.6] It's Sarge's shout this morning thanks to Coastline Bank.
+[ 1416.1] Refinancing, make the switch easy with Coastline and Bank where you belong.
+[ 1421.0] Chloe, good catching up with you.
+[ 1423.1] Thank you so much for the update.
+[ 1424.5] Just bring that credit card back, alright?
+[ 1427.0] I promise.
+[ 1428.0] Thanks to 40 Winks Port Macquarie.
+[ 1432.7] So go in and see the team at Court Home Zone.
+[ 1435.5] 40 Winks, serious about sleep.
+[ 1438.1] Hello Siobhan.
+[ 1439.1] Hello, how are you?
+[ 1440.1] I'm very well, thank you.
+[ 1441.1] Where abouts you calling from Siobhan?
+[ 1445.1] I'm calling from Lake Caddai.
+[ 1446.5] Lake Caddai, Siobhan in Lake Caddai.
+[ 1448.7] Now Siobhan, you didn't happen to live in Bathurst back in the day?
+[ 1453.5] Oh, my dad did.
+[ 1455.8] Okay, but you didn't?
+[ 1457.4] No, I didn't.
+[ 1458.4] I used to have a crush on a girl called Siobhan who lived next door to me.
+[ 1461.9] Oh, sorry, no, not me.
+[ 1463.6] Ma was like seven years old.
+[ 1465.8] Oh, beautiful.
+[ 1466.8] Imagine that.
+[ 1467.8] Imagine that.
+[ 1468.8] I don't know where Siobhan is these days but she's not in Lake Caddai by the sounds of it.
+[ 1473.1] No, sorry.
+[ 1474.1] Siobhan, what did you do with 2,200 bucks if you won that cash?
+[ 1480.1] Oh, I think I'd probably try for a mini holiday somewhere.
+[ 1483.4] Yeah, good.
+[ 1484.4] I like that.
+[ 1485.4] Yeah.
+[ 1486.4] Nice.
+[ 1487.4] All right, here we go Siobhan.
+[ 1488.4] That's a secret sound right there.
+[ 1489.4] What do you think?
+[ 1490.4] I think it's closing a tape deck.
+[ 1493.7] Oh, Siobhan.
+[ 1494.7] Absolutely not.
+[ 1495.7] It's not the secret sound.
+[ 1496.7] Thanks for trying though.
+[ 1497.7] That's all right.
+[ 1498.7] Thank you very much.
+[ 1499.7] Good on you, lovely.
+[ 1500.7] Have a good day.
+[ 1501.7] You too.
+[ 1502.7] Bye.
+[ 1503.9] Welcome back tomorrow morning after 6.30pm and 8 o'clock, 1,333 is the number to call to
+[ 1507.7] get involved there.
+[ 1508.7] All the incorrect guesses so far for it.
+[ 1511.5] On the Sarge for Breakfast podcast at listener, it's now worth 2,225 bucks.
+[ 1516.2] Really keen to chat to this guy, Mid-North Coast local and NRL royalty Jamie Sowie Soward
+[ 1521.8] for the Sowie Says segment.
+[ 1523.8] Next we will review everything that happened in the NRL over the weekend and the grand
+[ 1528.4] final of course coming up this Sunday.
+[ 1530.9] Sowie Says.

@@ -1,0 +1,59 @@
+BEST BITS: "Yeah! Yeah!"
+Thu, 22 Oct 2026 21:54:18 +0000
+plays: [{'t': np.float64(755.05), 'ncc': 0.796}, {'t': np.float64(768.7), 'ncc': 0.879}]
+
+[  680.0] Correct.
+[  681.0] Yeah, no, we've worked.
+[  682.0] We've actually been able to play cricket at Maitland for the state carnival.
+[  685.6] Oh, Joe, incredible.
+[  687.6] You're an athlete.
+[  688.6] Yeah, I wouldn't call me that.
+[  689.6] I thought it was not a result of the wincy.
+[  693.6] Fair enough.
+[  694.6] Now, the producers were just telling me, Joe, a little story that you were listening to
+[  703.0] the show on the listener app, but you were calling up for the Secret Sound beginning
+[  709.7] to our mates, Tenure and Steve, down in Newcastle.
+[  712.8] Yes, mate.
+[  715.5] Did they actually pick up your call and put you on the air, or did their producers say,
+[  719.8] nah, you've got to be close to the Sarge to get through to him?
+[  723.0] No, no, no, they acknowledged you as well.
+[  726.1] They said, what a great job you do.
+[  728.3] Oh, gee, that's very lovely.
+[  730.4] I love those guys.
+[  731.4] Now, now that I've heard that, I'm kidding.
+[  733.7] We've always loved them.
+[  734.7] Joe, here we go.
+[  735.7] $2,675.
+[  737.7] I mean, what would you do with that money if you wanted?
+[  740.7] Oh, mate, I'd go for another trip somewhere.
+[  743.7] Yeah, nice.
+[  745.7] Another cricket trip.
+[  747.7] Well, might not be a cricket trip.
+[  749.7] Might be just an excuse to go somewhere.
+[  751.7] Yeah, good stuff.
+[  752.7] Here we go, mate.
+[  753.7] Here's a Secret Sound.
+[  754.7] What do you think?
+[  756.7] Sarge, I think it might be a magnetic door catch, you know, the kind that you
+[  760.7] push to engage and push to release.
+[  763.7] Yeah, I know the one.
+[  766.7] Have a listen again.
+[  769.7] Joe, I've got to bring in promo salad.
+[  771.7] Absolutely not.
+[  772.7] Yeah, I know.
+[  774.7] I know.
+[  775.7] Hey, so you're back in the Mid-North Coast area, obviously.
+[  780.7] Yeah, back to work in the drizzle today, mate.
+[  783.7] Yeah, but what do you do, Joe?
+[  785.7] Oh, good stuff.
+[  790.5] Love that establishment.
+[  791.5] Might see you later.
+[  793.5] Cheers, man.
+[  794.5] See you, Joe.
+[  795.5] All righty, Secret Sound.
+[  797.5] It is back at 8 o'clock.
+[  798.5] 1-333-53 is the number to call to get involved there.
+[  802.5] It's worth $2,675.
+[  805.5] And Clues and Incorrect Guess is all gone.
+[  807.5] The Sarge for Breakfast podcast at Listener.
+[  810.5] We've got your rural focus headlines coming up.

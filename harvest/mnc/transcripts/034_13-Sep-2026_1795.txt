@@ -1,0 +1,68 @@
+BEST BITS: I've Lost My Voice
+Sun, 13 Sep 2026 22:47:55 +0000
+plays: [{'t': np.float64(1870.68), 'ncc': 0.778}]
+
+[ 1795.7] Yeah, the sun's just beaming in.
+[ 1798.5] The water's blue, the pelicans are about.
+[ 1801.2] Everyone's taking their dog for a walk.
+[ 1803.3] It's pretty picture perfect.
+[ 1805.3] So good.
+[ 1805.8] Are you going to jump into the lake afterwards
+[ 1807.3] for a little bit of a dip?
+[ 1808.0] A bit chilly.
+[ 1809.6] I might.
+[ 1810.1] I might.
+[ 1811.4] OK.
+[ 1811.9] Sunshine.
+[ 1812.4] I think I caught my fishing rod in the back of the van.
+[ 1816.0] Sunshine's Lake, can I open from 6 AM for morning coffee
+[ 1820.0] and egg and bacon rolls.
+[ 1821.8] And right now, with Sarge's shout, you want a free coffee.
+[ 1825.0] Make sure you head over there and say good day to our triple M
+[ 1826.9] roadie at Matty O. They're at Sunshine's Lake, can I?
+[ 1830.5] It's triple M's secret sound.
+[ 1833.1] Thanks to 40 Winks Port Macquarie.
+[ 1835.0] So come in and see the team at Port Home Zone.
+[ 1837.1] 40 Winks, serious about sleep.
+[ 1840.6] Good morning to you, Vince.
+[ 1842.6] How are you?
+[ 1843.2] Mate, very well, thank you.
+[ 1845.2] Where abouts are you calling from?
+[ 1848.0] Where's the crew coming from?
+[ 1849.4] Well, I'm heading into work.
+[ 1850.8] Wonderful.
+[ 1851.3] What do you do for a crust?
+[ 1853.4] Career for New South Wales Health.
+[ 1855.4] Wonderful, mate.
+[ 1856.2] Thank you for all that you do.
+[ 1858.0] $1,950 is up for grabs here, Vince.
+[ 1860.9] What would you do with that cash if you want it?
+[ 1863.1] Well, I'm heading down the mountain mid-off to over,
+[ 1865.4] so that would make it a little bit easier.
+[ 1867.3] Certainly.
+[ 1868.3] Always good to have a bit of extra cash.
+[ 1870.0] Here we go.
+[ 1871.4] That's the secret sound.
+[ 1872.4] What do you think?
+[ 1874.0] You know, when you're like a pod coffee machine,
+[ 1876.1] you're putting the coffee pod and pull the lever down.
+[ 1878.8] Vince's promo sound would say.
+[ 1880.2] Absolutely not.
+[ 1881.5] That is not the secret sound.
+[ 1882.7] Sorry, sir.
+[ 1883.5] Bugger.
+[ 1884.3] That's all right.
+[ 1884.9] You get that on video days.
+[ 1886.1] Yeah.
+[ 1887.1] Keep on trying and safe travels this morning.
+[ 1889.5] Good on you.
+[ 1890.6] Thanks, mate.
+[ 1891.1] Bye, Vince.
+[ 1891.6] All right.
+[ 1892.1] Secret sound is back tomorrow morning after 6.30 and 8 o'clock on 1.333.53.
+[ 1896.0] It's worth $1,975.
+[ 1899.5] All the incorrect guesses so far are on the Sarge for Breakfast podcast listener.
+[ 1904.0] So go and check that out to get closer to the cash.
+[ 1906.6] Up next, we're going to catch up with our newsreader, Shari Coleman,
+[ 1908.8] the news curator to see what big local news stories are happening today,
+[ 1913.2] this Monday, the 14th of September, 2020.

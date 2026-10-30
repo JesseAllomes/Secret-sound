@@ -1,0 +1,62 @@
+BEST BITS: Sarge's Car Accident
+Tue, 08 Sep 2026 22:49:57 +0000
+plays: [{'t': np.float64(1351.03), 'ncc': 0.904}, {'t': np.float64(1362.27), 'ncc': 0.852}]
+
+[ 1286.6] That's on this day for the 9th of September.
+[ 1292.8] Thanks to 40 Winks Port Macquarie.
+[ 1294.6] So come in and see the team at Court Home Zone.
+[ 1296.8] 40 Winks, serious about sleep.
+[ 1298.9] Well, the producers tell me that my little friend Ruby's on 1-333-53.
+[ 1304.1] Good morning, Rubes.
+[ 1305.8] Good morning.
+[ 1306.8] How are you?
+[ 1308.2] Good, thanks. How are you?
+[ 1309.6] Very well, thank you.
+[ 1311.1] Remind us again what year you're in, Ruby?
+[ 1313.8] I'm year six.
+[ 1314.9] Year six? The big year six.
+[ 1317.0] And I'll tell you what, we're getting to the end of year six.
+[ 1319.7] It's going to be high school before we know it.
+[ 1321.9] Are you looking forward to that?
+[ 1324.1] Sort of.
+[ 1324.8] Sort of, yeah.
+[ 1326.2] Nothing to worry about.
+[ 1328.7] Ruby, $1,875.
+[ 1331.6] What would you do with that cash if you won it?
+[ 1334.2] I don't know.
+[ 1335.5] You don't know.
+[ 1337.2] Have your parents spoken about what they would do
+[ 1340.0] with that kind of money if they won it?
+[ 1342.5] No.
+[ 1343.0] No.
+[ 1343.6] But you'll just get it and you'll just go with the wind,
+[ 1345.8] go with the flow, yeah?
+[ 1347.6] Yeah.
+[ 1348.0] All right, I like it, Ruby.
+[ 1348.9] Here we go.
+[ 1349.3] Here is the secret sound.
+[ 1352.3] What do you think?
+[ 1354.0] Is it a push button in a caravan
+[ 1356.1] like to open the cupboards and drawers?
+[ 1359.3] Oh, that's a great guess.
+[ 1360.5] We haven't had that one yet.
+[ 1363.2] Ruby, as promo Sally would say...
+[ 1365.5] Absolutely not.
+[ 1367.4] Sorry about that, but good try.
+[ 1369.2] Keep on trying.
+[ 1370.8] Thank you.
+[ 1371.6] See you, Ruby. Have a good day.
+[ 1373.4] Bye.
+[ 1373.9] Bye.
+[ 1375.0] Secret sound.
+[ 1375.8] It is back tomorrow morning after 6.30 and 8 o'clock.
+[ 1378.5] 1, 3, 3, 5, 3 is the number to call to get involved.
+[ 1380.9] Pardon me, get involved.
+[ 1382.8] And we put all the incorrect guesses so far.
+[ 1385.4] On the Sarge for Breakfast podcast at listener.
+[ 1388.5] All right.
+[ 1389.2] Well, we are going to do the Sarge's Angels segment next.
+[ 1393.7] And usually we do some pretty...
+[ 1396.4] I'm not going to say lame, but surface level topics.
+[ 1401.4] Today, it's a genuine occurrence
+[ 1405.0] that happened in my life yesterday afternoon.

@@ -1,0 +1,64 @@
+BEST BITS: The DREAM Proposal
+Mon, 21 Sep 2026 23:07:06 +0000
+plays: [{'t': np.float64(541.79), 'ncc': 0.853}]
+
+[  466.8] Come in and see the team at Port Home Zone.
+[  469.3] 40 Winx, serious about sleep.
+[  471.7] Corinna, good morning to you.
+[  475.1] Good morning, Sarge, how are you going?
+[  476.5] Yeah, really good, thank you.
+[  478.1] You're calling from Port Macquarie right now, yes?
+[  481.1] I am.
+[  481.9] What part of Port are you in?
+[  484.7] Downhating through driveway,
+[  486.0] bit overcast and drizzling but...
+[  488.7] Yeah, I was gonna say, yeah, that's fine.
+[  491.5] I was down in Sydney yesterday.
+[  493.4] It was pretty warm here on the Mid-North Coast though,
+[  495.8] yesterday, wasn't it?
+[  497.2] It was a beautiful day yesterday.
+[  498.5] It was beautiful, okay, and now it looks like it's dropping off.
+[  501.3] It's gonna be like back to the early 20s
+[  503.4] and some showers for the next couple of days.
+[  507.0] That's all right, we'll manage.
+[  508.1] We will.
+[  508.9] We've got fires up north, I'm sure they'll enjoy the change.
+[  511.2] That's spot on, Corinna.
+[  512.8] What do you do for a crust?
+[  515.2] Working disability.
+[  516.5] Oh, good on you, Corinna.
+[  517.6] You know, I did that for 12 months
+[  519.8] and stopped me if I've already had this conversation with you.
+[  523.9] Okay, I haven't.
+[  524.8] All right.
+[  525.7] Corinna, it was the best 12 months of my life.
+[  529.2] So rewarding.
+[  531.0] Absolutely, they teach us more
+[  532.4] than we could ever teach them.
+[  533.5] Yeah, oh my gosh.
+[  536.0] So many stories I could share with you,
+[  537.5] but let's get you this cash.
+[  539.9] 2,100 bucks, here we go.
+[  542.4] What's that sound?
+[  544.1] Is it popping batteries into a compartment
+[  546.6] like a mouse or something like that
+[  549.3] when you're replacing the batteries?
+[  552.5] What's your final answer?
+[  554.8] That.
+[  556.5] Absolutely not.
+[  558.7] Ah, thank you anyway.
+[  560.7] Corinna, you're hot.
+[  561.9] Like, you're hot.
+[  562.9] Close.
+[  566.1] Thank you anyway.
+[  567.0] No worries, Corinna.
+[  568.1] Take care.
+[  568.9] Have a wonderful day.
+[  569.9] Bye, Corinna.
+[  572.1] Secret sound back at 8 o'clock on 1,335.
+[  574.7] It's worth $2,100.
+[  577.7] Clues and incorrect guesses all go on the side
+[  579.5] for breakfast podcast at listener.
+[  582.2] Hey, let's talk a little bit more
+[  584.1] about the listener app next,
+[  586.1] because there's something.

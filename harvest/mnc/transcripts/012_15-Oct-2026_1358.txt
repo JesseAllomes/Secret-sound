@@ -1,0 +1,75 @@
+BEST BITS: I Hate Compliments!
+Thu, 15 Oct 2026 22:06:30 +0000
+plays: [{'t': np.float64(1433.78), 'ncc': 0.811}, {'t': np.float64(1443.18), 'ncc': 0.937}]
+
+[ 1358.8] We can manage that.
+[ 1359.8] Yeah, to get that we just stay on the couch at home I guess.
+[ 1363.3] We enter but we don't go.
+[ 1364.8] Watch.
+[ 1365.8] Yeah, we can watch it.
+[ 1366.8] Hey, if people want to find out more about the local news stories that are breaking this
+[ 1370.7] Friday the 16th of October, where can they go to for more?
+[ 1374.0] Mid North Coast Local News on Listener.
+[ 1376.3] Have a beautiful weekend.
+[ 1377.3] You too.
+[ 1378.3] Thanks Barge.
+[ 1379.3] Woah, there she goes.
+[ 1380.3] She's the new Chew reader, new Chew reader.
+[ 1383.3] Shh, it's Triple M's secret sound.
+[ 1387.1] Thanks to 40 Winks Port Macquarie.
+[ 1388.1] So come in and see the team at Court Home Zone.
+[ 1391.1] 40 Winks, serious about sleep.
+[ 1393.1] Hey there Ruth, good morning.
+[ 1394.7] How you doing?
+[ 1395.7] Very well, thank you.
+[ 1396.9] That's the way.
+[ 1397.9] What have you been up to this morning?
+[ 1400.6] Just packing, getting ready to go away for the weekend.
+[ 1402.7] Oh, where are you going Ruth?
+[ 1406.5] Down to Wagga for a wedding.
+[ 1407.8] I love Wagga.
+[ 1408.8] Yes, looking forward to it.
+[ 1410.7] Is the wedding at like a nice vineyard or?
+[ 1414.1] Out on a property, out of town.
+[ 1415.4] Oh, they're the best kind.
+[ 1417.2] Yes.
+[ 1418.2] Wagga Wagga, so nice to have to name it twice.
+[ 1421.6] Yeah, definitely.
+[ 1422.6] You know what I'm saying?
+[ 1423.6] Yeah.
+[ 1424.6] Alright, let's give you some cash.
+[ 1425.6] $2,550, you know, that could help for the weekend away.
+[ 1429.4] Yeah, definitely.
+[ 1430.4] Top of fuel at least.
+[ 1431.4] Top of back up with the fuel.
+[ 1432.4] Yeah, the fuel.
+[ 1433.4] Here it is.
+[ 1434.4] Ruth, what is the secret sound?
+[ 1436.7] A courtless jug being put, taken off or put back on its base plate.
+[ 1442.2] Oh yeah, yeah.
+[ 1443.9] Uh, Ruth, that is not the secret sound.
+[ 1445.6] I'm so sorry.
+[ 1446.6] Oh, okay.
+[ 1447.6] Thanks very much.
+[ 1448.6] Safe travels.
+[ 1449.6] Lovely talking.
+[ 1450.6] Thanks, Sarge.
+[ 1451.6] Yeah, good talking to you.
+[ 1452.6] Bye-bye.
+[ 1453.6] See you, Ruthie.
+[ 1454.6] Alright, there you go.
+[ 1455.6] Secret sound.
+[ 1456.6] It's back on Monday after 6.30 and 8 o'clock, 1.333 to get involved there.
+[ 1458.0] Clues and incorrect guesses go on the Sarge for Breakfast podcast at Listener 2.
+[ 1462.0] Alright, everybody breathe, everybody calm down.
+[ 1465.1] Jimmy Barnes, Rock and Roll Royalty is on the show.
+[ 1469.0] Yeah, stand by at the end.
+[ 1472.0] 4M, Mittnall K Sarge here for breakfast.
+[ 1475.2] We have got Rock and Roll Royalty on the phone line right now.
+[ 1479.3] Jimmy Barnes.
+[ 1480.3] G'day.
+[ 1481.3] Hi, nice to be here.
+[ 1482.3] How you going?
+[ 1483.3] Looking forward to getting up to your week.
+[ 1484.3] We're stoked.
+[ 1485.3] Saturday the 13th of February, Port Macquarie for the Red.

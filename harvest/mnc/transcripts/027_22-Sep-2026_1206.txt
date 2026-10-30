@@ -1,0 +1,76 @@
+BEST BITS: Go With Your Gut
+Tue, 22 Sep 2026 22:51:45 +0000
+plays: [{'t': np.float64(1281.39), 'ncc': 0.87}, {'t': np.float64(1292.5), 'ncc': 0.77}]
+
+[ 1206.4] to Dubbo for their soccer.
+[ 1208.6] Chucked five bucks towards the tickets.
+[ 1210.2] Won nothing.
+[ 1211.7] That's all right.
+[ 1212.8] Yeah.
+[ 1213.6] That's all right.
+[ 1214.4] It's the support that counts.
+[ 1215.2] It's all part of being involved, isn't it?
+[ 1216.1] That's right, community.
+[ 1217.8] Cherie, Karl, many people would like to find out more
+[ 1219.6] about the local news stories that are breaking
+[ 1221.1] as we are waking best place they can go to for more.
+[ 1224.0] Mid-North Coast local news on listener.
+[ 1226.3] Off you try.
+[ 1227.5] Off I go.
+[ 1228.3] Oh, there she goes.
+[ 1230.6] She's a new Cherina, new Cherina.
+[ 1236.2] Hmm.
+[ 1237.0] Thanks to 40 Winx, Port Macquarie.
+[ 1238.8] So come in and see the team at Court Home Zone.
+[ 1241.0] 40 Winx, serious about sleep.
+[ 1243.5] Hey, Charlie.
+[ 1244.3] Good morning.
+[ 1245.2] How you doing?
+[ 1246.0] Good.
+[ 1247.1] What?
+[ 1248.0] How old are you, Charlie?
+[ 1249.6] I'm nine.
+[ 1250.4] Nine.
+[ 1251.3] All right, you're off to school right now?
+[ 1253.3] Yeah.
+[ 1254.2] What's your favorite subject?
+[ 1256.9] Art is a lot of fun.
+[ 1258.3] What are you doing in art at the moment?
+[ 1259.7] What are you creating?
+[ 1261.2] Uh, we're doing posters.
+[ 1263.4] Posters?
+[ 1264.2] Posters of what?
+[ 1265.1] What's on the posters?
+[ 1269.1] Oh, I love that.
+[ 1271.1] The solar system, some art of the solar system,
+[ 1274.9] some posters, good stuff.
+[ 1276.1] All right, here we go.
+[ 1276.9] I'll give you $2,125 if you can correctly identify
+[ 1280.3] what this sound is.
+[ 1281.8] What do you think?
+[ 1286.7] On the left clicker of an IZU.
+[ 1289.5] Oh, very specific.
+[ 1291.2] I like that.
+[ 1292.0] Let's have a listen again.
+[ 1293.3] As promo Sally would say, Charlie.
+[ 1295.0] Absolutely not.
+[ 1296.2] That is not the secret sound.
+[ 1297.3] So sorry.
+[ 1299.7] That's okay.
+[ 1300.6] Have a great day doing your art, Charlie.
+[ 1303.5] You too.
+[ 1304.3] See you.
+[ 1305.2] Yes, I will.
+[ 1306.1] I'll go and do some art myself, some posters.
+[ 1308.7] Secret sound.
+[ 1310.4] Pardon me, it's back tomorrow morning after 6.30
+[ 1312.6] and eight o'clock on 1.333.
+[ 1314.2] Five, three, worth $2,150.
+[ 1319.1] Incorrect guesses so far.
+[ 1320.2] Go on the Sarge for breakfast podcast at listener.
+[ 1323.4] Let's catch up with local member
+[ 1324.8] for Oxley Michael Kemp next on the M.
+[ 1327.6] Stand by.
+[ 1329.4] Live on your radio and the listener app.
+[ 1332.4] It is Triple M at Mid North Coast Sarge here for breakfast
+[ 1335.4] and a good friend of the show is.

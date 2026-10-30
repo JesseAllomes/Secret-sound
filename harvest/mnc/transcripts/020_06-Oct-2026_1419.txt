@@ -1,0 +1,45 @@
+BEST BITS: Red Flags & Icks
+Tue, 06 Oct 2026 22:03:20 +0000
+plays: [{'t': np.float64(1494.26), 'ncc': 0.818}]
+
+[ 1419.3] Oh, there she goes
+[ 1420.8] She's a new-sure-ida, new-sure-ida
+[ 1424.1] Shh, it's Triple M's secret sound
+[ 1426.3] Mmm, thanks to 40 Winks Port Macquarie
+[ 1429.1] So you're going to see the team at Port Home Zone
+[ 1431.3] 40 Winks, serious about sleep
+[ 1433.3] It is time to say a very good morning to a good friend of the show
+[ 1437.3] Rach, how are ya?
+[ 1440.3] Uh, he's been better, can't fight off his blasted flute, but you know
+[ 1445.3] Ah, Rach, I was talking to somebody yesterday who said that they have had the cold and flu symptoms for a solid three months
+[ 1454.3] Can you believe that?
+[ 1456.3] Yeah, I can
+[ 1458.3] Yeah, how long have you had this feeling?
+[ 1461.3] Uh, probably about a fortnight now
+[ 1464.3] It's just disgusting
+[ 1466.3] Hey, I've got the same thing too, I've got a bit of a runny nose, I've got a bit of a cough that I can't seem to shake
+[ 1471.3] It's awful
+[ 1474.3] So hopefully some money will help
+[ 1477.3] Yeah, that's right, that's a lot of cold and flu tablets, isn't it?
+[ 1481.3] It is
+[ 1482.3] $2,375
+[ 1485.3] Pick up the spirits too though, wouldn't it?
+[ 1487.3] It would
+[ 1488.3] Yeah, alright
+[ 1489.3] It would
+[ 1490.3] Rach, let's have a crack at this, here is the secret sound
+[ 1494.3] What do you think?
+[ 1496.3] Okay, okay, I've had, I've been thinking
+[ 1499.3] Yeah, good
+[ 1501.3] This is it, you pushing down the button to take my call
+[ 1507.3] Me pressing down the button to take my call
+[ 1511.3] Which I'll tell you is just, because it's all computers these days, is just the click of a mouse and we've had that guess
+[ 1519.3] I'm absolutely not
+[ 1521.3] Sorry Rach, yeah, keep on trying
+[ 1524.3] The sound is so frustrating
+[ 1526.3] It is, I know
+[ 1528.3] I know
+[ 1529.3] Hey, hey, don't cough or laugh
+[ 1532.3] There it is
+[ 1533.3] Get it out Rach
+[ 1535.3] Alright, alright, hey, get well

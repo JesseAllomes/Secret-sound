@@ -1,0 +1,45 @@
+BEST BITS: I'll Wear A White Shirt If Ya Know What I Mean
+Thu, 27 Aug 2026 01:03:34 +0000
+plays: [{'t': np.float64(1964.69), 'ncc': 0.902}, {'t': np.float64(1967.59), 'ncc': 0.92}]
+
+[ 1889.7] Long time no speak Trish from camp see how are ya?
+[ 1893.9] I'm fine Sarge.
+[ 1896.1] Well that is good to hear what's been going on in your world.
+[ 1900.0] I've now got a full-fold load done for Mclay options with Sean and all that.
+[ 1904.8] Oh well good morning to Sean and Brydie and the wonderful team at Mclay options.
+[ 1909.1] We love you guys.
+[ 1910.2] So you've been a busy bear you've been working.
+[ 1913.4] Yeah since I got out of hospital from the
+[ 1918.1] when I had the young boys.
+[ 1920.3] Oh that sounds well look it sounds like you're
+[ 1923.1] No but I've got over it.
+[ 1924.3] That's good yeah it sounds like you are going well now which is very good news.
+[ 1928.7] Yeah yeah now I'm good.
+[ 1930.1] Yeah very happy to hear that Trish.
+[ 1931.9] And what are you doing in your spare time these days?
+[ 1934.3] It sounds like you're just working.
+[ 1936.1] Do you have any downtime to do stuff for you?
+[ 1938.9] Are you going shopping?
+[ 1940.1] Are you doing karaoke?
+[ 1941.3] What's the go?
+[ 1941.9] Just pour in and that and like that.
+[ 1946.7] I've got to wait until the guys do it.
+[ 1953.5] Trish I've got $1,650 to give away right now.
+[ 1959.7] Oh my gosh can you imagine if we gave that to you?
+[ 1962.5] Here we go Trish here's the secret sound.
+[ 1966.2] I'll go once more for good luck.
+[ 1968.4] What do you think?
+[ 1971.6] It could be a clip thing.
+[ 1973.4] A clip thing?
+[ 1975.7] Yeah clip that yum when you're shutting.
+[ 1979.2] Not a clip that on the lid or something.
+[ 1984.6] Clip on the clip thing on the lid.
+[ 1988.0] Yeah yeah yeah I think it could be.
+[ 1990.3] Trish thanks for guessing that's not it though.
+[ 1994.6] No no keep on trying lovely and you have a wonderful day on the beautiful Mid-North Coast.
+[ 1999.9] The sun is shining.
+[ 2001.7] Oh yeah and I've done the washing and I've got it out on the line now.
+[ 2006.3] Have you just?
+[ 2007.7] Well you're one step ahead of me.
+[ 2011.2] Yeah.
+[ 2011.7] Hey you're doing well.

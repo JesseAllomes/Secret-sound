@@ -1,0 +1,21 @@
+BEST BITS: I Can Say That Because I Have A Lisp
+Wed, 28 Oct 2026 21:51:34 +0000
+plays: [{'t': np.float64(449.8), 'ncc': 0.857}]
+
+[  374.8] band Reunited under the big top, head to triplem.com.au and tell us what your favourite
+[  381.0] powder finger song is and why. For the chance to win tickets to see them live. Hot tip,
+[  389.9] don't use chat GPT, we can see straight through though. Everyone's using it these days. I've
+[  399.0] been guilty of using it once or twice but you know, I've got this kind of thing. If you're
+[  402.6] a powder finger fan you know what to do. Just sing and speak and talk from the heart okay?
+[  408.5] Powder fingers 2027 tour is sold out. A final encore, run of shows, announce soon more at
+[  414.7] powderfinger.com. It's the early bird edition of The Secret Sound. Thanks to 40 Winx Port
+[  424.9] Macquarie. Come in and see the team at Port Home Zone. 40 Winx, serious about sleep. Alright
+[  430.1] let's go to line 1, 1 triple 3 5 3 is this craic. How you going? Mate, very well thank
+[  437.7] you. What's going on in your world at the moment? Not a lot. Am I guessing the sound?
+[  443.4] Yeah, Secret Sound. Is it a tape recorder? Is it a tape recorder? Let's have a listen
+[  449.3] mate. No, that's not the Secret Sound. Absolutely not. Sorry mate. You're so funny. That was
+[  461.3] really good gear. Well done. Secret Sound is back at 8 o'clock on 1 triple 3 5 3 worth
+[  468.3] $2,775. Close and incorrect guesses. All going massage for breakfast podcast at listener.
+[  474.4] I'll have to check that out to get closer to the cash. Let's talk about the triple
+[  478.7] A 1000. It is coming up next. Details on how you can score yourself $50,000. Triple
+[  493.0] A 1000. What is it?

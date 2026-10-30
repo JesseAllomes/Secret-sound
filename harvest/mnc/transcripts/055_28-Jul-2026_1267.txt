@@ -1,0 +1,96 @@
+BEST BITS: Did They Bang?
+Tue, 28 Jul 2026 22:59:35 +0000
+plays: [{'t': np.float64(1342.67), 'ncc': 0.897}, {'t': np.float64(1351.17), 'ncc': 0.84}, {'t': np.float64(1419.21), 'ncc': 0.829}, {'t': np.float64(1452.78), 'ncc': 0.728}]
+
+[ 1267.7] Chicken Wing Day, the perfect excuse to order an extra serve of wings, you know what I mean?
+[ 1272.4] From buffalo to honey barbecue, there's a flavour for everyone.
+[ 1280.1] That's on this day for the 29th of July.
+[ 1282.9] Get some chicken wings in the oven.
+[ 1284.3] What a tune and team up.
+[ 1286.7] The collaboration of Robbie and Kylie, here this morning for your greatest hits.
+[ 1290.7] Triple M with North Coast and the Sarge for Breakfast Show.
+[ 1293.6] I mean, how could you not love Kylie? How could you not love Robbie?
+[ 1296.8] There's one track on here that I think most people wouldn't assume was inspired by your new baby son.
+[ 1303.9] Tia.
+[ 1304.7] I wrote a song about my daughter and it's called Go Gentle.
+[ 1307.3] It's beautiful.
+[ 1307.9] Thank you very much.
+[ 1308.7] And it's definitely a sort of loving, I'm having a daughter.
+[ 1313.0] So I decided to write a song for him.
+[ 1315.8] It's called Motherf***er.
+[ 1322.8] Next on the Sarge for Breakfast Show.
+[ 1325.3] Hilarious.
+[ 1326.4] All right.
+[ 1326.9] The latest in your local newsport and weather is coming up with our wonderful news reader, Cherie Coleman.
+[ 1331.9] We call her the news sureed.
+[ 1333.5] I will also get the beach and surf update from the HUDmeister.
+[ 1336.8] And right now taking your calls.
+[ 1338.2] One triple three five three.
+[ 1341.0] What is this sound?
+[ 1343.6] If you're correct, I'll give you one thousand two hundred and fifty dollars.
+[ 1347.1] Once again, one triple three five three.
+[ 1349.2] Tell me what this sound is correctly.
+[ 1351.9] And if all is good, one thousand two hundred and fifty bucks is getting transferred into your bank account.
+[ 1356.7] Thanks to Forty Winks Port Macquarie.
+[ 1358.5] Good morning, Jerome and the team.
+[ 1360.4] It's Triple M's secret sound.
+[ 1363.0] Thanks to Forty Winks Port Macquarie.
+[ 1364.8] So come in and see the team at Court Home Zone.
+[ 1367.0] Forty Winks, serious about sleep.
+[ 1369.4] We say good morning to this man because it's a Wednesday.
+[ 1371.9] It's a Waza Wednesday.
+[ 1372.9] Waza!
+[ 1374.1] Waza!
+[ 1379.0] How you Waza?
+[ 1379.6] A long time no speak.
+[ 1382.0] That was a long, mate, that was a long Waza.
+[ 1385.0] Well, we've got to make up for lost time.
+[ 1388.6] How are the rides going this morning, mate?
+[ 1390.9] Not too bad, just all the way into Foster and Nat.
+[ 1393.4] Yeah, it's pretty good.
+[ 1394.2] Traffic's fairly light.
+[ 1395.7] Everyone off to work by the looks of it.
+[ 1398.1] Mate, one thousand two hundred and fifty bucks.
+[ 1400.9] It's nothing to sneeze at.
+[ 1402.8] What are you going to do with that cash if you win it?
+[ 1404.6] You are a secret sound alumni.
+[ 1406.8] You've won this thing before.
+[ 1408.1] What are you going to do with this cash though?
+[ 1410.0] Mate, it'll go towards helping me move the rest of the stuff up to the Mid North case.
+[ 1415.3] Alright, mate, well, let's do this.
+[ 1417.7] Here's the secret sound.
+[ 1419.8] What do you think for one thousand two hundred and fifty dollars?
+[ 1422.5] Waza!
+[ 1423.7] Alright, going to go out a little bit of left field there.
+[ 1426.2] We know how you like your coffee, your caramel lattes.
+[ 1429.4] Oh, yes, I do, yes.
+[ 1430.9] We thought about how does Sarge Kewpie's coffee warm?
+[ 1435.0] Now, we're thinking maybe it's the little switch on the bottom of a coffee cup hot plate
+[ 1440.4] where you sit your coffee on to keep it warm.
+[ 1442.5] Oh, my goodness me, that is the very left of centre guess,
+[ 1445.6] the best left of centre guess we've had in a while.
+[ 1447.9] It's very unique.
+[ 1448.7] You know, my sounds are very tricky and up that alley.
+[ 1451.5] Let's have a listen again.
+[ 1453.7] OK, it's not it.
+[ 1457.2] All right.
+[ 1457.9] Yes, back to the drawing board.
+[ 1459.4] Yes, back to that drawing board.
+[ 1461.4] Hey, Waza, safe travels.
+[ 1462.6] Happy Waza Wednesday.
+[ 1463.5] Always good hearing your dollars at tones, my man.
+[ 1465.8] Happy hump day.
+[ 1466.6] Happy hump day.
+[ 1468.4] See you, mate.
+[ 1469.4] See ya.
+[ 1470.0] Secret sound.
+[ 1471.6] It is back to my morning after 6.30 and 8 o'clock at 1.333 worth $1,275.
+[ 1478.3] All righty.
+[ 1479.3] All the incorrect guesses for it so far go on the Sarge for Breakfast podcast listener.
+[ 1483.0] Do you like magic?
+[ 1483.8] Do you like illusions?
+[ 1484.8] Do you like being fooled in an entertaining way?
+[ 1489.5] Cosentino, Australia's best magician, is on the show next.
+[ 1492.8] He's coming to Port Macquarie this Friday in Santa Fe.
+[ 1495.4] Standby for more details.
+[ 1497.0] The Hooters.

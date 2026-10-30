@@ -1,0 +1,76 @@
+BEST BITS: I've Lost My Voice
+Sun, 13 Sep 2026 22:47:55 +0000
+plays: [{'t': np.float64(784.7), 'ncc': 0.813}, {'t': np.float64(885.05), 'ncc': 0.908}]
+
+[  709.7] If you'd like us to marry you live on the air on the Breakfast Show, get amongst it.
+[  715.9] This is going to be exciting.
+[  716.9] This is huge.
+[  717.9] It's a nasty for a white wedding.
+[  731.6] Urge for breakfast.
+[  732.6] Thanks to Harvey Norman, Claude Macquarie.
+[  734.6] Get more after this.
+[  736.6] How gorgeous is that sun shining right across the Mid-North Coast as we wake up in the
+[  742.5] best part of the world.
+[  744.4] It is triple M coming up to 630.
+[  748.3] Coming up on the Sarge for Breakfast Show.
+[  750.3] We'll head to the newsroom and get the absolute latest in your new sport and weather, plus
+[  757.5] a beach and surf update from Wayne Huddo Hudson, the Wave Whisper.
+[  761.5] Then, we will play the secret sound.
+[  764.5] So, 1 triple 353.
+[  765.5] The lines are open right now.
+[  767.5] If you'd like to squeeze yourself 1,950 ducks.
+[  772.5] Yep, we're giving away ducks.
+[  775.5] No, bucks.
+[  776.5] 1,950 bucks.
+[  777.5] All you've got to do is call 1 triple 353 right now and correctly identify what this sound
+[  783.5] is.
+[  784.5] What do you think?
+[  786.5] Good luck, the secret sound.
+[  787.5] It is just around the corner.
+[  788.5] All thanks to our good mates at 40 Winks Port Macquarie.
+[  791.5] They are serious about sleep, not ducks.
+[  794.5] It's the early bird edition of the secret sound.
+[  801.1] Thanks to 40 Winks Port Macquarie.
+[  804.1] Come in and see the team at Port Home Zone.
+[  806.1] 40 Winks, serious about sleep.
+[  808.1] One of the original members of the 6 o'clock club is on 1 triple 353 right now.
+[  813.1] Lorraine.
+[  814.1] Hello Lorraine.
+[  815.1] Good morning, Monday to everybody and how are you?
+[  818.1] I am well, thank you.
+[  819.1] What did you go up to over the weekend Lorraine?
+[  821.1] Oh, not really much at all.
+[  823.1] No, just some gardening and yeah, not much here, but it's a nice day every now and again.
+[  829.1] It was lovely yesterday anyway.
+[  831.1] Yeah, it was good and today is going to look lovely too.
+[  834.1] Sunny and tops of 25 where you are in beautiful Port Macquarie.
+[  837.1] Yeah.
+[  838.1] What do you got in the garden?
+[  840.1] What's the main features of the garden?
+[  843.1] What's the thing you're most proud of in your garden?
+[  845.1] What's growing well and looking fabulous?
+[  847.1] Well, I like my bonsais and I've got some veggies growing and I've got lots of plants
+[  852.1] and yeah, I just love my gardening.
+[  855.1] Love a bonsai, I love some veggies as well.
+[  857.1] And do you obviously eat the veggies yourself or do you sell them, give them to friends?
+[  862.1] What do you do with them?
+[  863.1] No, it's only a small court.
+[  865.1] Yeah, I just paid enough for myself and my sister and that's about it.
+[  869.1] Yeah, it's no good having too many plants because they've got no room anyway.
+[  873.1] You're kind of living off the land in a way, aren't you?
+[  876.1] Yeah, I hope so. It would be nice.
+[  878.1] Okay, well we've got $1,950 to give away right now.
+[  882.1] If you correctly identify what this sound is Lorraine, that cash is all yours.
+[  886.1] What do you think?
+[  888.1] Would you be simply just plugging in a plug into electrical socket?
+[  893.1] Absolutely not.
+[  896.1] And listen, by the way, that's not very good.
+[  899.1] But anyway, next time, I hope we're going to hear your lovely voice singing some wedding song
+[  907.1] when you pick the nice couple.
+[  909.1] How exciting is this?
+[  910.1] Yes, we are giving away a free wedding to two people on the Mid-North Coast that would like to get married.
+[  917.1] That's an idea, Lorraine. I haven't thought about that yet.
+[  920.1] You want me to be a wedding singer.
+[  922.1] I could do a song for the couple as they maybe walk down the aisle.
+[  926.1] Oh, that'd be lovely because I do believe that you do sing.
+[  929.1] I do.

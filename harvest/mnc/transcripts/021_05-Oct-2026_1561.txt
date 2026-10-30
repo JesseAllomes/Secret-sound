@@ -1,0 +1,98 @@
+BEST BITS: Scream For The Tickets
+Mon, 05 Oct 2026 22:16:21 +0000
+plays: [{'t': np.float64(1636.3), 'ncc': 0.861}, {'t': np.float64(1748.77), 'ncc': 0.792}, {'t': np.float64(1760.81), 'ncc': 0.877}]
+
+[ 1561.3] Make your votes count on the listener.
+[ 1563.3] Give it hell with the power and performance of Einhel Professional Power Tools.
+[ 1567.3] Coming soon.
+[ 1568.3] Because this is your Triple M 1000.
+[ 1572.3] Now let's power this bad boy up Triple M and sing it out loud.
+[ 1576.3] One thousand!
+[ 1577.3] The Triple M 1000!
+[ 1581.6] Holy dolly, what a moment.
+[ 1584.6] This is exciting.
+[ 1586.6] Triple M 1000 is your chance to contribute your top 10 songs.
+[ 1592.6] Of all time.
+[ 1594.6] To help us build the annual Triple M 1000 countdown.
+[ 1598.6] Plus, you'll have the chance to win $50,000.
+[ 1603.6] Thanks to Einhel Professional.
+[ 1605.6] So all you gotta do is head to the listener app right now.
+[ 1608.6] And cast your vote.
+[ 1610.6] We're doing this until the 18th of October.
+[ 1613.6] Give it hell with the power and performance of Einhel Professional Power Tools.
+[ 1619.6] Coming soon.
+[ 1621.6] The Triple M 1000.
+[ 1623.6] It is on baby.
+[ 1624.6] What else is on?
+[ 1625.6] More winning for the Secret Sound.
+[ 1627.6] We'll do it next.
+[ 1628.6] $2350 bucks up for grabs.
+[ 1631.6] With a Secret Sound.
+[ 1633.6] Here's what the sound sounds like.
+[ 1635.6] Good luck.
+[ 1637.6] Led Zeppelin this morning here at Triple M, Midnall.
+[ 1644.0] Coach Sarge here for breakfast.
+[ 1646.0] It's 11 minutes after 8 o'clock.
+[ 1649.0] So good to have the company.
+[ 1650.0] Love on your radio and the listener app.
+[ 1654.0] And we just made a big announcement.
+[ 1656.0] Triple M 1000.
+[ 1658.0] It is your chance to contribute your top 10 songs of all time.
+[ 1662.0] To help us build the annual Triple M 1000 countdown.
+[ 1664.0] Plus, you'll have the chance to win $50,000.
+[ 1667.0] Thanks to Einhel Professional.
+[ 1669.0] All you gotta do is head to the listener app now.
+[ 1672.0] To cast your vote.
+[ 1674.0] From $50,000 to $2350.
+[ 1680.0] Any cash?
+[ 1681.0] It's good cash.
+[ 1682.0] Let's do this.
+[ 1683.0] Shh.
+[ 1684.0] It's Triple M's Secret Sound.
+[ 1685.0] Thanks to 40 Winks Port Macquarie.
+[ 1687.0] So come in and see the team at Court Home Zone.
+[ 1690.0] 40 Winks, serious about sleep.
+[ 1692.0] Good morning to you Ken, the traffic control man.
+[ 1695.0] How are ya?
+[ 1696.0] I'm not too bad brother, yourself.
+[ 1698.0] Yeah, good bro.
+[ 1699.0] Did you have a nice long weekend?
+[ 1701.0] I did.
+[ 1702.0] Had quite a few sheriffs with the boys on Friday night.
+[ 1706.0] Didn't do much Saturday.
+[ 1707.0] And what's the party some day?
+[ 1709.0] And who are you going for Ken?
+[ 1711.0] Mate, I had back Newcastle Knights about 3 months ago to win the grand final.
+[ 1717.0] Gosh, you were close.
+[ 1719.0] Even though I'm a Sharky supporter, I did that.
+[ 1723.0] I think during this process Newcastle Knights might have become my second favourite team after the Bunnies.
+[ 1729.0] Very long after the Bunnies, you know what I mean?
+[ 1732.0] Well I know any team other than the Bunnies is my second favourite team.
+[ 1737.0] Ha ha ha.
+[ 1739.0] Good gear from you Ken.
+[ 1741.0] What also would be good gear is winning $2,350.
+[ 1745.0] Mate, let's make this happen for ya.
+[ 1747.0] Here's the secret sound.
+[ 1749.0] You've heard of them a million times.
+[ 1750.0] What do you think?
+[ 1752.0] Is it pushing the cover back onto a remote control?
+[ 1757.0] Let's have a listen again Ken.
+[ 1761.7] That is not.
+[ 1762.7] Absolutely not.
+[ 1763.7] The secret sound as promo Sally would say.
+[ 1765.7] Good guess though Ken.
+[ 1767.7] Alright.
+[ 1768.7] Keep on cracking along.
+[ 1770.7] What's going on with the traffic controlling today because there's a bit of weather about isn't there?
+[ 1775.7] Mate, we keep going. You know what it's like.
+[ 1778.7] Getting ready for the Ironman in a few weeks.
+[ 1780.7] That'll be a big one.
+[ 1782.7] Is that a headache or do you sort of get a little bit excited around that time because you get even busier and it's frantic and it's hectic.
+[ 1789.7] That's the biggest headache in the world.
+[ 1791.7] Ha ha ha.
+[ 1793.7] Alright, see ya mate.
+[ 1795.7] Take care.
+[ 1796.7] There you go.
+[ 1797.7] Ken the traffic control man this morning here at AAA Mid-North Coast in the Sarge for Breakfast show.
+[ 1801.7] Incorrect guesses for the secret sound.
+[ 1803.7] All gone on the Sarge for Breakfast podcast.

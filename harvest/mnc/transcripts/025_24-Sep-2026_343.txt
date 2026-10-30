@@ -1,0 +1,57 @@
+BEST BITS: What Even Is A  Bad Mama Jama?
+Thu, 24 Sep 2026 22:50:36 +0000
+plays: [{'t': np.float64(418.9), 'ncc': 0.641}, {'t': np.float64(441.03), 'ncc': 0.924}]
+
+[  343.9] 40 Winks Port Macquarie. Come in and see the team at Port Home Zone.
+[  347.5] 40 Winks. Serious about sleep.
+[  349.7] Hey, very good morning to you Chris.
+[  351.7] Good morning.
+[  352.7] Is it a C or a K for your Chris name?
+[  355.9] It's a C. It's a C.
+[  357.7] A C-H-R-I-S.
+[  359.7] That's it.
+[  360.7] And you're calling from where again, my love?
+[  362.9] Up the river, over at the mighty Mclea.
+[  365.9] And how's it looking right now?
+[  367.9] It's God's own country. It's absolutely beautiful.
+[  370.9] Yeah, gosh, it's stunning.
+[  372.9] I'm not sure if you heard earlier in the week Chris, but I was doing the show from the Big Smoke in Sydney.
+[  377.9] Yeah, all I could think was, I can't wait to get back to the best part of the world, you know?
+[  383.9] Yeah, exactly.
+[  384.9] Wow, we're so lucky.
+[  385.9] Chris, 2,175 bucks. Gee, it'd be nice, wouldn't it?
+[  390.9] It would be wonderful.
+[  391.9] Where are you going to put it if you win it?
+[  393.9] Register my vehicle.
+[  396.9] Hell yeah. That sounds good.
+[  398.9] Yeah.
+[  399.9] Exactly. And then you can have all the other money for the other fun stuff or just the other life stuff.
+[  405.9] It seems as though a win, which is a little bit sad, but a win these days is just getting the bills paid.
+[  410.9] Oh, yeah, exactly. And they never stop, do they?
+[  413.9] No, no, no. They don't. They really don't.
+[  415.9] Let's do this, Chris, with a C.
+[  419.9] That's a secret sound. What do you think?
+[  422.9] I think it's, you know, you have the battery chargers that plug into the wall and you push the battery into the dock when you're charging the batteries.
+[  435.9] Yes.
+[  436.9] Just slip it into that and it clicks like that.
+[  438.9] That's what I thought anyway.
+[  439.9] Let's have a listen again, Chris.
+[  440.9] Absolutely not.
+[  444.3] Okay.
+[  445.3] Sorry, Chris.
+[  446.3] Hey, have a wonderful day and keep on trying, please.
+[  449.3] I shall. Thank you very much.
+[  451.3] Good on you.
+[  452.3] Yeah, you too. Talk to you later.
+[  454.3] Thank you.
+[  455.3] All right.
+[  456.3] Secret sound is back at eight o'clock on one triple three five three.
+[  459.3] It is worth two thousand one hundred and seventy five dollars.
+[  461.3] All the incorrect guesses so far.
+[  463.3] Do you go on the Sarge for Breakfast podcast?
+[  465.3] That listeners to check that out to get closer to the cash.
+[  468.3] Let's talk about the AFL next or the FLA.
+[  471.3] And as our mate Peter Volandy says,
+[  473.3] Stand by on Triple A and Sarge here for breakfast.
+[  477.3] The latest on good times and greatest here.
+[  482.3] These he's sages around the ground.

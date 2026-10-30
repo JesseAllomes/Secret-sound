@@ -1,0 +1,64 @@
+BEST BITS: What Even Is A  Bad Mama Jama?
+Thu, 24 Sep 2026 22:50:36 +0000
+plays: [{'t': np.float64(1268.83), 'ncc': 0.853}]
+
+[ 1193.8] award for the clearest phone line of the week.
+[ 1196.9] Well that's fantastic.
+[ 1198.3] And you want a landline or a normal phone or what?
+[ 1201.3] I'm on mobile.
+[ 1202.3] Uh-huh.
+[ 1202.9] And who are you with?
+[ 1204.4] Are you with Telstra Optus?
+[ 1206.1] Who?
+[ 1206.9] Yeah, Telstra.
+[ 1208.8] And where abouts you calling from, Mark?
+[ 1211.0] I'm actually just in Taree at the moment.
+[ 1214.3] There you go.
+[ 1215.1] You don't reside in Taree.
+[ 1216.5] You're just calling from Taree?
+[ 1218.0] No, I reside in Johns River, but work in Port,
+[ 1221.9] Kem City and Taree.
+[ 1223.2] What do you do, Mark?
+[ 1224.7] I work for the Mid-North Coast Community College.
+[ 1228.0] Tell me more about that.
+[ 1229.7] Yes, so we run, well I predominantly run programs
+[ 1233.4] for like towards employment, giving people skills
+[ 1237.7] for employment and pathways for work and communication skills
+[ 1243.6] and so on.
+[ 1244.3] That's good stuff.
+[ 1245.0] We also run lots of other programs there,
+[ 1248.9] White Card and First Aid and School of Hard Knocks
+[ 1253.6] and Life Skills Express.
+[ 1254.9] So yeah, there's lots of things going on at the Mid-North Coast
+[ 1257.4] Community College.
+[ 1258.3] Beautiful, mate.
+[ 1259.1] Good rap.
+[ 1259.8] I like the sound of all of that.
+[ 1262.0] I also like the sound of giving you $2,175.
+[ 1265.3] So all you've got to do is correctly identify
+[ 1267.7] what this sound is.
+[ 1269.4] Mark, have a crack.
+[ 1271.0] I wonder if it's the putting in your seat belt.
+[ 1275.0] Mark.
+[ 1276.5] Absolutely not.
+[ 1278.3] That is not the secret sound.
+[ 1279.6] Sorry, sir.
+[ 1280.9] No worries, mate.
+[ 1282.0] Thank you very much.
+[ 1282.9] I hope you have a great Friday and a wonderful weekend.
+[ 1285.2] The weather's meant to be turning it on today.
+[ 1288.0] Absolutely.
+[ 1289.0] Good on you, legend.
+[ 1289.8] Talk to you.
+[ 1290.3] Bye bye.
+[ 1290.8] Thank you, mate.
+[ 1291.3] Bye bye.
+[ 1291.9] Secret sound.
+[ 1292.8] It is back on Monday after 6.30 and 8 o'clock on 1.333.53.
+[ 1298.3] $75.81.91.
+[ 1300.5] Worth $2,200.
+[ 1303.1] All the incorrect guesses so far for it.
+[ 1305.3] Go on the Sarge for Breakfast podcast at least,
+[ 1307.3] and then go and check that out to get close to the cash.
+[ 1309.5] Let's do Sarge Gets a Real Job Next.
+[ 1311.9] Sarge Gets a Real Job Next.

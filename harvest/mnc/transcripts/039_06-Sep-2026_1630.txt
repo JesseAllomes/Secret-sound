@@ -1,0 +1,73 @@
+BEST BITS: A Dirty Chai Kinda Guy
+Sun, 06 Sep 2026 22:30:08 +0000
+plays: [{'t': np.float64(1705.8), 'ncc': 0.862}, {'t': np.float64(1715.72), 'ncc': 0.891}]
+
+[ 1631.6] Of course I'll use your credit card.
+[ 1633.2] You've got the card.
+[ 1634.8] Actually, that's alright.
+[ 1635.8] Don't do that.
+[ 1636.8] Don't do that.
+[ 1637.8] I'll get in trouble.
+[ 1638.8] So Sarge's Shout Free Coffee we're giving away right now all morning.
+[ 1642.7] Then Bucka Surf Co.
+[ 1644.3] Make sure you go and say good day to Cowgirl Chloe and the team from Triple M.
+[ 1647.9] Thank you Chloe.
+[ 1648.9] Have a great morning.
+[ 1649.9] You too.
+[ 1650.9] Thanks to 40 Winx Port Macquarie.
+[ 1654.3] So go in and see the team at Court Home Zone.
+[ 1657.3] 40 Winx, serious about sleek.
+[ 1658.3] Well joining us on 1-333 right now is not A, not B, not C, but D. Hello D.
+[ 1667.6] Hi D. How you going?
+[ 1669.2] Yeah good.
+[ 1670.2] Did you like that D?
+[ 1671.2] I did.
+[ 1672.2] I get called D sometimes.
+[ 1673.2] I get called D. D actually by my granddaughter.
+[ 1674.8] D.D.?
+[ 1675.8] Yes.
+[ 1676.8] Oh.
+[ 1677.8] I like that a lot.
+[ 1678.8] D. Where are you calling from?
+[ 1679.8] Scott's Head.
+[ 1680.8] Scott's Head.
+[ 1681.8] Okay cool.
+[ 1682.8] Very good.
+[ 1683.8] Very good.
+[ 1684.8] You are a lady who's getting down to business and I like that.
+[ 1687.4] $1,825.
+[ 1688.4] What do you want to do with that cash we win it?
+[ 1690.5] Well we have Christmas coming up.
+[ 1692.5] We have a big family Christmas.
+[ 1693.8] We have a big family holiday in April next year.
+[ 1696.6] And when I say family I mean my sisters and their families.
+[ 1699.6] So there's a lot of us and that will go towards that.
+[ 1701.8] Yeah great.
+[ 1702.8] Wonderful.
+[ 1703.8] Alright well let's do this.
+[ 1704.8] Here is the secret sound D. And what do you think it is for that $1,825?
+[ 1709.8] Is it the sound that Ketul makes finished boiling and kicks off?
+[ 1713.8] Okay let's have a listen again.
+[ 1716.2] D. No.
+[ 1717.2] No that's not the secret sound.
+[ 1718.2] Sorry.
+[ 1719.2] Okay I'll try again.
+[ 1720.2] Yeah keep on trying.
+[ 1721.2] Alright see you later.
+[ 1722.2] Bye.
+[ 1723.2] Bye lovely.
+[ 1724.2] There you go.
+[ 1725.2] Secret sound.
+[ 1726.2] It is back tomorrow morning after 6.30pm and 8.00pm on 1.35.3.
+[ 1729.1] Now worth $1,850.
+[ 1730.1] A reminder that all the clues and incorrect guesses go on the Sarge for Breakfast podcast
+[ 1735.8] at listener so check them out to get closer to the cash.
+[ 1739.5] Let's do On This Day next.
+[ 1740.6] The weird wacky and wonderful things that happen on this day.
+[ 1743.0] The 7th of September.
+[ 1745.5] Listen to it.
+[ 1746.5] On a Monday morning.
+[ 1747.5] They're made of the latest thing.
+[ 1748.5] Woven texturized polyamide.
+[ 1749.5] Triple M, Mid North Coast and the Sarge for Breakfast show presents On This Day.
+[ 1755.5] Yeah a bit of information to share with you to make you look smarter.

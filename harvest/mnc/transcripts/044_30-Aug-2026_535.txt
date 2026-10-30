@@ -1,0 +1,63 @@
+BEST BITS: Bring Gravy Wrestling To The Mid North Coast
+Sun, 30 Aug 2026 22:44:22 +0000
+plays: [{'t': np.float64(610.46), 'ncc': 0.865}, {'t': np.float64(629.69), 'ncc': 0.942}]
+
+[  535.5] How are you today?
+[  536.5] Very well, thank you.
+[  537.8] Now, I also just saw your text come in on 0468040MMM saying that your weekend win, I mean, this
+[  544.9] is a different segment, but your weekend win is waking up in the best part of Australia.
+[  549.9] Oh, yes, definitely.
+[  553.0] Out of the smoke and the grime of the city.
+[  556.3] Yeah.
+[  557.3] Kempsie is the area you guys reside, isn't it?
+[  560.3] Yes, it is.
+[  561.5] And at the moment, I'm just looking out over the backyard and seeing a few cows lying down
+[  566.7] on the grass.
+[  567.7] Now, you wouldn't have got that in the city, Shazza.
+[  570.6] No, we don't.
+[  571.9] Yeah, what would you get when you'd look over your back fence in the city?
+[  576.8] Another house.
+[  577.8] Yeah, that's it.
+[  578.8] It's not cows eating the grass, isn't it?
+[  581.6] No, it's not.
+[  582.6] Yeah, it's something else out here.
+[  584.1] And you're right, we are waking up in the best part of Australia.
+[  586.9] Heck, I'd even go as far to say the best part of the world.
+[  590.7] Oh, you do.
+[  591.7] All right.
+[  592.7] Now, let's make this happen.
+[  593.7] We got $1,700 up for grabs here, Shazza.
+[  597.3] What would you do with that cash if you won it?
+[  599.7] Oh, like Waza, would also contribute towards moving our stuff up to Kempsie, because we're
+[  606.4] still moving.
+[  607.4] Yeah, that's a smart idea.
+[  608.4] I like it.
+[  609.4] Let's make it happen.
+[  610.4] Here we go.
+[  611.4] That's the secret.
+[  612.4] Sound right there.
+[  613.4] What do you think?
+[  614.4] Well, I know I'll lead you to Australia with when Waza called, but I'm actually thinking
+[  620.6] it could be closing a door inside the house when the striker makes that sound.
+[  628.5] Oh, okay.
+[  629.5] And we haven't had that guess yet, but we can cross it off because that is incorrect,
+[  635.0] Shazza.
+[  636.0] Back to the drawing board.
+[  638.0] Back to that drawing board.
+[  639.0] This was so hard.
+[  640.0] It is.
+[  641.0] I was having a conversation with somebody over the weekend and they said, is this thing
+[  644.0] ever going to go off?
+[  645.3] And you know what?
+[  646.3] It could be the longest running secret sound of all time.
+[  648.5] We might end up in the Guinness World Records book.
+[  651.3] Well, I can tell you this.
+[  653.3] Since I started listening last year, it has been the longest one.
+[  658.1] Yeah, it's gone for quite some time.
+[  660.3] I think one of the earlier ones got just past $2,000 and we're heading into that territory
+[  666.5] now.
+[  667.5] Oh, wow.
+[  668.5] Yeah.
+[  669.5] Anyway, keep on trying.
+[  670.9] Have a wonderful week.
+[  672.2] Enjoy those cows doing that there thing.

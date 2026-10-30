@@ -1,0 +1,35 @@
+BEST BITS: I'll Do Anything To Catch A Fish
+Wed, 21 Oct 2026 21:52:47 +0000
+plays: [{'t': np.float64(1167.66), 'ncc': 0.911}]
+
+[ 1092.7] New Sharina!
+[ 1095.7] People like to find out more about the local news stories that are breaking today as we are waking.
+[ 1101.7] Where can people go to for a bit more information?
+[ 1104.7] Mid-north coast local news on listener.
+[ 1106.7] Alright, see you later. Bye, get out of here.
+[ 1108.7] Woah, there she goes. She's the new Sharina, new Sharina.
+[ 1113.7] Shhh, it's Triple M's secret sound.
+[ 1116.7] Thanks to 40 Winks Port Macquarie.
+[ 1118.7] So come in and see the team at Court Home Zone. 40 Winks, serious about sleep.
+[ 1123.7] G'day there Justin.
+[ 1125.7] How you going today mate?
+[ 1127.7] Mate, I'm going very well. I mean I'm looking outside the studio window right now here at Trumpster where our studios are based and she is wet.
+[ 1135.7] Yeah, it's going down as possible mate, possible Tunkhari.
+[ 1139.7] Yeah, you're getting a lot down there too.
+[ 1142.7] Yeah mate, unfortunately.
+[ 1144.7] So you're in the car right now? You're in the uni on your way to work or what's the go?
+[ 1148.7] Doing a couple of deliveries, yep.
+[ 1150.7] Fantastic. And what would you do with $2650 if we deliver that to you when you correctly identify what the secret sound is?
+[ 1158.7] Oh, my grandkids first and then some fuel money for a holiday in the caravan.
+[ 1164.7] Okay, I love the sound of all of that. Here we go, here's the secret sound.
+[ 1167.7] What do you think?
+[ 1169.7] Is it putting a battery in the charging dock, like a tool battery in a charging dock?
+[ 1174.7] I'm going to have to bring Primo Sally in, sorry.
+[ 1178.5] Absolutely not.
+[ 1180.5] That's not it.
+[ 1181.5] No worries, thanks for your love and work mate.
+[ 1183.5] Keep on trying. Thank you mate, appreciate it. You stay safe out there. It's a bit wet and wild and yeah, not ideal but anyway.
+[ 1193.5] Secret sound, back to my morning after 6.30, 9 o'clock, 1.333. It's worth $2675.
+[ 1200.5] Clues and incorrect guesses all go on the sarge for breakfast podcast.
+[ 1204.5] Listener, check that out to get closer to the cash.
+[ 1208.5] Hey, let's get on to the show. A very good friend of the show.

@@ -1,0 +1,61 @@
+BEST BITS: You've Called For The Wrong Segment Mate
+Mon, 14 Sep 2026 22:51:34 +0000
+plays: [{'t': np.float64(1372.46), 'ncc': 0.867}, {'t': np.float64(1424.36), 'ncc': 0.624}, {'t': np.float64(1443.59), 'ncc': 0.748}]
+
+[ 1297.5] What about Elton John? And that's right, we were like 10 rows back from Sir Elton John,
+[ 1303.8] Carrington Park in Bathurst and that was a pinch-be moment too.
+[ 1307.0] What's your favourite concert you've been to?
+[ 1309.0] Let me know, 1-333-53.
+[ 1311.0] Just a call or you can text me 0-468-040- MMM.
+[ 1316.0] Let's do the legend now on Triple M, Mid-North Coast.
+[ 1319.0] Sarge here for Brekkie.
+[ 1320.0] You can never know why.
+[ 1325.1] Thanks to 40 Winx, Port Macquarie.
+[ 1326.6] So come in and see the team at Court Home Zone.
+[ 1329.1] 40 Winx, serious about sleep.
+[ 1331.1] G'day there Steve, morning mate, how you doing?
+[ 1333.6] I'm good, you?
+[ 1334.6] Yeah, really good. What's on the cards for today?
+[ 1337.6] Uh, just heading north to try and fix a chicken oven.
+[ 1341.6] Fix a chicken oven?
+[ 1343.6] Yeah.
+[ 1344.6] Tell me more about the chicken oven. I've not made myself, you know, knowledgeable with the chicken oven.
+[ 1350.6] Ah, well, it's just an oven that they cook chickens in to sell to the customers obviously.
+[ 1358.1] Yeah, right.
+[ 1359.1] This one.
+[ 1360.1] There you go.
+[ 1361.1] So I've got to get it working.
+[ 1362.6] Good stuff, Steve.
+[ 1363.6] We've got to be able to dodge your phone lines, so let's just get straight into it.
+[ 1366.6] $1,975, mate.
+[ 1368.6] I'll give that cash to you if you correctly identify what this sound is.
+[ 1372.6] What do you think?
+[ 1373.6] Uh, mate, I wasn't ringing about the secret sound, I was ringing about the concerts.
+[ 1378.1] Ah, oh the concerts? What your favourite concert was?
+[ 1383.1] Yeah, well, I've been unlucky enough not to go to any except for one.
+[ 1390.1] And I got paid to be there.
+[ 1392.1] Which concert was it?
+[ 1395.1] It was Electric Pandas.
+[ 1398.1] Electric Pandas? Okay, I actually haven't heard of Electric Pandas, but that's your favourite concert you've been to.
+[ 1402.1] Well, it's the only one I've been to and I got paid to be there.
+[ 1406.1] Why'd you get paid to be there? What were you doing there?
+[ 1409.1] I was running discos at the time and I was the support act for them.
+[ 1412.1] Oh, that is remarkable, Steve. So you're part of the line-up.
+[ 1418.1] That's it?
+[ 1419.1] Yeah, that's incredible, mate.
+[ 1420.1] Hey, well, while I've got you, let's try and give you the cash. What's the secret sound? What do you think?
+[ 1427.1] Uh, that's a damn good question.
+[ 1432.1] That's great. Just have a stab.
+[ 1441.4] Can I hear it again for a second?
+[ 1442.4] Yeah, yeah, you can. There it is.
+[ 1446.4] It sounds a bit like a stapler that you staple for it all.
+[ 1457.7] I mean, look at me nuts!
+[ 1458.7] It's not, Steve. But I'll tell you what, mate. If you got it, that would be the greatest story of all time.
+[ 1463.7] Ring for the wrong segment and get into the secret sound.
+[ 1466.7] Hey, all the best, fixing the chicken oven.
+[ 1468.7] Thanks, man.
+[ 1469.7] Well done, Steve.
+[ 1470.7] Yeah, you too, mate. Always good talking. Secret sound. It's back tomorrow morning.
+[ 1474.7] After 6.30 and 8 o'clock, a 1.35353 producers. Why'd you put that through at that time anyway?
+[ 1482.7] Let's catch up with Port Macquarie Hastings Councilman Adam Roberts next.
+[ 1485.7] On the M's. Sarge here for breakfast.

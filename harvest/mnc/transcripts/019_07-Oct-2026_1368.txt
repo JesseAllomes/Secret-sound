@@ -1,0 +1,66 @@
+BEST BITS: Lights On Or Off During The Rumpy Pumpy?
+Wed, 07 Oct 2026 22:03:52 +0000
+plays: [{'t': np.float64(1443.17), 'ncc': 0.833}, {'t': np.float64(1447.32), 'ncc': 0.91}, {'t': np.float64(1471.17), 'ncc': 0.922}]
+
+[ 1368.2] Shawn and Brydie.
+[ 1369.2] I heard you.
+[ 1370.2] I heard you.
+[ 1371.2] Mmm, the Mclay options.
+[ 1372.2] How's everything going there?
+[ 1374.2] You keeping everything under control?
+[ 1376.2] Well, I'm not in the new one.
+[ 1378.5] I'm not in it.
+[ 1380.2] Okay.
+[ 1381.2] No, they want me over there because I can't stand too long.
+[ 1385.2] Okay.
+[ 1386.2] Fair enough.
+[ 1387.2] No, no, no.
+[ 1388.2] You just, you're just doing what you do best.
+[ 1391.8] I do the best of the works and they appreciate it.
+[ 1395.2] John appreciated it.
+[ 1396.2] Yes, yes.
+[ 1397.2] What Shawn went and done for me, he done a video for what I do.
+[ 1402.2] Oh, cool.
+[ 1403.2] He's a good guy that way.
+[ 1404.2] He's a really good guy that way.
+[ 1405.2] Hey, Trish, Trish, I need to talk to you because $2,400, what would you do with that cash if
+[ 1411.6] you wanted?
+[ 1412.6] I bloody paint the house.
+[ 1414.6] Okay, so you paint the house?
+[ 1417.2] Yeah.
+[ 1418.2] What colour are we painting your house?
+[ 1420.2] Um, I can't find anybody that'll help me.
+[ 1424.2] Yeah?
+[ 1425.2] Yeah, because I've got no funding for um, under boy, um, my mods.
+[ 1431.2] Okay.
+[ 1432.2] And I want to find someone that'll help me.
+[ 1435.2] Right, Trish.
+[ 1436.2] Okay, well $2,400 will help out with this house painting.
+[ 1440.2] So here we go.
+[ 1441.2] Here is the secret sound.
+[ 1444.5] And if you correctly identify what that sound is, Trish, the money's all yours.
+[ 1449.5] What do you think?
+[ 1451.5] It might be a, kind of a clip.
+[ 1455.5] A clip?
+[ 1457.5] Like a hair clip, Trish?
+[ 1460.5] I don't know, could be.
+[ 1463.8] Yep.
+[ 1464.8] Let's have a listen again.
+[ 1465.8] So you're locking in, it might be a hair clip.
+[ 1468.8] Yeah, it could be.
+[ 1470.8] Trish, as promo Sally would say.
+[ 1474.8] Absolutely not.
+[ 1476.8] Oh, Jesus.
+[ 1479.8] Hey Trish, you've got to keep on trying.
+[ 1481.8] It's wonderful to hear your voice.
+[ 1483.8] Gosh, it's been a while between drinks, hasn't it?
+[ 1485.8] Yes.
+[ 1487.8] Yes.
+[ 1488.8] Alright, have a great day off.
+[ 1490.8] Yeah, yeah, well I um, I'm still doing the um, office work.
+[ 1495.8] Oh yeah, yeah.
+[ 1496.8] Yes, I was doing that for a long time now and I've been out there for 13 years.
+[ 1502.8] You're an incredible woman, Trish, and I always love talking to you.
+[ 1506.8] Yeah, that's really good.
+[ 1509.8] Alright, see you, talk to you later.
+[ 1512.8] Okay, well whenever we see you, please.

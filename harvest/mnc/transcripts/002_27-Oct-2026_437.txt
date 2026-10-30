@@ -1,0 +1,53 @@
+BEST BITS: Halloween Sucks!
+Tue, 27 Oct 2026 21:56:19 +0000
+plays: [{'t': np.float64(512.5), 'ncc': 0.84}, {'t': np.float64(526.08), 'ncc': 0.9}]
+
+[  437.6] It's the early bird edition of The Secret Sound.
+[  441.4] Thanks to 40 Winks Port Macquarie.
+[  444.2] Come in and see the team at Port Home Zone.
+[  446.4] 40 Winks, serious about sleep.
+[  448.8] Hello Karen, good morning.
+[  450.8] Good morning, how are you today?
+[  452.6] I am sensational.
+[  454.6] The producers just told me that you're a very delightful Karen.
+[  458.4] I am a very delightful Karen, thank you very much.
+[  461.2] Now, being a Karen, have you come across other Karens that,
+[  465.6] you know, fitted to that Karen stereotype that people talk about?
+[  471.0] Yes, I have and it's very sad actually.
+[  473.0] Oh, it is. It must be sad being a nice Karen and then there's some bad Karens out there.
+[  478.2] It actually is and I'm a very good Karen.
+[  481.0] Good!
+[  481.9] Karen, what are you up to this morning?
+[  484.1] Where? You sound like you're in the car, you're off to work?
+[  486.6] I actually am.
+[  487.4] I'm pulled over on the side of the road and I'm on my way to working the port.
+[  490.6] Okay, I love your commitment.
+[  491.7] Let's do this Karen.
+[  493.0] $2,750, what would you do with that cash if you won it?
+[  497.2] Well, I'm actually surprising my husband and myself and one of my children are surprising four of our grandchildren to go to Queensland at Christmas.
+[  504.2] Oh, beautiful.
+[  504.9] And it would be fantastic.
+[  506.7] Yeah, that'd be so helpful. So helpful.
+[  509.0] Okay, here we go. You know the drill. Here is the secret sound Karen.
+[  512.8] Yes.
+[  513.3] What do you think it is?
+[  515.2] I actually think you're pushing in the button on the toaster.
+[  519.4] You need to reject something that's burning or to reject a cooking.
+[  523.6] Okay, let's have a listen again.
+[  526.7] Haven't had that guess yet, which is a good start.
+[  530.7] But Karen Primo Sally's here.
+[  532.3] Absolutely not!
+[  534.1] Ah!
+[  535.2] Sorry, Karen.
+[  535.7] You know what? You have a wonderful day and I love your show.
+[  538.8] Oh, thank you, Karen.
+[  540.0] I love your energy and you can call anytime.
+[  542.8] Good luck and keep on trying.
+[  544.3] Thank you so much.
+[  545.2] See you, lovely.
+[  545.9] Thank you so much. Have a lovely day. Bye.
+[  547.1] Bye.
+[  547.6] Alright, secret sound. It's back at 8 o'clock from 1-333-53.
+[  551.9] It's worth $2,750. Clues and incorrect guesses or go on the Sarge for breakfast podcast at listener.
+[  559.5] Check that out to get closer to the cash.
+[  561.7] Let's talk about the triple M1000 next and how you can score yourself $50,000 just for telling us about your top 10 favorite songs of all.

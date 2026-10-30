@@ -1,0 +1,29 @@
+BEST BITS: The Greatest Cheese Platter Ever!
+Sun, 11 Oct 2026 22:19:54 +0000
+plays: [{'t': np.float64(1468.06), 'ncc': 0.841}, {'t': np.float64(1489.19), 'ncc': 0.858}]
+
+[ 1393.1] come together is actually nothing better than having a coffee in hand while you
+[ 1396.5] go for a shop. You know what I mean? It's a good feeling. Yes it is. Yeah one of
+[ 1402.2] life's great pleasures just like their coffee too. You go and get that hot
+[ 1406.1] chocolate cowgirl Chloe and if you are in the area folks make sure you get on
+[ 1410.1] to Nembukka Surf Co. It is Sarge's Shout. Chloe's got my credit card ready to go
+[ 1415.8] and ready to get you caffeinated this Monday morning. See you Chloe! See you
+[ 1422.5] Thanks to 40 Winks Port Macquarie. So come in and see the team at Court Home Zone.
+[ 1429.4] 40 Winks, serious about sleep. Alrighty let's do it for a second time in a Monday
+[ 1435.2] morning. 1 3353. Hello there who's this? Vince. Vince how are you mate? Very well mate.
+[ 1443.1] Yeah not too bad. You're in the car right now Vince. You off to work. What are
+[ 1448.5] you doing? I'm a courier for New South Wales Health. I should have known Vince.
+[ 1454.7] We've spoken a few times before haven't we? We have but you might give it a bit of money. I don't know why.
+[ 1462.2] Well you know what Vince it's pretty simple. All you got to do is correctly
+[ 1465.7] identify what this sound is. I know when you drive around a lot you hear that
+[ 1470.5] sound all the time. You hear all the incorrect guesses. Every now and then
+[ 1473.8] you might hear me sprinkle a clue or two. What are you thinking this morning mate?
+[ 1479.3] You know when you've got a sandwich maker and you actually click it down and lock it in there?
+[ 1485.0] I do know what you're talking about but is it the secret sound? That's where I
+[ 1490.1] bring promo Sally in. Absolutely not! It's not the secret sound sorry Vince. Mate have a great week and we'll talk soon.
+[ 1498.5] Yeah too mate. See ya. See ya good man. Alright Secret Sound it's back tomorrow morning after 6.30
+[ 1503.6] and 8 o'clock on 1 triple 353 now worth $2,475. Clues and incorrect guesses all go on massage for
+[ 1512.5] Breakfast Podcast at listener to help you get closer to the cash.
+[ 1516.5] Time for an extensive look at today's local news stories with the Mid-North Coast's very own News Shuree-Dah.
+[ 1523.3] Yep our News Reader Shuree Coleman the News Shuree-Dah. Happy Monday. Happy Monday to you.
+[ 1530.1] How was your weekend? It wasn't too bad. That's good. A little bit humid wasn't it?

@@ -1,0 +1,44 @@
+BEST BITS: You've Called For The Wrong Segment Mate
+Mon, 14 Sep 2026 22:51:34 +0000
+plays: [{'t': np.float64(525.73), 'ncc': 0.917}]
+
+[  450.7] 40 weeks, serious about sleep.
+[  452.7] Glenn, good morning, it's good to have you part of the 6 o'clock club, sir.
+[  455.7] Yeah, how are you, Sarge?
+[  456.7] Mate, very well, thank you. Where abouts are you calling from?
+[  459.7] I'm at Roland's Plains.
+[  460.7] And how is it looking? How is it feeling right now?
+[  463.7] It's absolutely beautiful, the temperature's pretty good too.
+[  466.7] It's just so sweet. I love looking outside the studio window here and seeing, like, there's a little bit of fog, that sun is shining straight through, it's still...
+[  478.7] I might have to get the remote broadcasting gear and just sit out on the balcony, you know what I mean?
+[  483.7] No, that's the go.
+[  484.7] Yeah, not too bad. Glenn, $1,975, mate, what do you do with that cash if you win it?
+[  490.7] Oh, I'll put it towards a few toys and maybe a holiday.
+[  494.7] What's one of the toys that you've been eyeing off?
+[  497.7] Oh, I'd like a little excavator.
+[  500.7] Have you got a business, Glenn, or is it just around the property?
+[  504.7] No, just around the property.
+[  506.7] You've got some stuff. You've got some work to do.
+[  508.7] Yeah, yep. Good to do.
+[  510.7] Never a dull moment.
+[  511.7] No.
+[  512.7] Here we go. Oh, Glenn, you've got, like, all the chooks and stuff and cows?
+[  516.7] No.
+[  517.7] No?
+[  518.7] No, a couple of chooks and a couple of horses, that's about it.
+[  520.7] Yeah, right, yeah, okay. Must be another Glenn that has got a similar setup to you. Here we go, sir.
+[  525.7] That's the secret sound right there. What do you think?
+[  528.7] I think it's probably more so closing those magnetic latch cupboard doors.
+[  536.7] Promo Sally says a thing.
+[  540.1] Absolutely not.
+[  542.1] It's not the secret sound, sorry, Glenn.
+[  544.1] No worries.
+[  545.1] Keep on trying, though, mate, and enjoy this glorious day on the Mid-North Coast.
+[  550.1] Will do. You too.
+[  551.1] See you, mate.
+[  552.1] Secret sound. It's back at 8 o'clock on 13353.
+[  556.1] It's worth $1,975.
+[  559.1] All the incorrect guesses so far are on the Sarge for Breakfast podcast at least,
+[  564.1] and so check them out to get closer to the cash.
+[  567.1] Let's do the Locals Guide next.
+[  568.1] Top three things going on in our backyard and beyond.

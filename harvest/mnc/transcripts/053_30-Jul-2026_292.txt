@@ -1,0 +1,62 @@
+BEST BITS: A Triple M Tattoo?
+Thu, 30 Jul 2026 23:06:39 +0000
+plays: [{'t': np.float64(367.76), 'ncc': 0.814}, {'t': np.float64(383.5), 'ncc': 0.935}, {'t': np.float64(392.86), 'ncc': 0.773}]
+
+[  292.8] You're right. No worries. Have a good one, Tanya.
+[  295.0] Yes, buddy. See you, mate.
+[  296.5] Triple M in North Coast in the Sarge for Breakfast show.
+[  299.0] Your Friday fire-up this Friday, the 31st of July...
+[  302.8] ..is KISS as requested by Tanya.
+[  307.8] Shh!
+[  312.2] It's the early bird edition of The Secret Sound.
+[  315.1] Mm-hm.
+[  316.1] Thanks to 40 Winks Port Macquarie.
+[  317.9] Come in and see the team at Port Home Zone.
+[  320.2] 40 Winks, serious about sleep.
+[  322.3] Oh, lovely Lucy.
+[  323.7] Happy Friday morning to you.
+[  326.2] Oh, happy Friday, Sarge.
+[  327.9] Great to be at the end of the week.
+[  329.4] Wonderful to be talking to you.
+[  331.0] Lucy, whereabouts do you reside?
+[  333.2] Where do you come from on the mid-North Coast?
+[  335.6] Yeah, so I'm in the Kempsey Shire. Mm-hm.
+[  338.0] Beautiful area on the McClay.
+[  339.9] Oh. Yeah.
+[  341.4] Stop it. That sounds glorious.
+[  343.0] OK, we've got $1,275 up for grabs here, Lucy.
+[  349.8] So what would you do with that cash if you won it?
+[  352.5] Oh, you know, we have had a bit of a rate rise in Kempsey for our rates,
+[  357.5] so, you know, I can just see maybe relieving a bit of pressure
+[  360.7] with some of those bills perhaps.
+[  362.2] Yeah, totally.
+[  363.2] All right, well, let's make it happen.
+[  364.9] Let's relieve some pressure.
+[  368.2] That's The Secret Sound.
+[  369.4] What do you think, Lucy?
+[  371.3] Yes, I've been driving in the car,
+[  373.1] and when you push the automatic up of the window,
+[  378.3] it makes a very similar sound to that.
+[  380.4] Mm-hm. Yeah, it does.
+[  382.4] Let's have a listen again.
+[  384.7] Oh, and, you know, you've got to kind of think outside of the box
+[  388.0] because we get the microphone up nice and close to it,
+[  390.1] and it definitely, if it was amplified, could sound like that.
+[  393.2] Lucy, that's not The Secret Sound, though.
+[  395.2] I'm sorry. I'm sorry.
+[  397.0] Thanks for letting me know your worries. Thanks, Sarge.
+[  399.2] Have a good day and keep on trying.
+[  402.2] Thanks so much. Bye.
+[  403.6] OK, Secret Sound, it's back at 8 o'clock on 1, triple three, 5, 3.
+[  408.5] Get amongst it. All the incorrect guesses, too, by the way,
+[  410.9] on the Sarge For Breakfast podcast, our listeners.
+[  413.2] So check that out to get closer to the cash.
+[  415.2] More to come on the other side of this.
+[  416.9] It's a Friday morning on Triple A, Mid-North Coast.
+[  419.5] Good to have you, company.
+[  420.9] Anastasia this morning for your greatest hits.
+[  423.8] It's Triple A, Mid-North Coast in the Sarge For Breakfast show.
+[  428.0] Ah, man. Seven degrees at Forbes River.
+[  430.8] Nine and ten is up there today. Possible shower.
+[  434.4] This is incredible, man.
+[  436.4] So this brings me so much...

@@ -1,0 +1,26 @@
+BEST BITS: Happy 18th Birthday Gus Bus
+Tue, 29 Sep 2026 01:30:46 +0000
+plays: [{'t': np.float64(491.97), 'ncc': 0.815}]
+
+[  417.0] you. Really good. Yeah, what have you been up to?
+[  420.5] Yesterday we went to the movies and today we're probably just going to do some jobs
+[  426.2] because we're currently moving house. What's on at the movies at the moment Ruby?
+[  433.0] There's The Last Whale Singer, there's... What did you say? The Last Whale Singer?
+[  439.9] Yeah. What's that about? We watched it yesterday actually.
+[  444.5] There's a whale, their parents die, his parents die and his dad was a whale singer
+[  452.4] so he could heal everything with just his voice and the little whale has...
+[  458.7] grows up and finds his song and heals everything from the levi...
+[  465.4] Oh. Face everyone from the levi. That sounds like a really beautiful movie.
+[  471.1] Yeah. I feel like I'd watch it and I'd get a little bit emotional.
+[  473.9] Did you get emotional watching it Ruby? Was it a beautiful story?
+[  477.4] A little bit, yeah. Yeah, good on you Ruby.
+[  479.9] Alright, well, $2,225 that could help out with this move that's going on right now with you and the family, yeah?
+[  488.7] Yeah. Okay, here it is, here's the secret sound. Ruby, what do you think?
+[  494.3] Is it unclipping a seatbelt from a car like when you press the...press button?
+[  499.9] Ruby. Absolutely not! It's not, I'm so sorry.
+[  505.2] That's okay. But you keep on trying and you have a wonderful day doing the jobs and yeah,
+[  510.2] enjoy the rest of those school holidays, eh? Thank you. Thank you Ruby, bye-bye.
+[  515.2] Um, a secret sound, it is back at eight o'clock on 1 triple 353, it's worth $2,225, all the incorrect guesses for it.
+[  524.1] So far go on the Sarge for Breakfast podcast at listener.
+[  527.4] Hey, let's do the Locals Guide next. Top three things going on in our backyard and beyond when it comes to events.
+[  532.5] It's triple A.

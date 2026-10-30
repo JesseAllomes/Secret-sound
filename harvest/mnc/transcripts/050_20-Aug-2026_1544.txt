@@ -1,0 +1,60 @@
+BEST BITS: My Voice Broke Yesterday
+Thu, 20 Aug 2026 22:51:50 +0000
+plays: [{'t': np.float64(1619.79), 'ncc': 0.845}, {'t': np.float64(1629.71), 'ncc': 0.798}]
+
+[ 1544.8] It's got to be barbecue.
+[ 1545.8] It's got to be barbecue.
+[ 1546.8] It's a sort of sort of bloody...
+[ 1548.8] The way it soaks into the bread as well.
+[ 1551.8] It's just so healthy.
+[ 1555.1] I think I'm heading over to Clifton now to get a steak sandwich.
+[ 1557.3] Yeah, good stuff.
+[ 1558.3] Hey, Chairman for Group 3 Rugby League, Jeff Kelly.
+[ 1561.0] It's always good hearing from you.
+[ 1563.3] We will talk as the season comes to an end, yeah?
+[ 1566.4] Yeah, we'd like to thank everybody and good luck to all the teams in the final.
+[ 1570.9] Thanks to the Club Old Bar for their major sponsorship this year.
+[ 1573.5] It's been fantastic and I wish all teams,
+[ 1576.5] because I know semi-finals coming along with Rugby and Soccer
+[ 1578.9] and they're pulling right across the...
+[ 1581.0] All the others and the genius,
+[ 1582.5] so I wish everybody good luck in the semi-session.
+[ 1584.5] It's Triple M's secret sound.
+[ 1586.9] Mmm.
+[ 1587.9] Thanks to 40 Winx, Port Macquarie.
+[ 1589.7] So come in and see the team at Court Home Zone.
+[ 1591.9] 40 Winx, serious about sleep.
+[ 1593.9] Good morning, Jesse. How you doing, mate?
+[ 1596.2] Alright, how are you?
+[ 1597.2] Yeah, very good thank you.
+[ 1598.2] Where abouts are you calling from?
+[ 1600.1] Port Macquarie, it's not like work.
+[ 1602.1] What do you do for work, Jesse?
+[ 1604.1] Public service.
+[ 1606.1] Beautiful stuff.
+[ 1607.1] Any exciting plans for the weekend?
+[ 1610.1] Heading down to Sydney and Salvo, yeah.
+[ 1612.1] Yeah, good stuff.
+[ 1613.1] Well, we'll hopefully have some extra cash in your back pocket.
+[ 1616.1] $1,550.
+[ 1618.1] Mate, what do you think this sound is?
+[ 1621.1] I'm sure it's probably been guests, so apologies.
+[ 1624.1] But is it putting the port in or out of a port coffee machine?
+[ 1628.1] Ooh.
+[ 1631.8] Jesse, it's not,
+[ 1632.8] but I will say that the action that you are speaking of is similar to what the actual secret sound is.
+[ 1642.1] Right.
+[ 1643.1] That makes any sense.
+[ 1644.1] Keep on spewing on that, Jesse.
+[ 1646.1] It does or it doesn't?
+[ 1648.1] It doesn't.
+[ 1650.1] Yeah, it was a pretty shit clue. Sorry, mate.
+[ 1652.1] Have a good one.
+[ 1654.1] Yeah, you too, thank you.
+[ 1655.1] See ya.
+[ 1656.1] Secret Sound, it is back on Monday,
+[ 1658.1] up to 6.30 and 8 o'clock on 1 triple 353, now worth $1,575.
+[ 1663.1] All the incorrect guesses for this thing.
+[ 1665.1] Go on the Sarge for Breakfast podcast at Listener.
+[ 1668.1] We're doing a thing here called Sarge Gets a Real Job because I've been exposed.
+[ 1672.1] What I'm doing right now, talking into a microphone.

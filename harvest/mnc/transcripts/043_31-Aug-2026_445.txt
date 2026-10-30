@@ -1,0 +1,63 @@
+BEST BITS: Want A Selfie?
+Mon, 31 Aug 2026 23:20:12 +0000
+plays: [{'t': np.float64(520.52), 'ncc': 0.839}, {'t': np.float64(532.47), 'ncc': 0.848}]
+
+[  447.1] It's the early bird edition of The Secret Sound.
+[  450.9] Thanks to 40 Winks Port Macquarie.
+[  453.7] Come in and see the team at Port Home Zone.
+[  455.9] 40 Winks, serious about sleep.
+[  458.1] Good to have you part of the 6 o'clock club, Phil from Baker's Creek.
+[  462.3] Good morning, Sarge and the listeners out there in Wonderland.
+[  468.4] It's wonderful to be just talking to you, Sir.
+[  470.0] Hey, $1,725 is up for grabs.
+[  473.2] What are you going to do with that cash if you win it?
+[  475.4] I tell you what, Sarge, I could do with buying another beer.
+[  479.2] Okay.
+[  480.8] That's a lot of...
+[  481.6] A lot of...
+[  482.4] Did you say beer?
+[  483.8] Yeah, beer.
+[  484.6] That's a lot of beers.
+[  485.4] Here we go, mate.
+[  486.0] For a good party on Father's Day.
+[  488.2] You going to the...
+[  489.6] Are you going to be at the...
+[  490.8] Is your family taking you down to the Maxwell Rally?
+[  496.2] Mate, I won't be doing that,
+[  497.8] but I have been talking all about it and it looks sensational.
+[  501.2] We'll Phil from Baker's Creek be there.
+[  502.8] You're going to have to go down there, though.
+[  505.2] Would you be allowed to come and listen to a song played for you?
+[  508.2] Mate, of course.
+[  509.2] I don't know if he's going to be there
+[  511.2] and I might go down with the rusty iron, too.
+[  514.8] It's a wonderful event and if you're playing, mate,
+[  517.0] people will flock from all over the place.
+[  518.8] Hey, here we go.
+[  519.4] Here's a secret sound.
+[  520.8] You hear that?
+[  522.6] Does that sound like this?
+[  525.6] Oh, it does a little bit.
+[  526.4] What do you...
+[  526.8] What's your guess?
+[  527.4] It's not that time, but open the fridge door.
+[  530.0] The freezer's all over.
+[  531.2] Open the fridge door?
+[  532.6] Is that it?
+[  533.8] Phil from Baker's Creek, that is not it.
+[  536.6] Oh, well, never mind.
+[  537.8] I'll see you on Sunday if you get down there for a song
+[  540.2] and I'll tell you what, I could even take the clock for you.
+[  543.2] Oh, you'll finally be able to gift me the clock.
+[  547.2] You know, it's going to be in person.
+[  549.2] I can't just buy it on the Curie because it's...
+[  554.8] There's a lot of meaning behind the clock.
+[  556.8] Phil, have a wonderful day.
+[  558.6] Pinch the punch for the first day of the month.
+[  560.2] See you, good man. Bye.
+[  563.6] It's lovely.
+[  564.6] It is beautiful.
+[  566.0] Absolutely glorious.
+[  569.0] Alright, secret sound.
+[  570.0] It's back at 8 o'clock on 1 triple 353, worth $1,725.
+[  576.6] All the incorrect...

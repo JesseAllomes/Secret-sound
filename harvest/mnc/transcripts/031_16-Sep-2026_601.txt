@@ -1,0 +1,50 @@
+BEST BITS: Top Or Bottom?
+Wed, 16 Sep 2026 23:19:32 +0000
+plays: [{'t': np.float64(676.14), 'ncc': 0.949}]
+
+[  601.1] Um, alright, hey, no lovely sunrise pictures this morning?
+[  605.4] No, not this morning.
+[  607.1] Are you getting that drizzle right now?
+[  608.9] Uh, we have had it, I'm hoping it stops because I've got to go and do my charity thing.
+[  615.2] And I don't want to get wet.
+[  617.1] No.
+[  618.1] Um, what's your charity stuff today?
+[  621.1] Uh, we get the truck from Oz Harvest and we unload it and sort all the stuff out
+[  626.3] for the people tomorrow morning.
+[  627.8] Yeah, okay, no we don't want to get any of that stuff soaked, including ourselves.
+[  632.9] No.
+[  633.9] Um, and where would you put $2,025 if you win it?
+[  637.8] Uh, my sister's coming over from Western Australia at the end of October and we're going on a
+[  641.9] little holiday in the Blue Mountains to catch up with where we grew up.
+[  646.2] Yeah.
+[  647.2] Where abouts in the Blueys did you grow up again?
+[  649.9] Mount Irvine, which is across from Billpin.
+[  652.5] Mm-hmm, yeah, no, I know Billpin very well.
+[  654.7] Ever been to, uh, what's it called, the Hydro Majestic?
+[  659.9] Uh, when we were kids, Dad took us there for the morning tea, so we plan on going back
+[  663.8] there just to see what it's like.
+[  665.7] It's remarkable.
+[  667.5] I think you'll be very impressed by how it all looks and feels.
+[  671.6] Anyway, um, let's do this.
+[  673.9] Here's the secret sound, Arnie Julia.
+[  677.1] And if you're all right, we'll give you that $2,025.
+[  680.3] What do you think?
+[  682.1] Okay, judging by your hesitation yesterday, are you putting a battery pack back into a
+[  689.2] device like a drill or a KitchenAid stick mixer?
+[  696.4] As Promo Sal would say,
+[  697.7] Absolutely not!
+[  699.3] I love...
+[  700.3] But I gotta say, it's a wonderful guess, Arnie Julia.
+[  703.3] Okay, thank you.
+[  704.3] Like, it really is a...
+[  705.3] I say that to a lot of people even when it's not a good guess, but that is a really
+[  709.0] wonderful guess.
+[  710.0] Okay, all right.
+[  711.0] Wholeheartedly, I mean that.
+[  712.0] Mm-hmm.
+[  713.9] We're on the right track, but not quite the right...
+[  715.9] Yes, okay.
+[  716.9] Hey, always good talking to you.
+[  718.9] Okay, thanks.
+[  719.9] See you, lovely.
+[  720.9] Bye-bye.

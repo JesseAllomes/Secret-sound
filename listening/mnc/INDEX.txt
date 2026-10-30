@@ -1,0 +1,37 @@
+Mid North Coast A/B files: v6b clue, 0.4 s gap, candidate (aligned on its first main stroke), x4.
+Score = steel_score.py fingerprint (the clue itself scores 0.99).
+
+01  0.90  gap 127.5 ms  ring 708 Hz  [steel/spring set]  door handle turn.wav  https://freesound.org/people/Leady/sounds/12738/
+02  0.88  gap 116.1 ms  ring 758 Hz  [BBC office machines]  Ultimate ticket machine issuing several tickets.  https://sound-effects.bbcrewind.co.uk/search?q=07046024
+03  0.88  gap 145.2 ms  ring 713 Hz  [steel/spring set]  Door-Handle-Open-01.wav  https://freesound.org/people/DWOBoyle/sounds/151577/
+04  0.87  gap 160.5 ms  ring 624 Hz  [steel/spring set]  Door-Handle-Jiggle-01.wav  https://freesound.org/people/DWOBoyle/sounds/151581/
+05  0.87  gap 139.2 ms  ring 920 Hz  [steel/spring set]  3holepunch1.wav  https://freesound.org/people/Deathbygeko/sounds/273453/
+06  0.86  gap 139.7 ms  ring 667 Hz  [binding/punch/lever (local)]  Old SLR film camera - Quick series of shutter cocking and pressing  https://freesound.org/people/khenshom/sounds/516484/
+07  0.85  gap 107.7 ms  ring 901 Hz  [BBC office machines]  Bird calling "Do you want a punch up...come on, come on, come on!  https://sound-effects.bbcrewind.co.uk/search?q=NHU05017031
+08  0.85  gap 146.2 ms  ring 809 Hz  [steel/spring set]  newport-hotel-door-lock.aif  https://freesound.org/people/alienistcog/sounds/124986/
+09  0.85  gap 142.4 ms  ring 1175 Hz  [steel/spring set]  stamp, stamping, document, office  https://freesound.org/people/treesound1951/sounds/784653/
+10  0.84  gap 135.5 ms  ring 655 Hz  [steel/spring set]  Small door latch (Contact mic)  https://freesound.org/people/nicStage/sounds/462271/
+11  0.84  gap 154.5 ms  ring 685 Hz  [BBC office machines]  Milling machine operating.  https://sound-effects.bbcrewind.co.uk/search?q=07046090
+12  0.84  gap 139.9 ms  ring 1022 Hz  [steel/spring set]  Staple Gun Shooting.wav  https://freesound.org/people/Arq1998/sounds/408293/
+13  0.84  gap 154.6 ms  ring 888 Hz  [steel/spring set]  door wood gnarly apartment heavy back door to balcony push closed catc  https://freesound.org/people/kyles/sounds/451832/
+14  0.83  gap 131.3 ms  ring 776 Hz  [steel/spring set]  short creaks creek creaky door open close.wav  https://freesound.org/people/HowardV/sounds/393800/
+15  0.83  gap 138.1 ms  ring 1098 Hz  [GitHub binding long]  13GRusovaI_kancelář.wav  https://freesound.org/people/13GPanska_Rusova_Ilona/sounds/378075/
+16  0.83  gap 126.6 ms  ring 508 Hz  [steel/spring set]  CheckPress_STAMP_Fast_02.wav  https://freesound.org/people/brokenrobotaudio/sounds/450077/
+17  0.83  gap 171.6 ms  ring 599 Hz  [binding/punch/lever (local)]  Pressing spacebar on computer mechanical keyboard.wav  https://freesound.org/people/felipe31moreno/sounds/515810/
+18  0.83  gap 118.0 ms  ring 825 Hz  [GitHub binding long]  Typing Heavily On A Keyboard: punching keys  https://freesound.org/people/FritzSounds/sounds/366477/
+19  0.83  gap 122.3 ms  ring 828 Hz  [binding/punch/lever (local)]  button press plastic alarm clock.flac  https://freesound.org/people/kyles/sounds/453778/
+20  0.82  gap 106.9 ms  ring 639 Hz  [steel/spring set]  door-shutting-opening.m4a  https://freesound.org/people/davidnz/sounds/663928/
+21  0.82  gap 110.6 ms  ring 1095 Hz  [steel/spring set]  Creaky wooden door handle (open & close)  https://freesound.org/people/PixelProphecy/sounds/496893/
+22  0.82  gap 170.7 ms  ring 1019 Hz  [steel/spring set]  door latch.wav  https://freesound.org/people/tim.kahn/sounds/108785/
+23  0.82  gap 140.5 ms  ring 754 Hz  [steel/spring set]  door wood gnarly apartment heavy front door with loose handle latch op  https://freesound.org/people/kyles/sounds/451835/
+24  0.82  gap 135.2 ms  ring 655 Hz  [steel/spring set]  Stapler On Paper  https://freesound.org/people/haus.the.child/sounds/839354/
+25  0.82  gap 143.2 ms  ring 822 Hz  [BBC office machines]  Almex ticket machine issuing several tickets.  https://sound-effects.bbcrewind.co.uk/search?q=07046020
+26  0.82  gap 128.9 ms  ring 764 Hz  [steel/spring set]  Paper Scrawling  https://freesound.org/people/jackyyang09/sounds/476840/
+27  0.81  gap  93.6 ms  ring 863 Hz  [BBC office machines]  Gibson ticket machine, setting machine. (London Transport.)  https://sound-effects.bbcrewind.co.uk/search?q=07013132
+28  0.81  gap 139.4 ms  ring 1049 Hz  [steel/spring set]  Paper Tearing  https://freesound.org/people/desktopepics/sounds/737178/
+29  0.81  gap 135.8 ms  ring 660 Hz  [BBC office machines]  Territorial calls cu. NB: Date of recording not known.  https://sound-effects.bbcrewind.co.uk/search?q=NHU05066110
+30  0.81  gap 123.4 ms  ring 791 Hz  [steel/spring set]  Light_Switch-0001-On-Held.wav  https://freesound.org/people/DWOBoyle/sounds/144281/
+31  0.81  gap 121.6 ms  ring 687 Hz  [steel/spring set]  Door Handle 02  https://freesound.org/people/pp87/sounds/341297/
+32  0.80  gap 141.7 ms  ring 578 Hz  [steel/spring set]  Cellar Light Switch  https://freesound.org/people/SKrafft/sounds/681370/
+33  0.80  gap 157.9 ms  ring 903 Hz  [steel/spring set]  Door_Unlatch_1  https://freesound.org/people/SignatureSoundsOrg/sounds/872999/
+34  0.80  gap 144.4 ms  ring 676 Hz  [steel/spring set]  Rust Handle 4.aif  https://freesound.org/people/MWLANDI/sounds/85870/

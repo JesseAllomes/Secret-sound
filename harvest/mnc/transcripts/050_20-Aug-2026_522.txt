@@ -1,0 +1,101 @@
+BEST BITS: My Voice Broke Yesterday
+Thu, 20 Aug 2026 22:51:50 +0000
+plays: [{'t': np.float64(597.16), 'ncc': 0.839}, {'t': np.float64(600.06), 'ncc': 0.859}, {'t': np.float64(677.67), 'ncc': 0.828}, {'t': np.float64(694.81), 'ncc': 0.868}]
+
+[  522.2] Next week.
+[  524.8] Wanna hear your favorite song?
+[  526.2] Bring Sarge on 1-333-53 and ask for lightweight.
+[  530.3] The offspring.
+[  532.2] This morning for your greatest hits,
+[  533.5] it's triple A on Mid-North Coast.
+[  535.7] Why don't you get a job?
+[  536.9] Well, I am getting a real job at 10 past eight,
+[  541.2] where the Sarge gets a real job promo.
+[  543.1] So, stand by for that.
+[  545.1] Coming up on the Sarge for Breakfast Show.
+[  551.0] Before I tell you,
+[  551.8] text in on 0468040 MMM.
+[  555.1] Hey Sarge, I'm in three singing group Yooka-Laylee groups.
+[  559.5] And Wagon Wheel is one of our popular songs.
+[  562.1] Have a great weekend.
+[  563.3] Faith in Lauraton.
+[  564.6] Yeah, we just played a Wagon Wheel for the Friday Fire Up.
+[  567.2] It's a good one, Faith, isn't it?
+[  568.5] Oh, we're also performing at Kendall Music Exchange
+[  571.3] first Friday in September as main guest artist.
+[  576.0] If you wanna come along, yes.
+[  578.4] I would love to come along.
+[  579.4] Lots of local music talent each first Friday of the month.
+[  584.2] Good stuff, Faith.
+[  585.0] Thank you for letting me know that.
+[  586.2] Hey, 1-333-53 is the number to call right now
+[  590.5] to score yourself $1,550.
+[  593.7] All you've gotta do is correctly identify what this sound is.
+[  598.3] I'll go once again for good luck.
+[  600.6] What do you think?
+[  601.4] The secret sound all thanks to 40 Wings Port Macquarie.
+[  603.4] It's just around the corner.
+[  605.0] But addition of the secret sound.
+[  611.9] Thanks to 40 Wings Port Macquarie.
+[  613.9] Come in and see the team at Port Home Zone.
+[  616.1] 40 Wings, serious about sleep.
+[  618.3] Me old mate Brian, good morning.
+[  621.1] There you go, Sarge.
+[  622.1] Oh, mate.
+[  623.0] All the more better for talking to you.
+[  624.9] What's going on, sir?
+[  626.8] Oh, not much, mate.
+[  627.6] I'm glad to see some sun.
+[  629.6] Yeah.
+[  631.4] Now, I mean, the weather has been pretty atrocious
+[  634.7] when it comes to, you know, wind and weather and whatnot.
+[  638.2] Yesterday wasn't too bad though, hey?
+[  640.7] Oh, yes, that was glorious.
+[  642.5] Yeah, I know.
+[  643.7] Today should be all right too.
+[  644.8] Tops of 24, maybe a late shower.
+[  648.2] Yeah, yeah.
+[  649.6] What are the plans?
+[  650.8] The shower can disappear, mate.
+[  652.4] Yeah.
+[  653.8] Hey, what are your plans for the weekend, Brian?
+[  655.7] Anything exciting on the cards
+[  657.2] or are you just gonna go with the flow?
+[  660.5] All right, the present man, mate,
+[  661.8] go with the flow until Sunday
+[  663.2] when I have to take Chrissy down to her mum's.
+[  665.3] Yes, righty-o.
+[  666.9] Give Chrissy a big hug for me and say, Sarge, say hello.
+[  670.5] I will, mate.
+[  671.4] Good stuff. Let's get you some money.
+[  672.9] $1,550.
+[  674.9] You just gotta tell me what this sound is, Brian.
+[  677.6] What do you think?
+[  679.9] I reckon it's a deadbolt.
+[  681.6] It's unlocking a deadbolt
+[  683.2] or locking a deadbolt on the back of your door.
+[  685.2] Brian, it's not...
+[  687.0] Oh, bugger.
+[  689.4] I really thought it was, mate,
+[  690.9] because that's why it sounds like, hey.
+[  693.2] Yeah, so listen again.
+[  695.3] Yeah, you gotta beat it to win it.
+[  696.9] You gotta cross off different guesses
+[  699.6] and we'll get there eventually, eh?
+[  701.5] Yeah, mate, yeah.
+[  702.9] Just keep trying.
+[  703.8] Keep trying.
+[  704.9] Brian, always good hearing your voice, sir.
+[  706.9] Have a good one.
+[  708.0] Yeah, sir, mate.
+[  708.9] I'll see you soon. We'll catch up.
+[  710.4] Secret Sound is back at 8 o'clock
+[  712.2] at 1-333-Worth $1,550.
+[  717.3] All the incorrect guesses so far.
+[  719.1] For this thing, go on the Sarge for Breakfast podcast.
+[  724.2] Listener.
+[  725.9] Thank you, 40 Winks Port Macquarie.
+[  727.6] Jerome and the team, good morning.
+[  730.4] For powering that segment.
+[  731.7] Text in on 0468040 Mhay Sarge.
+[  735.8] Heat Seeker by Akadaka would've had my head banging.

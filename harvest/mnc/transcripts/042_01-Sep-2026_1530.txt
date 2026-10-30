@@ -1,0 +1,62 @@
+BEST BITS: We Have A Live Studio Audience
+Tue, 01 Sep 2026 22:52:38 +0000
+plays: [{'t': np.float64(1605.41), 'ncc': 0.882}, {'t': np.float64(1613.0), 'ncc': 0.906}]
+
+[ 1530.4] Oh, very good.
+[ 1531.4] Yeah, should be a bit of fun.
+[ 1532.4] You know you are talking to a guy who may or may not have won it last year.
+[ 1536.9] I may or may not have been there for that.
+[ 1538.9] So that has been the benchmark for this entire thing.
+[ 1542.2] So big shoes to fill.
+[ 1544.2] No, no, no, you're going to absolutely smack it.
+[ 1546.0] Because you've got a bit of theatre background too, don't you?
+[ 1548.0] A little bit.
+[ 1549.0] I may or may not have grown up dancing at La Ville.
+[ 1551.0] Oh.
+[ 1552.0] And the good thing about this fundraiser too is that it's all raising money for Cancer
+[ 1557.1] Counsel Right.
+[ 1558.1] So I had a very unique fundraising event a few weeks ago.
+[ 1563.4] I was meant to be there.
+[ 1564.7] I was so excited.
+[ 1565.7] Unfortunately, I couldn't make it because I was unwell.
+[ 1568.8] But how much money did you raise for Cancer Counsel?
+[ 1571.3] On the night.
+[ 1572.3] So that night alone, we raised over $52,000.
+[ 1575.3] Wow.
+[ 1576.3] Hello.
+[ 1577.3] Sorry, I've had to play the correct...
+[ 1579.3] So overwhelmed by the support that we received from the community, especially the building
+[ 1586.1] community.
+[ 1587.2] It's really incredible.
+[ 1588.2] So if you won the secret sound right now, would you put the $1,750 towards Cancer
+[ 1593.1] Counsel?
+[ 1594.1] 100% and that would go on the tally.
+[ 1595.1] All right, let's do it.
+[ 1596.1] Abby, here is the secret sound.
+[ 1598.6] If you want, you can put those headphones on so you can hear it.
+[ 1600.6] Okay, I definitely need to hear it.
+[ 1601.6] Let's turn this down.
+[ 1603.1] Are you ready?
+[ 1604.1] I think so.
+[ 1605.1] What do you think that sound is?
+[ 1608.4] If you're right, I'll give you $1,750.
+[ 1610.4] Do you want it again?
+[ 1615.5] Opening a can?
+[ 1618.8] Abby, that is not the secret sound.
+[ 1622.8] Incorrect.
+[ 1623.8] Oh, well.
+[ 1624.8] Bummer!
+[ 1625.8] Damn it.
+[ 1626.8] Secret sound.
+[ 1627.8] It is back tomorrow morning after 6.30 and 8 o'clock on 1.35353.
+[ 1631.8] It's worth $1,775.
+[ 1633.8] Look at everybody out there looking at you.
+[ 1637.8] You're an absolute superstar.
+[ 1639.8] What the paparazzi?
+[ 1640.8] Yeah, we're like a couple of fish in a big fish tank.
+[ 1644.8] I reckon.
+[ 1645.8] Hey, have a great day.
+[ 1646.8] Thank you.
+[ 1647.8] We'll do Sargis Angels next.
+[ 1649.8] A controversial topic coming up when it comes to Father's Day.
+[ 1654.8] But right now, greatest hits with wham.

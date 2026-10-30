@@ -1,0 +1,46 @@
+BEST BITS: The Longest Laugh On The Mid North Coast
+Mon, 07 Sep 2026 23:20:21 +0000
+plays: [{'t': np.float64(1454.0), 'ncc': 0.819}, {'t': np.float64(1476.4), 'ncc': 0.837}]
+
+[ 1379.0] Raise your glass to that.
+[ 1385.8] Changing the tone, 2006, Peter Brock dies.
+[ 1389.8] He's a legendary Australian racing driver known affectionately as perfect Peter, Brockie.
+[ 1398.2] He died on this day, September 8, 2006.
+[ 1403.2] Very sad.
+[ 1404.2] And in 2022, Queen Elizabeth II passed away.
+[ 1409.2] The Queen's Eye aged 96.
+[ 1413.2] It's good innings, isn't it? Her death prompted an enormous global outpouring of tributes.
+[ 1417.2] It was massive, wasn't it?
+[ 1419.2] There you go. That's on this day for the 8th of September.
+[ 1434.5] Thanks to 40 Winx Port Macquarie.
+[ 1436.5] So come in and see the team at Court Home Zone.
+[ 1438.5] 40 Winx, serious about sleep.
+[ 1441.5] And we are serious about giving away some cold hard cash right now.
+[ 1445.5] $1,850 up for grabs.
+[ 1448.5] If Mel on 1-333-53 can correctly identify what this sound is, what do you think?
+[ 1455.5] It's pushing the cancel button on a toaster.
+[ 1460.8] Pushing the cancel button on a toaster.
+[ 1464.8] Yes.
+[ 1465.8] Producer Cup is out in the kitchen right now.
+[ 1468.8] She is having her toast as we speak.
+[ 1471.8] She did indeed have to press cancel as well.
+[ 1473.8] I was watching her.
+[ 1475.8] But as promo Sal would say,
+[ 1480.8] Absolutely not.
+[ 1481.8] It's not the secret sound.
+[ 1483.8] Sorry, Mel.
+[ 1484.8] That's okay. Have a good day, Sarge.
+[ 1486.8] Keep on guessing.
+[ 1487.8] Secret sound.
+[ 1488.8] It is back tomorrow morning after 6.30 at 8 o'clock on 1-333-53,
+[ 1492.8] now worth $1,875.
+[ 1495.8] Clues and incorrect guesses all go on the Sarge for Breakfast podcast at Listener.
+[ 1499.8] So go and check that out to get closer to the moolah.
+[ 1503.8] Port Macquarie Hastings Councilman Adam Roberts is on the show next.
+[ 1507.8] Stand by at the end.
+[ 1509.8] Right across the Mid-North Coast.
+[ 1511.8] This is Triple M Sarge here for breakfast.
+[ 1514.8] 10 minutes after 8.
+[ 1515.8] Welcome to Tuesday morning.
+[ 1517.8] It's the 8th of September.
+[ 1519.8] 2026.

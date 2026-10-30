@@ -1,0 +1,73 @@
+BEST BITS: I Can Say That Because I Have A Lisp
+Wed, 28 Oct 2026 21:51:34 +0000
+plays: [{'t': np.float64(1202.82), 'ncc': 0.86}, {'t': np.float64(1213.24), 'ncc': 0.95}]
+
+[ 1127.8] So go in and see the team at court home zone.
+[ 1130.4] 40 weeks, serious about sleep.
+[ 1132.6] Hey, very dear friend of the show, Vera.
+[ 1135.5] He's on 1-333-53 right now.
+[ 1137.7] Good morning.
+[ 1139.4] How are you, Sarge?
+[ 1140.4] Yeah, I'm going very well.
+[ 1141.5] Thank you.
+[ 1142.8] Long time.
+[ 1143.9] Well, I did see you over the weekend, didn't I?
+[ 1145.8] I did say call up the show.
+[ 1147.0] You did, indeed, indeed.
+[ 1147.9] Yes, you did.
+[ 1149.1] How's your, you know?
+[ 1152.1] Pillows?
+[ 1152.7] Yeah.
+[ 1153.8] Very good.
+[ 1154.5] Nice.
+[ 1155.3] That's the way.
+[ 1156.4] Beautiful.
+[ 1157.4] Vera, explain to the listeners, because, you know,
+[ 1161.2] you're a dear friend of mine, but explain to the listeners,
+[ 1163.6] because they're all part of the family, what it is that you do.
+[ 1167.0] I work at the hospital in the kitchen.
+[ 1169.3] In the kitchen.
+[ 1170.7] What's the best meal that you cook up there?
+[ 1175.9] Well, I like the crump fish.
+[ 1179.9] Well, that sounds different.
+[ 1181.2] I like the sound of it.
+[ 1182.5] Yeah, it's nice.
+[ 1183.3] I mean, a lot of people, different tastes
+[ 1185.1] for different people.
+[ 1185.9] Yeah.
+[ 1186.4] All right.
+[ 1187.4] Next time I'm in hospital, which hopefully isn't too soon
+[ 1189.7] or ever, I'll give it a taste test.
+[ 1193.9] Wow.
+[ 1194.8] All right.
+[ 1195.5] I'll give you $2,775 if you can correctly identify
+[ 1200.4] what this sound is, Vera.
+[ 1203.2] What do you think?
+[ 1204.7] Is it a hole puncher?
+[ 1206.5] You've punched a hole in the paperwork
+[ 1208.6] to put in your folders and things.
+[ 1211.7] Let's have a listen again.
+[ 1214.6] Vera, I have to bring Primo Sally into room,
+[ 1217.2] absolutely not.
+[ 1218.6] It's not it.
+[ 1219.6] It's not it, Vera.
+[ 1220.7] We tried.
+[ 1221.6] All right.
+[ 1222.3] Thank you, Sarge.
+[ 1223.2] Lovely talking.
+[ 1224.1] I'll talk to you soon.
+[ 1225.6] Take care.
+[ 1226.1] Bye bye.
+[ 1226.6] Bye bye.
+[ 1227.1] Here you go, Vera this morning on the mid-north coast,
+[ 1228.7] triple M. Sarge here for breakfast.
+[ 1231.8] The secret sound, clues and incorrect guesses
+[ 1234.8] are all on the podcast listener.
+[ 1237.0] So check that out to get closer to the cash.
+[ 1239.4] It's now worth $2,800 and back tomorrow morning
+[ 1242.1] after 6.30 and 8 o'clock on 1-333.
+[ 1246.4] And let's do On This Day next, the weird, wacky and wonderful things
+[ 1248.7] that happen on this day, the 29th of October.
+[ 1251.0] Good morning.
+[ 1252.4] They're made of the latest thing, woven, texturized polyamides.
+[ 1255.9] Triple M, mid-north coast and the Sarge.

@@ -1,0 +1,60 @@
+BEST BITS: Kneecap Necklace
+Mon, 24 Aug 2026 22:52:56 +0000
+plays: [{'t': np.float64(616.89), 'ncc': 0.904}, {'t': np.float64(626.57), 'ncc': 0.879}]
+
+[  541.9] Welcome back.
+[  542.9] It's good to be back mate.
+[  544.9] I tell you we missed you so much.
+[  547.9] I missed you guys too.
+[  549.9] It's nice to be talking into the big black stick and hopefully giving away some money was $1,600.
+[  557.9] What would you do with that cash?
+[  559.9] Mate, I tell you what, it would come in handy with this move.
+[  563.9] We're still moving.
+[  564.9] We're still on the move.
+[  565.9] Still on the move.
+[  566.9] Yeah, it's very slowly.
+[  568.9] We haven't got there yet.
+[  569.9] It's such a process though, was it?
+[  571.9] It is, especially when you've got nearly five hours to move everything up at a time.
+[  579.9] So it's very hard.
+[  581.9] But you know what, one day we're all going to look back on it and go, gee, I'm glad I got through that.
+[  587.9] Exactly.
+[  588.9] That's right.
+[  589.9] Yeah.
+[  590.9] And we've got all many to try and get together and catch up with all the brekkie crew.
+[  594.9] The six o'clock club, mate.
+[  595.9] We've got to do it.
+[  596.9] That's the one.
+[  597.9] A little breakfast club.
+[  598.9] That's it.
+[  599.9] Aunty Julia, she's been very active this morning, showing me sunrise photos and things like that.
+[  604.9] Are you catching, are you copping a good sunrise this morning, Waza?
+[  607.9] Mate, it's beautiful, yeah.
+[  609.9] All the way down through, I'm just sort of coming to Tahrirouille and it's absolutely beautiful.
+[  613.9] Stunning.
+[  614.9] Here we go, mate.
+[  615.9] Here's the secret sound.
+[  616.9] It's right there.
+[  617.9] What do you think?
+[  619.9] Would it be pushing a switch or a button on a vacuum cleaner?
+[  624.9] No, it's not Waza.
+[  629.7] No.
+[  630.7] All right, back to the drawing board.
+[  632.7] Scratch that off the list and keep on trying, great man.
+[  635.7] Say good day to the family for me.
+[  637.7] We certainly will.
+[  638.7] That was Shazza's idea, so we'll see how we go.
+[  640.7] Oh, Shazza.
+[  641.7] You gave us a bum steer.
+[  643.7] See you, Waza.
+[  645.7] See you, legend.
+[  647.7] Triple A in mid-north coast.
+[  648.7] It is the Sarge for Breakfast show.
+[  651.7] Secret sound.
+[  652.7] It's back at eight o'clock on 1-333, worth $1600.
+[  656.7] Clues...
+[  657.7] No, not clues yet.
+[  659.7] But incorrect guesses all go on the Sarge for Breakfast podcast at Lister.
+[  663.7] Hey, let's do the Locals Guide next.
+[  665.7] Top three things going on in our backyard and beyond when it comes to events.
+[  669.7] It's Triple M, Tuesday.

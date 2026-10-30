@@ -1,0 +1,42 @@
+BEST BITS: Bring Gravy Wrestling To The Mid North Coast
+Sun, 30 Aug 2026 22:44:22 +0000
+plays: [{'t': np.float64(1921.57), 'ncc': 0.925}, {'t': np.float64(1926.71), 'ncc': 0.897}, {'t': np.float64(2011.41), 'ncc': 0.859}]
+
+[ 1846.6] just shout. That's right. Just shout, Sergeant man. I know what you're talking about. That's
+[ 1850.9] the one, the vault, Kamsi. It's Mink Street in Kamsi. Go again? Smith Street in Kamsi.
+[ 1857.1] That's right. Sergeant shout. Thanks to Coastline Bank. We love the team at Coastline Bank.
+[ 1861.8] Refinancing, making the switch easy with Coastline and bank where you belong and
+[ 1868.5] also get a cheeky coffee while you're at it. Triple A, Maroeti, so always good catching
+[ 1873.7] up. I hope you find your sunnies. Thank you and I'll buy you some Gucci ones for
+[ 1878.6] Christmas from Thailand or something. Thank you for the Triple A Secret
+[ 1881.5] Santa. I really appreciate that. Good morning, my love.
+[ 1886.6] Triple A Mid-North Coast. It is the Sarge for Breakfast show. We are live on your radio and the
+[ 1891.8] listener app. Alright, it is time to play everybody's most favourite game but also
+[ 1898.6] equally frustrating game. It's called the Secret Santa. It's all thanks to our good
+[ 1903.2] mates at 40 Winks, Port Macquarie, Good Morning Jerome and the team. Here's a
+[ 1909.6] sound that is worth $1,700 and if you call 13353 right now and
+[ 1914.9] correctly identify what it is, I will give you that cash. Are you ready? That's
+[ 1923.0] it right there. Once again for good luck, all the very best.
+[ 1928.8] Top loader now for your greatest hits, taking you to the latest in our local
+[ 1936.0] sports and weather plus a beach and surf update. Triple A Mid-North Coast and the
+[ 1941.1] Sarge for Breakfast show. Happy Monday. Thanks to 40 Winks, Port Macquarie.
+[ 1953.1] A very good morning to you Faye. Yes, hello. Hi Faye. Where are you calling from?
+[ 1961.7] Nambucca Heads. Nambucca Heads. Are you calling for the secret sound? Alright.
+[ 1967.2] What do you do with $1,700 Faye? I could spend it on quite a bit.
+[ 1973.7] Maybe a holiday. I like it. You've got a little mate there helping you out too Faye.
+[ 1979.2] Yeah, my glory glory husband. Glory glory husband. Hang on a second.
+[ 1984.8] Things are right. Are you maroons mates? We sure are.
+[ 1990.2] Glory glory to South Sydney. Yes. Hey, how about that win over the weekend in
+[ 1996.6] the beautiful scenes with Joy? It was fabulous and see Joy, it was great.
+[ 2001.4] Oh my goodness me. The famous, it's John right? John and Faye.
+[ 2005.9] That's right. The famous John and Faye from Nambucca. That's great. Well hey, let's
+[ 2009.9] do this. Here's the secret sound. What do you think?
+[ 2013.4] It could be clicking the dolomone machine, clicking the number on.
+[ 2020.0] It is not. Oh well.
+[ 2022.0] I feel like I've won this morning talking to the famous John and Faye.
+[ 2028.3] Then we can pass that on to Maroon. Yes, exactly. I'll play back the audio to him
+[ 2033.4] when we catch up on Thursday. Alright, thank you. See you legends. Bye.
+[ 2038.3] Secret sound. It is back tomorrow morning after 6.30 and 8 o'clock on 1.333.
+[ 2043.6] It's now worth $1,725. All the incorrect guesses so far for the
+[ 2049.8] secret sound. Go on the Sarge for Breakfast podcast. At least, Mr. De'Gonn,
+[ 2054.2] check that out to get closer to the cash.

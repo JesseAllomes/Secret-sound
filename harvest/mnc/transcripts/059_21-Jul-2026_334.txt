@@ -1,0 +1,83 @@
+BEST BITS: The Governor Is Coming To Port Macquarie
+Tue, 21 Jul 2026 22:52:39 +0000
+plays: [{'t': np.float64(409.83), 'ncc': 0.879}, {'t': np.float64(413.56), 'ncc': 0.809}, {'t': np.float64(488.43), 'ncc': 0.889}, {'t': np.float64(497.09), 'ncc': 0.847}]
+
+[  334.8] I think it's going to be quite nice today.
+[  337.5] Sunny today, sunny tomorrow in 22 for Beechwood,
+[  343.0] and then Friday 18 and sunny.
+[  346.1] I'll cop that.
+[  347.3] It might not get much better than that.
+[  349.0] Cold chiseled forever now at 6.25 on the dot.
+[  354.5] Wednesday morning, this is triple M, Mid-North Coast,
+[  358.1] and the Sarge for Breakfast show.
+[  359.3] We are live on your radio and the listener app
+[  362.1] currently eight degrees at Cooper,
+[  364.6] buying heading for 23 there today, and sunny.
+[  368.2] Yes, it's a bit early if you're not awake yet,
+[  372.0] and Barnzy and Mossy and the Cold Chisel crew
+[  376.0] didn't quite get you going with forever now.
+[  378.8] Maybe Barnzy's warmup before a show will.
+[  382.8] Hey!
+[  388.6] Barnaby and Barnzy.
+[  392.3] What a team up.
+[  393.3] A team up we didn't know we needed.
+[  395.4] One triple three five three is my number.
+[  399.5] Call now.
+[  400.4] I've watched that video so many times.
+[  403.5] And correctly identify what this sound is.
+[  407.9] Sit down!
+[  408.8] I'm kidding, it's this one.
+[  410.8] Correctly identify what this sound is,
+[  414.2] and if you're right, on one triple three five three,
+[  417.8] I will give you $1,125 with the secret sound.
+[  423.6] It's all thanks to our good mates
+[  425.5] at 40 Wings Port Macquarie.
+[  426.3] Good morning Jerome and the crew.
+[  428.5] We'll do it next.
+[  433.1] It's the early bird edition of the secret sound.
+[  436.9] Thanks to 40 Wings Port Macquarie.
+[  438.9] Come in and see the team at Port Home Zone.
+[  441.1] 40 Wings, serious about sleep.
+[  443.2] Hey, good morning Daniel.
+[  444.9] Hey, good morning Sarge.
+[  445.7] Mate, very well thank you.
+[  447.1] How was your Tuesday night?
+[  449.3] Yeah, not bad.
+[  450.3] Just watch the TV.
+[  453.4] Oh yeah, what are you watching on TV at the moment?
+[  457.1] Yeah, Netflix, 21 Jump Street or something like that.
+[  460.3] Oh yeah, bit of a throwback.
+[  462.6] Yeah.
+[  464.0] That's good.
+[  464.8] Was it, it's a movie you've seen before
+[  467.5] or a first time watching that one?
+[  469.9] I think I've seen it a few years ago, but yeah.
+[  471.9] Yeah, gotcha.
+[  473.7] Mate, $1,125, it's good cash just to win
+[  478.7] for guessing what the sound is.
+[  480.6] What would you do with that money if you won it Daniel?
+[  482.8] Oh, probably pay some bills, save a bit.
+[  485.5] Yeah, that's good.
+[  486.4] Love it, mate.
+[  487.3] All right, here we go.
+[  488.1] Here's the secret sound.
+[  489.1] What do you think?
+[  491.4] Not like plugging your seatbelt in your car or something.
+[  494.8] Oh yeah, plugging the seatbelt in the car.
+[  497.7] I do that every single day, but no, that's not it.
+[  501.7] Sorry Daniel, keep on trying mate.
+[  503.7] Cool, thanks mate.
+[  504.5] Have a good one.
+[  505.3] Secret sound, it is back at eight o'clock on 1,333.
+[  509.4] $1,125 is up for grabs with it
+[  512.8] and we do put all of the incorrect guesses so far
+[  515.9] on the Sarge for Breakfast podcast at listener.
+[  518.3] So check out that to get closer to the cash.
+[  522.0] Happy hump day.
+[  523.3] What a come on the other side of this, good morning.
+[  526.0] We are 20 minutes away from seven o'clock.
+[  528.3] It is triple M in North Coast
+[  530.3] and the Sarge for Breakfast show.
+[  533.9] Happy Wednesday, currently eight degrees at Dunbogan,
+[  536.7] heading for 23 there today and sunny.
+[  540.9] Now yesterday on the show,

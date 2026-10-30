@@ -1,0 +1,70 @@
+BEST BITS: Win A Wedding On Triple M
+Thu, 10 Sep 2026 23:52:18 +0000
+plays: [{'t': np.float64(1383.79), 'ncc': 0.776}, {'t': np.float64(1393.64), 'ncc': 0.821}]
+
+[ 1308.8] Oh, look at that endorsement. Jeff, thank you, mate.
+[ 1312.3] No worries, Oden.
+[ 1313.7] I'll pay you later. See you, Jeff.
+[ 1316.1] Yep, great. See you, mate.
+[ 1317.7] It's Triple M's secret sound.
+[ 1320.1] Mmm.
+[ 1321.1] Thanks to 40 Winks Port Macquarie.
+[ 1322.8] So come in and see the team at court home zone.
+[ 1325.0] 40 Winks, serious about sleep.
+[ 1327.1] Shh.
+[ 1328.4] We have an army of wazers that listen to this show.
+[ 1332.9] There is a few.
+[ 1335.3] Here's one of them. How are you, mate?
+[ 1337.5] Good, mate. Thank you very much.
+[ 1339.0] That's the way. Where abouts are you calling from? Was I?
+[ 1341.5] In Port Macquarie.
+[ 1342.8] In Port?
+[ 1343.8] We're out at Thrumster, obviously.
+[ 1345.7] I can see a bit of a drizzle coming down right now.
+[ 1348.0] What's it doing in town?
+[ 1349.2] Yeah, raining in town, too.
+[ 1350.5] Same thing, too.
+[ 1351.4] Hey, Wazen, what's on the cards for today?
+[ 1354.0] Well, at the moment, I'm on an exercise bike,
+[ 1356.9] so doing a bit of training.
+[ 1359.4] Good on you. But you're on the bike right now, are you?
+[ 1362.0] Yeah.
+[ 1364.2] That is commitment. That is dedication.
+[ 1367.4] Yeah.
+[ 1368.4] Are you at home or at a gym?
+[ 1369.9] No, at a gym.
+[ 1370.9] At a gym? And they've got triple M playing, do they?
+[ 1373.1] Yeah. No, I just got on my phone.
+[ 1374.8] On your phone? On the listener app, hey?
+[ 1376.9] On the listener app.
+[ 1377.9] Oh, good man.
+[ 1378.9] All right, here we go.
+[ 1379.9] I'll give you $1,925 to be correctly identified
+[ 1382.7] what this sound is.
+[ 1384.3] What do you think?
+[ 1385.6] That's lovely, yeah.
+[ 1387.0] Well, I've been thinking about it for quite a while.
+[ 1389.3] I just haven't been able to get through.
+[ 1391.0] Well, you've got through, great man.
+[ 1393.0] What do you think that sound is?
+[ 1394.7] It is one of those cupboard catches, the push catch.
+[ 1398.6] You know, when you push it, the clicks close,
+[ 1400.6] and then push it again, it clicks open.
+[ 1402.4] Yeah, yeah, yeah.
+[ 1404.2] As Promo Sal would say...
+[ 1405.8] Absolutely not!
+[ 1407.5] Wasn't that's not the secret sound? Sorry, mate.
+[ 1410.6] Well, that's all right, mate.
+[ 1411.7] Enjoy the rest of your training.
+[ 1412.9] At least I got through and had a go.
+[ 1414.0] Yeah, you had a crack. Keep on trying, too.
+[ 1416.0] I'll keep trying.
+[ 1417.3] See ya, legend.
+[ 1418.1] OK, buddy, thank you.
+[ 1419.3] Good on you, man.
+[ 1420.4] Secret sound.
+[ 1421.4] It is back on Monday morning after 6.30 and 8 o'clock on 1.333.
+[ 1426.3] It's now worth $1,950.
+[ 1430.6] All the incorrect guesses so far
+[ 1432.3] and clues go on the Sarge for Breakfast podcast listener.
+[ 1436.0] We're going to catch up with Charlie O'Derry next.

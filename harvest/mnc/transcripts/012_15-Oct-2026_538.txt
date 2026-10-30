@@ -1,0 +1,49 @@
+BEST BITS: I Hate Compliments!
+Thu, 15 Oct 2026 22:06:30 +0000
+plays: [{'t': np.float64(613.58), 'ncc': 0.874}]
+
+[  538.6] I made a little song for him.
+[  540.6] For Jimmy Barnes?
+[  542.6] Yeah, I made a little song.
+[  544.6] Can I do it right now?
+[  546.6] Hey, Barnesy, you're really the best.
+[  549.6] You're just a yell above the rest.
+[  551.6] Many long years have passed us by.
+[  554.6] Songs have made me laugh and also cry.
+[  557.6] From Barrel Bega and Rooty Hill, every venue you always fill.
+[  562.6] Melbourne, Darwin, and in between, the best shows anyone's ever seen.
+[  567.6] Remembering angry with a smile, both with your variety and unique style.
+[  573.6] Laughs and loves make life worthwhile.
+[  577.6] So please, Barnesy, keep on singing so everyone can enjoy the happiness you're bringing.
+[  583.6] Chrissy, I have goosebumps.
+[  589.5] That was so beautiful.
+[  591.5] Yeah, I haven't got the voice, so it's better than yelling.
+[  596.5] Holy dooly, that was incredible, Chrissy.
+[  599.5] I'm kind of speechless because I love Jimmy Barnes.
+[  604.5] I know, you're going to be talking to him, you lucky burger.
+[  607.5] I can't wait.
+[  608.5] Alright, hey, let's do this.
+[  609.5] Let's try to give you some money.
+[  610.5] $2,550.
+[  612.5] Here's the secret sound.
+[  613.5] What is it?
+[  617.2] Looking down the lighter to light a candle or a fire.
+[  625.2] To light something.
+[  627.2] To light up my life a little bit.
+[  632.2] Light up your life.
+[  633.2] Chrissy, I'm sorry.
+[  635.2] I'm not going to light up your life.
+[  636.2] It's not the secret sound, sorry.
+[  637.2] That's alright.
+[  638.2] Hey, lovely talking to you.
+[  639.2] Have a good one.
+[  640.2] Have a great weekend.
+[  641.2] Bye-bye.
+[  642.2] Thanks very much.
+[  643.2] Bye.
+[  644.2] There you go.
+[  645.2] What a great poem there.
+[  646.2] Secret Sound, it's back at 8 o'clock on 1-333-53.
+[  649.2] It's worth $2,550.
+[  653.2] Clues and incorrect guesses all go on the Sarge for Breakfast podcast at Listener.
+[  656.2] Hey, let's catch up with Andy from Club.

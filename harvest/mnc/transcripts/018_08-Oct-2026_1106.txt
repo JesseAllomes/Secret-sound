@@ -1,0 +1,50 @@
+BEST BITS: I Really Admire How You Play With Your Meat
+Thu, 08 Oct 2026 21:52:52 +0000
+plays: [{'t': np.float64(1181.78), 'ncc': 0.878}, {'t': np.float64(1201.48), 'ncc': 0.878}]
+
+[ 1107.0] Na na na na, still only a drag!
+[ 1110.6] Na na na, it's my work time!
+[ 1114.2] You got a double pass to the red hot summer tour, congratulations!
+[ 1117.8] Yeah bro, thanks matey!
+[ 1122.9] Thanks to 40 Winx, Port Macquarie.
+[ 1124.9] So come in and see the team at court home zone.
+[ 1126.9] 40 Winx, serious about sleep.
+[ 1128.9] Oh hello to me old mate, Julie.
+[ 1134.6] How you going?
+[ 1135.6] Julie, I am very well thank you.
+[ 1137.6] Gee, I am a terrible mate.
+[ 1139.6] Is it Cundal Cundal where you are calling from?
+[ 1142.6] It is, you have got a good memory.
+[ 1145.6] Oh thank you.
+[ 1146.6] Hey, I speak to like two secret sound callers every single day plus all the other callers.
+[ 1152.6] I think that is pretty good from me.
+[ 1154.6] That is good mate, because it has been a while.
+[ 1157.6] It has been a while.
+[ 1158.6] You know the other reason I remember is because you are what they call a secret sound alumni.
+[ 1164.6] You have won this thing in the past.
+[ 1166.6] I have.
+[ 1167.6] I have it, I really get involved in this game, I love it.
+[ 1171.6] Alright, so $2425 is up for grabs right now Julie.
+[ 1177.6] You know the drill, all you have to do is correctly identify what this sound is.
+[ 1182.6] What do you think it is this morning Julie?
+[ 1185.6] I am trying, plugging in your stick vacuum into the charging bracket on the wall.
+[ 1193.6] Plugging the stick vacuum into the charging bracket on the wall.
+[ 1196.6] I do own that said item Julie.
+[ 1200.6] Yes.
+[ 1203.4] It is a promo Sally.
+[ 1204.4] Absolutely not.
+[ 1205.4] Sally, Sally, Sally.
+[ 1208.4] Yeah, we hear a lot of Sally these days.
+[ 1211.4] I know, alright, I will think again.
+[ 1214.4] It is taking at you.
+[ 1216.4] Hang on, here we go, here is the memory test.
+[ 1219.4] Is it Dave?
+[ 1221.4] Dave?
+[ 1223.4] John! John!
+[ 1225.4] John! That's good!
+[ 1227.4] Hey John! Where's the prize for me around here?
+[ 1231.4] I'm on fire this morning.
+[ 1233.4] I know you're getting it all right.
+[ 1235.4] See ya lovely. Have a great day. Have a great weekend John. Bye guys.
+[ 1239.4] Secret Sound. It's back on Monday after the 6.30 and 8 o'clock.
+[ 1244.4] 1.335.3 is number 2 called to get involved.

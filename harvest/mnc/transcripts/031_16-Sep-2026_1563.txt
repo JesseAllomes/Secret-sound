@@ -1,0 +1,32 @@
+BEST BITS: Top Or Bottom?
+Wed, 16 Sep 2026 23:19:32 +0000
+plays: [{'t': np.float64(1638.13), 'ncc': 0.8}]
+
+[ 1563.1] team at Court Home Zone. 40 weeks, serious about sleep.
+[ 1566.6] Alright, the producers have just put me over to
+[ 1570.2] Maddie on 13353. Good morning, Maddie! Good morning, how you going Sarge? I am so
+[ 1576.2] well. Do I know you Maddie? No, I don't think so.
+[ 1580.0] We haven't met. He's got a very familiar voice, Maddie. What do you do for a
+[ 1583.5] cross Maddie? I am a youth work-off. Oh,
+[ 1587.7] incredible. I love that kind of work, do you enjoy that? It must be,
+[ 1592.7] you know, challenging but also very rewarding. Oh 100%,
+[ 1596.7] every day is different. Yeah. That's the beauty of it. No doubt, okay.
+[ 1601.2] Maddie, what would you do with $2025 if you won it?
+[ 1606.4] I have been wanting to go over to WA for so long,
+[ 1609.9] so I'm going to be like cliche and it's definitely going towards the holiday.
+[ 1613.9] Yeah, great. What part of WA do you want to explore?
+[ 1618.7] Can I be selfish and say all of it? You can be selfish.
+[ 1622.5] I know where the quokkas are over there, aren't they?
+[ 1625.6] Yes, they are on Rotnest. Rotnest, that's right. You've got to get a selfie. Can you
+[ 1629.5] still get a selfie with a quokka? I think so. Yeah, right. There you go.
+[ 1634.1] Unreal, Maddie. Well, let's make this happen. Here we go. Here's the secret
+[ 1637.4] sound. $2025 is all yours if you correctly
+[ 1642.2] identify what it is. What do you think?
+[ 1644.5] Is it pushing the lid or a button on a CD player?
+[ 1647.9] Oh, Maddie, no. Absolutely not. It is not the secret sound. Sorry, mate.
+[ 1652.6] Oh, that's all right. Thanks for the opportunity.
+[ 1655.2] Yeah, keep on trying, Maddie. See you later. Secret sound. It's back at 8 o'clock
+[ 1661.6] and 6.30 on 1.353 tomorrow morning. And all the incorrect guesses so far for the secret
+[ 1667.5] sound. Go on the Sarge for Breakfast podcast at least. And we are getting close, by the way.
+[ 1672.2] Just saying. Benny Cardmore from Self Seen and Unstoppable Community is on the show
+[ 1677.2] next for a bit of monthly mental health motivation. This is Triple M, Sarge here for breakfast.

@@ -24,6 +24,13 @@ Owner rules: see CLAUDE.md (scripts for data collection, never start Fable unles
   bots default 1, ab). Results on branch `results`. Use short 1-2 word searches (multi-word phrases return 0).
   BBC library works directly (`bbc_pull.py`).
 
+## Where the work lives (everything Secret Sound goes in this repo)
+- `harvest/mnc/`: podcast harvest scripts, harvest.jsonl, transcripts/, guesses, package/mnc_evidence.md.
+- `clues/mnc/`, `clues/bendigo/`: clue audio and cleaned versions. `listening/mnc/`: A/B zips sent to the owner.
+- `results/local/`: local scoring CSVs; GitHub runs commit to branch `results`. `tools/scratch/`: one-off analysis scripts.
+- `tools/sync_scratch.sh <scratchpad>` copies a session's scratchpad into the repo again (rerun after the harvest ends).
+  Left out (fetchable again by script): podcast episodes/feeds, Freesound/BBC clip sets, temporary renders.
+
 ## Bendigo (Cogho & Jules' Secret Sound, VIC only) — $750 per page heading, +$25/day
 - `analysis/bendigo/README.md`: clues (I'm a classic / I need a hand / I'm old school), 42 wrong guesses, Fable analysis
   (5 metal-on-metal hits, ring 2.32/2.55 kHz; top: playing the spoons, stirring tea with a teaspoon, winding an old

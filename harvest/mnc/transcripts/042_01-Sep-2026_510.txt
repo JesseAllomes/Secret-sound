@@ -1,0 +1,33 @@
+BEST BITS: We Have A Live Studio Audience
+Tue, 01 Sep 2026 22:52:38 +0000
+plays: [{'t': np.float64(585.4), 'ncc': 0.915}, {'t': np.float64(617.23), 'ncc': 0.875}]
+
+[  510.4] winds west to north-westerly 25 to 35 kilometres an hour, daytime maximum
+[  516.5] temperatures anywhere between 20 and 27. Good morning this is the Mid-North
+[  522.4] Coast's triple M, Minnisaj here for breakfast, more of your greatest hits on
+[  526.6] the other side of the air. It's the early bird edition of The Secret
+[  533.4] Sound. Thanks to 40 Winks Port Macquarie. Come in and see the team at Port Home Zone.
+[  538.9] 40 Winks, serious about sleep. Yes a very good morning to my dear friend Cheryl.
+[  543.9] Hello my dear friend Sarge. How are you? I'm good. Well that's good, you know it's
+[  550.1] been a long time since we've spoken. I've well as far to say months. Well listen
+[  555.5] we've been on the radio every morning at quarter to six listening to you. Just
+[  561.2] having me coffee sitting back here. Haven't rang for The Secret Sound but
+[  566.9] been listening every morning. Only reason being I haven't had any clues. I'm
+[  573.5] just getting a few now off the radio. Well we're getting to the pointy end Cheryl.
+[  578.0] I know. $1,750. I will give that cash to you right now Cheryl. If you can
+[  583.1] correctly identify what this sound is. What do you think this morning? Well I
+[  588.1] think it's pushing down something that's for sure but what it's pushing
+[  592.7] down I'm all over the shop but I know you like your coffee and the only thing
+[  598.0] I can come up with this morning are you pushing the top down on your takeaway
+[  604.3] coffee? Do you mean like where they've got the different flavors of coffee or
+[  609.3] do you mean the lid? The actual lid itself. Are you pushing that down to
+[  615.0] secure it? Let's have a listen. Cheryl I'm not. Never mind. I feel like I
+[  621.4] mean you might not feel like you've won but I feel like I have won because it's
+[  624.5] always great hearing you adults at tones. Well listen you've already had
+[  629.4] another win this year. You're back with us. You had a week or so off or two weeks
+[  634.5] off. You're back with us now. You're on the road. Now stay there. I'm staying on
+[  639.9] the road just for you Cheryl. Have a great day. Now thank you. Secret Sound
+[  644.9] is back at 8 o'clock on 1 triple 353 worth $1,750. All the incorrect guesses
+[  650.7] go on the Sarge for Breakfast podcast at Listener. Check that out to get close to
+[  654.4] the cash. More to come on the other side of this at the M's. Good Wednesday
+[  658.3] morning to you. Good morning. We are 18 minutes away from...

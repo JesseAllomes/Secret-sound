@@ -1,0 +1,81 @@
+BEST BITS: Sarge's Car Accident
+Tue, 08 Sep 2026 22:49:57 +0000
+plays: [{'t': np.float64(531.35), 'ncc': 0.878}, {'t': np.float64(545.74), 'ncc': 0.918}, {'t': np.float64(632.16), 'ncc': 0.909}, {'t': np.float64(655.62), 'ncc': 0.878}]
+
+[  456.4] cycle started all over again.
+[  459.7] You picking up what I'm putting down?
+[  465.1] Flipping what I'm frying?
+[  470.1] Let's do it.
+[  471.1] Bountains of Wayne now.
+[  473.2] Stacy's mum, AAA Mid-North Coast.
+[  475.8] It is the Sarge for Breakfast show.
+[  477.5] Well that'll get you going for a Wednesday morning here at AAA Mid-North Coast.
+[  485.5] We are live on your radio and the listener app.
+[  487.6] It is 6.28.
+[  488.6] Coming up on the Sarge for Breakfast show.
+[  495.6] We'll head to the newsroom, get the latest in your new sport and weather and then cross
+[  500.2] down to the beach and surf with Wayne Huddo Hudson, the HUD-meister.
+[  505.1] Let's see what's going on there.
+[  507.4] But right now I am going to, hang on I'll turn this music bed down, and I'm going to
+[  511.3] take my microphone right over to the phone lines.
+[  513.7] Hear this, hear this, ready?
+[  516.6] That is the sound of the lines being opened.
+[  518.9] 1-3-3-5-3.
+[  520.4] Lines are open.
+[  521.4] You can call right now for the secret sound.
+[  524.1] 1-3-3-5-3 is the number.
+[  527.2] If you correctly identify what this sound is, I will give you $1,875.
+[  537.9] If you're correct.
+[  540.4] Once again, $1,875 if you can correctly identify what this sound is.
+[  545.5] It sounded a lot like the opening the lines button.
+[  552.2] Anyway, anyway.
+[  553.6] The secret sound, we do it thanks to 40 Winks Port Macquarie and we'll do it next.
+[  558.2] Good luck.
+[  561.7] It's the early bird edition of the secret sound.
+[  566.4] Thanks to 40 Winks Port Macquarie.
+[  568.4] Come in and see the team at Port Home Zone.
+[  570.6] 40 Winks, serious about sleep.
+[  573.0] My darling friend Chrissy, it's great to have you part of the 6 o'clock club.
+[  577.5] Oh, I've been mentioning it every morning but oh wow.
+[  582.5] I'll tell you what, there's a lot of people who call for this competition but especially
+[  587.6] when the price tag gets higher.
+[  591.0] We're at $1,875.
+[  594.9] I know that money would mean a lot to you, hey?
+[  598.1] Oh, gotcha.
+[  599.1] I remember when you started it was only $25.
+[  602.2] I know.
+[  603.2] We've come a long way and we could potentially still have a very long way to go.
+[  608.3] I think the highest amount of secret sound has gone off, at least in my time doing the
+[  612.9] competition was around $2,500-ish.
+[  617.0] Oh wow.
+[  619.0] Mmm.
+[  620.0] Alright.
+[  621.0] It's probably something so easy and we're all trying but you never know.
+[  626.7] I know.
+[  627.7] Well Chrissy, let's do this.
+[  630.1] Here is the secret sound.
+[  633.3] What do you think?
+[  635.3] You know when you push in your coffee pod into the machine like George Clooney did on Nescafe
+[  646.3] press...
+[  647.3] Oh, I remember that.
+[  649.3] George Clooney was the face of Nescafe for a little while.
+[  653.3] One of those coffee places.
+[  654.3] Listen again.
+[  657.3] As promo Sally would say...
+[  659.3] Absolutely not.
+[  661.3] Yeah.
+[  662.3] That's okay.
+[  663.3] I'll keep going.
+[  664.3] Hey, hey.
+[  665.3] You been well Chrissy?
+[  666.3] Yeah, very well.
+[  667.3] Very, very busy, busy trying with just everyday things but yeah, getting there.
+[  676.3] That's the way.
+[  678.3] Well, I've got a busy Friday evening but hey, I've got a fairly free weekend so let's try
+[  684.4] and lock in a time to catch up.
+[  686.3] Oh, you've been a busy rooster with your white shows and oh my goodness.
+[  691.2] You've been fantastic.
+[  692.2] It's been a bit hectic.
+[  693.8] It's been a bit busy.
+[  695.2] Life can get that way sometimes but it's important to take a breath and slow down.
+[  699.2] I know but you were...

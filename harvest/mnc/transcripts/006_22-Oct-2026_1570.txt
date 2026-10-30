@@ -1,0 +1,26 @@
+BEST BITS: "Yeah! Yeah!"
+Thu, 22 Oct 2026 21:54:18 +0000
+plays: [{'t': np.float64(1645.99), 'ncc': 0.861}, {'t': np.float64(1670.15), 'ncc': 0.868}]
+
+[ 1571.0] A very good morning to you Jamie. Hey Sarge mate, how are you? Yeah I'm going really good.
+[ 1576.3] How's yourself? Yeah good mate, good. You're in the car right now, you off to work?
+[ 1582.1] Yeah, just cruising around in the rain. What do you do? Uh mechanic, mate, mechanic. Fantastic.
+[ 1589.6] Hey um, $2,675. Where would that money go for you? Oh the old bills Sarge,
+[ 1597.8] everyone's got the bills. And the other thing too is there's now nine Fridays till Christmas.
+[ 1605.5] It's a bit overrated Christmas isn't it? You know what? Yeah, I mean look um,
+[ 1613.7] it is and it isn't isn't it Jamie? It is and it isn't. I've got to be careful here Jamie.
+[ 1619.9] Um I do love it but yes it's not always the bright red and rosy time of the year
+[ 1627.6] for everybody you know? Yeah I'm here now. Yeah it's like birthdays, it's just another day isn't it?
+[ 1634.8] Uh yeah I've had too many of them too. You sound young and chipper Jamie.
+[ 1643.0] Let's do this mate, here's a sec, here's a second sound. There it is right there, what are you
+[ 1647.5] thinking this morning? All right I reckon our mate was close this morning with the door part of it
+[ 1652.6] but I reckon it's a button that you press on your glass sliding doors to enter into the
+[ 1659.2] stadium there, studio. I love how you call it the stadium. I'm gonna start calling it the stadium
+[ 1665.5] too, it's a sport that I do, this is a I'm a pro athlete. Here we go. Yeah. Jamie. Absolutely
+[ 1672.3] nice. Sorry mate. All good Sarge, you have a good day mate. You too legend, stay dry, we'll talk to
+[ 1678.3] you soon. Secret sound, it's back on Monday up to 6 30 and 8 o'clock 1 3 3 5 3 to get involved.
+[ 1686.4] Clues and incorrect guesses all go on the Sarge for Breakfast podcast at listener.
+[ 1691.8] So check that out to get close to the cash, what's it now worth 75? Yeah wow $2,700
+[ 1699.7] we are getting up there. Let's do Free Gig Friday next with a very special couple of guests.
+[ 1705.9] Tom Cochran life is a highway this morning for your greatest hit.
+[ 1711.0] It is triple m mid-north coast Sarge here for breakfast.

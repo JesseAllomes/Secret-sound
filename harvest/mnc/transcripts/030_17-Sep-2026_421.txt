@@ -1,0 +1,68 @@
+BEST BITS: A Country Boy At Heart
+Thu, 17 Sep 2026 22:33:13 +0000
+plays: [{'t': np.float64(496.04), 'ncc': 0.914}, {'t': np.float64(509.3), 'ncc': 0.796}]
+
+[  421.0] Very well, thank you.
+[  422.3] Now, Paula, have we ever spoken before on the air?
+[  425.5] We have, I think end of last year.
+[  428.4] And yeah, I rang for the secret sound,
+[  430.9] but didn't get it, unfortunately.
+[  432.7] Crikey, it's been a fair while, Paula.
+[  435.9] It has.
+[  436.9] I've been giving up on it, it's too hard.
+[  438.9] It's too hard.
+[  440.7] I actually thought yesterday,
+[  442.5] because the highest amount has been in that 2000 range
+[  446.9] when we've given it away.
+[  448.0] But I'm thinking this could go past three.
+[  451.5] Heck, we might even be doing a $5,000 secret sound
+[  455.0] at some point.
+[  455.8] Oh, well, hopefully I get it.
+[  457.4] Exactly, that'd be good money to have.
+[  460.5] Paula, where abouts are you calling from?
+[  462.7] From Barrowville.
+[  463.6] Barrowville, how's it looking and feeling there at the moment?
+[  466.7] Oh, it looks pretty good.
+[  468.1] It looks like it's gonna be a lovely day.
+[  470.0] Yeah, we're here at Thrumster.
+[  471.7] Oh yeah, go, go.
+[  473.0] I was gonna say, actually, I haven't got out of bed yet.
+[  475.0] I'm definitely not.
+[  476.8] You're just going off, my weather reports
+[  478.6] I've been doing for the past half an hour.
+[  480.8] Look, I can assure you,
+[  482.0] it's gonna be a beautiful day today.
+[  484.2] Paula, $2,050, what would you do with that cash
+[  486.8] if you won it?
+[  488.4] We've got a big holiday coming up at the end of the year,
+[  490.4] so probably put it towards that.
+[  492.2] All right, sounds good.
+[  493.2] Let's do this, Paula.
+[  494.3] Here's the secret sound.
+[  497.0] What do you think?
+[  499.0] I'm thinking that is it your digital watch
+[  502.0] being attached to the magnetic charger?
+[  505.8] Let's have a listen again.
+[  507.2] I know exactly what you're talking about.
+[  508.8] As promo Sally says...
+[  512.9] Absolutely not.
+[  514.6] Paula, this...
+[  515.6] Oh, I had the money spent already too.
+[  518.7] What were you gonna spend the money on?
+[  520.6] Oh, just spending money for our holiday.
+[  523.8] Yeah.
+[  524.8] But anyway, look, lovely hearing you every morning.
+[  527.8] We like to listen to your introduction in the mornings
+[  530.3] and know that you're gonna be on
+[  531.6] and you're a bright, happy voice.
+[  534.2] Oh, Paula, thank you so much.
+[  536.5] That's really lovely.
+[  537.5] It's good to be talking to you too.
+[  539.3] Keep on trying, OK?
+[  540.7] It hasn't been one yet, so you're still within a chance.
+[  544.9] OK, thanks, guys.
+[  545.9] Enjoy your beautiful day in Bower.
+[  546.9] See you, Paula.
+[  547.9] Thank you, bye.
+[  548.9] Secret sound, it is back at 8 o'clock on 1 triple 353.
+[  553.5] Worth 2,000.

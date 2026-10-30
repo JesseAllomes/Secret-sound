@@ -1,0 +1,35 @@
+BEST BITS: We Dedicate This Show To Dolly
+Tue, 25 Aug 2026 23:00:29 +0000
+plays: [{'t': np.float64(1623.89), 'ncc': 0.935}, {'t': np.float64(1628.14), 'ncc': 0.883}, {'t': np.float64(1714.69), 'ncc': 0.81}]
+
+[ 1548.9] Such a good movie too, eh? Haven't seen the second one though. Apparently it's not worth it.
+[ 1557.3] 2007, the Rolling Stones wrap up. They're a bigger bang tour. The final show took place at London's
+[ 1566.9] O2 Arena. The tour had earned more than $560 million. Wow! Imagine at the highest
+[ 1575.0] roasting rock tour at the time. Famous birthday is Melissa McCarthy. She was born on this day,
+[ 1588.6] 1970 of course from the Bridesmaids, the Heaton Spy. She's 56 today. Congratulations, happy birthday
+[ 1598.0] Melissa. There you go, there's the weird whacking, one of the things that happened on this day. The
+[ 1604.7] 26th of August. Triple A on the Mid-North Coast. Did a sarge here for breakfast. Good morning,
+[ 1611.1] beautiful. $1,625 is up for grabs right now. If you'd like it, just call 1-333-53. Yeah,
+[ 1620.1] that's simple. And correctly identify what this sound is. Okay, it gets a bit complex
+[ 1625.6] when I ask you that. Again, what do you think? Have a crack. 1-333-53. If you're right,
+[ 1631.7] I'll give you the cashola. It's the secret sound all thanks to 40 Wings Port Macquarie.
+[ 1636.4] Good morning, Jerome and the team from 40 Wings Port Macquarie. Hope you're going well. Of course
+[ 1641.1] you're going well because they had a great night's sleep with your products at 40 Wings Port Macquarie,
+[ 1645.7] you know? Thanks to 40 Wings Port Macquarie. So come in and see the team at Court Home Zone.
+[ 1654.9] 40 Wings, serious about sleep. Hello there, Marnie. Hi, how you going? Marnie, would you like
+[ 1661.6] the Marnie? I would love some Marnie. I'm proud of that one, Marnie. That was good. Thank you,
+[ 1669.9] mate. Appreciate it. Someone's going to like it at least. I know. So we've got $1,625 up for grabs
+[ 1677.2] here, Marnie. What would you do with that cash if you want it? Oh, I've got a couple of
+[ 1682.6] daughter's weddings at the end of the year, so it could go towards that, you know, and it
+[ 1686.9] could help. It really would. So two of your daughters are getting married at the end of
+[ 1691.7] this year. I know, six weeks apart. Oh, well, that's considerate. It was, wasn't it? Oh, gosh.
+[ 1700.3] But you must be so excited. Is there nerves or stress or is it all going fairly smoothly?
+[ 1705.8] It's going pretty smooth. It'll be good once it's all over. Yeah, 100%. Yeah, exactly. All right,
+[ 1711.8] let's give you the cash. What are you going to do, Marnie? Tell me what this sound is. What do
+[ 1715.3] you think? Is it putting toast in a toaster and then like pushing the toast down? Oh, Marnie,
+[ 1721.7] no, it's not. But you made my heart race a little bit because what you said in that answer is
+[ 1728.3] probably what the actual answer is. It had words, your answer had words that would be in the actual
+[ 1737.0] correct answer, you know? Okay, yeah, I don't. A little hint there, a little clue there. Yeah.
+[ 1742.4] We'll talk to you soon, Marnie. Okay, thank you. You're lovely. Bye. Secret Sound, it's back at
+[ 1748.7] 6.30 and 8 o'clock and 1.333.53 tomorrow morning. And we put all of the incorrect guesses so far
+[ 1755.0] for this thing on the Sarge for Breakfast podcast at least in the Secret Sound. All thanks to 40.
