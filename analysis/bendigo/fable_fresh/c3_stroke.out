@@ -1,0 +1,33 @@
+stroke at 1.20s: 25 pawl drops
+  intervals ms: 18 95 103 89 14 71 18 48 18 46 13 42 25 17 68 14 14 70 16 102 78 14 59 13
+  levels dB  : -16 -18 -13 -14 -11 -17 -18 -14 -8 -19 -11 -15 -17 -12 -17 -19 -10 -16 -10 -15 -13 -6 -19 -15 -19
+  double-click spacing ms: 4.9 4.6 6.2 4.4 4.9 4.1 5.1 6.1 4.1 5.4 6.5 6.8 5.5 6.3 4.4 4.0 6.2
+  corr(level, following interval) = -0.32
+stroke at 2.45s: 5 pawl drops
+  intervals ms: 13 41 25 19
+  levels dB  : -7 -12 -10 -19 -16
+  double-click spacing ms: 7.4 5.4 7.7 6.2
+stroke at 3.84s: 29 pawl drops
+  intervals ms: 101 60 14 52 16 41 43 16 31 14 40 15 35 13 16 22 17 36 59 73 16 61 59 76 23 16 18 25
+  levels dB  : -12 -16 -18 -15 -7 -19 -5 -20 -18 -19 -15 -5 -15 -5 -14 -19 -7 -18 -9 -6 -10 -19 -7 -19 -7 -19 -14 -18 -13
+  double-click spacing ms: 4.6 4.8 4.2 4.2 4.4 6.7 4.8 5.9 5.9 5.8 4.2 4.1 5.0 4.9 4.9 4.1 4.5 4.4 5.3 4.5
+  corr(level, following interval) = -0.01
+stroke at 5.02s: 5 pawl drops
+  intervals ms: 13 54 18 16
+  levels dB  : -3 -16 -14 -10 -16
+  double-click spacing ms: 4.4 7.1 4.1 6.7 5.8
+stroke at 6.26s: 36 pawl drops
+  intervals ms: 12 61 54 14 40 48 13 36 44 46 13 34 16 31 15 22 14 17 19 16 29 49 13 36 15 48 14 44 12 45 14 61 13 94 30
+  levels dB  : -12 -11 -8 -15 -18 -12 -9 -15 -10 -9 -10 -17 -7 -16 -9 -16 -18 -17 -19 -7 -19 -7 -10 -13 -16 -11 -9 -19 -8 -15 -11 -19 -18 -15 -19 -17
+  double-click spacing ms: 5.4 4.8 5.5 4.3 4.1 4.6 4.2 5.2 5.9 6.8 5.7 6.6 7.4 6.5 5.9 4.8 5.2 4.2 4.1 4.0 4.4 5.6 5.6 6.2 5.3 7.8 4.5 5.4 4.7
+  corr(level, following interval) = -0.09
+stroke at 8.45s: 34 pawl drops
+  intervals ms: 56 39 16 43 14 16 18 16 26 16 15 12 19 19 15 21 15 14 25 15 16 14 23 18 16 46 14 16 23 20 51 12 116
+  levels dB  : -11 -11 -18 -9 -10 -19 -19 -8 -20 -7 -19 -10 -6 -19 -15 -14 -19 -9 -17 -9 -19 -17 -8 -18 -15 -20 -6 -12 -20 -16 -20 -19 -11 -18
+  double-click spacing ms: 6.4 6.2 4.1 5.1 4.4 4.7 4.8 8.7 4.7 8.1 6.7 5.1 5.7 4.1 10.2 5.5 4.5 5.5 5.5 7.6 4.5 4.1 4.1 4.2 6.1 4.7 5.1
+  corr(level, following interval) = 0.06
+stroke at 10.51s: 13 pawl drops
+  intervals ms: 19 132 36 81 103 16 46 28 15 117 140 112
+  levels dB  : -14 -16 -15 -18 -13 -19 -20 -12 -17 -19 -17 -19 -16
+  double-click spacing ms: 4.7 9.1 4.6 8.1 5.6 6.8
+  corr(level, following interval) = -0.17
