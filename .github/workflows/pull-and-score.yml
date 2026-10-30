@@ -3,7 +3,7 @@ name: Pull and score
 # Mid North Coast only. Runs a Freesound pull for one jobs/*.txt list, scores every clip with steel_score.py (whose
 # fingerprint is calibrated on the Mid North Coast clue; not valid for Bendigo), builds A/B files
 # for the best matches, and commits the results to the `results` branch (results/<name>/). The downloaded clips
-# are kept as workflow artifacts. Needs the repository secret FREESOUND_KEY; FREESOUND_KEY_2 (optional) adds a second bot.
+# are kept as workflow artifacts. Needs the repository secret FREESOUND_KEY_SOUNDMAN; FREESOUND_KEY_SOUNDDETECTOR (optional) adds a second bot.
 on:
   workflow_dispatch:
     inputs:
@@ -28,7 +28,7 @@ permissions:
 
 jobs:
   pull:
-    # One bot per key: bot 1 uses FREESOUND_KEY; bot 2 runs only if FREESOUND_KEY_2 exists. The searches are split
+    # One bot per key: bot 1 uses FREESOUND_KEY_SOUNDMAN; bot 2 runs only if FREESOUND_KEY_SOUNDDETECTOR exists. The searches are split
     # between the bots that have a key (each key keeps its own 60/minute limit; downloads are not limited).
     runs-on: ubuntu-latest
     timeout-minutes: 120
@@ -43,10 +43,10 @@ jobs:
       - name: Key
         id: key
         env:
-          K1: ${{ secrets.FREESOUND_KEY }}
-          K2: ${{ secrets.FREESOUND_KEY_2 }}
+          K1: ${{ secrets.FREESOUND_KEY_SOUNDMAN }}
+          K2: ${{ secrets.FREESOUND_KEY_SOUNDDETECTOR }}
         run: |
-          test -n "$K1" || { echo "Add the repository secret FREESOUND_KEY first"; exit 1; }
+          test -n "$K1" || { echo "Add the repository secret FREESOUND_KEY_SOUNDMAN first"; exit 1; }
           bots=1; [ -n "$K2" ] && bots=2
           echo "bots=$bots" >> "$GITHUB_OUTPUT"
           if [ "${{ matrix.bot }}" -gt "$bots" ]; then echo "skip=1" >> "$GITHUB_OUTPUT"; exit 0; fi
