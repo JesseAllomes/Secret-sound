@@ -1,37 +1,55 @@
-# Session status (30 Oct 2026, cloud session) — read this first after a context reset
+# Session status (31 Oct 2026 morning, after the overnight run) — read this first after a context reset
 
 Owner rules: see CLAUDE.md (scripts for data collection, never start Fable unless asked, keep MNC and Bendigo separate).
+DrainClamp state: `.agent/` (push it after every DrainClamp write: `tools/dc_push.sh`).
+
+## Morning summary (overnight 30 Oct, owner asleep)
+**Mid North Coast** — best leads, every A/B pack in `listening/mnc/` (all sent):
+- Keyboard and player push-buttons lead on BOTH scorers (`analysis/mnc/combined_ranking.csv`, `tools/combine_mnc.py`):
+  mechanical-keyboard spacebar / key presses (0.99 combined), a hotel door lock, tape-recorder / tape-deck buttons,
+  CD/DVD trays. Highest single CLAP score: "Key_Old_Recorder" (0.854, wave 2).
+- Sarge's warmest words: "pushing the [button/lock] [down/in]…" (27 Aug "first half almost correct"; 29 Jul toaster
+  button "very close"; 1 Jul tape-player button "very close"; 13 Jul tape-deck buttons "really good words"; 19 Oct
+  mouse switch after batteries "very very close"). His own cassette deck is in storage (15 Jul), so not the deck itself.
+- Sprung lids / doors (wave 4) scored lower (top 0.766): weaker.
+- Packs sent: work zip (v6b and stacked clue), local sets, 100 Fable searches, waves 2-4, combined top 20.
+**Bendigo** — packs in `listening/bendigo/` (all sent):
+- Best score: work-zip "Old Lever Pull" (0.855). A pulled lever with a ratchet fits the long-short metal clicks; a
+  one-armed bandit / slot machine fits "classic / need a hand / old school" and is not on the wrong list. Wave 3
+  (lever / slot machine, 30 searches) ran overnight: `results/bendigo_wave3` on the `results` branch.
+- Other leaders: grandfather-clock winding (0.807), rotary phone dials (0.80), bike wheel / spokes, hand cranks, egg timer.
+- Fresh Fable (no context): `analysis/bendigo/fable_fresh.md` (spoons, winding an alarm clock, teaspoon in a mug...).
+**Freesound use overnight:** about 330 search requests on the SOUNDMAN key (bot 1 only): fable100 100, wave2 50,
+wave3 30, wave4 35, Bendigo 50 + 30 + 30, plus ~10 name lookups. Downloads do not count.
+**Next:** owner listens to the packs and says which are closest; search around those. Possible: a combined
+CLAP + structure score for Bendigo (no structure scorer yet), and a Freesound run on the top leads with more results
+per search.
 
 ## Mid North Coast (Sarge's Secret Sound, NSW) — $2,800 on Fri 30 Oct, +$25/weekday (Mon 2 Nov ≈ $2,825)
-- Clue audio: `clues/mnc/clue.wav` (original, 0.631 s), `clues/mnc/clue_v6b.wav` (owner's preferred clean copy).
-  Measured: faint pre-click ~64 ms, crunch B ~112 ms (5 impacts/27 ms), clean snap C ~251 ms (B→C 138 ms), 62 Hz thump
-  30-40 ms after each, object rings ~790 Hz (+~440 Hz) after C only. Station tones 110/194/220 Hz are background.
-- **Sarge's hints** (`analysis/mnc/caller_guesses.md`): 25 Aug "putting toast in a toaster and pushing the toast down" →
-  "had words that would be in the actual correct answer"; 27 Aug "pushing the button to open a microwave door" → "first
-  half almost correct"; 16 Sep "putting a battery pack back into a drill / KitchenAid" → "right track"; 21 Sep "popping
-  batteries into a compartment like a mouse" → "you're hot… close"; 15 Sep "toast pops up" → "move away from the toaster";
-  12 Oct Ken "one of your guesses was remarkably close"; 19 Oct Auntie Julia "very very close".
+- Round started 13 May 2026 at $25 (10 plays that morning). Harvest complete: 105 episodes with plays, 423 plays, 200
+  segments; every play (`harvest/mnc/plays/*.flac`) and segment (`harvest/mnc/segments/*.mp3`) saved.
+- Clue audio: `clues/mnc/clue.wav` (original 0.631 s), `clue_v6b.wav` (owner's clean copy), **`clue_stacked.wav`**
+  (median of 415 aligned broadcasts; use this for matching). Stack report (`harvest/mnc/stack/report.txt`): the
+  recording common to every broadcast is ~0.05-0.36 s of the original clip; the rest is station background.
+- Fresh Fable: `analysis/mnc/fable_fresh_step1.md` (audio only) and `fable_fresh_step2.md` (34 dated hints, revised
+  candidates). On-air guesses: `analysis/mnc/onair_guesses.json` (196: 146 wrong, 37 warm, 13 unclear).
+- `tools/wrong_filter.py` drops clips of exact wrong on-air actions (object + part + action), never whole objects.
 - Rejected by owner's ear: staplers, door handles/latches, hole punches, light switches, BBC ticket machine, SLR shutter,
-  binding/office machines, battery/cartridge/SD clips (A/B zips sent). steel_score.py: clue 0.99, best real 0.83-0.90.
-- Podcast harvest (harvest/mnc/; running from the scratchpad copy, synced with tools/sync_scratch.sh). Reached 21 Jun
-  with plays still present; jackpot $700 on 22 Jun (+$25/weekday) → round started early-mid June. stack_plays.py aligns
-  and stacks every play (stack/clue_stacked_*.wav, report.txt: does the recording run past our crop?).
-- **Next (owner approved):** when the harvest stops, rerun build_package.py and stack_plays.py, then start the
-  fresh, no-context Fable in two steps (1: clue audio only; 2: + mnc_evidence.md and the rejected-by-ear list). NO past winners
-  (owner: they anchor a category). No prior theories, no focus hints.
-- Freesound: this cloud session's IP is blocked. Use GitHub Actions `.github/workflows/pull-and-score.yml`
-  (secrets FREESOUND_KEY_SOUNDMAN, FREESOUND_KEY_SOUNDDETECTOR; inputs name, queries jobs/*.txt, per_query, max_seconds,
-  bots default 1, ab). Results on branch `results`. Use short 1-2 word searches (multi-word phrases return 0).
-  BBC library works directly (`bbc_pull.py`).
-
-## Where the work lives (everything Secret Sound goes in this repo)
-- `harvest/mnc/`: podcast harvest scripts, harvest.jsonl, transcripts/, guesses, package/mnc_evidence.md.
-- `clues/mnc/`, `clues/bendigo/`: clue audio and cleaned versions. `listening/mnc/`: A/B zips sent to the owner.
-- `results/local/`: local scoring CSVs; GitHub runs commit to branch `results`. `tools/scratch/`: one-off analysis scripts.
-- `tools/sync_scratch.sh <scratchpad>` copies a session's scratchpad into the repo again (rerun after the harvest ends).
-  Left out (fetchable again by script): podcast episodes/feeds, Freesound/BBC clip sets, temporary renders.
+  binding/office machines, battery/cartridge/SD clips.
 
 ## Bendigo (Cogho & Jules' Secret Sound, VIC only) — $750 per page heading, +$25/day
-- `analysis/bendigo/README.md`: clues (I'm a classic / I need a hand / I'm old school), 42 wrong guesses, Fable analysis
-  (5 metal-on-metal hits, ring 2.32/2.55 kHz; top: playing the spoons, stirring tea with a teaspoon, winding an old
-  alarm clock, hand-crank sewing machine). Page clip is trimmed both ends; Bendigo podcast has no plays.
+- Clip `clues/bendigo/clue_b.wav` (0.273 s, trimmed both ends; only copy). Clues: I'm a classic / I need a hand /
+  I'm old school. Station's wrong list as `analysis/bendigo/onair_guesses.json` (42).
+
+## How to run things
+- Freesound is blocked from this cloud IP: use GitHub Actions. `pull-and-score.yml` (inputs: name, queries jobs/*.txt,
+  competition mnc|bendigo, per_query, max_seconds, bots default 1, ab, reuse_run to re-score an earlier pull with no
+  Freesound requests). `clap-index.yml` ranks the 8,421-clip work zip (competition mnc|bendigo). `harvest.yml` = one
+  runner per podcast episode. Results land on branch `results`. Use 1-2 word searches.
+- Package: `tools/pack_ab.py <csv> <ab dir> <out> --skip-sent <listening dir>`. BBC works directly (`bbc_pull.py`).
+- Local env: `.venv` (`tools/test.sh` runs the tests). The container can restart: background jobs then need restarting
+  (clap_index builds are incremental).
+
+## Where the work lives
+- `harvest/mnc/`, `clues/`, `listening/` (packs sent), `analysis/{mnc,bendigo}/`, `jobs/` (search lists), `results/local/`.
+- `data_manifests/work_zip.tsv` (+ `.url`): the owner's 994 MB OneDrive zip, fetched by `tools/fetch_zip.py`.
