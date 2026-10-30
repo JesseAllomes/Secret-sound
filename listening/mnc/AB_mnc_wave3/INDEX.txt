@@ -1,0 +1,21 @@
+Mid North Coast wave 3 (player-type push buttons): stacked clue, then candidate, x4. New clips only; wrong on-air actions left out.
+
+ 1. 0.820  Disk drive sounds - opening and closing  [dvd player]  (freesound.org/s/595859)
+ 2. 0.779  Classic Arcade Button with Cherry Game Switch - Multiple Presses  [recorder button]  (freesound.org/s/869751)
+ 3. 0.774  Old computer lid close  [old recorder]  (freesound.org/s/331427)
+ 4. 0.761  dvd player.wav  [dvd player]  (freesound.org/s/570617)
+ 5. 0.752  Casio AS-51R Cassette Player FM/AM Switch  [record player]  (freesound.org/s/624632)
+ 6. 0.747  Tape Player Sounds  [tape recorder]  (freesound.org/s/132029)
+ 7. 0.742  Button Press  [stereo button]  (freesound.org/s/867921)
+ 8. 0.731  Casio AS-51R Cassette Player Playing  [record player]  (freesound.org/s/624636)
+ 9. 0.731  Casio AS-51R Cassette Player BBS Switch  [record player]  (freesound.org/s/624633)
+10. 0.729  Tape Recorder.wav  [tape recorder]  (freesound.org/s/61075)
+11. 0.727  Mouse Clicks & Scrolls  [stereo button]  (freesound.org/s/320146)   [on air warm: 26 Jul: a computer mouse click]
+12. 0.726  VHS Tape Insert and Eject sound  [vcr]  (freesound.org/s/788770)
+13. 0.726  Piano - Dead Key - Double Long  [piano key]  (freesound.org/s/402839)
+14. 0.726  CD Jewel Case; close.wav  [cd player]  (freesound.org/s/681600)
+15. 0.724  Casio AS-51R Cassette Player Tuning Wheel.wav  [record player]  (freesound.org/s/624641)
+16. 0.723  Piano - Dead Key - Double Short  [piano key]  (freesound.org/s/402838)
+17. 0.722  COMAv-Blue Snowball Microphone, CU_Reel To Reel Tape Player, Portable, Record, Start, Play, Stop_Nicholas Judy_TDC  [record player]  (freesound.org/s/866360)
+18. 0.719  cd-dvd_drive_sounds.wav  [cd eject]  (freesound.org/s/651291)
+19. 0.718  Inserting Vhs tape.mp3  [vhs]  (freesound.org/s/639352)

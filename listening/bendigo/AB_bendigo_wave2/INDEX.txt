@@ -1,0 +1,13 @@
+Bendigo wave 2 (rotary dial / clock winding): station clip, then candidate, x4. New clips only; station's wrong guesses left out.
+
+ 1. 0.804  bike-wheel-torque-looped.flac  [hand crank]  (freesound.org/s/274480)
+ 2. 0.790  Super 8 mm manual crank film  [hand crank]  (freesound.org/s/256650)
+ 3. 0.790  clockwork 06.wav  [grandfather clock]  (freesound.org/s/169116)
+ 4. 0.788  Egg Timer.wav  [egg timer]  (freesound.org/s/366720)
+ 5. 0.779  Stove fan on  [kitchen timer]  (freesound.org/s/336520)
+ 6. 0.776  analog telephone with background noise.wav  [old telephone]  (freesound.org/s/79650)
+ 7. 0.773  Rotary phone 1 stereo Trawsfynydd Wales  [rotary phone]  (freesound.org/s/700579)
+ 8. 0.766  Hand cranked water pump 2024 09 07  [hand crank]  (freesound.org/s/753804)
+ 9. 0.761  Rotary Dial 6 (W/Pause)  [rotary phone]  (freesound.org/s/556468)
+10. 0.761  CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nicholas Judy_TDC  [clock winding]  (freesound.org/s/819304)
+11. 0.761  Sharpening Pencil in Old Fashion Pencil Sharpener.wav  [pencil sharpener]  (freesound.org/s/388498)
