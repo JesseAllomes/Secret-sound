@@ -17,8 +17,8 @@ Owner rules: see CLAUDE.md (scripts for data collection, never start Fable unles
   build_package.py → pods/package/mnc_evidence.md). Sound first seen 26 Jul so far; jackpot $1,225 on 27 Jul → round
   likely started mid-July. Waiting for harvest to reach the start (opening cryptic clues).
 - **Next (owner agreed to wait):** when the harvest stops, run build_package.py, then ASK the owner before starting a
-  fresh, no-context Fable with: clue audio, mnc_evidence.md, past winners (charger into power point, spray bottle,
-  Switch into dock, measuring cups clipping, shower nozzle setting), rejected-by-ear list. No prior theories.
+  fresh, no-context Fable in two steps (1: clue audio only; 2: + mnc_evidence.md and the rejected-by-ear list). NO past winners
+  (owner: they anchor a category). No prior theories, no focus hints.
 - Freesound: this cloud session's IP is blocked. Use GitHub Actions `.github/workflows/pull-and-score.yml`
   (secrets FREESOUND_KEY_SOUNDMAN, FREESOUND_KEY_SOUNDDETECTOR; inputs name, queries jobs/*.txt, per_query, max_seconds,
   bots default 1, ab). Results on branch `results`. Use short 1-2 word searches (multi-word phrases return 0).

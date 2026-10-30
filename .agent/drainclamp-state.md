@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=8 -->
+<!-- drainclamp-build: state; schema=1; generation=9 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -20,7 +20,7 @@
 - repo -> every Secret Sound file goes to JesseAllomes/Secret-sound branch main; never BuildIt (user)
 - separation -> Mid North Coast and Bendigo kept separate in files, indexes, scores and reports (user)
 - data collection -> repeatable scripts that use no model tokens (user, CLAUDE.md)
-- fable -> fresh no-context Fable for MNC APPROVED once data is ready (m1 done); two steps in one agent: (1) clue audio only -> describe + candidate mechanisms, (2) then transcripts, past winners, owner rejections (as owner listening, not exclusions) -> answer phrased as a caller guess + what to test; give facts only (file meanings, "Absolutely not!" is a catchphrase, auto transcripts), no theories or focus hints (user, 30 Oct)
+- fable -> fresh no-context Fable for MNC APPROVED once data is ready (m1 done); two steps in one agent: (1) clue audio only -> describe + candidate mechanisms, (2) then transcripts and owner rejections (as owner listening, not exclusions) -> answer phrased as a caller guess + what to test; NO past winners (they anchor a category); give facts only (file meanings, "Absolutely not!" is a catchphrase, auto transcripts), no theories or focus hints (user, 30 Oct)
 - exclusions -> none outright; weight candidates; wrong on-air guesses are information (user)
 - mechanism -> describe the sound, do not steer with "spring"; resonance may be any mechanical resonance (user)
 - jackpot -> record amount and date whenever a segment is transcribed (user)
