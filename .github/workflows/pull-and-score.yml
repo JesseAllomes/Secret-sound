@@ -10,6 +10,9 @@ on:
       name:
         description: "Run name, e.g. mnc_binding (results go to results/<name>/)"
         required: true
+      reuse_run:
+        description: "Run id of an earlier pull to re-score its clips instead of pulling (no Freesound requests)"
+        default: ""
       competition:
         description: "mnc (Mid North Coast: steel_score + CLAP) or bendigo (CLAP only, 0.28 s window)"
         default: mnc
@@ -37,9 +40,11 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   pull:
+    if: inputs.reuse_run == ''
     # One bot per key: bot 1 uses FREESOUND_KEY_SOUNDMAN; bot 2 runs only if FREESOUND_KEY_SOUNDDETECTOR exists. The searches are split
     # between the bots that have a key (each key keeps its own 60/minute limit; downloads are not limited).
     runs-on: ubuntu-latest
@@ -80,6 +85,7 @@ jobs:
 
   score:
     needs: pull
+    if: always() && (needs.pull.result == 'success' || needs.pull.result == 'skipped')
     runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
@@ -96,6 +102,8 @@ jobs:
         with:
           pattern: clips-${{ inputs.name }}-bot*
           path: parts
+          run-id: ${{ inputs.reuse_run || github.run_id }}
+          github-token: ${{ github.token }}
       - name: Merge
         run: |
           mkdir -p "data/${{ inputs.name }}"
