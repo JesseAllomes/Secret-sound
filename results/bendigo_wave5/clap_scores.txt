@@ -1,0 +1,77 @@
+on-air filter: 0 clips match a wrong guess and are left out of the A/B files
+0.788 clap 0.775 mel 0.818  366720 @3.29s  [egg timer] Egg Timer.wav
+0.779 clap 0.747 mel 0.856  336520 @2.03s  [kitchen timer] Stove fan on
+0.773 clap 0.729 mel 0.875  811011 @5.30s  [wind-up toy] TOYMech-Samsung Galaxy Smartphone, MCU_Wind Up Toy Clacking_
+0.772 clap 0.732 mel 0.864  466205 @0.00s  [fishing reel] FishingReel.wav
+0.765 clap 0.724 mel 0.860  788434 @2.02s  [kitchen timer] Air Fryer - Cook/Timer/Bell
+0.761 clap 0.741 mel 0.805  819304 @3.86s  [alarm clock] CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nichola
+0.760 clap 0.723 mel 0.846  166937 @6.97s  [kitchen timer] Toaster Oven Sounds
+0.758 clap 0.703 mel 0.888  698992 @1.46s  [clockwork toy] Model/toy train set
+0.753 clap 0.720 mel 0.831  216571 @15.44s  [jack-in-the-box] Letter Box
+0.746 clap 0.696 mel 0.863  49224 @3.99s  [clockwork toy] Motor noise2.WAV
+0.743 clap 0.709 mel 0.824  403518 @1.69s  [kitchen timer] Egg-Timer_Spring_Wind-up.wav
+0.743 clap 0.706 mel 0.827  34968 @3.35s  [fishing reel] F.S. 1  fishing reel.aif
+0.741 clap 0.701 mel 0.835  619296 @1.80s  [cuckoo wind] Clock (Cuckoo) - Wind 3
+0.739 clap 0.668 mel 0.905  81213 @1.53s  [clockwork toy] toy car.flac
+0.734 clap 0.694 mel 0.829  467208 @15.13s  [wind-up toy] Yo-Yo.wav
+0.734 clap 0.693 mel 0.828  811214 @3.08s  [wind-up toy] TOYMech-Blue Snowball Microphone, MCU_Robot, Wind Up, Walk_N
+0.734 clap 0.677 mel 0.866  366083 @1.34s  [wind-up toy] wind up car.wav
+0.732 clap 0.691 mel 0.829  32263 @2.46s  [wind-up toy] mechanical_pingpong_toy.wav
+0.725 clap 0.711 mel 0.760  169450 @3.85s  [kitchen timer] kitchen_timer.WAV
+0.725 clap 0.666 mel 0.863  432063 @19.12s  [wind alarm] Alarm clock ring
+0.725 clap 0.694 mel 0.796  811042 @0.51s  [jack-in-the-box] TOYMisc-Samsung Galaxy Smartphone, CU_Jack In The Box, Pop O
+0.723 clap 0.672 mel 0.841  619297 @3.90s  [cuckoo wind] Clock (Cuckoo) - Wind 2
+0.721 clap 0.675 mel 0.829  871471 @1.33s  [camera wind] 1968 Praktica Super TL Camera Wind Up + Shutter 02
+0.720 clap 0.670 mel 0.839  824949 @0.02s  [camera wind] COMCam-Blue Snowball Microphone, MCU_Camera, Wind Up Auto Wi
+0.720 clap 0.668 mel 0.840  725424 @0.00s  [fishing reel] Fishing Reel
+0.720 clap 0.669 mel 0.837  808861 @2.53s  [mechanical alarm] MECHRtch-Blue Snowball Microphone, MCU_Wacky Wake Up Alarm C
+0.718 clap 0.659 mel 0.855  179898 @5.60s  [camera wind] shipyard3
+0.716 clap 0.670 mel 0.824  110959 @9.28s  [watch wind] Spieluhr-aufziehen.wav
+0.716 clap 0.671 mel 0.821  49214 @0.39s  [wind-up toy] Fisher Price3.WAV
+0.715 clap 0.652 mel 0.861  13687 @4.36s  [camera wind] filmcamera.wav
+0.714 clap 0.664 mel 0.832  619298 @0.58s  [cuckoo wind] Clock (Cuckoo) - Wind 1
+0.713 clap 0.667 mel 0.821  843672 @2.36s  [camera wind] COMCam-Blue Snowball Microphone, CU_Kodak Brownie Hawkeye, F
+0.711 clap 0.674 mel 0.795  136521 @1.11s  [wind alarm] winding up an alarm clock.wav
+0.709 clap 0.666 mel 0.806  337175 @0.77s  [camera wind] pentax me - film wind - closed 02.wav
+0.707 clap 0.657 mel 0.823  805327 @18.93s  [egg timer] CLOCKMech-Blue Snowball Microphone, CU_Cooking Timer Wind Up
+0.706 clap 0.720 mel 0.672  112737 @13.07s  [egg timer] Audio-Technica AT3031 Shure FP24.WAV
+0.706 clap 0.650 mel 0.835  255850 @15.57s  [mechanical alarm] parkingmeter.wav
+0.704 clap 0.665 mel 0.796  676375 @0.19s  [film advance] Film Camera Click Shutter
+0.703 clap 0.657 mel 0.811  325436 @10.72s  [wind-up toy] Wind-up Toy Motorbike SFX.wav
+0.701 clap 0.625 mel 0.880  179908 @4.12s  [camera wind] Seagulls and Rigging Sounds
+0.700 clap 0.657 mel 0.798  830450 @12.97s  [wind-up toy] Talking Teeth Novelty Toy 2
+0.699 clap 0.662 mel 0.785  507096 @0.19s  [fishing reel] Fly Fishing Reel Running_3.wav
+0.699 clap 0.652 mel 0.810  112736 @0.00s  [egg timer] Audio-Technica AT3031 BeachTek DXA-10.WAV
+0.698 clap 0.614 mel 0.895  443470 @6.83s  [clockwork toy] Clock Whirring.m4a
+0.697 clap 0.636 mel 0.841  863222 @4.26s  [jack-in-the-box] Moving box (SoundAction 244)
+0.697 clap 0.643 mel 0.822  871469 @1.04s  [camera wind] 1968 Praktica Super TL Camera Wind Up + Shutter 01
+0.696 clap 0.618 mel 0.879  626169 @1.88s  [alarm clock] Alarm clock Vs Window
+0.696 clap 0.637 mel 0.833  180737 @0.00s  [wind alarm] alarm_ringing.wav
+0.694 clap 0.646 mel 0.806  242875 @48.83s  [kitchen timer] Microwave Clean
+0.688 clap 0.669 mel 0.733  171233 @3.07s  [wind-up toy] clock / music-box spring mechanism wind-up
+0.688 clap 0.667 mel 0.737  335375 @22.80s  [tin toy] Tin Toys: train manipulation pt.2
+0.685 clap 0.606 mel 0.870  456127 @37.20s  [camera wind] Country Lane Passing Traffic with mild wind.mp3
+0.682 clap 0.643 mel 0.774  486167 @2.08s  [fishing reel] Fishing reel
+0.682 clap 0.612 mel 0.845  179906 @2.10s  [camera wind] shipyard4
+0.680 clap 0.654 mel 0.739  242874 @48.83s  [kitchen timer] Microwave
+0.680 clap 0.634 mel 0.787  118973 @8.83s  [fishing reel] FishingRod Winding.aif
+0.680 clap 0.625 mel 0.806  329893 @3.93s  [wind alarm] Herätyskello, pirisevä / Alarm clock, mechanical, wind up, r
+0.679 clap 0.667 mel 0.706  704583 @3.96s  [alarm clock] alarm mechanic.mp3
+0.677 clap 0.653 mel 0.736  139959 @4.38s  [wind alarm] ClockWindUp.Antique.Back.wav
+0.677 clap 0.628 mel 0.792  366371 @28.70s  [fishing reel] Fishing rod
+results/bendigo_wave5/ab_clap/AB_bendigo_clap1_egg-timer_366720.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap2_kitchen-timer_336520.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap3_wind-up-toy_811011.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap4_fishing-reel_466205.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap5_kitchen-timer_788434.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap6_alarm-clock_819304.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap7_kitchen-timer_166937.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap8_clockwork-toy_698992.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap9_jack-in-the-box_216571.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap10_clockwork-toy_49224.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap11_kitchen-timer_403518.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap12_fishing-reel_34968.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap13_cuckoo-wind_619296.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap14_clockwork-toy_81213.mp3
+results/bendigo_wave5/ab_clap/AB_bendigo_clap15_wind-up-toy_467208.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
