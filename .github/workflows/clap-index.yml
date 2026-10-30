@@ -11,6 +11,9 @@ on:
       name:
         description: "Run name (results go to results/<name>/)"
         default: clap_work_zip
+      competition:
+        description: "mnc (0.64 s window) or bendigo (0.28 s window); keep them separate"
+        default: mnc
       clue:
         description: "Clue to rank against"
         default: clues/mnc/clue_v6b.wav
@@ -25,7 +28,8 @@ permissions:
   contents: write
 
 env:
-  WIN: "0.64"
+  WIN: ${{ inputs.competition == 'bendigo' && '0.28' || '0.64' }}
+  COMP: ${{ inputs.competition }}
 
 jobs:
   fetch:
@@ -126,11 +130,11 @@ jobs:
           K1: ${{ secrets.FREESOUND_KEY_SOUNDMAN }}
         run: |
           out="results/${{ inputs.name }}"; mkdir -p "$out"
-          python clap_index.py query "${{ inputs.clue }}" work/freesound --tag mnc --top 0 --csv "$out/scores.csv"
+          python clap_index.py query "${{ inputs.clue }}" work/freesound --tag "$COMP" --top 0 --csv "$out/scores.csv"
           if [ -n "$K1" ]; then mkdir -p ~/.secret-song && umask 077 && printf '%s' "$K1" > ~/.secret-song/freesound.key
             python tools/fs_names.py "$out/scores.csv" work/freesound/meta.json --top 500; fi
-          python clap_index.py query "${{ inputs.clue }}" work/freesound --tag mnc --top 60 --csv "$out/scores.csv" \
-            --ab "${{ inputs.ab }}" --out "$out/ab" --skip-wrong analysis/mnc/onair_guesses.json | tee "$out/scores.txt"
+          python clap_index.py query "${{ inputs.clue }}" work/freesound --tag "$COMP" --top 60 --csv "$out/scores.csv" \
+            --ab "${{ inputs.ab }}" --out "$out/ab" --skip-wrong "analysis/$COMP/onair_guesses.json" | tee "$out/scores.txt"
           cp work/freesound/meta.json "$out/meta.json" 2>/dev/null || true
           echo "clap_index.py, window $WIN s, max ${{ inputs.max_events }} events per clip; clue ${{ inputs.clue }}" >> "$out/scores.txt"
           mkdir -p index && cp work/freesound/.clap_*.npz index/ 2>/dev/null; ls -la index
