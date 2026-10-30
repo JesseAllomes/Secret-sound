@@ -1,0 +1,22 @@
+Mid North Coast: best of both scorers (CLAP sound-match x steel structure fingerprint) across the 100-search, wave 2 and wave 3 runs. Clue then candidate, x4. Wrong on-air actions left out. Some were in earlier packs.
+
+ 1. 0.995 (CLAP 0.800, steel 0.828)  Pressing spacebar on computer mechanical keyboard.wav  [spacebar]  (freesound.org/s/515810)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 2. 0.993 (CLAP 0.819, steel 0.814)  Mechanical-Keyboard: Typing  [mechanical keyboard]  (freesound.org/s/331428)
+ 3. 0.992 (CLAP 0.761, steel 0.837)  Vintage Keyboard 4  [keystroke]  (freesound.org/s/194798)
+ 4. 0.990 (CLAP 0.777, steel 0.808)  Some sweet spacebar clicks  [spacebar]  (freesound.org/s/466049)
+ 5. 0.989 (CLAP 0.742, steel 0.854)  newport-hotel-door-lock.aif  [latch click]  (freesound.org/s/124986)
+ 6. 0.987 (CLAP 0.748, steel 0.826)  Keyboard_Tactile_5  [mechanical keyboard]  (freesound.org/s/766635)
+ 7. 0.986 (CLAP 0.749, steel 0.820)  FUJITSU Computers Keyboard - Enter key Press Mono  [keyboard key]  (freesound.org/s/799116)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+ 8. 0.981 (CLAP 0.783, steel 0.780)  Vintage Keyboard 1  [keystroke]  (freesound.org/s/194795)
+ 9. 0.980 (CLAP 0.785, steel 0.779)  Xbox 360 Button Click  [joystick]  (freesound.org/s/497115)
+10. 0.979 (CLAP 0.729, steel 0.811)  Tape Recorder.wav  [tape recorder]  (freesound.org/s/61075)
+11. 0.978 (CLAP 0.774, steel 0.777)  Old computer lid close  [old recorder]  (freesound.org/s/331427)
+12. 0.978 (CLAP 0.769, steel 0.778)  button press .wav  [elevator button]  (freesound.org/s/67131)
+13. 0.977 (CLAP 0.727, steel 0.805)  Mouse Clicks & Scrolls  [stereo button]  (freesound.org/s/320146)   [on air warm: 26 Jul: a computer mouse click]
+14. 0.977 (CLAP 0.719, steel 0.819)  cd-dvd_drive_sounds.wav  [cd eject]  (freesound.org/s/651291)
+15. 0.976 (CLAP 0.807, steel 0.767)  FUJITSU Computers Keyboard - P key Press Mono  [keyboard key]  (freesound.org/s/799117)   [on air warm: 15 Jun: pushing control alt delete on a keyboard]
+16. 0.975 (CLAP 0.761, steel 0.774)  dvd player.wav  [dvd player]  (freesound.org/s/570617)
+17. 0.975 (CLAP 0.820, steel 0.763)  Disk drive sounds - opening and closing  [dvd player]  (freesound.org/s/595859)
+18. 0.970 (CLAP 0.747, steel 0.772)  Tape Player Sounds  [tape recorder]  (freesound.org/s/132029)
+19. 0.969 (CLAP 0.695, steel 0.838)  Vintage Kodak Camera Shutter.wav  [button release]  (freesound.org/s/467185)
+20. 0.966 (CLAP 0.779, steel 0.753)  Classic Arcade Button with Cherry Game Switch - Multiple Presses  [recorder button]  (freesound.org/s/869751)
