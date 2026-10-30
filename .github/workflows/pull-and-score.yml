@@ -22,6 +22,9 @@ on:
       max_seconds:
         description: "Longest clip to pull (seconds)"
         default: "30"
+      bots:
+        description: "Bots to use (1 = SOUNDMAN key only; 2 also uses SOUNDDETECTOR)"
+        default: "1"
       ab:
         description: "How many A/B files"
         default: "10"
@@ -50,7 +53,7 @@ jobs:
           K2: ${{ secrets.FREESOUND_KEY_SOUNDDETECTOR }}
         run: |
           test -n "$K1" || { echo "Add the repository secret FREESOUND_KEY_SOUNDMAN first"; exit 1; }
-          bots=1; [ -n "$K2" ] && bots=2
+          bots=1; [ -n "$K2" ] && [ "${{ inputs.bots }}" = "2" ] && bots=2
           echo "bots=$bots" >> "$GITHUB_OUTPUT"
           if [ "${{ matrix.bot }}" -gt "$bots" ]; then echo "skip=1" >> "$GITHUB_OUTPUT"; exit 0; fi
           key="$K1"; [ "${{ matrix.bot }}" = 2 ] && key="$K2"
