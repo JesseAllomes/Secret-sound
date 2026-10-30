@@ -9,7 +9,7 @@ on:
       name:
         description: "Run name used by the pull (results/<name>/)"
         required: true
-      run_id:
+      source_run:
         description: "Run id of that Pull and score run"
         required: true
       clue:
@@ -45,7 +45,7 @@ jobs:
         with:
           pattern: clips-${{ inputs.name }}-bot*
           path: parts
-          run-id: ${{ inputs.run_id }}
+          run-id: ${{ inputs.source_run }}
           github-token: ${{ github.token }}
       - name: Merge
         run: |
@@ -69,7 +69,7 @@ jobs:
           python clap_index.py query "${{ inputs.clue }}" "data/${{ inputs.name }}" --tag mnc --top 60 \
             --csv "$out/clap_scores.csv" --ab "${{ inputs.ab }}" --out "$out/ab_clap" \
             --skip-wrong analysis/mnc/onair_guesses.json | tee "$out/clap_scores.txt"
-          echo "rerank of run ${{ inputs.run_id }}; clap_index.py, window 0.64 s; clue ${{ inputs.clue }}; on-air filter $(git rev-parse --short HEAD)" >> "$out/clap_scores.txt"
+          echo "rerank of run ${{ inputs.source_run }}; clap_index.py, window 0.64 s; clue ${{ inputs.clue }}; on-air filter $(git rev-parse --short HEAD)" >> "$out/clap_scores.txt"
       - name: Commit to the results branch
         run: |
           git config user.name "secret-sound bot"
