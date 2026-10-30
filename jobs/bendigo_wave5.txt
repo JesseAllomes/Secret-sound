@@ -1,0 +1,30 @@
+# Bendigo wave 5 (Fable, analysis/bendigo/fable_clock.md): the grandfather clock matches the clue's pawl-drop rate,
+# click structure and clean floor, but its ring is ~10 semitones lower (big brass wheel, wooden case). The clue rings
+# at a 2.32/2.55 kHz pair, short decay: the same click-pawl ratchet on a resonator about half the size, damped,
+# wound in short key flips. Lead: winding an old wind-up alarm clock (twin bells). 1-2 words each.
+alarm clock
+wind alarm
+winding alarm
+twin bell
+mechanical alarm
+westclox
+travel clock
+bedside clock
+carriage clock
+cuckoo wind
+clock key
+kitchen timer
+egg timer
+tin toy
+wind-up toy
+clockwork toy
+music box
+jack-in-the-box
+watch wind
+film advance
+camera wind
+brownie camera
+dynamo torch
+fishing reel
+reel clicker
+ratchet screwdriver
