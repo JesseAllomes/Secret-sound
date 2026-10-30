@@ -10,6 +10,9 @@ on:
       name:
         description: "Run name, e.g. mnc_binding (results go to results/<name>/)"
         required: true
+      competition:
+        description: "mnc (Mid North Coast: steel_score + CLAP) or bendigo (CLAP only, 0.28 s window)"
+        default: mnc
       queries:
         description: "Searches file, e.g. jobs/mnc_binding.txt"
         required: true
@@ -109,6 +112,7 @@ jobs:
           print(len(meta), "clips from", len(list(pathlib.Path("parts").iterdir())), "bot(s)")
           PY
       - name: Score and A/B
+        if: inputs.competition == 'mnc'
         run: |
           out="results/${{ inputs.name }}"
           mkdir -p "$out"
@@ -128,11 +132,15 @@ jobs:
           out="results/${{ inputs.name }}"
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           pip install -q -r requirements.txt
-          python clap_index.py build "data/${{ inputs.name }}" --win 0.64 --max-events 6
-          python clap_index.py query "${{ inputs.clap_clue }}" "data/${{ inputs.name }}" --tag mnc --top 60 \
+          comp="${{ inputs.competition }}"; win=0.64; clue="${{ inputs.clap_clue }}"
+          if [ "$comp" = bendigo ]; then win=0.28; clue=clues/bendigo/clue_b.wav; fi
+          mkdir -p "$out"
+          python clap_index.py build "data/${{ inputs.name }}" --win "$win" --max-events 6
+          python clap_index.py query "$clue" "data/${{ inputs.name }}" --tag "$comp" --top 60 \
             --csv "$out/clap_scores.csv" --ab "${{ inputs.ab }}" --out "$out/ab_clap" \
-            --skip-wrong analysis/mnc/onair_guesses.json | tee "$out/clap_scores.txt"
-          echo "clap_index.py, window 0.64 s, 6 events per clip; clue ${{ inputs.clap_clue }}" >> "$out/clap_scores.txt"
+            --skip-wrong "analysis/$comp/onair_guesses.json" | tee "$out/clap_scores.txt"
+          cp "data/${{ inputs.name }}/meta.json" "$out/meta.json"
+          echo "$comp: clap_index.py, window $win s, 6 events per clip; clue $clue" >> "$out/clap_scores.txt"
       - name: Commit results to the results branch
         run: |
           git config user.name "secret-sound bot"
