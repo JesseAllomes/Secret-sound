@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=11 -->
+<!-- drainclamp-build: state; schema=1; generation=12 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -32,6 +32,7 @@
 - audio in git -> owner said "everything needs to go there": small clue/listening audio force-added; bulk clip sets re-fetchable by script stay out (user + GitHub limits)
 - dc state -> commit and push .agent/ (state, project json, resume, log archive) to GitHub after every DrainClamp write, always (user, 30 Oct)
 - stacking -> align every broadcast play and stack (median/mean) for a cleaner clue and to test whether the recording runs past our crop (user, 30 Oct)
+- wrong guesses -> drop clips matching an exact on-air WRONG guess, by action not object (pushing the microwave button != closing the microwave door); warm/unclear matches kept and marked; searches stay object-level (tools/wrong_filter.py + analysis/mnc/onair_guesses.json) (user, 30 Oct)
 <!-- /DC:DECISIONS -->
 
 <!-- DC:ROADMAP -->
