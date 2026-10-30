@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=5 -->
+<!-- drainclamp-build: state; schema=1; generation=6 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -20,7 +20,7 @@
 - repo -> every Secret Sound file goes to JesseAllomes/Secret-sound branch main; never BuildIt (user)
 - separation -> Mid North Coast and Bendigo kept separate in files, indexes, scores and reports (user)
 - data collection -> repeatable scripts that use no model tokens (user, CLAUDE.md)
-- fable -> never started unless the owner asks in the conversation; fresh no-context Fable for MNC asked, not yet answered (user)
+- fable -> never started unless the owner asks; fresh no-context Fable for MNC APPROVED, start it once the data is ready: harvest reached round start + evidence package rebuilt (m1 done) (user, 30 Oct)
 - exclusions -> none outright; weight candidates; wrong on-air guesses are information (user)
 - mechanism -> describe the sound, do not steer with "spring"; resonance may be any mechanical resonance (user)
 - jackpot -> record amount and date whenever a segment is transcribed (user)
@@ -30,6 +30,7 @@
 - clap model -> laion/clap-htsat-unfused, same as sfx_match.py, CPU torch in repo .venv (repo convention)
 - big audio -> ~1 GB work zip stays on Drive/Dropbox; repo holds manifest + checksums + fetch script; >100 MB never in git (repo convention; GitHub limit)
 - audio in git -> owner said "everything needs to go there": small clue/listening audio force-added; bulk clip sets re-fetchable by script stay out (user + GitHub limits)
+- dc state -> commit and push .agent/ (state, project json, resume, log archive) to GitHub after every DrainClamp write, always (user, 30 Oct)
 <!-- /DC:DECISIONS -->
 
 <!-- DC:ROADMAP -->
