@@ -128,9 +128,9 @@ jobs:
           out="results/${{ inputs.name }}"; mkdir -p "$out"
           python clap_index.py query "${{ inputs.clue }}" work/freesound --tag mnc --top 0 --csv "$out/scores.csv"
           if [ -n "$K1" ]; then mkdir -p ~/.secret-song && umask 077 && printf '%s' "$K1" > ~/.secret-song/freesound.key
-            python tools/fs_names.py "$out/scores.csv" work/freesound/meta.json --top 300; fi
+            python tools/fs_names.py "$out/scores.csv" work/freesound/meta.json --top 500; fi
           python clap_index.py query "${{ inputs.clue }}" work/freesound --tag mnc --top 60 --csv "$out/scores.csv" \
-            --ab "${{ inputs.ab }}" --out "$out/ab" | tee "$out/scores.txt"
+            --ab "${{ inputs.ab }}" --out "$out/ab" --skip-wrong analysis/mnc/onair_guesses.json | tee "$out/scores.txt"
           cp work/freesound/meta.json "$out/meta.json" 2>/dev/null || true
           echo "clap_index.py, window $WIN s, max ${{ inputs.max_events }} events per clip; clue ${{ inputs.clue }}" >> "$out/scores.txt"
           mkdir -p index && cp work/freesound/.clap_*.npz index/ 2>/dev/null; ls -la index
