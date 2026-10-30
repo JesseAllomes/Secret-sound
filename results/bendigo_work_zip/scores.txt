@@ -1,0 +1,82 @@
+on-air filter: 0 clips match a wrong guess and are left out of the A/B files
+0.855 clap 0.851 mel 0.864  167048 @0.12s  [work zip] Old Lever Pull
+0.838 clap 0.831 mel 0.854  125522 @6.82s  [work zip] creepy-scraping-clinking.wav
+0.838 clap 0.827 mel 0.864  475226 @14.29s  [work zip] Elevator: Button 1 (Compilation)
+0.830 clap 0.813 mel 0.868  233642 @0.15s  [work zip] LEGO Brick Fall 6
+0.826 clap 0.808 mel 0.868  537935 @1.87s  [work zip] Ruler Bounce Modulation.mp3
+0.824 clap 0.797 mel 0.885  233662 @1.00s  [work zip] LEGO Pour 1
+0.817 clap 0.782 mel 0.898  425063 @5.54s  [work zip] Flushing.m4a
+0.815 clap 0.787 mel 0.880  461591 @3.64s  [work zip] hangers.WAV
+0.814 clap 0.795 mel 0.857  143604 @2.87s  [work zip] vehicle_holdenssv_ute_ignition_failed.mp3
+0.814 clap 0.791 mel 0.867  10589 @0.20s  [work zip] Scrape_ff-10_011.aif
+0.813 clap 0.795 mel 0.856  108474 @2.75s  [work zip] drawer close.WAV
+0.813 clap 0.788 mel 0.872  452888 @0.60s  [work zip] Toilet flushing.m4a
+0.808 clap 0.796 mel 0.837  212085 @2.58s  [work zip] Letter_box.mp3
+0.807 clap 0.798 mel 0.827  449933 @3.10s  [work zip] grease hose.wav
+0.805 clap 0.779 mel 0.866  537903 @0.51s  [work zip] Ruler Bounce 2.mp3
+0.804 clap 0.785 mel 0.849  274480 @17.48s  [work zip] bike-wheel-torque-looped.flac
+0.804 clap 0.763 mel 0.901  124704 @1.10s  [work zip] screen-door-open.aif
+0.803 clap 0.792 mel 0.829  530969 @1.66s  [work zip] Spring Scratch
+0.802 clap 0.766 mel 0.885  178656 @0.20s  [work zip] Dropping hangers in bin
+0.801 clap 0.781 mel 0.847  108674 @2.68s  [work zip] MetalOvenClose.wav
+0.801 clap 0.762 mel 0.891  243613 @1.08s  [work zip] Big Crash
+0.800 clap 0.783 mel 0.839  382954 @7.56s  [work zip] Drillpress running free no load meduim whirring gritty fan r
+0.797 clap 0.775 mel 0.848  402594 @0.65s  [work zip] Ruler creak.
+0.797 clap 0.772 mel 0.856  20100 @2.09s  [work zip] sugar open.flac
+0.796 clap 0.785 mel 0.821  133829 @0.80s  [work zip] Open and close kitchen drawer.wav
+0.794 clap 0.750 mel 0.896  266989 @0.15s  [work zip] BigSpoon1.wav
+0.793 clap 0.767 mel 0.854  504639 @1.55s  [work zip] Mail Box.wav
+0.792 clap 0.767 mel 0.850  330810 @0.26s  [work zip] Metal Grill 2
+0.791 clap 0.779 mel 0.818  170232 @0.98s  [work zip] Ceiling Fan Wire Hanger 1
+0.791 clap 0.769 mel 0.843  237936 @0.66s  [work zip] Close drawer
+0.791 clap 0.759 mel 0.865  10584 @0.18s  [work zip] Scrape_ff-10_006.aif
+0.790 clap 0.750 mel 0.885  256844 @3.07s  [work zip] Blinds.wav
+0.790 clap 0.765 mel 0.848  256650 @4.92s  [work zip] Super 8 mm manual crank film
+0.788 clap 0.775 mel 0.818  366720 @3.29s  [work zip] Egg Timer.wav
+0.788 clap 0.760 mel 0.853  366048 @4.18s  [work zip] Umbrella Spring Load
+0.787 clap 0.772 mel 0.824  52302 @3.04s  [work zip] ignition_crank_ingear_idle.aif
+0.787 clap 0.756 mel 0.858  14113 @3.90s  [work zip] 26.wav
+0.785 clap 0.766 mel 0.829  379573 @0.24s  [work zip] tweezersB_scrapetoboing_12.wav
+0.785 clap 0.776 mel 0.804  10560 @1.44s  [work zip] Pull_ff-12_012.aif
+0.785 clap 0.746 mel 0.875  235903 @1.36s  [work zip] Bottle cap fall.wav
+0.784 clap 0.738 mel 0.892  340295 @1.69s  [work zip] OsFnHhBrToiletFlush.wav
+0.784 clap 0.772 mel 0.811  148980 @0.48s  [work zip] Twang_15.wav
+0.784 clap 0.754 mel 0.854  352588 @0.73s  [work zip] Umbrella Opening Slow
+0.781 clap 0.742 mel 0.873  207309 @7.82s  [work zip] scissors.wav
+0.780 clap 0.733 mel 0.889  460929 @1.15s  [work zip] Kitchen Exhaust Fan.wav
+0.779 clap 0.782 mel 0.771  10587 @0.26s  [work zip] Scrape_ff-10_009.aif
+0.778 clap 0.760 mel 0.821  398884 @1.50s  [work zip] metal_spring.wav
+0.778 clap 0.790 mel 0.749  383157 @4.82s  [work zip] Wooden drawer in old kitchen cabinet opening and closing
+0.777 clap 0.738 mel 0.870  143601 @1.19s  [work zip] vehicle_holdenssv_ignition_revving&driveoff
+0.776 clap 0.737 mel 0.868  240802 @0.00s  [work zip] OpenChest.wav
+0.776 clap 0.743 mel 0.854  417448 @0.56s  [work zip] Plates 3
+0.775 clap 0.757 mel 0.817  366050 @0.61s  [work zip] Tape measure pull return
+0.775 clap 0.755 mel 0.821  414481 @1.45s  [work zip] Metal sound 14 (toaster)
+0.774 clap 0.735 mel 0.868  330808 @1.34s  [work zip] Metal Grill 3
+0.774 clap 0.765 mel 0.794  10586 @0.60s  [work zip] Scrape_ff-10_008.aif
+0.773 clap 0.744 mel 0.842  378309 @1.40s  [work zip] forks and spoons
+0.773 clap 0.756 mel 0.814  233640 @0.00s  [work zip] LEGO Brick Fall 8
+0.773 clap 0.744 mel 0.840  119479 @3.23s  [work zip] Screen Door Spring 1.wav
+0.773 clap 0.738 mel 0.854  271560 @1.42s  [work zip] Door, Church, Close, D.wav
+0.773 clap 0.732 mel 0.868  334588 @7.04s  [work zip] Bathroom_Toilet02.wav
+results/bendigo_work_zip/ab/AB_bendigo_clap1_work-zip_167048.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap2_work-zip_125522.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap3_work-zip_475226.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap4_work-zip_233642.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap5_work-zip_537935.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap6_work-zip_233662.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap7_work-zip_425063.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap8_work-zip_461591.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap9_work-zip_143604.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap10_work-zip_10589.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap11_work-zip_108474.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap12_work-zip_452888.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap13_work-zip_212085.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap14_work-zip_449933.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap15_work-zip_537903.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap16_work-zip_274480.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap17_work-zip_124704.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap18_work-zip_530969.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap19_work-zip_178656.mp3
+results/bendigo_work_zip/ab/AB_bendigo_clap20_work-zip_108674.mp3
+clap_index.py, window 0.28 s, max 6 events per clip; clue clues/bendigo/clue_b.wav
