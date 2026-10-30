@@ -19,13 +19,18 @@ def main():
     ap.add_argument("out")
     ap.add_argument("--title", default="")
     ap.add_argument("--n", type=int, default=20)
+    ap.add_argument("--skip-sent", help="folder of earlier packs: leave out clips already listed in any */INDEX.txt")
     args = ap.parse_args()
     ab = {re.search(r"_([^_]+)\.mp3$", p.name).group(1): p for p in Path(args.ab).glob("*.mp3")}
+    sent = set()
+    if args.skip_sent:
+        for idx in Path(args.skip_sent).glob("*/INDEX.txt"):
+            sent |= set(re.findall(r"(?:freesound\.org/s/|BBC )(\w+)\)", idx.read_text(encoding="utf-8")))
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     lines, k = [args.title, ""], 0
     for r in csv.DictReader(open(args.csv, encoding="utf-8")):
-        if r.get("onair_verdict") == "wrong" or r["id"] not in ab:
+        if r.get("onair_verdict") == "wrong" or r["id"] not in ab or r["id"] in sent:
             continue
         k += 1
         name = re.sub(r"[^A-Za-z0-9]+", "-", (r.get("name") or r["id"]).rsplit(".", 1)[0]).strip("-")[:40]

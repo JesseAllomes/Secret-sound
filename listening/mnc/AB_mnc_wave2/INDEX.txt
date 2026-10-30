@@ -1,0 +1,11 @@
+Mid North Coast wave 2 (keyboard / push-button lead): stacked clue, then candidate, x4. Only clips not in earlier packs; wrong on-air actions left out.
+
+ 1. 0.854  Key_Old_Recorder.wav  [key press]  (freesound.org/s/641862)
+ 2. 0.797  cfdown.wav  [click release]  (freesound.org/s/266153)
+ 3. 0.796  stock-keyboard-entry-00.flac  [enter key]  (freesound.org/s/534603)
+ 4. 0.788  Clicks.wav  [joystick]  (freesound.org/s/113089)
+ 5. 0.776  keyboard exe 2.wav  [enter key]  (freesound.org/s/559894)
+ 6. 0.773  Double Mouse Click  [mouse button]  (freesound.org/s/819491)   [on air warm: 26 Jul: a computer mouse click]
+ 7. 0.772  Vintage Keyboard 2  [keystroke]  (freesound.org/s/194796)
+ 8. 0.770  Keyboard_Tactile_1  [keyboard tactile]  (freesound.org/s/766625)
+ 9. 0.769  button press .wav  [elevator button]  (freesound.org/s/67131)
