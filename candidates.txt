@@ -1,0 +1,231 @@
+# Secret Sound candidates for sound_id.py, one per line. Add ideas freely.
+# Presses, levers and buttons
+a stapler being pressed
+a heavy-duty stapler
+a hole punch
+a garlic press
+a nutcracker
+a nail clipper
+a pair of tongs snapping shut
+a clothes peg
+a bulldog clip
+a pen clicking
+a retractable pen clip
+a mouse trap snapping
+a rat trap being set
+a soap dispenser pump
+a hand sanitiser pump
+a pump spray bottle trigger
+a spray gun trigger
+a caulking gun trigger
+a grease gun
+a staple gun
+a nail gun
+a glue gun trigger
+a cigarette lighter
+a gas stove igniter clicking
+a barbecue igniter
+a piezo lighter
+a toaster lever pushed down
+a toaster eject button
+a microwave door release button
+a kettle lid snapping shut
+a kettle switch flicked on
+a coffee machine lever
+a coffee tamper
+a juicer lever press
+a sandwich press closing
+a waffle iron closing
+a potato masher
+a can crusher
+a bottle opener
+a can ring pull opening
+a car seatbelt buckle
+a seatbelt retracting
+a car door handle
+a car boot latch
+a car handbrake lever
+a bicycle brake lever
+a bicycle bell
+a bike gear shifter clicking
+a fishing reel clicking
+a fishing reel bail flipping
+a ratchet spanner
+a socket wrench
+a torque wrench clicking
+a tape measure retracting
+a tape measure lock button
+a spring-loaded centre punch
+a door latch
+a door handle being pressed
+a deadbolt turning
+a padlock snapping shut
+a key turning in a lock
+a light switch
+a pull-cord light switch
+a power point switch
+a circuit breaker flipping
+a computer mouse click
+a keyboard key press
+a typewriter key
+a camera shutter
+a remote control button
+a TV knob turning
+a toilet flush lever
+a toilet seat closing
+a tap lever
+a drawer closing
+a cupboard push latch
+a magnetic cabinet catch
+a press stud popping
+a jacket snap button
+a belt buckle
+a watch clasp closing
+a phone case snapping on
+a lunch box clip
+a plastic container lid clipping shut
+a jar lid popping
+a vacuum seal releasing
+a pressure cooker valve
+a hair clip snapping
+a hair straightener closing
+an eyelash curler
+a scissors closing
+secateurs cutting
+pruning shears closing
+a tin snips
+a paper guillotine
+a laminator
+a ticket punch
+a date stamp
+a rubber stamp
+a self-inking stamp
+an office binder clip
+a ring binder snapping shut
+a clipboard clip
+a cash register drawer
+a till receipt printer
+a parking ticket machine button
+a gate latch
+a pool gate latch
+a screen door spring
+a flyscreen door closing
+a letterbox flap
+a mailbox lid
+a wheelie bin lid
+a trap door
+a jack-in-the-box spring
+a pogo stick spring
+a slinky spring
+a spring doorstop being flicked
+a ruler twanged on a desk
+a mattress spring
+a trampoline spring
+a clicker counter
+a tally counter
+a dog training clicker
+a metronome tick
+a kitchen timer being wound
+a wind-up toy
+a cap gun
+a toy gun trigger
+a nerf gun
+a spud gun
+a bow being drawn
+a slingshot release
+a crossbow trigger
+a rifle bolt action
+a shotgun pump
+a revolver hammer cocked
+a fire extinguisher pin
+a car jack lever
+a hydraulic press
+a bench vice
+a clamp ratcheting
+a ratchet strap
+a cable tie being pulled
+a zip tie
+a zipper
+a velcro strap
+a umbrella opening
+a umbrella button
+a folding chair locking
+a pram brake
+a wheelchair brake
+a step ladder locking
+a tent pole clicking together
+a walking pole locking
+an esky lid latch
+a tackle box latch
+a toolbox latch
+a briefcase latch
+a suitcase handle retracting
+a guitar capo
+a piano pedal
+a drum pedal
+a hi-hat pedal
+a guitar whammy bar
+a harmonica
+a clicky retractable knife
+a box cutter blade sliding out
+a pocket knife locking
+a flip phone closing
+a lighter lid flicked open
+a zippo lighter lid closing
+a hinge creaking
+a cricket bat hitting a ball
+a golf tee
+a tennis ball can opening
+a thumb tack pushed into cork
+a drawing pin
+a stamp press embossing
+a notary seal embosser
+a branding iron
+a sewing machine pedal
+a staple remover
+a paper clip bent
+a spring inside a hollow metal tube
+a spring inside a plastic box
+a click echoing inside a metal bucket
+a click echoing inside a tin can
+a ping inside a metal container
+a lever arm pressed down and released
+a spring-loaded lever snapping back
+a hand press machine
+a riveter
+a pop rivet gun
+a crimping tool
+a cork press
+a wine opener lever
+a corkscrew pulling a cork
+a beer tap lever
+a soft drink fountain lever
+a sauce dispenser pump
+a pepper grinder
+a salt shaker
+a lemon squeezer
+a citrus press
+an ice cream scoop trigger
+a tongs locking ring
+a pizza cutter
+a spatula flicked
+a bread clip
+a cake tin release clip
+a springform pan latch
+a pegboard hook
+a pressure gauge
+a hand pump for a bike tyre
+a tyre valve
+an air horn
+a bicycle kickstand
+a motorbike kickstand
+a motorbike gear lever
+a car indicator stalk
+a car gear stick
+a ute tailgate latch
+a trailer coupling
+a towbar pin
+a dog lead clip
+a carabiner clip snapping shut
+a snap hook
+a swing gate spring

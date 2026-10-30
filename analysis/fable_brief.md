@@ -1,0 +1,19 @@
+# Brief given to Fable for the clue analysis (30 Oct 2026, 16:47 AEDT)
+
+Analyse a radio "Secret Sound" clue and work out what everyday object/action most likely made it. This is Triple M Mid North Coast's "Sarge's Secret Sound" (NSW): a short sound effect, callers guess "object + action", jackpot now $2,800. Work only on this Windows PC (PowerShell or Git Bash). Do not touch any Azure VM. Run heavy Python at BelowNormal priority; kill only processes you start; no desktop UI pop-ups.
+
+You can't listen, so reason from measurements. Do a careful acoustic analysis and explain the physics.
+
+Files:
+- The clue: C:\Users\jallomes\OneDrive\Secret Song\secret-sound_mnc_2026-10-30\clue.wav (about 1.1 s, cut from the 30 Oct podcast). The user's crop of the actual sound is 0 to 0.631 s (clue.crop.json). The same sound as broadcast, looped: mnc_secret-sound_x4.mp3; 25 s on air with a caller: on_air_0830_caller_jen.m4a (same folder).
+- More plays of the same sound are in the podcast episodes under C:\Users\jallomes\AppData\Local\Temp\claude\C--Users-jallomes-Projects-srs\2f39a836-2032-48b1-bf78-250f9e80f2f2\scratchpad\pods\mnc\ (ep0.mp3 plays at ~512.0 s, ~520.0 s and ~1345.8 s; ep1/ep2 also contain plays; transcripts ep*.txt). Use several plays to separate the sound from radio processing.
+- Python 3.12 with numpy, scipy, librosa, soundfile is available (python on PATH). ffmpeg: C:\Users\jallomes\AppData\Local\Temp\claude\C--Users-jallomes-Projects-srs\2f39a836-2032-48b1-bf78-250f9e80f2f2\scratchpad\bin\ffmpeg.exe. Put your scripts and plots in a new folder: ...\scratchpad\fable_analysis\ .
+
+Measure at least: the event structure (how many distinct transients, their spacing in ms, attack and decay times), the envelope, spectral centroid and bandwidth per transient, dominant resonances/modes (peak frequencies and their Q / ring-out time), any pitched component or harmonic series, noise vs tonal ratio, any low-frequency thump (mass/impact) versus high-frequency click (small hard plastic/metal), any sliding/friction or air (whoosh, suction, pop) component, and any reverb/room tail. Render spectrograms to PNG and look at them (you can read images with the Read tool).
+
+Context to weigh, not to copy:
+- Already guessed WRONG on air: microwave door-release button; toaster eject/cancel button; pushing a kettle lid closed; the clip on a pen; a tape recorder; a hole punch. Treat close variants of these as unlikely.
+- Past winning answers on this show (five rounds): phone charger brick pushed into a power point; spray bottle; Nintendo Switch going into its charging dock; stackable measuring cups clipping together; changing the spray setting on a shower nozzle. Answers are everyday objects named as object + action. The user believes the sounds may come from sound-effect libraries rather than being recorded by the host; don't assume either.
+- Similarity search found the nearest Freesound clips (not exact matches) were: a "Pop!", a bottle, a plastic container opening/closing, a pill container opening/closing, "pop and suck"; nearest BBC effects: fax machine key, ticket machine, daisywheel printer switch, light switches. The user's own picks from those were the fax machine key and the light switches. These are weak hints only.
+
+Deliverable: write C:\Users\jallomes\AppData\Local\Temp\claude\C--Users-jallomes-Projects-srs\2f39a836-2032-48b1-bf78-250f9e80f2f2\scratchpad\fable_analysis\analysis.md containing (1) the measured facts with numbers, (2) what physical mechanisms they imply and rule out (e.g. spring latch vs detent vs suction release vs hinged lid vs electrical switch), with reasoning, and (3) a ranked list of 10-15 specific guesses phrased as a caller would say them (object + action), each with a one-line acoustic justification and a confidence, excluding the wrong guesses above. In your final reply give the top 10 guesses with one-line reasons and the 3-4 key measurements behind them, under 350 words.

@@ -1,0 +1,14 @@
+data/
+*.mp3
+*.wav
+*.m4a
+*.aif
+*.aiff
+*.flac
+*.ogg
+*.npz
+*.key
+__pycache__/
+.pytest_cache/
+.venv*/
+.sfx_cache/
