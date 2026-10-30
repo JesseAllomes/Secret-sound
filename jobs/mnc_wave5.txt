@@ -1,0 +1,33 @@
+# Mid North Coast wave 5 (owner, 31 Oct): only "Key_Old_Recorder" sounds close: "not it, but the button mechanism is
+# close". Piano-key latching buttons (press one in, the last one pops out) on objects OTHER than tape decks / tape
+# recorders / CD players / old radios (all guessed wrong on air). 1-2 words each.
+pedestal fan
+fan button
+fan switch
+desk fan
+fan speed
+blender button
+blender buttons
+mixer button
+food mixer
+washing machine
+dryer button
+car radio
+preset button
+radio preset
+piano key
+key switch
+latching switch
+interlock
+retro button
+valve radio
+transistor radio
+old television
+tv channel
+channel button
+sewing machine
+adding machine
+vacuum button
+cord rewind
+heater switch
+toaster oven
