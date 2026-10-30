@@ -1,0 +1,67 @@
+
+135 files with a stroke pair. Top 40 by score:
+  1  0.854  gap 146.2 ms  ring  809 Hz T60 3.62  [gap 0.97 pre 1.00 crunch 0.67 thump 1.00 ring 0.63 dry 1.00 iso 1.00]  newport-hotel-door-lock.aif
+  2  0.843  gap 109.5 ms  ring  845 Hz T60 1.33  [gap 0.79 pre 1.00 crunch 0.67 thump 0.85 ring 0.79 dry 1.00 iso 1.00]  The actual switch sounds of a German Enigma machine
+  3  0.828  gap 127.0 ms  ring  639 Hz T60 0.65  [gap 0.97 pre 1.00 crunch 0.50 thump 0.83 ring 0.75 dry 0.90 iso 1.00]  2 Point plug into outlet.wav
+  4  0.821  gap 117.4 ms  ring 1116 Hz T60 0.39  [gap 0.89 pre 0.40 crunch 0.67 thump 0.68 ring 0.86 dry 1.00 iso 1.00]  mouse click.wav
+  5  0.814  gap 127.0 ms  ring 1149 Hz T60 0.95  [gap 0.97 pre 1.00 crunch 0.67 thump 0.96 ring 0.54 dry 0.99 iso 0.95]  Turning knob in car
+  6  0.806  gap 128.6 ms  ring  910 Hz T60 0.98  [gap 0.98 pre 0.40 crunch 1.00 thump 0.53 ring 0.65 dry 0.93 iso 1.00]  Cash Machine.wav
+  7  0.804  gap 168.0 ms  ring  608 Hz T60 0.58  [gap 0.74 pre 1.00 crunch 0.50 thump 0.72 ring 0.84 dry 1.00 iso 1.00]  Slow Typing
+  8  0.801  gap 157.4 ms  ring  663 Hz T60 1.47  [gap 0.88 pre 0.00 crunch 0.67 thump 1.00 ring 0.69 dry 0.95 iso 1.00]  MECHClik-Blue Snowball Microphone, CU_Button, Rectangular, Press_Nicholas Judy_TDC
+  9  0.797  gap 183.7 ms  ring  620 Hz T60 0.56  [gap 0.51 pre 0.00 crunch 0.83 thump 1.00 ring 0.83 dry 0.84 iso 0.99]  Door latch.m4a
+ 10  0.797  gap 157.3 ms  ring  870 Hz T60 0.61  [gap 0.88 pre 1.00 crunch 1.00 thump 0.21 ring 0.80 dry 0.69 iso 0.99]  Train connect 2.wav
+ 11  0.796  gap 193.5 ms  ring  771 Hz T60 1.82  [gap 0.37 pre 1.00 crunch 1.00 thump 0.94 ring 0.60 dry 1.00 iso 0.99]  Tape Deck Play and Stop Buttons
+ 12  0.787  gap 111.5 ms  ring  731 Hz T60 3.81  [gap 0.82 pre 1.00 crunch 0.67 thump 1.00 ring 0.61 dry 1.00 iso 0.82]  MECHSwtch-Blue Snowball Microphone, CU_Simon, 1978, Switch, Skill Level_Nicholas Judy_TDC
+ 13  0.782  gap 151.3 ms  ring  849 Hz T60 3.56  [gap 0.94 pre 0.00 crunch 0.50 thump 0.88 ring 0.74 dry 1.00 iso 1.00]  HefterLocher.wav
+ 14  0.782  gap 153.7 ms  ring  587 Hz T60 5.00  [gap 0.92 pre 1.00 crunch 0.50 thump 1.00 ring 0.48 dry 1.00 iso 1.00]  light switch push2.flac
+ 15  0.775  gap 144.3 ms  ring  818 Hz T60 1.10  [gap 0.98 pre 0.00 crunch 0.75 thump 0.85 ring 0.56 dry 0.98 iso 1.00]  mechanical keyboard.wav
+ 16  0.773  gap 171.1 ms  ring  652 Hz T60 0.40  [gap 0.69 pre 1.00 crunch 0.50 thump 0.84 ring 0.67 dry 1.00 iso 1.00]  buttons_calculator.wav
+ 17  0.767  gap 147.3 ms  ring  840 Hz T60 0.00  [gap 0.97 pre 0.00 crunch 0.50 thump 1.00 ring 0.59 dry 1.00 iso 1.00]  mechanical click yamaha OR2 mixer console buttons 2
+ 18  0.767  gap 141.4 ms  ring  732 Hz T60 0.76  [gap 0.99 pre 0.40 crunch 1.00 thump 0.84 ring 0.75 dry 0.72 iso 0.48]  Train connect 1.wav
+ 19  0.757  gap 114.6 ms  ring  789 Hz T60 5.00  [gap 0.85 pre 1.00 crunch 0.83 thump 1.00 ring 0.51 dry 0.38 iso 0.79]  Elevator Buttons
+ 20  0.755  gap 131.8 ms  ring  898 Hz T60 5.00  [gap 0.99 pre 0.00 crunch 0.67 thump 0.69 ring 0.71 dry 0.50 iso 1.00]  Button Press.mp3
+ 21  0.753  gap 142.9 ms  ring  814 Hz T60 0.76  [gap 0.99 pre 0.00 crunch 0.50 thump 0.86 ring 0.75 dry 0.23 iso 1.00]  Classic Arcade Button with Cherry Game Switch - Multiple Presses
+ 22  0.752  gap 131.0 ms  ring  539 Hz T60 0.71  [gap 0.99 pre 0.00 crunch 0.83 thump 0.66 ring 0.55 dry 0.84 iso 1.00]  COMTelph-Blue Snowball Microphone, CU_Landline Pushbutton, Pick Up, Hang Up, Slam Reciever_Nicholas Judy_TDC
+ 23  0.745  gap 142.3 ms  ring  747 Hz T60 1.15  [gap 0.99 pre 0.00 crunch 0.67 thump 0.63 ring 0.61 dry 1.00 iso 1.00]  push_button_03.aif
+ 24  0.745  gap 110.0 ms  ring 1092 Hz T60 0.59  [gap 0.80 pre 0.00 crunch 0.75 thump 0.87 ring 0.53 dry 1.00 iso 1.00]  OM-FR-magnets.wav
+ 25  0.743  gap 164.8 ms  ring  549 Hz T60 1.99  [gap 0.79 pre 0.00 crunch 0.83 thump 0.88 ring 0.67 dry 1.00 iso 0.76]  Computer typing.mp3
+ 26  0.741  gap 210.9 ms  ring 1013 Hz T60 0.63  [gap 0.18 pre 1.00 crunch 0.67 thump 0.85 ring 0.83 dry 1.00 iso 0.89]  es-stamp.wav
+ 27  0.740  gap 165.1 ms  ring  827 Hz T60 5.00  [gap 0.78 pre 1.00 crunch 0.50 thump 0.73 ring 0.55 dry 1.00 iso 1.00]  Ford 115 T350 - AC knob rotating
+ 28  0.736  gap 148.8 ms  ring  833 Hz T60 0.40  [gap 0.96 pre 1.00 crunch 0.67 thump 0.89 ring 0.96 dry 1.00 iso 0.09]  Sešívačka.WAV
+ 29  0.735  gap 184.0 ms  ring  917 Hz T60 2.36  [gap 0.50 pre 0.00 crunch 0.50 thump 1.00 ring 0.74 dry 1.00 iso 1.00]  typewriter.wav
+ 30  0.734  gap 133.5 ms  ring  510 Hz T60 2.72  [gap 1.00 pre 1.00 crunch 0.83 thump 0.99 ring 0.53 dry 0.52 iso 0.51]  Classic Car Dolomite Dashboard And Glovebox.wav
+ 31  0.730  gap 156.1 ms  ring  736 Hz T60 0.96  [gap 0.89 pre 0.00 crunch 0.42 thump 0.83 ring 0.63 dry 1.00 iso 1.00]  Tape Deck Buttons and Switches
+ 32  0.726  gap 135.4 ms  ring 1200 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.67 thump 0.97 ring 0.35 dry 1.00 iso 0.96]  dial 01.wav
+ 33  0.725  gap 131.5 ms  ring  681 Hz T60 5.00  [gap 0.99 pre 1.00 crunch 1.00 thump 1.00 ring 0.71 dry 1.00 iso 0.00]  ABilickiMTC500_1#05 2.aif
+ 34  0.724  gap 152.0 ms  ring 1046 Hz T60 0.62  [gap 0.93 pre 0.00 crunch 0.50 thump 0.58 ring 0.73 dry 0.80 iso 1.00]  Bike Gears and Brakes Pack
+ 35  0.715  gap 152.0 ms  ring 1000 Hz T60 0.00  [gap 0.93 pre 0.00 crunch 0.50 thump 0.88 ring 0.54 dry 1.00 iso 0.91]  game controller thumb stick.wav
+ 36  0.714  gap 148.4 ms  ring  931 Hz T60 1.17  [gap 0.96 pre 0.00 crunch 0.25 thump 0.94 ring 0.56 dry 1.00 iso 1.00]  Phone.wav
+ 37  0.711  gap 106.5 ms  ring  616 Hz T60 0.76  [gap 0.75 pre 1.00 crunch 1.00 thump 0.79 ring 0.70 dry 1.00 iso 0.28]  Arcade Stick Rotate_OWI
+ 38  0.709  gap 167.7 ms  ring  523 Hz T60 1.66  [gap 0.74 pre 0.00 crunch 0.67 thump 0.63 ring 0.61 dry 1.00 iso 1.00]  Toy Gun Trigger.wav
+ 39  0.705  gap 144.6 ms  ring  679 Hz T60 0.32  [gap 0.98 pre 0.40 crunch 0.75 thump 0.98 ring 0.91 dry 1.00 iso 0.00]  0 (Hard Drives Found Failing).wav
+ 40  0.695  gap 139.2 ms  ring  964 Hz T60 5.00  [gap 1.00 pre 0.00 crunch 0.67 thump 1.00 ring 0.71 dry 1.00 iso 0.34]  buton click.wav
+
+Evidence per mechanism (search query):
+  similar                          n= 134 best 0.854 median-top5 0.828  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  seed                             n=   1 best 0.654 median-top5 0.654  matches pre,crunch,dry,iso  never -
+A/B: results/mnc_explore_recorder/ab/AB_steel1_similar_124986.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel2_similar_792301.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel3_similar_594596.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel4_similar_537191.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel5_similar_875665.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel6_similar_120015.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel7_similar_617257.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel8_similar_810453.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel9_similar_570779.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel10_similar_170800.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel11_similar_845648.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel12_similar_852079.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel13_similar_246518.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel14_similar_637664.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel15_similar_404298.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel16_similar_181257.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel17_similar_769509.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel18_similar_170801.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel19_similar_849131.mp3
+A/B: results/mnc_explore_recorder/ab/AB_steel20_similar_259867.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav

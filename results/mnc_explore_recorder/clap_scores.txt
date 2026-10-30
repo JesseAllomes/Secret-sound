@@ -1,0 +1,82 @@
+on-air filter: 3 clips match a wrong guess and are left out of the A/B files
+0.854 clap 0.856 mel 0.851  641862 @7.17s  [seed] Key_Old_Recorder.wav
+0.816 clap 0.809 mel 0.832  117553 @19.07s  [similar] Cligno.aif
+0.814 clap 0.817 mel 0.807  448474 @3.79s  [similar] es-stamp.wav  << on air wrong: 8 Jun: a self-inking stamp, like a date stamp
+0.795 clap 0.796 mel 0.793  425387 @3.12s  [similar] audi a4 allroad 20TFSI foley seatbelts lock unlock mono NTG3
+0.791 clap 0.766 mel 0.849  664878 @5.72s  [similar] Kurig.m4a
+0.786 clap 0.757 mel 0.854  377471 @1.82s  [similar] systémové zvuky1.wav
+0.785 clap 0.753 mel 0.859  731879 @1.59s  [similar] Bike Gears and Brakes Pack
+0.785 clap 0.827 mel 0.685  736427 @0.00s  [similar] Keyboard
+0.781 clap 0.736 mel 0.888  594596 @4.87s  [similar] 2 Point plug into outlet.wav
+0.779 clap 0.747 mel 0.855  869751 @2.41s  [similar] Classic Arcade Button with Cherry Game Switch - Multiple Pre
+0.777 clap 0.739 mel 0.867  21617 @2.04s  [similar] Papel de aluminio arrugado 02.wav
+0.776 clap 0.746 mel 0.847  532150 @21.02s  [similar] game controller thumb stick.wav
+0.776 clap 0.767 mel 0.796  676577 @2.64s  [similar] Keyboard button press  << on air warm: 15 Jun: pushing control alt delete on a keyboard
+0.773 clap 0.741 mel 0.848  819005 @7.82s  [similar] Ford 115 T350 - AC knob rotating
+0.770 clap 0.764 mel 0.784  175371 @1.41s  [similar] light switch3.wav
+0.769 clap 0.754 mel 0.802  181257 @10.58s  [similar] buttons_calculator.wav
+0.766 clap 0.769 mel 0.759  518652 @13.24s  [similar] keyboard recording.wav
+0.763 clap 0.737 mel 0.825  863600 @56.32s  [similar] COMAv-Blue Snowball Microphone, CU_Reel To Reel Player, Pres
+0.762 clap 0.734 mel 0.826  769509 @20.33s  [similar] mechanical click yamaha OR2 mixer console buttons 2
+0.761 clap 0.759 mel 0.766  537191 @5.80s  [similar] mouse click.wav  << on air warm: 26 Jul: a computer mouse click
+0.761 clap 0.759 mel 0.766  59811 @8.51s  [similar] knopje.wav
+0.760 clap 0.758 mel 0.766  158646 @4.75s  [similar] Phone.wav
+0.759 clap 0.732 mel 0.822  714952 @11.70s  [similar] Old Telephone Handset Buttons
+0.757 clap 0.766 mel 0.738  254929 @2.26s  [similar] Mysounds_HCP_Yannis_plasticbox.wav
+0.755 clap 0.717 mel 0.845  430065 @0.75s  [similar] label maker.wav
+0.755 clap 0.748 mel 0.772  404298 @2.34s  [similar] mechanical keyboard.wav
+0.753 clap 0.743 mel 0.775  404464 @14.09s  [similar] take offmono.wav
+0.752 clap 0.719 mel 0.828  852079 @19.03s  [similar] MECHSwtch-Blue Snowball Microphone, CU_Simon, 1978, Switch, 
+0.750 clap 0.732 mel 0.791  865227 @6.24s  [similar] Elantra AC and Radio Controls
+0.749 clap 0.775 mel 0.687  712231 @1.09s  [similar] typewriter backspacing
+0.749 clap 0.756 mel 0.731  448475 @2.39s  [similar] es-staplers.wav  << on air wrong: 13 May: a stapler
+0.748 clap 0.739 mel 0.770  120015 @4.86s  [similar] Cash Machine.wav
+0.748 clap 0.702 mel 0.856  156146 @8.75s  [similar] 004-HiBeamSwitchClose.wav
+0.747 clap 0.718 mel 0.814  870838 @2.74s  [similar] Large Wooden Ratchet
+0.746 clap 0.700 mel 0.855  259867 @0.14s  [similar] Button Press.mp3
+0.745 clap 0.743 mel 0.752  827343 @4.41s  [similar] gearselect.wav
+0.745 clap 0.757 mel 0.716  810453 @28.88s  [similar] MECHClik-Blue Snowball Microphone, CU_Button, Rectangular, P
+0.745 clap 0.760 mel 0.710  661836 @5.76s  [similar] Old Keyboard; Quick Typing.wav
+0.742 clap 0.724 mel 0.783  124986 @0.19s  [similar] newport-hotel-door-lock.aif
+0.739 clap 0.745 mel 0.726  210358 @7.58s  [similar] 20131210_Keypad_typing2_library.wav
+0.737 clap 0.705 mel 0.813  831694 @5.36s  [similar] Old soviet counting machine
+0.737 clap 0.718 mel 0.782  812361 @70.50s  [similar] Tape Recorder
+0.737 clap 0.739 mel 0.732  712227 @0.93s  [similar] typewriter strong typing
+0.735 clap 0.725 mel 0.758  417549 @1.63s  [similar] computer_keyboard_slow_1.aif
+0.734 clap 0.746 mel 0.707  650005 @1.86s  [similar] Sound Recording Practice
+0.734 clap 0.724 mel 0.756  379076 @5.10s  [similar] Klávesnice + errors.wav
+0.734 clap 0.725 mel 0.754  559897 @2.62s  [similar] keyboard gaming.wav
+0.734 clap 0.691 mel 0.834  852078 @15.06s  [similar] MECHClik-Blue Snowball Microphone, MCU_Simon, 1978, Button, 
+0.731 clap 0.725 mel 0.746  875665 @7.74s  [similar] Turning knob in car
+0.731 clap 0.730 mel 0.732  30827 @13.78s  [similar] Clicky Knob Turning.wav
+0.728 clap 0.682 mel 0.836  51608 @0.81s  [similar] 00130 otwieranie klamki.wav
+0.727 clap 0.727 mel 0.727  617257 @0.40s  [similar] Slow Typing
+0.726 clap 0.742 mel 0.688  119154 @0.59s  [similar] Stapler.wav  << on air wrong: 13 May: a stapler
+0.726 clap 0.671 mel 0.853  810451 @5.89s  [similar] COMTelph-Blue Snowball Microphone, CU_Landline Pushbutton, P
+0.723 clap 0.725 mel 0.718  712224 @0.12s  [similar] typewriter  fast typing
+0.722 clap 0.696 mel 0.782  761341 @1.20s  [similar] COMType_MECHMisc_Line_Roating_Mechanical_Typewriter_02
+0.721 clap 0.661 mel 0.859  845648 @11.83s  [similar] Tape Deck Play and Stop Buttons
+0.720 clap 0.705 mel 0.757  261074 @3.39s  [similar] Asteroids Arcade Game Buttons.wav
+0.720 clap 0.703 mel 0.760  805354 @41.84s  [similar] COMAv-Blue Snowball Microphone, CU_Kodak M4 Instamatic Movie
+0.720 clap 0.705 mel 0.755  365490 @3.93s  [similar] Computer typing.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap1_seed_641862.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap2_similar_117553.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap3_similar_425387.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap4_similar_664878.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap5_similar_377471.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap6_similar_731879.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap7_similar_736427.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap8_similar_594596.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap9_similar_869751.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap10_similar_21617.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap11_similar_532150.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap12_similar_676577.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap13_similar_819005.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap14_similar_175371.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap15_similar_181257.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap16_similar_518652.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap17_similar_863600.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap18_similar_769509.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap19_similar_537191.mp3
+results/mnc_explore_recorder/ab_clap/AB_mnc_clap20_similar_59811.mp3
+mnc: clap_index.py, window 0.64 s, 6 events per clip; clue clues/mnc/clue_stacked.wav
