@@ -1,0 +1,165 @@
+Hunted investigator 'Simp' talks cybercrime
+Tue, 23 Jan 2024 20:58:05 +0000
+
+[    1.2] Everything you need for a brand new day.
+[    4.2] Coggo and Jules for breakfast.
+[    6.2] Simple L breakfast.
+[    8.2] Coggo, there's some very, very, what would I say?
+[   13.2] Dodgy.
+[   14.2] Dodgy, but also conniving criminals out there, some cyber criminals that are trying to get out information.
+[   20.2] And they're pretty damn good at it. They're pretty clever.
+[   23.2] And look, there was an interesting scenario that I had.
+[   26.2] I overlooked my boyfriend go through this as we were in the Chinese gardens, a beautiful walk through Bendigo,
+[   32.2] get to the top and he gets a scam call from someone trying to get his money.
+[   36.2] Well, I presume, but not exactly sure how they knew his address, his phone number and digits from his credit card.
+[   44.2] It all seemed a bit too creepy to me.
+[   47.2] And so to hopefully get some answers out of this, pulled together, who you might know from the TV show,
+[   53.2] Hunted, a cyber investigations lead.
+[   56.2] He's a director. He's absolutely fantastic when it comes to understanding the world of these cyber criminals.
+[   62.2] His name is Graham Symphendorfer or Sympf. Welcome to the show, mate.
+[   65.2] Hi, Coggo and Jules. How are you?
+[   67.2] Good, mate. Seriously, just before Jules goes on, because the story isn't good, George, can I just ask you a question?
+[   74.2] I was often told by police here in Bendigo, there had been longstanding police men and women,
+[   79.2] that criminals were actually very smart people but went in the wrong direction. Is that a fair call?
+[   85.2] It can be, yeah. I've had a couple of mates, unfortunately, I grew up with, same thing.
+[   90.2] You think they're on the right path and they meet people or they make decisions and can head down the wrong path.
+[   96.2] It can be tragic.
+[   97.2] Yeah, for sure. I just, yeah, when they said that to me, I thought, oh, that kind of makes sense because you need to,
+[  101.2] especially with this, you need to be fairly, fairly much on your toes.
+[  104.2] Fairly bright.
+[  106.2] Yeah, that's right. Yeah, no, they're not silly, these cyber criminals and they're getting better and better each day and each week,
+[  112.2] especially now with AI that's coming along.
+[  114.2] Well, fortunately, we've got people like you, Sympf, to word us up on how they do this and to hopefully be more wary so that we are one step ahead and we're switching our brains on.
+[  124.2] So I want to talk you through the scenario that happened with my boyfriend.
+[  127.2] So he gets a call from someone who says, hey, I'm from your bank. They've said the name of the bank.
+[  133.2] So first of all, knows the banking institute that he has and says, you've cancelled your card, which is true.
+[  139.2] And we just need to verify a couple of details from you so that we can get that to you.
+[  144.2] So they've called out his address. He hasn't offered it up, called out his phone number, which they've dialed and his email address.
+[  153.2] So how on earth does someone who can pretend to be this person from this bank and seem legitimate get this information?
+[  162.2] Yeah, that's really good questions, Jules.
+[  164.2] Some of that would come from the dark web by the sound of that, particularly credit card numbers, but not the entire number.
+[  171.2] The address and phone number could be just from open source information.
+[  175.2] So by that, I mean social media, the Internet, all the stuff we're used to dealing with, what we call the surface web.
+[  183.2] So stuff that everyday people are dealing with every single day with through Google and the like.
+[  188.2] But the dark web will have stuff like phone numbers and PIN numbers, bank card details.
+[  194.2] So it sounds like this, whoever's called, actually is quite well connected.
+[  198.2] It's a bit of a social engineering campaign, we call it.
+[  201.2] So they know a lot of detail about you.
+[  203.2] In this case, where you're banking and that you've cancelled a card.
+[  207.2] So they're actually building your trust and that's what they need to do to get you to do or transfer money or give you passwords.
+[  216.2] They need that trust. So the more information they know about you personally, the more you'll like to go, oh, this must be legitimate.
+[  222.2] But I have to say from the outset, then to your listeners, you should never get a call like that from your bank or from other phonics institutions.
+[  230.2] It will be a scam. So my advice is to hang up, get their details.
+[  235.2] I'll get your details.
+[  236.2] I'll ring you back and go and fact check that.
+[  239.2] So either not everyone's in a position to go down to their bank, but maybe ring your bank back.
+[  245.2] And go, I've just had this phone call. Who is it? That's ringing me.
+[  247.2] So it should be on your case file.
+[  249.2] We all know organizations these days keep logs of all their calls and they record them.
+[  254.2] So it should be there and just fact check and challenge everything.
+[  257.2] Because if it's a bank scam or there's dating scams and ironically enough, I just got a text message this morning when I woke up around a package that you've you've ordered that hasn't been delivered with a link on it.
+[  269.2] Don't click on them.
+[  271.2] Don't give out passwords.
+[  273.2] Just trust your gut is my thing.
+[  276.2] And just fact check.
+[  278.2] Nothing is that urgent that you need to transfer money.
+[  281.2] You need to give passwords straight away.
+[  284.2] Just thanks for your call.
+[  286.2] I'll get your details and I'll call you back and then go and fact check.
+[  289.2] George, just with the link and we all get them.
+[  291.2] Like you, I get them a day and so do you Jules, I'm sure.
+[  294.2] But seriously, mate, is it you're in trouble if you just click the link or you're in trouble if you click the link and then go further than that because I don't click them because I'm not.
+[  302.2] I don't click them because I'm scared that it's going to take me to never never land or somewhere.
+[  306.2] Yeah, yeah.
+[  307.2] Look, some of them do depends on what the program is that the other end is to whether it's to install malware on your phone or your device.
+[  314.2] So they would be looking to get, I guess, access to your phone.
+[  318.2] And if you've clicked on a link that does give them access to your phone, then they may have access to your Google or your Google account.
+[  327.2] And we all know that it's easier to save your passwords to Google, isn't it?
+[  331.2] But my advice would be don't ever save your advice, your passwords to Google and every password, as much as a pain it is, needs to be different.
+[  342.2] I was going to ask that.
+[  343.2] So I've got about 50 different passwords.
+[  345.2] Now you've got your energy account, you've got your kids school account, you've got your bank accounts, your gym, you need all these different passwords and they should never be the same.
+[  354.2] And that's what the hackers rely on.
+[  356.2] So if they get one password out of you, they will try then every that password and variance of that around the different financial institutions and they might hit the jackpot.
+[  366.2] But then how are you supposed to remember all the different passwords that you've got?
+[  369.2] How does that work?
+[  370.2] Are you supposed to carry a little notepad around with you in your handbag or something like that?
+[  375.2] I store mine with a in the notes in my phone with a lock post pass passcode.
+[  382.2] Sorry.
+[  383.2] So even if I do lose my phone, you need the passcode to get into that particular note and then I can copy and paste each time I need to use that.
+[  392.2] So we shouldn't auto save when we suggested.
+[  395.2] I wouldn't suggest that's a good thing because if I get your Google account, they have every password in your life.
+[  402.2] And that could be very, very serious damage.
+[  406.2] Then we're in trouble.
+[  407.2] Hundreds of thousands of dollars could go.
+[  409.2] Just not too George.
+[  410.2] How do they besides clicking the link, how do they get your Google account?
+[  413.2] Is it, you know, is it come easy for them or they got to do a lot of work for it?
+[  417.2] They've actually got to speak to you.
+[  419.2] Yes, sometimes I'll speak with you.
+[  421.2] Sometimes it might be unfortunately out there in the dark web.
+[  424.2] But generally, it's the person has to provide that information either it's clicking on links or giving away personal information that leads them to getting that password.
+[  433.2] Or sometimes they say, look, we are from Google and we had to we've had someone trying to hack your account.
+[  440.2] We need to log in now.
+[  441.2] Please give us access to your phone and we'll help you get through it.
+[  445.2] And I think they thrive off the urgency aspect.
+[  448.2] So with this scenario that my boyfriend had, well, they said you immediately have to do this.
+[  453.2] Well, OK, your Spidey senses go off and you say, yeah, well, let's just take a second and breathe instead of rushing into a decision or, you know, with the high mom scan that was going around,
+[  462.2] which is now got a eye and they're using social media to be able to replicate your voice and call people.
+[  468.2] The scam is calling someone pretending to be you.
+[  471.2] I think just taking a second and going, hey, can you just tell me what your name was again?
+[  475.2] And I'll just give you a call back.
+[  477.2] And if they sort of start to panic and go, no, or hang up on you on something, it's probably a sign that they're not legit, right?
+[  485.2] Yeah, exactly.
+[  486.2] As soon as you start to say, let's let's get your details and I'll give you a call back.
+[  490.2] I'm just in the middle of something guaranteed.
+[  492.2] They'll say, no, this is urgent.
+[  493.2] This has to happen now.
+[  494.2] Otherwise you might stand to lose ABC.
+[  497.2] That's a clear sign that nothing is that urgent.
+[  500.2] If you take one thing away from our conversation, nothing is that urgent that you need to do it right then and there.
+[  505.2] Get their details, hang up and in fact, check it.
+[  508.2] I'd say nine times out of ten, it'd be a scam.
+[  511.2] And you just touched on that.
+[  513.2] I do.
+[  514.2] So that is happening a fair bit using voice recognition.
+[  517.2] So if you've uploaded to social media, some talking or anything, they could clone your voice now and then they can actually ring you.
+[  526.2] So I've heard of a couple of scenarios where you like your kids are overseas and all of a sudden they've called you because they have a number and they've A.I.
+[  535.2] That your son or daughter's voice and I need money.
+[  539.2] I need money now.
+[  540.2] I'm stuck.
+[  541.2] I'm in trouble.
+[  542.2] Yeah.
+[  543.2] And it sounds like your child.
+[  544.2] So that's really scary.
+[  545.2] But my advice again, there is have a code word before your travel because it's urgent situations do come up and only you and your family know what that code is.
+[  555.2] That can start your conversation if they're wherever they are in Europe and they're in trouble.
+[  560.2] That code word is the key to this is a legitimate call, not A.I. or a scam.
+[  564.2] Yeah.
+[  565.2] Because that's where the big dollars goes.
+[  567.2] So you could be on that scam call and just ask the scammer.
+[  569.2] Hey, what's the code word?
+[  571.2] Exactly.
+[  572.2] Yeah.
+[  573.2] Hey, Graham, just before we let you go, just something touching on what you said before you spent a long time investigating lots of things when it comes to this and how did the show, which is going to be a ripper coming up soon.
+[  583.2] When was the last time you used your Spidey sensors?
+[  588.2] This morning when I picked up my phone and saw that scam.
+[  591.2] No, look, I think it's it's that old old adage is that you can take the country out of the boy but not the boy out of the country and all went to maybe the other way around.
+[  600.2] But the detective.
+[  601.2] Yeah.
+[  602.2] Yeah, it never leaves me.
+[  603.2] I'm always on edge and I'm always looking around the scanning and different things.
+[  607.2] But a lot more happier in life post policing.
+[  610.2] That's for sure.
+[  611.2] Fantastic.
+[  612.2] We do appreciate your time.
+[  613.2] Don't we, Jules?
+[  614.2] Absolutely.
+[  615.2] Graham, Simford or for a case of detective investigator.
+[  618.2] What doesn't he do?
+[  619.2] Thank you so much for taking the time to explain and give people a bit of a heads up.
+[  623.2] No worries.
+[  624.2] Time goes.
+[  625.2] The all season spend ago ready to make your dream wedding a reality.
+[  629.2] Coggo and Jules for breakfast.
+[  631.2] Triple M.

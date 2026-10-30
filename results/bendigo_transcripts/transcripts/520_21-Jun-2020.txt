@@ -1,0 +1,8 @@
+Melbourne Suburbs with high CV19 Cases!
+Sun, 21 Jun 2020 23:39:00 +0000
+
+[    0.0] Suburbs include Northcote, Fairfield, Alfington, Thornbury, Broadmeadows and Sunbury,
+[    6.1] Narry Warren Cranburn, Dandenong Hastings, Footscray, St Albans, Yarra Ranges and
+[   12.1] Mornington Peninsula. Now there is a lot more that sit under the six municipalities,
+[   18.2] you can just look them up, but yeah they are saying that's where the hot spots are
+[   24.6] and we should if we can stay away from those suburbs.
