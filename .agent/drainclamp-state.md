@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=17 -->
+<!-- drainclamp-build: state; schema=1; generation=18 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -35,6 +35,7 @@
 - wrong guesses -> drop clips matching an exact on-air WRONG guess, by action not object (pushing the microwave button != closing the microwave door); warm/unclear matches kept and marked; searches stay object-level (tools/wrong_filter.py + analysis/mnc/onair_guesses.json) (user, 30 Oct)
 - mnc ear (31 Oct) -> only "Key_Old_Recorder" sounds close: not it, but the button mechanism is close (piano-key latching button); keyboards, disk tray, others "way off"; tape decks/recorders/CD players/old radio buttons already guessed wrong on air (user)
 - bendigo ear (31 Oct) -> grandfather-clock winding (freesound 27149) is the closest of everything; pitch-shifted versions (up or down) were not closer; lever, vending, rotary dial, bike wheel, bigger winders (wave 4) are further off. Lead answer: "winding up a grandfather clock" (fits classic / need a hand / old school; not on the wrong list) (user)
+- sound downloads -> ONLY through GitHub workflows (Freesound, BBC, full clips via fetch-clips.yml); never pulled in the cloud session (user, 31 Oct)
 <!-- /DC:DECISIONS -->
 
 <!-- DC:ROADMAP -->

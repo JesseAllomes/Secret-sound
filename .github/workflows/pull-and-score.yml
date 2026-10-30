@@ -13,6 +13,9 @@ on:
       reuse_run:
         description: "Run id of an earlier pull to re-score its clips instead of pulling (no Freesound requests)"
         default: ""
+      source:
+        description: "freesound or bbc (BBC Sound Effects library; no key, no Freesound requests)"
+        default: freesound
       competition:
         description: "mnc (Mid North Coast: steel_score + CLAP) or bendigo (CLAP only, 0.28 s window)"
         default: mnc
@@ -74,7 +77,11 @@ jobs:
         run: |
           grep -v '^#' "${{ inputs.queries }}" | sed '/^\s*$/d' | awk -v n="${{ steps.key.outputs.bots }}" -v b="${{ matrix.bot }}" '(NR-1)%n==b-1' > my_queries.txt
           echo "bot ${{ matrix.bot }} of ${{ steps.key.outputs.bots }}: $(wc -l < my_queries.txt) searches"
-          python pull_queries.py "data/${{ inputs.name }}" my_queries.txt --per-query "${{ inputs.per_query }}" --max-seconds "${{ inputs.max_seconds }}"
+          if [ "${{ inputs.source }}" = bbc ]; then
+            python bbc_pull.py "data/${{ inputs.name }}" --queries my_queries.txt --per-query "${{ inputs.per_query }}"
+          else
+            python pull_queries.py "data/${{ inputs.name }}" my_queries.txt --per-query "${{ inputs.per_query }}" --max-seconds "${{ inputs.max_seconds }}"
+          fi
       - name: Upload this bot's clips
         if: steps.key.outputs.skip != '1'
         uses: actions/upload-artifact@v4
