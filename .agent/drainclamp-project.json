@@ -2,8 +2,8 @@
   "chunks": {
     "m2": [
       {
-        "done": false,
-        "done_at": null,
+        "done": true,
+        "done_at": "2026-10-30T12:38:28+00:00",
         "est_min": 25,
         "goal": "clap_index.py build: events per clip (sfx_match.events), CLAP embed, incremental cache index.npz per folder",
         "id": "c1",
@@ -14,8 +14,8 @@
         ]
       },
       {
-        "done": false,
-        "done_at": null,
+        "done": true,
+        "done_at": "2026-10-30T12:38:28+00:00",
         "est_min": 25,
         "goal": "clap_index.py query: clue vs one or more indexes, rank by clap+mel, CSV + A/B; tests with a stub embedder",
         "id": "c2",
@@ -40,9 +40,17 @@
     ]
   },
   "errors": [],
-  "rev": 3,
+  "rev": 5,
   "schema": 1,
-  "time": [],
+  "time": [
+    {
+      "end": "2026-10-30T12:38:28+00:00",
+      "id": "s1",
+      "note": "",
+      "source": "auto",
+      "start": "2026-10-30T12:38:28+00:00"
+    }
+  ],
   "todos": [],
   "tokens": null
 }
