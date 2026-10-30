@@ -1,0 +1,150 @@
+
+1822 files with a stroke pair. Top 40 by score:
+  1  0.898  gap 150.4 ms  ring  865 Hz T60 0.19  [gap 0.95 pre 0.00 crunch 1.00 thump 1.00 ring 0.82 dry 1.00 iso 1.00]  Toaster, Snare 1
+  2  0.884  gap 147.5 ms  ring  851 Hz T60 0.74  [gap 0.97 pre 0.00 crunch 1.00 thump 0.93 ring 0.79 dry 1.00 iso 1.00]  Loading CD in disk tray.wav
+  3  0.883  gap 144.7 ms  ring 1054 Hz T60 0.65  [gap 0.98 pre 1.00 crunch 1.00 thump 0.90 ring 0.60 dry 1.00 iso 1.00]  Tape Deck Fast Forward
+  4  0.869  gap 170.0 ms  ring  648 Hz T60 0.41  [gap 0.71 pre 0.00 crunch 1.00 thump 1.00 ring 0.90 dry 0.76 iso 1.00]  Microwave.mp3
+  5  0.868  gap 155.9 ms  ring  606 Hz T60 0.59  [gap 0.89 pre 1.00 crunch 1.00 thump 1.00 ring 0.57 dry 0.82 iso 1.00]  20131202_automat_ZoomH4nXY.wav
+  6  0.866  gap 144.4 ms  ring  824 Hz T60 0.88  [gap 0.98 pre 1.00 crunch 0.67 thump 1.00 ring 0.71 dry 0.82 iso 1.00]  Bucket 031
+  7  0.864  gap 139.7 ms  ring  667 Hz T60 0.00  [gap 1.00 pre 1.00 crunch 1.00 thump 0.83 ring 0.56 dry 1.00 iso 1.00]  Old SLR film camera - Quick series of shutter cocking and pressing
+  8  0.857  gap 160.6 ms  ring  719 Hz T60 1.15  [gap 0.84 pre 0.40 crunch 0.75 thump 1.00 ring 0.79 dry 1.00 iso 1.00]  Lock 1.wav
+  9  0.854  gap 146.2 ms  ring  809 Hz T60 3.62  [gap 0.97 pre 1.00 crunch 0.67 thump 1.00 ring 0.63 dry 1.00 iso 1.00]  newport-hotel-door-lock.aif
+ 10  0.852  gap 150.4 ms  ring  542 Hz T60 0.64  [gap 0.95 pre 1.00 crunch 0.67 thump 1.00 ring 0.69 dry 0.79 iso 1.00]  Satisfying Plastic Handle Unlock
+ 11  0.852  gap 138.8 ms  ring  912 Hz T60 0.49  [gap 1.00 pre 0.00 crunch 0.75 thump 1.00 ring 0.80 dry 0.81 iso 1.00]  suitcase_click_open_sqeeeek.wav
+ 12  0.851  gap 104.7 ms  ring  987 Hz T60 0.47  [gap 0.72 pre 0.00 crunch 1.00 thump 1.00 ring 0.78 dry 0.95 iso 1.00]  Keyboard_Clicky_5
+ 13  0.851  gap 118.6 ms  ring  811 Hz T60 5.00  [gap 0.90 pre 1.00 crunch 1.00 thump 0.97 ring 0.48 dry 1.00 iso 1.00]  COMTelph-LANDLINE PHONE_Pick Up Drop Ear Piece (Aggresive) 01_KVV AUDIO_VEF TA 68
+ 14  0.850  gap 138.6 ms  ring  612 Hz T60 2.65  [gap 1.00 pre 1.00 crunch 0.67 thump 0.95 ring 0.63 dry 1.00 iso 1.00]  Cassette handling
+ 15  0.841  gap 156.0 ms  ring  503 Hz T60 0.36  [gap 0.89 pre 0.00 crunch 0.67 thump 1.00 ring 0.83 dry 0.97 iso 1.00]  Microwave door; openshut.wav
+ 16  0.839  gap 160.0 ms  ring  683 Hz T60 0.85  [gap 0.85 pre 1.00 crunch 1.00 thump 1.00 ring 0.56 dry 1.00 iso 0.86]  Servo Motor #1.wav
+ 17  0.838  gap 111.8 ms  ring  879 Hz T60 0.22  [gap 0.82 pre 0.00 crunch 1.00 thump 0.61 ring 0.94 dry 0.77 iso 1.00]  Starwars_the_clone_wars_inspired_seperatist_button_sounds_01272023
+ 18  0.836  gap 154.6 ms  ring  888 Hz T60 0.48  [gap 0.91 pre 1.00 crunch 0.50 thump 0.75 ring 0.89 dry 0.79 iso 1.00]  door wood gnarly apartment heavy back door to balcony push closed catch squeak, with latch.flac
+ 19  0.832  gap 144.0 ms  ring  507 Hz T60 0.81  [gap 0.98 pre 0.40 crunch 1.00 thump 0.99 ring 0.51 dry 0.77 iso 1.00]  Water + Sodastream
+ 20  0.830  gap 155.7 ms  ring  663 Hz T60 0.68  [gap 0.90 pre 0.40 crunch 1.00 thump 0.56 ring 0.77 dry 1.00 iso 1.00]  vcr_switch.wav
+ 21  0.830  gap 147.3 ms  ring  825 Hz T60 0.99  [gap 0.97 pre 1.00 crunch 0.67 thump 0.82 ring 0.68 dry 0.86 iso 1.00]  Bucket 032
+ 22  0.828  gap 142.9 ms  ring  994 Hz T60 0.29  [gap 0.99 pre 1.00 crunch 0.50 thump 0.86 ring 0.70 dry 1.00 iso 1.00]  Blip Wave
+ 23  0.828  gap 171.6 ms  ring  599 Hz T60 2.12  [gap 0.69 pre 1.00 crunch 1.00 thump 0.90 ring 0.56 dry 1.00 iso 1.00]  Pressing spacebar on computer mechanical keyboard.wav
+ 24  0.827  gap 114.1 ms  ring  831 Hz T60 0.93  [gap 0.85 pre 1.00 crunch 1.00 thump 0.77 ring 0.56 dry 0.90 iso 1.00]  COMTelph-LANDLINE PHONE_Telephone Falling Down 02_KVV AUDIO_VEF TA 68
+ 25  0.826  gap 149.4 ms  ring  788 Hz T60 0.19  [gap 0.95 pre 0.00 crunch 0.50 thump 0.97 ring 0.85 dry 1.00 iso 1.00]  Roku remote; clicking.wav
+ 26  0.826  gap 130.6 ms  ring  605 Hz T60 0.18  [gap 0.99 pre 0.00 crunch 0.83 thump 1.00 ring 0.61 dry 1.00 iso 1.00]  Keyboard_Tactile_5
+ 27  0.826  gap 138.8 ms  ring  736 Hz T60 0.37  [gap 1.00 pre 0.40 crunch 0.50 thump 1.00 ring 0.77 dry 0.79 iso 1.00]  Mouseclicks
+ 28  0.826  gap 137.9 ms  ring  689 Hz T60 0.72  [gap 1.00 pre 0.00 crunch 1.00 thump 0.75 ring 0.71 dry 0.70 iso 1.00]  Elevator: Button 1 (Compilation)
+ 29  0.822  gap 147.0 ms  ring  587 Hz T60 0.42  [gap 0.97 pre 0.00 crunch 1.00 thump 0.50 ring 0.81 dry 1.00 iso 1.00]  Drawer 7
+ 30  0.820  gap 118.1 ms  ring  675 Hz T60 1.38  [gap 0.89 pre 0.00 crunch 0.83 thump 1.00 ring 0.64 dry 1.00 iso 1.00]  FUJITSU Computers Keyboard - Enter key Press Mono
+ 31  0.818  gap 155.6 ms  ring  650 Hz T60 0.52  [gap 0.90 pre 1.00 crunch 0.50 thump 1.00 ring 0.65 dry 0.98 iso 0.99]  Cutlery04.wav
+ 32  0.816  gap 131.5 ms  ring  953 Hz T60 0.68  [gap 0.99 pre 0.40 crunch 0.67 thump 1.00 ring 0.59 dry 1.00 iso 1.00]  Plastic Lid Tub Container Open and Close.wav
+ 33  0.814  gap 132.4 ms  ring  859 Hz T60 0.84  [gap 0.99 pre 0.00 crunch 0.58 thump 1.00 ring 0.81 dry 0.50 iso 1.00]  Mechanical-Keyboard: Typing
+ 34  0.812  gap 132.6 ms  ring 1010 Hz T60 0.32  [gap 0.99 pre 1.00 crunch 1.00 thump 1.00 ring 0.85 dry 0.44 iso 0.39]  Microwave Open
+ 35  0.810  gap 157.8 ms  ring  840 Hz T60 1.70  [gap 0.87 pre 1.00 crunch 0.83 thump 0.69 ring 0.60 dry 1.00 iso 1.00]  Glass lid off.wav
+ 36  0.809  gap 142.9 ms  ring  732 Hz T60 0.68  [gap 0.99 pre 0.00 crunch 0.50 thump 0.94 ring 0.82 dry 0.80 iso 1.00]  Elbow nudge, cloth bump
+ 37  0.808  gap 123.3 ms  ring  680 Hz T60 0.00  [gap 0.94 pre 0.00 crunch 1.00 thump 0.96 ring 0.49 dry 1.00 iso 1.00]  Some sweet spacebar clicks
+ 38  0.807  gap 151.0 ms  ring  570 Hz T60 5.00  [gap 0.94 pre 1.00 crunch 1.00 thump 0.99 ring 0.41 dry 0.30 iso 1.00]  Elevator: Button Beep (Compilation)
+ 39  0.807  gap 127.5 ms  ring  515 Hz T60 0.00  [gap 0.97 pre 1.00 crunch 0.67 thump 0.83 ring 0.55 dry 1.00 iso 1.00]  Keyboard typing
+ 40  0.805  gap 155.4 ms  ring  918 Hz T60 0.33  [gap 0.90 pre 1.00 crunch 0.50 thump 0.52 ring 0.97 dry 0.51 iso 1.00]  20131911_Squeaking_Door
+
+Evidence per mechanism (search query):
+  latch click                      n=  24 best 0.854 median-top5 0.852  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  dial click                       n=  53 best 0.864 median-top5 0.827  matches gap,pre,crunch,thump,dry,iso  never -
+  container lid                    n=  33 best 0.866 median-top5 0.816  matches gap,crunch,thump,ring,dry,iso  never -
+  spacebar                         n=  41 best 0.828 median-top5 0.807  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  toaster                          n=  52 best 0.898 median-top5 0.799  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  keyboard key                     n=  51 best 0.851 median-top5 0.798  matches gap,crunch,thump,ring,dry,iso  never pre
+  tape deck                        n=  42 best 0.883 median-top5 0.796  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  door lock                        n=  46 best 0.792 median-top5 0.790  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  microwave door                   n=  42 best 0.841 median-top5 0.788  matches gap,crunch,thump,ring,dry,iso  never -
+  tupperware                       n=  53 best 0.818 median-top5 0.788  matches gap,crunch,thump,ring,dry,iso  never -
+  cd tray                          n=  60 best 0.884 median-top5 0.784  matches gap,crunch,thump,ring,dry,iso  never -
+  push switch                      n=  16 best 0.830 median-top5 0.782  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  drink bottle                     n=  52 best 0.798 median-top5 0.781  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  microwave button                 n=  40 best 0.869 median-top5 0.773  matches gap,crunch,thump,ring,dry,iso  never -
+  lid pop                          n=  25 best 0.805 median-top5 0.773  matches gap,crunch,thump,ring,dry,iso  never pre
+  power button                     n=  24 best 0.828 median-top5 0.772  matches gap,thump,ring,dry,iso  never -
+  radio button                     n=  20 best 0.777 median-top5 0.768  matches gap,crunch,thump,ring,dry,iso  never -
+  car lock                         n=  43 best 0.857 median-top5 0.766  matches gap,crunch,thump,dry,iso  never -
+  mouse switch                     n=  16 best 0.826 median-top5 0.764  matches gap,thump,ring,dry,iso  never pre
+  push button                      n=  40 best 0.826 median-top5 0.764  matches gap,crunch,thump,ring,dry,iso  never -
+  rocker switch                    n=   1 best 0.762 median-top5 0.762  matches gap,crunch,thump,dry,iso  never pre
+  push light                       n=  25 best 0.809 median-top5 0.760  matches gap,crunch,thump,ring,dry,iso  never pre
+  coffee machine                   n=  50 best 0.790 median-top5 0.758  matches gap,pre,crunch,thump,dry,iso  never -
+  lamp switch                      n=  16 best 0.791 median-top5 0.751  matches gap,thump,dry,iso  never -
+  computer button                  n=  15 best 0.838 median-top5 0.750  matches gap,crunch,thump,ring,dry,iso  never -
+  briefcase                        n=  23 best 0.781 median-top5 0.750  matches gap,crunch,thump,ring,dry,iso  never -
+  thermos                          n=  43 best 0.757 median-top5 0.745  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  cassette button                  n=  30 best 0.850 median-top5 0.744  matches gap,thump,ring,dry,iso  never -
+  torch switch                     n=  15 best 0.770 median-top5 0.744  matches gap,crunch,thump,dry,iso  never -
+  capsule machine                  n=  47 best 0.868 median-top5 0.743  matches gap,pre,crunch,thump,ring,dry  never -
+  kettle button                    n=   1 best 0.742 median-top5 0.742  matches gap,crunch,thump,dry,iso  never pre
+  plunger                          n=  28 best 0.773 median-top5 0.741  matches gap,crunch,thump,ring,dry,iso  never -
+  keyboard switch                  n=  37 best 0.753 median-top5 0.738  matches gap,crunch,thump,ring,dry,iso  never pre
+  bottle lid                       n=  37 best 0.810 median-top5 0.734  matches gap,crunch,thump,dry,iso  never -
+  mechanical keyboard              n=  26 best 0.826 median-top5 0.733  matches gap,crunch,thump,ring,dry,iso  never -
+  tv button                        n=  37 best 0.826 median-top5 0.727  matches gap,crunch,thump,dry,iso  never -
+  drawer                           n=  52 best 0.822 median-top5 0.726  matches gap,crunch,thump,ring,dry,iso  never -
+  cupboard door                    n=  41 best 0.784 median-top5 0.724  matches gap,crunch,thump,ring,dry,iso  never -
+  oven door                        n=  43 best 0.752 median-top5 0.723  matches gap,crunch,thump,iso  never -
+  cassette eject                   n=  26 best 0.766 median-top5 0.721  matches gap,pre,crunch,thump,ring,dry,iso  never -
+  toggle switch                    n=  10 best 0.756 median-top5 0.721  matches thump,ring,dry,iso  never -
+  remote control                   n=  44 best 0.839 median-top5 0.717  matches gap,crunch,thump,dry,iso  never -
+  toaster lever                    n=   7 best 0.782 median-top5 0.716  matches gap,crunch,thump,ring,dry,iso  never -
+  latching button                  n=  12 best 0.755 median-top5 0.708  matches crunch,thump,ring,dry,iso  never pre
+  battery door                     n=   6 best 0.753 median-top5 0.702  matches gap,crunch,thump,ring,dry  never -
+  slide switch                     n=  21 best 0.714 median-top5 0.701  matches gap,pre,thump,ring,dry,iso  never -
+  batteries                        n=  45 best 0.714 median-top5 0.694  matches gap,pre,crunch,thump  never -
+  boombox                          n=  37 best 0.719 median-top5 0.690  matches gap,crunch,thump,dry,iso  never -
+  bin lid                          n=  18 best 0.728 median-top5 0.689  matches gap,crunch,thump,ring,dry  never -
+  wireless mouse                   n=   7 best 0.774 median-top5 0.688  matches gap,thump,dry,iso  never -
+  lid release                      n=   6 best 0.752 median-top5 0.688  matches gap,pre,crunch,thump,dry,iso  never -
+  water bottle                     n=  32 best 0.698 median-top5 0.685  matches gap,pre,crunch,thump,ring,dry  never -
+  toaster button                   n=   4 best 0.696 median-top5 0.685  matches gap,thump,ring,iso  never -
+  glovebox                         n=   9 best 0.753 median-top5 0.683  matches gap,crunch,thump,dry,iso  never -
+  pressure cooker                  n=  13 best 0.781 median-top5 0.680  matches gap,crunch,thump,ring,dry  never -
+  oven timer                       n=  14 best 0.765 median-top5 0.675  matches gap,crunch,thump,dry  never -
+  soap dispenser                   n=  17 best 0.701 median-top5 0.674  matches gap,pre,crunch,thump,ring,dry  never -
+  flip top                         n=   3 best 0.749 median-top5 0.672  matches gap,crunch,thump,dry,iso  never pre
+  kitchen bin                      n=   9 best 0.713 median-top5 0.669  matches gap,pre,crunch,thump,ring  never -
+  rice cooker                      n=   9 best 0.762 median-top5 0.660  matches gap,pre,crunch,thump,ring,dry  never -
+  battery insert                   n=   6 best 0.680 median-top5 0.648  matches gap,crunch,thump,ring,dry  never -
+  kettle switch                    n=   8 best 0.669 median-top5 0.647  matches gap,pre,crunch,thump,dry  never -
+  lid button                       n=   5 best 0.741 median-top5 0.646  matches gap,thump,ring,dry,iso  never pre
+  push latch                       n=  12 best 0.836 median-top5 0.643  matches gap,pre,thump,ring,dry  never -
+  kettle lid                       n=   6 best 0.685 median-top5 0.640  matches gap,crunch,dry  never -
+  food processor                   n=  13 best 0.683 median-top5 0.639  matches gap,pre,crunch,thump,ring  never iso
+  lunch box                        n=   4 best 0.720 median-top5 0.633  matches gap,crunch,thump,dry  never -
+  sodastream                       n=   7 best 0.832 median-top5 0.632  matches gap,pre,crunch,thump  never -
+  french press                     n=   3 best 0.642 median-top5 0.628  matches gap,pre,crunch,thump,ring  never iso
+  briefcase lock                   n=   5 best 0.723 median-top5 0.622  matches crunch,thump,dry,iso  never -
+  battery compartment              n=   3 best 0.685 median-top5 0.620  matches gap,pre,crunch,thump  never -
+  clip lid                         n=   5 best 0.699 median-top5 0.617  matches gap,pre,crunch,thump,ring,dry  never -
+  juicer                           n=   6 best 0.609 median-top5 0.604  matches gap,pre,crunch,thump,ring  never iso
+  lunchbox                         n=   8 best 0.659 median-top5 0.599  matches gap,crunch,thump,dry,iso  never -
+  suitcase latch                   n=   3 best 0.788 median-top5 0.591  matches crunch,thump,dry,iso  never pre
+  hand blender                     n=   6 best 0.694 median-top5 0.588  matches gap,pre,crunch,thump,dry  never iso
+  stand mixer                      n=   6 best 0.729 median-top5 0.582  matches gap,pre,crunch,thump,ring  never dry
+  flask lid                        n=   2 best 0.585 median-top5 0.566  matches gap,pre,thump,dry  never iso
+  soap pump                        n=   4 best 0.633 median-top5 0.553  matches crunch,thump,dry  never -
+  battery cover                    n=   5 best 0.600 median-top5 0.542  matches gap,crunch,thump,dry  never -
+  salad spinner                    n=   2 best 0.658 median-top5 0.529  matches gap,crunch,thump  never iso
+  pedal bin                        n=   2 best 0.520 median-top5 0.518  matches pre,crunch,ring  never dry
+  thermos lid                      n=  10 best 0.561 median-top5 0.513  matches gap,ring  never pre
+  flip lid                         n=   1 best 0.504 median-top5 0.504  matches pre,dry,iso  never crunch
+  remote battery                   n=   1 best 0.449 median-top5 0.449  matches crunch,thump,dry  never pre,iso
+A/B: results/mnc_fable100/ab/AB_steel1_toaster_790771.mp3
+A/B: results/mnc_fable100/ab/AB_steel2_cd-tray_391506.mp3
+A/B: results/mnc_fable100/ab/AB_steel3_tape-deck_845646.mp3
+A/B: results/mnc_fable100/ab/AB_steel4_microwave-button_444039.mp3
+A/B: results/mnc_fable100/ab/AB_steel5_capsule-machine_210414.mp3
+A/B: results/mnc_fable100/ab/AB_steel6_container-lid_825029.mp3
+A/B: results/mnc_fable100/ab/AB_steel7_dial-click_516484.mp3
+A/B: results/mnc_fable100/ab/AB_steel8_car-lock_364272.mp3
+A/B: results/mnc_fable100/ab/AB_steel9_latch-click_124986.mp3
+A/B: results/mnc_fable100/ab/AB_steel10_latch-click_448393.mp3
+A/B: results/mnc_fable100/ab/AB_steel11_latch-click_381854.mp3
+A/B: results/mnc_fable100/ab/AB_steel12_keyboard-key_766620.mp3
+A/B: results/mnc_fable100/ab/AB_steel13_dial-click_735652.mp3
+A/B: results/mnc_fable100/ab/AB_steel14_cassette-button_680835.mp3
+A/B: results/mnc_fable100/ab/AB_steel15_microwave-door_660553.mp3
+A/B: results/mnc_fable100/ab/AB_steel16_remote-control_65499.mp3
+A/B: results/mnc_fable100/ab/AB_steel17_computer-button_751295.mp3
+A/B: results/mnc_fable100/ab/AB_steel18_push-latch_451832.mp3
+A/B: results/mnc_fable100/ab/AB_steel19_sodastream_386428.mp3
+A/B: results/mnc_fable100/ab/AB_steel20_push-switch_364202.mp3
+scored with steel_score.py (Mid North Coast fingerprint); A/B clue: clues/mnc/clue_v6b.wav
