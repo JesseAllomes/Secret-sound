@@ -47,3 +47,9 @@ They should score near the top, against the general Freesound set as the null.
 `steel_score.py` prints the best stroke pair per file: the gap in ms, ring frequency and T60, the six
 feature scores, and then the evidence per search query (count, best score, median of the top 5, which
 features match and which never do).
+
+## Running pulls on GitHub (when this machine can't reach Freesound)
+`.github/workflows/pull-and-score.yml` (Actions tab, "Pull and score", Run workflow) pulls the searches in a `jobs/*.txt`
+file with the repository secret `FREESOUND_KEY`, scores every clip with `steel_score.py` (Mid North Coast fingerprint),
+builds A/B files with `clues/mnc/clue_v6b.wav`, and commits `results/<name>/` (scores, meta, A/B mp3s) to the
+`results` branch. The clips themselves are kept for 30 days as a workflow artifact. Clue audio lives in `clues/<sound>/`.

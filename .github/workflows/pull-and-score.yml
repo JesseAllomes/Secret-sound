@@ -1,0 +1,74 @@
+name: Pull and score
+
+# Mid North Coast only. Runs a Freesound pull for one jobs/*.txt list, scores every clip with steel_score.py (whose
+# fingerprint is calibrated on the Mid North Coast clue; not valid for Bendigo), builds A/B files
+# for the best matches, and commits the results to the `results` branch (results/<name>/). The downloaded clips
+# are kept as a workflow artifact. Needs the repository secret FREESOUND_KEY.
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Run name, e.g. mnc_binding (results go to results/<name>/)"
+        required: true
+      queries:
+        description: "Searches file, e.g. jobs/mnc_binding.txt"
+        required: true
+      ab_clue:
+        description: "Clue used in the A/B files"
+        default: clues/mnc/clue_v6b.wav
+      per_query:
+        description: "Results per search"
+        default: "100"
+      ab:
+        description: "How many A/B files"
+        default: "10"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q numpy scipy librosa soundfile
+      - name: Key
+        env:
+          FREESOUND_KEY: ${{ secrets.FREESOUND_KEY }}
+        run: |
+          test -n "$FREESOUND_KEY" || { echo "Add the repository secret FREESOUND_KEY first"; exit 1; }
+          mkdir -p ~/.secret-song && umask 077 && printf '%s' "$FREESOUND_KEY" > ~/.secret-song/freesound.key
+      - name: Pull
+        run: python pull_queries.py "data/${{ inputs.name }}" "${{ inputs.queries }}" --per-query "${{ inputs.per_query }}"
+      - name: Score and A/B
+        run: |
+          out="results/${{ inputs.name }}"
+          mkdir -p "$out"
+          python steel_score.py "data/${{ inputs.name }}" --meta "data/${{ inputs.name }}/meta.json" --jobs 4 \
+            --csv "$out/scores.csv" --top 40 --ab "${{ inputs.ab }}" --clue "${{ inputs.ab_clue }}" --out "$out/ab" \
+            | tee "$out/scores.txt"
+          cp "data/${{ inputs.name }}/meta.json" "$out/meta.json"
+          echo "scored with steel_score.py (Mid North Coast fingerprint); A/B clue: ${{ inputs.ab_clue }}" >> "$out/scores.txt"
+      - name: Keep the clips
+        uses: actions/upload-artifact@v4
+        with:
+          name: clips-${{ inputs.name }}
+          path: data/${{ inputs.name }}
+          retention-days: 30
+      - name: Commit results to the results branch
+        run: |
+          git config user.name "secret-sound bot"
+          git config user.email "actions@users.noreply.github.com"
+          mv "results/${{ inputs.name }}" /tmp/res
+          git fetch origin results || true
+          if git rev-parse --verify -q origin/results >/dev/null; then git checkout -B results origin/results; else git checkout --orphan results && git rm -rq --cached . && git clean -fdq; fi
+          mkdir -p results && rm -rf "results/${{ inputs.name }}" && mv /tmp/res "results/${{ inputs.name }}"
+          git add -f "results/${{ inputs.name }}"
+          git commit -qm "results: ${{ inputs.name }}" && git push -q origin results
