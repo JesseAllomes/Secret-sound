@@ -1,0 +1,77 @@
+on-air filter: 0 clips match a wrong guess and are left out of the A/B files
+0.820 clap 0.797 mel 0.875  315753 @0.82s  [clock mechanism] Running Gear
+0.808 clap 0.793 mel 0.844  27150 @4.19s  [grandfather clock] Grandfather Clock.MP3
+0.807 clap 0.791 mel 0.844  27149 @4.19s  [clock winding] Grandfather Clock Winding.mp3
+0.807 clap 0.783 mel 0.863  320862 @6.44s  [antique clock] Old watch in a small antique shop.
+0.805 clap 0.773 mel 0.878  805328 @2.87s  [clock winding] CLOCKMech-Samsung Galaxy Smartphone, CU_Grandfather Clock Wi
+0.793 clap 0.770 mel 0.845  737681 @17.53s  [grandfather clock] 240519_2748_FR_Grandpa's_clock_striking_12
+0.790 clap 0.804 mel 0.756  169116 @19.29s  [grandfather clock] clockwork 06.wav
+0.788 clap 0.754 mel 0.866  169117 @7.56s  [grandfather clock] clockwork 05.wav
+0.780 clap 0.753 mel 0.843  331708 @7.54s  [wall clock] clock, wall, small, old, striking mechanism but no bell, tic
+0.777 clap 0.731 mel 0.886  133772 @8.74s  [chiming clock] Glitched Chime Hit IV B.wav
+0.771 clap 0.731 mel 0.865  133773 @1.72s  [chiming clock] Glitched Chime Hit III.wav
+0.768 clap 0.721 mel 0.876  331704 @7.61s  [wall clock] clock, wall, small, old, striking mechanism but no bell, tic
+0.762 clap 0.731 mel 0.835  169122 @10.57s  [pendulum clock] clockwork 13.wav
+0.761 clap 0.741 mel 0.805  819304 @3.86s  [clock winding] CLOCKMech-Blue Snowball Microphone, MCU_Windup, Wind_Nichola
+0.759 clap 0.756 mel 0.766  96147 @0.26s  [clock winding] MultiWind1.wav
+0.758 clap 0.720 mel 0.848  133775 @3.27s  [chiming clock] Glitched Clock.wav
+0.755 clap 0.708 mel 0.867  169112 @8.21s  [pendulum clock] clockwork 02.wav
+0.755 clap 0.706 mel 0.869  27080 @4.27s  [grandfather clock] ClockTicksInsideDoorClosedOneChime.wav
+0.754 clap 0.713 mel 0.850  554952 @2.70s  [pendulum clock] Pendulum wall clock strikes
+0.749 clap 0.695 mel 0.877  169113 @13.32s  [pendulum clock] clockwork 01.wav
+0.747 clap 0.747 mel 0.747  533928 @4.28s  [wall clock] Ticking and 12 chime of an old Junghans Wall Clock .wav
+0.746 clap 0.726 mel 0.793  243610 @13.14s  [clock winding] CLOCK_WINDING.aiff
+0.745 clap 0.713 mel 0.819  133774 @1.09s  [chiming clock] Glitched Chime Hit II.wav
+0.744 clap 0.713 mel 0.816  133777 @1.90s  [chiming clock] Glitched Chime Hit V.wav
+0.744 clap 0.718 mel 0.804  169120 @13.68s  [pendulum clock] clockwork 12.wav
+0.743 clap 0.709 mel 0.824  403518 @1.69s  [clock winding] Egg-Timer_Spring_Wind-up.wav
+0.741 clap 0.701 mel 0.835  619296 @1.80s  [clock winding] Clock (Cuckoo) - Wind 3
+0.741 clap 0.722 mel 0.786  169119 @11.85s  [pendulum clock] clockwork 09.wav
+0.741 clap 0.745 mel 0.731  458589 @0.47s  [grandfather clock] Grandfather Clock Striking at the 15 Minute Mark.aif
+0.740 clap 0.697 mel 0.839  169121 @1.34s  [pendulum clock] clockwork 11.wav
+0.736 clap 0.705 mel 0.808  186636 @11.67s  [clock winding] Undefined Old Engine / machinery 2
+0.734 clap 0.706 mel 0.799  545311 @1.95s  [clock winding] winding up clock.wav
+0.734 clap 0.694 mel 0.826  133776 @0.95s  [chiming clock] Glitched Chime Hit.wav
+0.725 clap 0.666 mel 0.863  432063 @19.12s  [clock winding] Alarm clock ring
+0.724 clap 0.715 mel 0.746  331706 @31.31s  [wall clock] clock, wall 2, small, old, striking mechanism and hammer, no
+0.723 clap 0.672 mel 0.841  619297 @3.90s  [clock winding] Clock (Cuckoo) - Wind 2
+0.721 clap 0.698 mel 0.776  850102 @8.71s  [winding key] man dog carillon city-park Zuiderpark s-Hertogenbosch Nether
+0.714 clap 0.664 mel 0.832  619298 @0.58s  [clock winding] Clock (Cuckoo) - Wind 1
+0.712 clap 0.709 mel 0.718  704582 @6.20s  [wall clock] ticking clock.mp3
+0.711 clap 0.674 mel 0.795  136521 @1.11s  [clock winding] winding up an alarm clock.wav
+0.710 clap 0.634 mel 0.886  169111 @0.00s  [pendulum clock] clockwork 03.wav
+0.710 clap 0.669 mel 0.804  692867 @5.26s  [wall clock] seththomas_strike-01.flac
+0.708 clap 0.692 mel 0.746  458592 @2.70s  [grandfather clock] Grandfather Clock Chimes at 30 Minute Mark.aif
+0.707 clap 0.657 mel 0.823  805327 @18.93s  [clock winding] CLOCKMech-Blue Snowball Microphone, CU_Cooking Timer Wind Up
+0.706 clap 0.662 mel 0.809  371784 @3.15s  [wall clock] G4_cuckoo in clock.mp3
+0.703 clap 0.665 mel 0.791  813356 @9.35s  [clock winding] CLOCKMech-Blue Snowball Microphone, MCU_Timer, Winding, Bell
+0.701 clap 0.643 mel 0.837  14633 @11.90s  [clock winding] Seaford1.wav
+0.699 clap 0.633 mel 0.855  169118 @4.21s  [pendulum clock] clockwork 10.wav
+0.699 clap 0.641 mel 0.834  347139 @0.51s  [antique clock] Antique fireplace clock bell one strike
+0.698 clap 0.614 mel 0.895  443470 @6.83s  [wall clock] Clock Whirring.m4a
+0.696 clap 0.637 mel 0.833  180737 @0.00s  [clock winding] alarm_ringing.wav
+0.696 clap 0.657 mel 0.785  27148 @6.38s  [grandfather clock] Grandfather Clock Tick.mp3
+0.696 clap 0.643 mel 0.819  42134 @1.48s  [antique clock] Old Scots Clock - Half Hour.wav
+0.695 clap 0.653 mel 0.793  96715 @0.04s  [wall clock] 2_gustav_becker_westminster_half.wav
+0.695 clap 0.646 mel 0.807  790018 @4.02s  [clock mechanism] Foley_Object_Clock_Old_Ring_Stereo
+0.694 clap 0.626 mel 0.855  646411 @15.98s  [pendulum clock] Antique Clock Ticking then Strikes Once
+0.690 clap 0.640 mel 0.804  805331 @7.99s  [wall clock] CLOCKTick-Blue Snowball Microphone, MCU_Wall_Nicholas Judy_T
+0.689 clap 0.668 mel 0.737  388310 @0.70s  [clock mechanism] Delft chimes 1
+0.688 clap 0.669 mel 0.733  171233 @3.07s  [clock winding] clock / music-box spring mechanism wind-up
+0.688 clap 0.620 mel 0.847  418965 @4.86s  [winding key] Tinkling of Bells or Keys.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap1_clock-mechanism_315753.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap2_grandfather-clock_27150.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap3_clock-winding_27149.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap4_antique-clock_320862.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap5_clock-winding_805328.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap6_grandfather-clock_737681.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap7_grandfather-clock_169116.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap8_grandfather-clock_169117.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap9_wall-clock_331708.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap10_chiming-clock_133772.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap11_chiming-clock_133773.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap12_wall-clock_331704.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap13_pendulum-clock_169122.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap14_clock-winding_819304.mp3
+results/bendigo_clock/ab_clap/AB_bendigo_clap15_clock-winding_96147.mp3
+bendigo: clap_index.py, window 0.28 s, 6 events per clip; clue clues/bendigo/clue_b.wav
