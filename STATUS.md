@@ -1,32 +1,34 @@
-# Session status (31 Oct 2026 morning, after the overnight run) — read this first after a context reset
+# Session status (31 Oct 2026 evening) — read this first after a context reset
 
-Owner rules: see CLAUDE.md (scripts for data collection, never start Fable unless asked, keep MNC and Bendigo separate).
-DrainClamp state: `.agent/` (push it after every DrainClamp write: `tools/dc_push.sh`).
+Owner rules: CLAUDE.md, plus (DC:DECISIONS in .agent/drainclamp-state.md): never start Fable unless asked; keep MNC and
+Bendigo separate; ALL sound downloads only through GitHub workflows (Freesound, BBC, fetch-clips); listening = A/B only
+(clue then a same-length candidate slice, x4, single mp3s, never full recordings, no zips unless asked); push DC state
+after every DrainClamp write (`tools/dc_push.sh`); drop only exact wrong on-air actions, never whole objects.
 
-## Morning summary (overnight 30 Oct, owner asleep)
-**Mid North Coast** — best leads, every A/B pack in `listening/mnc/` (all sent):
-- Keyboard and player push-buttons lead on BOTH scorers (`analysis/mnc/combined_ranking.csv`, `tools/combine_mnc.py`):
-  mechanical-keyboard spacebar / key presses (0.99 combined), a hotel door lock, tape-recorder / tape-deck buttons,
-  CD/DVD trays. Highest single CLAP score: "Key_Old_Recorder" (0.854, wave 2).
-- Sarge's warmest words: "pushing the [button/lock] [down/in]…" (27 Aug "first half almost correct"; 29 Jul toaster
-  button "very close"; 1 Jul tape-player button "very close"; 13 Jul tape-deck buttons "really good words"; 19 Oct
-  mouse switch after batteries "very very close"). His own cassette deck is in storage (15 Jul), so not the deck itself.
-- Sprung lids / doors (wave 4) scored lower (top 0.766): weaker.
-- Packs sent: work zip (v6b and stacked clue), local sets, 100 Fable searches, waves 2-4, combined top 20.
-**Bendigo** — packs in `listening/bendigo/` (all sent):
-- Best score: work-zip "Old Lever Pull" (0.855). A pulled lever with a ratchet fits the long-short metal clicks; a
-  one-armed bandit / slot machine fits "classic / need a hand / old school" and is not on the wrong list. Wave 3
-  (lever / slot machine, 30 searches) ran overnight: `results/bendigo_wave3` on the `results` branch.
-- Other leaders: grandfather-clock winding (0.807), rotary phone dials (0.80), bike wheel / spokes, hand cranks, egg timer.
-- Wave 3 result: coin/vending machines cluster just below the lever (vending.wav 0.854, coin coffee machine 0.834,
-  coin into slot 0.828). Callers hear coins too (jar, collection box, parking meter, self-serve coins all wrong on the
-  station list), so the exact action matters: a vending machine / coin-return / slot-machine lever is not on the list.
-- Fresh Fable (no context): `analysis/bendigo/fable_fresh.md` (spoons, winding an alarm clock, teaspoon in a mug...).
-**Freesound use overnight:** about 330 search requests on the SOUNDMAN key (bot 1 only): fable100 100, wave2 50,
-wave3 30, wave4 35, Bendigo 50 + 30 + 30, plus ~10 name lookups. Downloads do not count.
-**Next:** owner listens to the packs and says which are closest; search around those. Possible: a combined
-CLAP + structure score for Bendigo (no structure scorer yet), and a Freesound run on the top leads with more results
-per search.
+## Where it stands
+**Bendigo (VIC, owner can enter) — call: "Winding up an old wind-up alarm clock"** (`analysis/bendigo/fable_final.md`).
+- Owner's ear: grandfather-clock winding (Freesound 27149) is the closest of everything: "same ratchet cadence, just a
+  differing pitch or resonance". Pitch-shifting it did not help. Everything non-ratchet was way off; library alarm /
+  mantel / cuckoo / toy / timer recordings were not closer (libraries lack clean small-clock winding takes).
+- Fable: same click-pawl ratchet as the clock, smaller damped resonator (2.32/2.55 kHz pair = twin bells), key flips;
+  fits I'm a classic / I need a hand / I'm old school; "clock ticking" is the only clock on the wrong list.
+  Backups: grandfather clock, mantel clock with key, cuckoo clock chain, carriage clock, playing the spoons.
+- Podcast: all 887 Cogho & Jules episodes transcribed (`analysis/bendigo/podcast_hits.md`): nothing about this sound;
+  previous sound won 16 Sep 2026. Page (`node tools/bendigo_page.js`): unchanged, 42 wrong guesses, $750 heading.
+**Mid North Coast (NSW) — call: "Pushing the lever down on a rice cooker"** (`analysis/mnc/fable_final.md`), reasoned,
+  NOT confirmed by ear: two independent Fables chose it (sound = spring lever travel, stop, latch snap in a small
+  plastic/thin-steel housing; Sarge's "pushing the ... down / to turn it on" hints; "cheap and tacky"; never guessed).
+- Owner's ear: only Freesound 641862 "Key_Old_Recorder" sounds close ("not it, but the button mechanism is close";
+  best slice 7.04 s, 0.883). Way off: keyboards, fans (owner's own hunch), disc trays, lids, staplers, switches, latches,
+  clips, camera shutter, binding machines. Library rice cooker / toaster-lever clips: none match (closest
+  Rice_cooker_C 211926). Recorder key has no pack/useful metadata; Freesound "similar sounds" sent (turn-signal stalk,
+  Keurig, bike levers, A/C knob, calculator) — awaiting owner's ear.
+- Fable reports: fable_fresh_step1/2.md, fable_recorder.md, fable_final.md. Backups: toaster lever, SodaStream, bin
+  lid button, push light, VCR play/eject.
+
+## Next
+- Owner's ear on the recorder-similar A/Bs (`listening/mnc/recorder_similar/`); search around anything close.
+- Owner decides whether to call either station with the calls above.
 
 ## Mid North Coast (Sarge's Secret Sound, NSW) — $2,800 on Fri 30 Oct, +$25/weekday (Mon 2 Nov ≈ $2,825)
 - Round started 13 May 2026 at $25 (10 plays that morning). Harvest complete: 105 episodes with plays, 423 plays, 200

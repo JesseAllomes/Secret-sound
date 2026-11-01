@@ -1,4 +1,4 @@
-<!-- drainclamp-build: state; schema=1; generation=21 -->
+<!-- drainclamp-build: state; schema=1; generation=23 -->
 # DrainClamp state
 
 <!-- DC:ARCH -->
@@ -44,11 +44,11 @@
 | id | goal | files | status | deps |
 |---|---|---|---|---|
 | m1 | MNC harvest reaches round start; rebuild evidence package; sync into repo | harvest/mnc/harvest.jsonl;harvest/mnc/package/mnc_evidence.md;STATUS.md | done | |
-| m2 | CLAP sound-matching index: embed clip folders once, cache, rank against a clue (MNC and Bendigo separately) | clap_index.py;tests/test_clap_index.py;requirements.txt;README.md | active | |
-| m3 | import the ~1 GB work zip: fetch from share link, manifest with checksums, index it with m2 | tools/fetch_zip.sh;data_manifests/work_zip.tsv | pending | m2 |
-| m4 | fresh no-context Fable on MNC evidence (only if owner approves) | analysis/mnc/fable_fresh.md | done | m1 |
-| m5 | next refined Freesound/BBC run from m2/m4 leads, A/B for owner | jobs/mnc_next.txt | active | m2 |
-| m6 | Bendigo: fresh Fable analysis, search (Freesound bendigo mode + BBC), CLAP rank 0.28 s window, wrong-list filter, A/B | analysis/bendigo/fable_fresh.md;jobs/bendigo_fable.txt;analysis/bendigo/onair_guesses.json | active | |
+| m2 | CLAP sound-matching index: embed clip folders once, cache, rank against a clue (MNC and Bendigo separately) | clap_index.py;tests/test_clap_index.py;requirements.txt;README.md | done | |
+| m3 | import the ~1 GB work zip: fetch from share link, manifest with checksums, index it with m2 | tools/fetch_zip.py;data_manifests/work_zip.tsv | done | m2 |
+| m4 | fresh no-context Fable on MNC evidence (only if owner approves) | analysis/mnc/fable_fresh_step1.md;analysis/mnc/fable_fresh_step2.md;analysis/mnc/fable_final.md | done | m1 |
+| m5 | MNC search waves from leads, A/B for owner; call: rice cooker lever (unconfirmed) | jobs/mnc_wave6.txt;listening/mnc/recorder_similar | active | m2 |
+| m6 | Bendigo: Fable, searches, podcast transcripts, final call (winding an old wind-up alarm clock) | analysis/bendigo/fable_final.md;analysis/bendigo/podcast_hits.md | done | |
 <!-- /DC:ROADMAP -->
 
 <!-- DC:VERIFY -->
@@ -64,4 +64,5 @@
 - 2026-10-30T14:40:03+00:00 86ce44c1 Overnight: fable steps done; 196 on-air guesses + strict wrong filter; pack 1 sent; Bendigo fresh Fable done, searches running
 - 2026-10-30T17:17:45+00:00 e6f3b7f6 Overnight: MNC waves 2-4 + combined ranking (keyboard/player push-buttons lead); Bendigo work zip + BBC + waves 2-3 (lever pull 0.855); STATUS.md morning summary
 - 2026-10-30T23:06:12+00:00 23e83a71 Final calls: Bendigo 'winding up an old wind-up alarm clock' (Fable final); MNC 'pushing the lever down on a rice cooker' (fresh Fable final, unconfirmed by ear); recorder key explored (no pack, similar sounds sent)
+- 2026-11-01T02:53:10+00:00 a7006f8b Pre-compact: STATUS.md rewritten with both calls, rules and next steps; m2/m3/m4/m6 done, m5 active (owner ear on recorder-similar A/Bs)
 <!-- /DC:LOG -->
